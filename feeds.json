@@ -1,0 +1,97 @@
+{
+  "_note": "แหล่งข่าวทั้งหมด แก้/เพิ่ม/ลบได้ที่ไฟล์นี้ — type: rss (RSS/Atom), hf_papers (Hugging Face Daily Papers API) หรือ hn (Hacker News ผ่าน Algolia, ตั้ง min_points ได้) · limit = จำนวนข่าวสูงสุดต่อรอบจากแหล่งนั้น · exclude_sources = ตัดสำนักข่าวที่ไม่ต้องการออก (ใช้กับฟีด Google News)",
+  "feeds": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "type": "rss",
+      "limit": 10
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "type": "rss",
+      "limit": 10
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/",
+      "type": "rss",
+      "limit": 10
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "type": "rss",
+      "limit": 10
+    },
+    {
+      "name": "Microsoft AI",
+      "url": "https://news.microsoft.com/source/topics/ai/feed/",
+      "type": "rss",
+      "limit": 8
+    },
+    {
+      "name": "NVIDIA",
+      "url": "https://blogs.nvidia.com/feed/",
+      "type": "rss",
+      "limit": 8
+    },
+    {
+      "name": "Anthropic (Google News)",
+      "url": "https://news.google.com/rss/search?q=Anthropic+Claude+when:3d&hl=en-US&gl=US&ceid=US:en",
+      "type": "rss",
+      "limit": 8
+    },
+    {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "type": "rss",
+      "limit": 12
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "type": "rss",
+      "limit": 12
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "type": "rss",
+      "limit": 8
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://hn.algolia.com/api/v1/search?tags=story&query=AI",
+      "type": "hn",
+      "limit": 12,
+      "min_points": 100
+    },
+    {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day",
+      "type": "rss",
+      "limit": 8
+    },
+    {
+      "name": "HF Daily Papers",
+      "url": "https://huggingface.co/api/daily_papers",
+      "type": "hf_papers",
+      "limit": 8
+    },
+    {
+      "name": "Blognone",
+      "url": "https://www.blognone.com/atom.xml",
+      "type": "rss",
+      "limit": 15
+    },
+    {
+      "name": "ข่าว AI ไทย (Google News)",
+      "url": "https://news.google.com/rss/search?q=AI+%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C+when:2d&hl=th&gl=TH&ceid=TH:th",
+      "type": "rss",
+      "limit": 10,
+      "exclude_sources": ["Vietnam.vn"]
+    }
+  ]
+}

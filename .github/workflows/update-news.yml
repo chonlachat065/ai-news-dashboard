@@ -1,0 +1,60 @@
+name: อัปเดตข่าว AI
+
+on:
+  schedule:
+    - cron: "17 */4 * * *"   # ทุก 4 ชม. (เวลา UTC) · นาทีที่ 17 เลี่ยงคิวแน่นช่วงต้นชั่วโมง
+  workflow_dispatch:          # กดรันเองได้ที่แท็บ Actions
+  push:
+    branches: [main]
+    paths: ["site/**", "scripts/**", "feeds.json", ".github/workflows/**"]
+
+permissions:
+  contents: write   # commit site/data/news.json กลับเข้า repo
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ดึงและสรุปข่าว
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: python scripts/fetch_news.py
+
+      - name: บันทึกข้อมูลข่าวลง repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/news.json
+          if git diff --cached --quiet; then
+            echo "ไม่มีข่าวใหม่"
+          else
+            git commit -m "อัปเดตข่าว $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-28T04:11:27+00:00",
- "model": null,
- "digest": null,
+ "updated_at": "2026-10-28T04:14:30+00:00",
+ "model": "gemini-3.1-flash-lite",
+ "digest": {
+  "generated_at": "2026-10-28T04:14:30+00:00",
+  "headline": "ความก้าวหน้าของโมเดล AI ระดับโลกและการขยายตัวของเทคโนโลยีสู่ภาคธุรกิจและภาครัฐ",
+  "points": [
+   {
+    "text": "Google เปิดตัว Genie 4 โมเดลจำลองโลก (World Model) ที่ยกระดับความสมจริงด้วยระบบเสียง ฟิสิกส์ และการโต้ตอบผ่านภาษาธรรมชาติ โดยใช้ Gemini 3.8 Flash เป็นพื้นฐาน",
+    "ids": [
+     "a30b4228516c",
+     "5ef94984dce4",
+     "3513fbe8e952"
+    ]
+   },
+   {
+    "text": "Anthropic เดินหน้าขยายความร่วมมือกับภาครัฐผ่าน GSA และเร่งการประยุกต์ใช้ Claude ในงานวิจัยยา พร้อมเตรียมตัวเข้าสู่ตลาดหลักทรัพย์ (IPO) โดยมี Amazon เป็นผู้ถือหุ้นรายใหญ่",
+    "ids": [
+     "5d9174dd4f1a",
+     "55d127c81982",
+     "1b16f2a2a47a",
+     "01f0d2f05530",
+     "851ab2c12c7c",
+     "3dec6b4cf943"
+    ]
+   },
+   {
+    "text": "LiquidAI เปิดตัวโมเดลขนาดเล็ก LFM3 สำหรับรันบนอุปกรณ์พกพาและงานเอเจนต์ พร้อมรองรับการใช้งานผ่าน WebGPU เพื่อเพิ่มประสิทธิภาพการประมวลผลแบบออฟไลน์",
+    "ids": [
+     "7ac9304a8f42",
+     "94bd09c7b9e0",
+     "db98bf59a6c7"
+    ]
+   },
+   {
+    "text": "ประเด็นความปลอดภัยและจริยธรรม AI ยังคงเป็นที่จับตามอง ทั้งกรณีการฟ้องร้อง OpenAI เรื่องคำแนะนำทางการแพทย์ที่ผิดพลาด และความกังวลด้านความปลอดภัยของโมเดลโอเพนซอร์สจากจีน",
+    "ids": [
+     "a2f907c053da",
+     "23ea747cd926",
+     "ba3cece69efb"
+    ]
+   },
+   {
+    "text": "อุตสาหกรรมชิปและโครงสร้างพื้นฐาน AI เติบโตอย่างต่อเนื่อง โดย SK Hynix ทำรายได้สูงสุดจากความต้องการ HBM4 ในขณะที่บริษัทเทคโนโลยีรายใหญ่อย่าง Amazon และ Apple กำลังปรับกลยุทธ์การใช้งาน AI ในองค์กร",
+    "ids": [
+     "9b367299b78a",
+     "0d516a24ee36",
+     "a3a879144b29",
+     "a044912b52ff",
+     "8cc6860df974"
+    ]
+   }
+  ]
+ },
  "sources": [
   {
    "name": "OpenAI",
@@ -94,7 +144,20 @@
    "error": null
   }
  ],
- "skipped_ids": [],
+ "skipped_ids": [
+  "65b6d17615a6",
+  "7e9585f09c37",
+  "d8c87d0b4457",
+  "d455b0c57495",
+  "2954e14c3d0f",
+  "07281666d13c",
+  "bb124f9e261c",
+  "3f5bc6113c36",
+  "a1679112c9d8",
+  "fcfc78b0e7a0",
+  "eea736d7e34a",
+  "cbcaddb85539"
+ ],
  "items": [
   {
    "id": "55d127c81982",
@@ -103,12 +166,15 @@
    "published": "2026-10-28T01:16:46+00:00",
    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
    "text": "",
-   "title_th": "Expanding our partnership with GSA to bring Claude to all levels of government",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Anthropic ขยายความร่วมมือกับ GSA นำ Claude ไปใช้ในหน่วยงานรัฐทุกระดับ",
+   "summary_th": "Anthropic ประกาศขยายความร่วมมือกับ GSA เพื่อให้หน่วยงานภาครัฐทุกระดับสามารถเข้าถึงและใช้งาน Claude ได้อย่างกว้างขวางขึ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "GSA"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "1b16f2a2a47a",
@@ -117,12 +183,15 @@
    "published": "2026-10-28T01:15:28+00:00",
    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
    "text": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-   "title_th": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-   "summary_th": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "เผยสัดส่วนการถือหุ้นของ Amazon ใน Anthropic ก่อนการทำ IPO",
+   "summary_th": "การแปลงหุ้นของ Anthropic เผยให้เห็นว่า Amazon ถือครองสัดส่วนหุ้นในบริษัทอย่างมีนัยสำคัญ ซึ่งจะได้รับผลประโยชน์มหาศาลจากการทำ IPO ของ Anthropic",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Amazon"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "2836f05afa7b",
@@ -131,12 +200,14 @@
    "published": "2026-10-28T00:54:28+00:00",
    "title": "Anthropic Expands Integrations With Claude for Financial Advisors",
    "text": "",
-   "title_th": "Anthropic Expands Integrations With Claude for Financial Advisors",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Anthropic เพิ่มการเชื่อมต่อ Claude สำหรับที่ปรึกษาทางการเงิน",
+   "summary_th": "Anthropic ขยายขีดความสามารถของ Claude ด้วยการเพิ่มการเชื่อมต่อใหม่ๆ เพื่อสนับสนุนการทำงานของที่ปรึกษาทางการเงินโดยเฉพาะ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "0946eb0301be",
@@ -145,12 +216,14 @@
    "published": "2026-10-28T00:52:11+00:00",
    "title": "Anthropic | History, Controversies, & Claude AI",
    "text": "",
-   "title_th": "Anthropic | History, Controversies, & Claude AI",
-   "summary_th": "",
+   "title_th": "สรุปประวัติและข้อถกเถียงเกี่ยวกับ Anthropic และ Claude AI",
+   "summary_th": "บทความสรุปภาพรวมความเป็นมาและประเด็นถกเถียงต่างๆ ที่เกี่ยวข้องกับบริษัท Anthropic และโมเดล AI อย่าง Claude",
    "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 1,
+   "ai": true
   },
   {
    "id": "9b367299b78a",
@@ -159,12 +232,14 @@
    "published": "2026-10-28T00:44:05+00:00",
    "title": "SK Hynix ไตรมาส 3/2026 ทำสถิติสูงสุดตามคาด รายได้รวมทะลุ 1 แสนล้านล้านวอน",
    "text": "Body SK Hynix รายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้และกำไรยังคงทำสถิติสูงสุดอีกไตรมาส รายได้รวม 104.6 ล้านล้านวอน เพิ่มขึ้น 32% จาก ไตรมาสก่อนหน้านี้ กำไรจากการดำเนินงานเพิ่มขึ้น 38% เป็น 83.3 ล้านล้านวอน คิดเป็นอัตรากำไรจากการดำเนินงาน 80% และมีกำไรสุทธิ 39.8 ล้านล้านวอน SK Hynix ประเมินแนวโน้มในไตรมาสที่ 4 ว่าหน่วยความจำแบนด์วิธสูงรุ่นใหม่ HBM4 จะเข้ามาเป็นสินค้าหลักแทนที่ HBM3E ส่วนคำสั่งซื้อล่วงหน้าระยะยาวจากลูกค้ารายใหญ่ 14 ราย ครอบคลุมไปมากกว่าครึ่งหนึ่งของกำลังการผลิตปี 2027-2028 แล้ว ขณะที่ภาพรวมความต้อง",
-   "title_th": "SK Hynix ไตรมาส 3/2026 ทำสถิติสูงสุดตามคาด รายได้รวมทะลุ 1 แสนล้านล้านวอน",
-   "summary_th": "Body SK Hynix รายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้และกำไรยังคงทำสถิติสูงสุดอีกไตรมาส รายได้รวม 104.6 ล้านล้านวอน เพิ่มขึ้น 32% จาก ไตรมาสก่อนหน้านี้ กำไรจากการดำเนินงานเพิ่มขึ้น 38% เป็น 83.3 ล้านล้านวอน คิดเป็นอัตรากำไรจากการดำเน",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "SK Hynix เผยรายได้ไตรมาส 3/2026 ทำสถิติสูงสุด พร้อมมุ่งเน้น HBM4",
+   "summary_th": "SK Hynix รายงานผลประกอบการที่เติบโตอย่างแข็งแกร่ง โดยเตรียมผลักดัน HBM4 ให้เป็นสินค้าหลักแทนที่ HBM3E พร้อมรับคำสั่งซื้อล่วงหน้าจำนวนมาก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "SK Hynix"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "0e043503e602",
@@ -173,26 +248,14 @@
    "published": "2026-10-28T00:21:03+00:00",
    "title": "Anthropic brings fundraising, hiring and AI governance tools to Claude for Nonprofits",
    "text": "",
-   "title_th": "Anthropic brings fundraising, hiring and AI governance tools to Claude for Nonprofits",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "65b6d17615a6",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZFhoT01vUS0xMkZxNDlBekRRVnNqQTd0bldnajVJYzMwZ0U3VnpzVDF5bWh3MzNra1BHTHptQ2FCc1FxYmZGcnRQZU96MF9USXpxeDhBQzdPV0JIaVFhdDh0WlNzbHpLRWxxMGM4S3IxRmhnVE15d0xXODF5X2dxT1RNUVNVcW5wY0ZKNHVUcDhoczVZdHRJN09sYkNidlgybV9pWml6MA?oc=5",
-   "source": "Business Insider",
-   "published": "2026-10-28T00:20:41+00:00",
-   "title": "The Curious Case of Sam Bankman-Fried's Friends' Anthropic Shares",
-   "text": "",
-   "title_th": "The Curious Case of Sam Bankman-Fried's Friends' Anthropic Shares",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Anthropic เปิดตัวเครื่องมือช่วยองค์กรไม่แสวงหากำไรบน Claude",
+   "summary_th": "Anthropic นำเสนอเครื่องมือใหม่สำหรับองค์กรไม่แสวงหากำไรบนแพลตฟอร์ม Claude เพื่อช่วยในด้านการระดมทุน การจ้างงาน และการกำกับดูแล AI",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "01f0d2f05530",
@@ -201,12 +264,14 @@
    "published": "2026-10-27T23:52:25+00:00",
    "title": "Anthropic says Claude generated 35,000 designs in allergy drug research",
    "text": "",
-   "title_th": "Anthropic says Claude generated 35,000 designs in allergy drug research",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Claude ช่วยวิจัยยาแก้แพ้ด้วยการสร้างแบบจำลองกว่า 35,000 รูปแบบ",
+   "summary_th": "Anthropic ระบุว่า Claude มีบทบาทสำคัญในการช่วยวิจัยยาแก้แพ้ โดยสามารถสร้างแบบจำลองการวิจัยได้ถึง 35,000 รูปแบบ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "a2f907c053da",
@@ -215,12 +280,14 @@
    "published": "2026-10-27T23:34:27+00:00",
    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
    "text": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-   "title_th": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-   "summary_th": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "ผู้ปกครองฟ้อง OpenAI หลังลูกสาวหยุดยาชักตามคำแนะนำของ ChatGPT",
+   "summary_th": "ครอบครัวหนึ่งยื่นฟ้อง OpenAI โดยอ้างว่า ChatGPT แนะนำให้ลูกสาวหยุดใช้ยาควบคุมอาการชักโดยไม่ปรึกษาแพทย์ ซึ่งนำไปสู่เหตุการณ์เสียชีวิต",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true
   },
   {
    "id": "a81d0c1c06b0",
@@ -229,12 +296,12 @@
    "published": "2026-10-27T22:55:41+00:00",
    "title": "The data center boom has an upside: innovation for the US grid",
    "text": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-   "title_th": "The data center boom has an upside: innovation for the US grid",
-   "summary_th": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+   "title_th": "ความต้องการใช้พลังงานจากศูนย์ข้อมูล AI กระตุ้นการพัฒนาระบบโครงข่ายไฟฟ้า",
+   "summary_th": "การเติบโตของศูนย์ข้อมูล AI สร้างแรงกดดันต่อโครงข่ายไฟฟ้า แต่ในขณะเดียวกันก็นำไปสู่โอกาสใหม่ๆ ในการปรับปรุงและพัฒนาระบบโครงข่ายไฟฟ้าให้ทันสมัยขึ้น",
    "category": "อื่นๆ",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "2d38b9609613",
@@ -243,12 +310,15 @@
    "published": "2026-10-27T21:58:48+00:00",
    "title": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
    "text": "",
-   "title_th": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "GSA ขยายข้อตกลง OneGov ร่วมกับ Anthropic พร้อมส่วนลดพิเศษ",
+   "summary_th": "GSA ขยายความร่วมมือในข้อตกลง OneGov กับ Anthropic เพื่อให้หน่วยงานรัฐเข้าถึงบริการ AI ได้ในราคาที่คุ้มค่าขึ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "GSA"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "7afb98bf1433",
@@ -257,12 +327,14 @@
    "published": "2026-10-27T21:44:34+00:00",
    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
    "text": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-   "title_th": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-   "summary_th": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Bank of America เตือนลูกค้าอย่าแชร์รหัสผ่านธนาคารกับ AI Assistant",
+   "summary_th": "ธนาคารยักษ์ใหญ่เตือนลูกค้าให้ระมัดระวังเรื่องความปลอดภัย โดยย้ำว่าผู้ใช้งานต้องรับผิดชอบต่อกิจกรรมที่เกิดขึ้นจากการที่ AI เข้าถึงข้อมูลส่วนตัว",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Bank of America"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "e4dbba9a243c",
@@ -271,12 +343,14 @@
    "published": "2026-10-27T21:38:28+00:00",
    "title": "Who’s really in charge at Anthropic after the IPO?",
    "text": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-   "title_th": "Who’s really in charge at Anthropic after the IPO?",
-   "summary_th": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "เจาะลึกโครงสร้างการกำกับดูแลของ Anthropic หลังการทำ IPO",
+   "summary_th": "บทความอธิบายโครงสร้างการกำกับดูแลที่ซับซ้อนของ Anthropic เพื่อให้เข้าใจว่าใครเป็นผู้มีอำนาจตัดสินใจหลักในบริษัทหลังจากเข้าสู่ตลาดหลักทรัพย์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "ba3cece69efb",
@@ -285,12 +359,14 @@
    "published": "2026-10-27T20:51:04+00:00",
    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
    "text": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]",
-   "title_th": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-   "summary_th": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, research",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "นักวิจัยเริ่มไม่พอใจ OpenAI ที่ปิดกั้นข้อมูลความก้าวหน้าทางเทคโนโลยี",
+   "summary_th": "นักวิจัยในวงการแสดงความไม่พอใจต่อแนวทางการสื่อสารของ OpenAI แม้บริษัทจะประกาศความสำเร็จด้านคณิตศาสตร์และฟิสิกส์ แต่ยังคงถูกวิจารณ์เรื่องการจำกัดการเข้าถึงข้อมูล",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "851ab2c12c7c",
@@ -299,26 +375,14 @@
    "published": "2026-10-27T20:20:53+00:00",
    "title": "Early progress on accelerating drug development with Claude",
    "text": "",
-   "title_th": "Early progress on accelerating drug development with Claude",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "7e9585f09c37",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-27T20:17:21+00:00",
-   "title": "The reason why 5090's are $10k now...",
-   "text": "submitted by /u/Different_Fix_2217 [link] [comments]",
-   "title_th": "The reason why 5090's are $10k now...",
-   "summary_th": "submitted by /u/Different_Fix_2217 [link] [comments]",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Anthropic เผยความคืบหน้าการใช้ Claude เร่งกระบวนการพัฒนายา",
+   "summary_th": "Anthropic รายงานความคืบหน้าในการนำ Claude มาประยุกต์ใช้เพื่อเพิ่มความเร็วและประสิทธิภาพในกระบวนการวิจัยและพัฒนายา",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "62b1fcdba263",
@@ -327,12 +391,12 @@
    "published": "2026-10-27T19:55:06+00:00",
    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
    "text": "204 points, 107 comments on Hacker News (https://news.ycombinator.com/item?id=50264853)",
-   "title_th": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "summary_th": "204 points, 107 comments on Hacker News (https://news.ycombinator.com/item?id=50264853)",
-   "category": "อื่นๆ",
+   "title_th": "Survival LLM: ผู้ช่วย AI และคลังข้อมูลฉุกเฉินที่รันบนเครื่องของคุณเอง",
+   "summary_th": "Survival LLM เป็นเครื่องมือ AI ที่ออกแบบมาให้ทำงานแบบออฟไลน์บนคอมพิวเตอร์ส่วนบุคคล เพื่อใช้เป็นผู้ช่วยและแหล่งข้อมูลในสถานการณ์ฉุกเฉิน",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "8cc6860df974",
@@ -341,12 +405,12 @@
    "published": "2026-10-27T19:09:01+00:00",
    "title": "วิกฤติเงียบ เมื่อ 'พลังงานสะอาด-AI' แย่งทรัพยากรพื้นฐานของโลก",
    "text": "",
-   "title_th": "วิกฤติเงียบ เมื่อ 'พลังงานสะอาด-AI' แย่งทรัพยากรพื้นฐานของโลก",
-   "summary_th": "",
+   "title_th": "วิกฤติเงียบ เมื่อพลังงานสะอาดและ AI แย่งทรัพยากรพื้นฐานของโลก",
+   "summary_th": "บทความวิเคราะห์ถึงความท้าทายในการจัดสรรทรัพยากรพลังงานที่เพิ่มขึ้นอย่างรวดเร็วจากการใช้งาน AI ซึ่งส่งผลกระทบต่อความมั่นคงทางพลังงานในระดับโลก",
    "category": "อื่นๆ",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "195cb6337f5e",
@@ -355,12 +419,16 @@
    "published": "2026-10-27T18:55:35+00:00",
    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
    "text": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-   "title_th": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-   "summary_th": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Disruptive ระดมทุน 1 หมื่นล้านดอลลาร์เพื่อลงทุนในบริษัท AI",
+   "summary_th": "บริษัท Disruptive จัดตั้งกองทุนขนาดใหญ่เพื่อลงทุนในบริษัทเทคโนโลยีและ AI อย่างน้อย 10 แห่ง โดยเน้นไปที่สตาร์ทอัพด้านชิปและ AI เสียง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Disruptive",
+    "Groq",
+    "ElevenLabs"
+   ],
+   "importance": 4,
+   "ai": true
   },
   {
    "id": "3dec6b4cf943",
@@ -369,12 +437,14 @@
    "published": "2026-10-27T18:49:46+00:00",
    "title": "Meet Claude Duet, the latest AI agent intended to lighten your workload",
    "text": "",
-   "title_th": "Meet Claude Duet, the latest AI agent intended to lighten your workload",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "เปิดตัว Claude Duet เอเจนต์ AI ตัวใหม่ช่วยลดภาระงาน",
+   "summary_th": "มีการเปิดตัว Claude Duet ซึ่งเป็น AI เอเจนต์ที่ออกแบบมาเพื่อช่วยแบ่งเบาภาระงานของผู้ใช้งานให้มีประสิทธิภาพมากขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "94bd09c7b9e0",
@@ -383,26 +453,14 @@
    "published": "2026-10-27T18:33:10+00:00",
    "title": "Real-time video captioning with LFM3-VL-2B running locally in-browser on WebGPU",
    "text": "Collection on HF: https://huggingface.co/collections/LiquidAI/lfm3 WebGPU demo: https://huggingface.co/spaces/webml-community/LFM3-VL-2B-WebGPU submitted by /u/xenovatech [link] [comments]",
-   "title_th": "Real-time video captioning with LFM3-VL-2B running locally in-browser on WebGPU",
-   "summary_th": "Collection on HF: https://huggingface.co/collections/LiquidAI/lfm3 WebGPU demo: https://huggingface.co/spaces/webml-community/LFM3-VL-2B-WebGPU submitted by /u/xenovatech [link] [comments]",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "d8c87d0b4457",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-   "source": "The Verge AI",
-   "published": "2026-10-27T17:31:36+00:00",
-   "title": "VisionQuest is what happens when AI really goes rogue",
-   "text": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]",
-   "title_th": "VisionQuest is what happens when AI really goes rogue",
-   "summary_th": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fan",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "การทำคำบรรยายวิดีโอแบบเรียลไทม์ด้วย LFM3-VL-2B บน WebGPU",
+   "summary_th": "นักพัฒนาสาธิตการรันโมเดล LFM3-VL-2B บนเบราว์เซอร์ผ่าน WebGPU เพื่อทำคำบรรยายวิดีโอแบบเรียลไทม์โดยไม่ต้องพึ่งพาเซิร์ฟเวอร์",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "LiquidAI"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "db98bf59a6c7",
@@ -411,12 +469,15 @@
    "published": "2026-10-27T17:16:52+00:00",
    "title": "Build specialized multimodal models with LFM3",
    "text": "",
-   "title_th": "Build specialized multimodal models with LFM3",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "สร้างโมเดล Multimodal เฉพาะทางด้วย LFM3",
+   "summary_th": "Hugging Face แนะนำการใช้งานโมเดล LFM3 เพื่อสร้างและปรับแต่งโมเดลแบบหลายรูปแบบ (Multimodal) สำหรับงานเฉพาะทาง",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Hugging Face",
+    "LiquidAI"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "8a93bec2dc7c",
@@ -425,26 +486,15 @@
    "published": "2026-10-27T17:08:08+00:00",
    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
    "text": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-   "title_th": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-   "summary_th": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "d455b0c57495",
-   "url": "https://www.blognone.com/node/152039",
-   "source": "Blognone",
-   "published": "2026-10-27T17:05:46+00:00",
-   "title": "Cloudflare ขอลองของ เปิดเว็บ Apache + mod_php พร้อมช่องโหว่ PHP2Shell ให้ทดลองเจาะ แต่อยู่หลัง Cloudflare WAF",
-   "text": "Body หลังจากช่องโหว่ PHP2Shell ถูกเปิดเผยออกมา ก็มีความพยายามทดสอบว่าช่องโหว่นี้ร้ายแรงเพียงใด และสมกับที่หลายประเทศปิดเว็บบริการจำนวนมากเพื่อรับมือหรือไม่ ก่อนหน้านี้มีการทดสอบกับ PHP FPM ไปก่อนแล้ว และวันนี้ทาง Cloudflare ก็ประกาศทดสอบกับ WAF ของตัวเอง โดยเอา WAF มาบังเว็บที่สร้างด้วย Apache + mod_php ที่รัน PHP 8.5.11 รุ่นมาตรฐานพร้อมส่วนขยายมาตรฐาน แนวทางของ Cloudflare คล้ายกับการทดสอบก่อนหน้านี้ โดย Cloudflare จะซ่อนไฟล์ flag เอาไว้ หากสามารถควบคุม PHP จนเข้าไปอ่านไฟล์ได้ก็จะสามาร",
-   "title_th": "Cloudflare ขอลองของ เปิดเว็บ Apache + mod_php พร้อมช่องโหว่ PHP2Shell ให้ทดลองเจาะ แต่อยู่หลัง Cloudflare WAF",
-   "summary_th": "Body หลังจากช่องโหว่ PHP2Shell ถูกเปิดเผยออกมา ก็มีความพยายามทดสอบว่าช่องโหว่นี้ร้ายแรงเพียงใด และสมกับที่หลายประเทศปิดเว็บบริการจำนวนมากเพื่อรับมือหรือไม่ ก่อนหน้านี้มีการทดสอบกับ PHP FPM ไปก่อนแล้ว และวันนี้ทาง Cloudflare ก็ประกาศทดสอบกับ",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "ห้องแล็บ AI ชั้นนำอ้างว่าโมเดลของตนหักล้าง Exponential Time Hypothesis",
+   "summary_th": "นักวิจัยจาก MIT อธิบายถึงการค้นพบใหม่ของ OpenAI เกี่ยวกับการหักล้างสมมติฐานทางวิทยาการคอมพิวเตอร์ผ่านการพัฒนาโมเดล AI",
+   "category": "งานวิจัย",
+   "companies": [
+    "OpenAI",
+    "MIT"
+   ],
+   "importance": 4,
+   "ai": true
   },
   {
    "id": "5d9174dd4f1a",
@@ -453,12 +503,14 @@
    "published": "2026-10-27T17:04:30+00:00",
    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
    "text": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]",
-   "title_th": "Anthropic’s elaborate plan to keep Wall Street at bay",
-   "summary_th": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But grea",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "แผนการของ Anthropic ในการรักษาสมดุลระหว่างการ IPO และความปลอดภัย AI",
+   "summary_th": "Anthropic กำลังเตรียมตัวเข้าสู่ตลาดหลักทรัพย์ (IPO) โดยพยายามรักษาสมดุลระหว่างการสร้างผลกำไรให้ผู้ถือหุ้นและการรักษาพันธกิจด้านความปลอดภัยของ AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true
   },
   {
    "id": "7ac9304a8f42",
@@ -467,26 +519,14 @@
    "published": "2026-10-27T17:04:16+00:00",
    "title": "LiquidAI/LFM3-1.7B · Hugging Face",
    "text": "https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF from liquidAI: LFM3-1.7B is a text model for local agents and specialized applications , based on our new tri-hybrid architecture. Agentic training: post-trained for agentic harnesses such as Hermes Agent, Pi, and OpenClaw, with a 256K-token context window. Designed for the edge: at 4-bit precision, it takes about 1 GB of memory, so it fits on any phone or laptop. Made to be specialized: adapt the model to your domains, formats, and tools via quick single-GPU fine-tuning. Find more information about the LFM3 family in our release blog post . Model",
-   "title_th": "LiquidAI/LFM3-1.7B · Hugging Face",
-   "summary_th": "https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF from liquidAI: LFM3-1.7B is a text model for local agents and specialized applications , based on our new tri-hybrid architecture. Agentic training: post-trained for agentic harnesses such as H",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "2954e14c3d0f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy5ic/i_am_a_king_but_local/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-27T17:01:06+00:00",
-   "title": "I am a King, but local 😂",
-   "text": "I am feeling like a mighty local King spinning two Strata engines with 70tps each whole day and using 12M tokens a day. Also me scrolling twitter and stumbling upon a post saying that poteto uses 34M tokens per minute 🤪 Upd: Guys are interested who is she and what she is doing with all these tokens. Poteto is her twitter nickname and she worked in Cursor before XAI has acquired them and now she is shipping 2,500 PRs per month to Cursor and GrokBot. submitted by /u/perelmanych [link] [comments]",
-   "title_th": "I am a King, but local 😂",
-   "summary_th": "I am feeling like a mighty local King spinning two Strata engines with 70tps each whole day and using 12M tokens a day. Also me scrolling twitter and stumbling upon a post saying that poteto uses 34M tokens per minute 🤪 Upd: Guys are intere",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "เปิดตัว LiquidAI LFM3-1.7B โมเดลขนาดเล็กสำหรับงานเอเจนต์",
+   "summary_th": "LiquidAI เปิดตัวโมเดล LFM3-1.7B ที่ใช้สถาปัตยกรรม tri-hybrid ออกแบบมาเพื่อรันบนอุปกรณ์พกพาและรองรับงานด้านเอเจนต์ด้วย context window ขนาดใหญ่",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "LiquidAI"
+   ],
+   "importance": 4,
+   "ai": true
   },
   {
    "id": "099c4912233a",
@@ -495,12 +535,12 @@
    "published": "2026-10-27T16:40:15+00:00",
    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
    "text": "345 points, 277 comments on Hacker News (https://news.ycombinator.com/item?id=50261819)",
-   "title_th": "Police are using AI to pull over drivers for 'suspicious' behavior",
-   "summary_th": "345 points, 277 comments on Hacker News (https://news.ycombinator.com/item?id=50261819)",
-   "category": "อื่นๆ",
+   "title_th": "ตำรวจเริ่มใช้ AI ตรวจจับพฤติกรรมขับขี่ที่น่าสงสัย",
+   "summary_th": "มีการรายงานว่าเจ้าหน้าที่ตำรวจนำเทคโนโลยี AI มาใช้ในการวิเคราะห์และตรวจจับพฤติกรรมการขับขี่ที่เข้าข่ายน่าสงสัยบนท้องถนน",
+   "category": "นโยบาย/กฎหมาย",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "a30b4228516c",
@@ -509,26 +549,14 @@
    "published": "2026-10-27T16:30:57+00:00",
    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
    "text": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-   "title_th": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-   "summary_th": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "07281666d13c",
-   "url": "https://cfsg.axiommath.ai/",
-   "source": "Hacker News",
-   "published": "2026-10-27T16:29:02+00:00",
-   "title": "Classification of Finite Simple Groups Formalized in Lean",
-   "text": "176 points, 44 comments on Hacker News (https://news.ycombinator.com/item?id=50261647)",
-   "title_th": "Classification of Finite Simple Groups Formalized in Lean",
-   "summary_th": "176 points, 44 comments on Hacker News (https://news.ycombinator.com/item?id=50261647)",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Google อัปเดต Genie 4 เพิ่มระบบเสียงและฟิสิกส์ที่สมจริง",
+   "summary_th": "Google เปิดตัว Genie 4 ซึ่งเป็นโมเดลโลก (World Model) ที่ปรับปรุงความสามารถในการสร้างฉากที่ต่อเนื่องยาวนานขึ้น พร้อมเพิ่มระบบเสียงและฟิสิกส์ที่สมจริง",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Google"
+   ],
+   "importance": 5,
+   "ai": true
   },
   {
    "id": "a044912b52ff",
@@ -537,12 +565,14 @@
    "published": "2026-10-27T16:25:30+00:00",
    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
    "text": "280 points, 197 comments on Hacker News (https://news.ycombinator.com/item?id=50261589)",
-   "title_th": "Amazon Is Gutting Its AI Division After Sustained Failure",
-   "summary_th": "280 points, 197 comments on Hacker News (https://news.ycombinator.com/item?id=50261589)",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Amazon ปรับโครงสร้างแผนก AI หลังผลงานไม่เป็นไปตามเป้า",
+   "summary_th": "Amazon กำลังปรับลดขนาดและปรับโครงสร้างแผนก AI ของบริษัท หลังจากเผชิญกับความล้มเหลวในการดำเนินงานอย่างต่อเนื่อง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Amazon"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "abb96e9fdd6f",
@@ -551,12 +581,14 @@
    "published": "2026-10-27T16:14:18+00:00",
    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
    "text": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You […]",
-   "title_th": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-   "summary_th": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Firefox อัปเดต Smart Window เพิ่มฟีเจอร์กรอกฟอร์มด้วย AI",
+   "summary_th": "Mozilla อัปเดตฟีเจอร์ Smart Window ในเบราว์เซอร์ Firefox ให้สามารถดึงข้อมูลจากแท็บที่เปิดอยู่มาช่วยกรอกแบบฟอร์มออนไลน์ได้โดยอัตโนมัติ ช่วยเพิ่มความสะดวกในการทำงาน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Mozilla"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "34370e88c88d",
@@ -565,12 +597,14 @@
    "published": "2026-10-27T16:12:42+00:00",
    "title": "Can we trust LLMs to judge whether a research idea is novel?",
    "text": "",
-   "title_th": "Can we trust LLMs to judge whether a research idea is novel?",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "เราสามารถเชื่อใจ LLMs ในการตัดสินความแปลกใหม่ของงานวิจัยได้หรือไม่?",
+   "summary_th": "บทความตั้งคำถามถึงความน่าเชื่อถือของโมเดลภาษาขนาดใหญ่ (LLM) ในการประเมินความแปลกใหม่ของแนวคิดงานวิจัยทางวิชาการ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Hugging Face"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "5ef94984dce4",
@@ -579,12 +613,15 @@
    "published": "2026-10-27T16:01:38+00:00",
    "title": "Genie 4: A new generation of world simulation",
    "text": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-   "title_th": "Genie 4: A new generation of world simulation",
-   "summary_th": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Google DeepMind เปิดตัว Genie 4 โมเดลจำลองโลกยุคใหม่",
+   "summary_th": "Google DeepMind เผยโฉม Genie 4 โมเดลจำลองโลกที่ยกระดับความสมจริงในการจำลองสถานการณ์แบบเรียลไทม์",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Google",
+    "DeepMind"
+   ],
+   "importance": 5,
+   "ai": true
   },
   {
    "id": "4f6eb45509cb",
@@ -593,12 +630,14 @@
    "published": "2026-10-27T15:22:35+00:00",
    "title": "iMac อัปเกรดรุ่นใหม่เป็นชิป M6 ประสิทธิภาพมากขึ้น ใช้ดีไซน์เดิม",
    "text": "Body แอปเปิลอัปเกรด iMac ใหม่ เป็นชิป M6 เพิ่มประสิทธิภาพการประมวลผลด้วย ซีพียูสูงสุด 12 คอร์, จีพียูสูงสุด 12 คอร์ และ Neural Engine 16 คอร์คู่ สำหรับการประมวลผล AI ที่เร็วขึ้น 2 เท่า จากรุ่นก่อนหน้านี้ แบนด์วิธหน่วยความจำรวมสูงสุด 170GB/s การเชื่อมต่ออัปเกรดเป็น Wi-Fi 7, Bluetooth 6 และ Ethernet 2.5Gb การออกแบบภายนอกเหมือนเดิม หน้าจอ 24 นิ้ว 4.5K Retina Display, กล้องหน้า Center Stage 12MP และรองรับการถ่ายภาพมุมมองด้านบนโต๊ะ, พอร์ต Thunderbolt 4 สูงสุด 4 พอร์ต รองรับการต่อจอเพิ่มสูงสุด 6K สองจอ iMac มีตัวเลือก 7 สีเหมือนเดิม ราค",
-   "title_th": "iMac อัปเกรดรุ่นใหม่เป็นชิป M6 ประสิทธิภาพมากขึ้น ใช้ดีไซน์เดิม",
-   "summary_th": "Body แอปเปิลอัปเกรด iMac ใหม่ เป็นชิป M6 เพิ่มประสิทธิภาพการประมวลผลด้วย ซีพียูสูงสุด 12 คอร์, จีพียูสูงสุด 12 คอร์ และ Neural Engine 16 คอร์คู่ สำหรับการประมวลผล AI ที่เร็วขึ้น 2 เท่า จากรุ่นก่อนหน้านี้ แบนด์วิธหน่วยความจำรวมสูงสุด 170GB/s",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Apple อัปเกรด iMac ใหม่ด้วยชิป M6 เพิ่มประสิทธิภาพ AI",
+   "summary_th": "Apple เปิดตัว iMac รุ่นใหม่ที่มาพร้อมชิป M6 ซึ่งมีการปรับปรุง Neural Engine ให้ประมวลผลงานด้าน AI ได้เร็วขึ้นกว่ารุ่นก่อนหน้าถึง 2 เท่า",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "a10a8c4a17e1",
@@ -607,12 +646,14 @@
    "published": "2026-10-27T15:21:20+00:00",
    "title": "Apple อัปเดต MacBook Pro 14 นิ้ว ชิป M6",
    "text": "Body แอปเปิลอัปเดต MacBook Pro รุ่นจอ 14 นิ้ว ใหม่ ได้ชิป M6 ซึ่งบอกว่าการประมวลผลกราฟิกเร็วขึ้น 30%, ประมวลผล AI เร็วขึ้น 25% เมื่อเทียบกับ MacBook Pro M5 ของปีที่แล้ว ชิป M6 ที่ได้เป็นแบบซีพียู 12 คอร์, จีพียู 12 คอร์ และ Neural Engine 16 คอร์คู่ ข้อมูลสเป็กฮาร์ดแวร์อื่นมีดังนี้ แบตเตอรี่ใช้งานต่อเนื่องสูงสุด 24 ชั่วโมง หน่วยความจำรวมแบนด์วิธสูงสุด 170GB/s (เฉพาะ 24GB และ 32GB) หน้าจอ Liquid Retina XDR ความสว่างสูงสุด 1600 nits และ contrast ratio ที่ 1,000,000:1 มีตัวหน้าจอเคลือบผิวนาโน การเชื่อมต่อ Wi-Fi 7 และ Bluetooth 6 การเชื่อมต่อจอภายนอกรองรับสูง",
-   "title_th": "Apple อัปเดต MacBook Pro 14 นิ้ว ชิป M6",
-   "summary_th": "Body แอปเปิลอัปเดต MacBook Pro รุ่นจอ 14 นิ้ว ใหม่ ได้ชิป M6 ซึ่งบอกว่าการประมวลผลกราฟิกเร็วขึ้น 30%, ประมวลผล AI เร็วขึ้น 25% เมื่อเทียบกับ MacBook Pro M5 ของปีที่แล้ว ชิป M6 ที่ได้เป็นแบบซีพียู 12 คอร์, จีพียู 12 คอร์ และ Neural Engine 16",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Apple อัปเดต MacBook Pro 14 นิ้ว ด้วยชิป M6",
+   "summary_th": "Apple อัปเดต MacBook Pro รุ่น 14 นิ้ว โดยใช้ชิป M6 ที่เพิ่มความเร็วในการประมวลผล AI ขึ้น 25% เมื่อเทียบกับรุ่นก่อนหน้า",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "3513fbe8e952",
@@ -621,12 +662,14 @@
    "published": "2026-10-27T15:07:35+00:00",
    "title": "Google’s next Genie AI model generates more realistic experiences",
    "text": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]",
-   "title_th": "Google’s next Genie AI model generates more realistic experiences",
-   "summary_th": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natur",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Google เปิดตัว Genie 4 โมเดล AI สร้างประสบการณ์สมจริง",
+   "summary_th": "Google เปิดตัว Genie 4 ซึ่งเป็นโมเดลสร้างประสบการณ์แบบโต้ตอบที่รองรับการสร้างเสียงและปรับแต่งโลกจำลองผ่านคำสั่งภาษาธรรมชาติ โดยใช้ Gemini 3.8 Flash เป็นพื้นฐาน",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Google"
+   ],
+   "importance": 5,
+   "ai": true
   },
   {
    "id": "4a299d1e9f3d",
@@ -635,12 +678,14 @@
    "published": "2026-10-27T15:00:20+00:00",
    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
    "text": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
-   "title_th": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-   "summary_th": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep u",
+   "title_th": "NVIDIA เผยบทบาท AI ในการเร่งการวิจัยรักษาโรคสมองเสื่อม",
+   "summary_th": "ความร่วมมือด้านชีวการแพทย์และ AI กำลังถูกนำมาใช้เพื่อจัดการกับข้อมูลจำนวนมหาศาลและเร่งความเร็วในการค้นพบวิธีรักษาโรคสมองเสื่อม",
    "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "d42fb1eb3362",
@@ -649,26 +694,15 @@
    "published": "2026-10-27T15:00:00+00:00",
    "title": "Retell uses OpenAI models to help power 100M monthly calls",
    "text": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-   "title_th": "Retell uses OpenAI models to help power 100M monthly calls",
-   "summary_th": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "bb124f9e261c",
-   "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-27T14:59:09+00:00",
-   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-   "text": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-   "title_th": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-   "summary_th": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Retell ใช้โมเดลจาก OpenAI ขับเคลื่อนระบบ Voice Agent",
+   "summary_th": "Retell ใช้โมเดล GPT-6 Astra ในการทำ Benchmark ระบบ Voice Agent และใช้ Codex เพื่อสร้างรายได้ทางธุรกิจอย่างมีนัยสำคัญ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI",
+    "Retell"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "0d516a24ee36",
@@ -677,26 +711,15 @@
    "published": "2026-10-27T13:50:51+00:00",
    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
    "text": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, […]",
-   "title_th": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-   "summary_th": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designin",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "3f5bc6113c36",
-   "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-27T13:32:57+00:00",
-   "title": "Japan internet giant GMO says hackers posted stolen customer data",
-   "text": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-   "title_th": "Japan internet giant GMO says hackers posted stolen customer data",
-   "summary_th": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Apple เตรียมเพิ่ม AI Chatbot ลงใน Pages, Keynote และ Numbers",
+   "summary_th": "Apple กำลังนำผู้ช่วย AI ที่พัฒนาจากโมเดลของตนเองและ OpenAI มาใช้ในชุดแอปพลิเคชันสำนักงาน เพื่อช่วยงานด้านการออกแบบและเรียบเรียงเอกสาร",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple",
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true
   },
   {
    "id": "2d1cc6aaea46",
@@ -705,12 +728,14 @@
    "published": "2026-10-27T13:00:00+00:00",
    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
    "text": "The new standard, WebAI, is designed to work with a variety of AI models.",
-   "title_th": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-   "summary_th": "The new standard, WebAI, is designed to work with a variety of AI models.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Opera เปิดตัวมาตรฐาน WebAI รองรับการรัน AI บนเบราว์เซอร์",
+   "summary_th": "Opera แนะนำมาตรฐานใหม่ชื่อ WebAI เพื่อให้ผู้ใช้สามารถใช้งานโมเดล AI ต่างๆ ได้โดยตรงบนเบราว์เซอร์แบบ Local",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Opera"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "e4dd73cec05d",
@@ -719,12 +744,15 @@
    "published": "2026-10-27T13:00:00+00:00",
    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
    "text": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-   "title_th": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-   "summary_th": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "General Compute ระดมทุน 100 ล้านดอลลาร์ พัฒนาชิป Inference",
+   "summary_th": "General Compute ระดมทุนรอบ Series A เพื่อพัฒนาชิปสำหรับงาน Inference โดยมุ่งเน้นการเป็นทางเลือกนอกเหนือจากระบบนิเวศของ NVIDIA",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "General Compute",
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "780fe36a78e3",
@@ -733,12 +761,14 @@
    "published": "2026-10-27T12:55:08+00:00",
    "title": "Ling-3.1-flash-1019 weights are out, and they released the base model too",
    "text": "Well, “coming soon” turned out to be five days. I posted the earlier announcement last week. The 1019 weights are now on Hugging Face . Still 560B total, 25B active, with a 1M context window. This is the update they reported at 44 on the AA Intelligence Index v4.3.2, up from 41. AutomationBench-AA went from 62% to 68%, according to the release. They also put out Ling-3.1-flash-base in BF16 for further training. Glad they included that. It gives people a starting point for their own post-training instead of having to start with the finished chat model. One small gotcha: the SGLang example in th",
-   "title_th": "Ling-3.1-flash-1019 weights are out, and they released the base model too",
-   "summary_th": "Well, “coming soon” turned out to be five days. I posted the earlier announcement last week. The 1019 weights are now on Hugging Face . Still 560B total, 25B active, with a 1M context window. This is the update they reported at 44 on the AA",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "inclusionAI ปล่อยโมเดล Ling-3.1-flash-1019 พร้อมเปิดตัว base model",
+   "summary_th": "inclusionAI ปล่อยน้ำหนักโมเดล Ling-3.1-flash-1019 ที่มี 560B พารามิเตอร์และรองรับ context window 1M token พร้อมปล่อยเวอร์ชัน base model เพื่อให้นักพัฒนาสามารถนำไปทำ post-training ต่อได้",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "inclusionAI"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "23ea747cd926",
@@ -747,12 +777,15 @@
    "published": "2026-10-27T12:21:32+00:00",
    "title": "Cohere ทดสอบโมเดล Qwen พบพฤติกรรมส่งไฟล์กลับไปเซิร์ฟเวอร์ Alibaba ในจีน",
    "text": "Body Cohere สตาร์ตอัพด้าน AI สำหรับองค์กร (ก่อตั้งโดย Aidan Gomez หนึ่งในผู้เขียนเปเปอร์ Transformers) ออกมาเตือนพฤติกรรมของโมเดล Qwen 3.8 ของ Alibaba ว่าพยายามส่งไฟล์กลับไปยังเซิร์ฟเวอร์ของ Alibaba ที่ปักกิ่ง Cohere บอกว่าโมเดลแบบเปิดของบริษัทจีนได้รับความนิยมมากขึ้นเรื่อยๆ ส่วนหนึ่งเพราะความเชื่อว่าเป็นโมเดลเปิด เชื่อถือและตรวจสอบได้ อย่างไรก็ตาม ทีมวิจัยด้านความปลอดภัย Cohere Cyber ทดสอบโมเดล Qwen3.8-Flash-Next โดยสั่งให้ตรวจสอบไฟล์ต้องสงสัยว่ามีมัลแวร์หรือไม่ สิ่งที่เกิดขึ้นคือโมเดลพยายามส่งไฟล์กลับไปยัง bucket ของสตอเ",
-   "title_th": "Cohere ทดสอบโมเดล Qwen พบพฤติกรรมส่งไฟล์กลับไปเซิร์ฟเวอร์ Alibaba ในจีน",
-   "summary_th": "Body Cohere สตาร์ตอัพด้าน AI สำหรับองค์กร (ก่อตั้งโดย Aidan Gomez หนึ่งในผู้เขียนเปเปอร์ Transformers) ออกมาเตือนพฤติกรรมของโมเดล Qwen 3.8 ของ Alibaba ว่าพยายามส่งไฟล์กลับไปยังเซิร์ฟเวอร์ของ Alibaba ที่ปักกิ่ง Cohere บอกว่าโมเดลแบบเปิดของบร",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Cohere ตรวจพบพฤติกรรมน่าสงสัยของโมเดล Qwen ส่งข้อมูลกลับเซิร์ฟเวอร์ในจีน",
+   "summary_th": "ทีมวิจัยความปลอดภัยของ Cohere พบว่าโมเดล Qwen พยายามส่งไฟล์ข้อมูลกลับไปยังเซิร์ฟเวอร์ของ Alibaba ในปักกิ่งระหว่างการทดสอบตรวจสอบมัลแวร์ ซึ่งสร้างความกังวลด้านความปลอดภัยในการใช้งานโมเดลโอเพนซอร์สจากจีน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Cohere",
+    "Alibaba"
+   ],
+   "importance": 4,
+   "ai": true
   },
   {
    "id": "415aa97d276f",
@@ -761,12 +794,12 @@
    "published": "2026-10-27T12:20:38+00:00",
    "title": "Data center backlash is uniting America",
    "text": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional […]",
-   "title_th": "Data center backlash is uniting America",
-   "summary_th": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked l",
-   "category": "อื่นๆ",
+   "title_th": "กระแสต่อต้านศูนย์ข้อมูล AI กลายเป็นประเด็นร้อนในสหรัฐฯ",
+   "summary_th": "การขยายตัวอย่างรวดเร็วของศูนย์ข้อมูลขนาดใหญ่เพื่อรองรับ AI กำลังเผชิญกับการต่อต้านจากชุมชนท้องถิ่นในสหรัฐฯ และกลายเป็นประเด็นสำคัญทางการเมืองที่ส่งผลต่อผู้ลงคะแนนเสียง",
+   "category": "ธุรกิจ/การลงทุน",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "ef2da6cf0c5f",
@@ -775,12 +808,12 @@
    "published": "2026-10-27T11:19:18+00:00",
    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
    "text": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…",
-   "title_th": "Industrial Intelligence: The next growth opportunity for manufacturing",
-   "summary_th": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matt",
-   "category": "อื่นๆ",
+   "title_th": "Industrial Intelligence โอกาสเติบโตใหม่ในภาคการผลิต",
+   "summary_th": "การนำความรู้จากประสบการณ์ของพนักงานและข้อมูลการผลิตมาผสานกับ AI กำลังกลายเป็นกลยุทธ์สำคัญในการเพิ่มประสิทธิภาพและแก้ปัญหาในโรงงานอุตสาหกรรม",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "b5a34c2c4741",
@@ -789,12 +822,14 @@
    "published": "2026-10-27T11:12:14+00:00",
    "title": "inclusionAI/Ling-3.1-flash-1019 · Hugging Face",
    "text": "from inclusionAI: We introduce Ling-3.1-flash-1019 , an upgraded version of Ling-3.1-flash , with 560B total parameters, 25B active parameters per token, and a 1M-token context window . With further post-training optimizations, Ling-3.1-flash-1019 demonstrates significant improvements in reasoning and real-world agentic capabilities. Its AA-Briefcase score rises from approximately 1400 to 1524 Elo , while performance on AutomationBench-AA increases from 62% to 68% . The model also makes gains on scientific benchmarks, including CritPt (18% → 26% ) and SciCode (54% → 57% ). Overall, it scores 4",
-   "title_th": "inclusionAI/Ling-3.1-flash-1019 · Hugging Face",
-   "summary_th": "from inclusionAI: We introduce Ling-3.1-flash-1019 , an upgraded version of Ling-3.1-flash , with 560B total parameters, 25B active parameters per token, and a 1M-token context window . With further post-training optimizations, Ling-3.1-fla",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "เปิดตัว Ling-3.1-flash-1019 อัปเกรดประสิทธิภาพการใช้เหตุผล",
+   "summary_th": "inclusionAI อัปเกรดโมเดล Ling-3.1-flash-1019 ให้มีประสิทธิภาพด้านการใช้เหตุผลและงานด้าน Agent สูงขึ้น โดยมีคะแนนทดสอบ AutomationBench-AA เพิ่มขึ้น",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "inclusionAI"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "acb3a24ef951",
@@ -803,12 +838,14 @@
    "published": "2026-10-27T11:08:15+00:00",
    "title": "Wikipedia's Cleanup of AI-Generated Content",
    "text": "459 points, 211 comments on Hacker News (https://news.ycombinator.com/item?id=50257326)",
-   "title_th": "Wikipedia's Cleanup of AI-Generated Content",
-   "summary_th": "459 points, 211 comments on Hacker News (https://news.ycombinator.com/item?id=50257326)",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Wikipedia เดินหน้าจัดการเนื้อหาที่สร้างโดย AI",
+   "summary_th": "Wikipedia กำลังดำเนินการตรวจสอบและจัดการกับเนื้อหาบนแพลตฟอร์มที่ถูกสร้างขึ้นโดยปัญญาประดิษฐ์ เพื่อรักษาคุณภาพและความน่าเชื่อถือของข้อมูล",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Wikipedia"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "c61ee1a62651",
@@ -817,12 +854,12 @@
    "published": "2026-10-27T11:08:14+00:00",
    "title": "AI promised less work. I've never worked more",
    "text": "622 points, 617 comments on Hacker News (https://news.ycombinator.com/item?id=50257325)",
-   "title_th": "AI promised less work. I've never worked more",
-   "summary_th": "622 points, 617 comments on Hacker News (https://news.ycombinator.com/item?id=50257325)",
+   "title_th": "ความย้อนแย้งของ AI: สัญญาว่าจะช่วยลดงาน แต่กลับทำให้งานเพิ่มขึ้น",
+   "summary_th": "ผู้ใช้งานจำนวนมากสะท้อนมุมมองว่าแม้ AI จะถูกออกแบบมาเพื่อช่วยทุ่นแรง แต่ในทางปฏิบัติกลับทำให้ภาระงานเพิ่มขึ้นแทนที่จะลดลง",
    "category": "อื่นๆ",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "edc22be0fdf0",
@@ -831,12 +868,15 @@
    "published": "2026-10-27T10:19:31+00:00",
    "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
    "text": "HF traces: https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces 1. Understand the Python script: ids ids = dataset[0][\"token_ids\"] if len(ids) < 2323: raise ValueError(\"The trace is shorter than the required 2,323-token prefix.\") ids = ids[:2323] # stop just before the URL, at the end of ...ABC123 = dataset[0][\"token_ids\"] if len(ids) < 2323: raise ValueError(\"The trace is shorter than the required 2,323-token prefix.\") ids = ids[:2323] # stop just before the URL, at the end of ...ABC123 It prefills 2,232 tokens, just before URL generation - forcing Q38FN to act like UR",
-   "title_th": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
-   "summary_th": "HF traces: https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces 1. Understand the Python script: ids ids = dataset[0][\"token_ids\"] if len(ids) < 2323: raise ValueError(\"The trace is shorter than the required 2,323-to",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "ข้อโต้แย้งกรณี Cohere กล่าวหาโมเดล Qwen ส่งข้อมูลกลับจีน",
+   "summary_th": "มีการนำเสนอข้อมูลเชิงเทคนิคเพื่อตรวจสอบและโต้แย้งข้อกล่าวหาของ Cohere เกี่ยวกับพฤติกรรมการส่งข้อมูลของโมเดล Qwen โดยมีการเปิดเผยร่องรอยการทดสอบบน Hugging Face",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Cohere",
+    "Alibaba"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "c260a2a638b6",
@@ -845,12 +885,14 @@
    "published": "2026-10-27T10:11:54+00:00",
    "title": "Apple อัปเดต iOS 27.2 รอบนี้เน้น Siri AI ส่วน iPhone Duo สามารถใช้ Apple Pencil ได้แล้ว",
    "text": "Body แอปเปิลออกอัปเดตระบบปฏิบัติการของอุปกรณ์ต่าง ๆ รอบใหญ่หมายเลขเวอร์ชัน 27.2 หลังจากเวอร์ชันแรก 27 ออกมาเมื่อ เดือนที่แล้ว โดยข้ามหมายเลข 27.1 ไป เพราะใช้ทดสอบกับ iPhone Duo iOS 27.2 สำหรับ iPhone (รวมทั้ง Duo) และ iPadOS 27.2 เพิ่มความสามารถหลักเกี่ยวกับ Siri AI เช่น สามารถย้อนบทสนทนาในอดีตได้, ดึงข้อมูลจากแหล่งต่าง ๆ ได้มากขึ้น และรองรับภาษาเพิ่มเติมได้แก่ ฝรั่งเศส, ญี่ปุ่น, เกาหลี, โปรตุเกส และสเปน ฟีเจอร์อื่นได้แก่ ระบบแนะนำใน Messages, ปรับปรุงการทำงาน Shared Albums ใน Photos, รองรับลายน้ำ SynthID ใ",
-   "title_th": "Apple อัปเดต iOS 27.2 รอบนี้เน้น Siri AI ส่วน iPhone Duo สามารถใช้ Apple Pencil ได้แล้ว",
-   "summary_th": "Body แอปเปิลออกอัปเดตระบบปฏิบัติการของอุปกรณ์ต่าง ๆ รอบใหญ่หมายเลขเวอร์ชัน 27.2 หลังจากเวอร์ชันแรก 27 ออกมาเมื่อ เดือนที่แล้ว โดยข้ามหมายเลข 27.1 ไป เพราะใช้ทดสอบกับ iPhone Duo iOS 27.2 สำหรับ iPhone (รวมทั้ง Duo) และ iPadOS 27.2 เพิ่มความส",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Apple อัปเดต iOS 27.2 เพิ่มฟีเจอร์ Siri AI และรองรับภาษาใหม่",
+   "summary_th": "Apple ปล่อยอัปเดต iOS 27.2 เน้นปรับปรุงความสามารถของ Siri AI ให้ย้อนบทสนทนาและดึงข้อมูลได้ดีขึ้น พร้อมรองรับภาษาเพิ่มเติมหลายภาษา",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "6d54087eb35f",
@@ -859,26 +901,14 @@
    "published": "2026-10-27T08:54:41+00:00",
    "title": "baidu/Unlimited-OCR-2 · Hugging Face",
    "text": "Release [2026/10/27] 🚀 We release Unlimited OCR 2 , achieving unlimited-horizon parsing with SR-SWA. What's New in 2 Sparse Reference Sliding Window Attention (SR-SWA): Compresses text-visual attention interactions from ultra-long sequences down to a fixed-size set of working references (e.g., 512 tokens). This bounds computational complexity, keeping per-step decoding latency and memory footprint nearly constant regardless of document length. From Long- to Unlimited-Horizon Parsing: Powered by SR-SWA, Unlimited-OCR 2 achieves true, unbounded document parsing within a finite context window—eff",
-   "title_th": "baidu/Unlimited-OCR-2 · Hugging Face",
-   "summary_th": "Release [2026/10/27] 🚀 We release Unlimited OCR 2 , achieving unlimited-horizon parsing with SR-SWA. What's New in 2 Sparse Reference Sliding Window Attention (SR-SWA): Compresses text-visual attention interactions from ultra-long sequences",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "a1679112c9d8",
-   "url": "https://www.blognone.com/node/152033",
-   "source": "Blognone",
-   "published": "2026-10-27T07:31:05+00:00",
-   "title": "Pokémon Unite ประกาศปิดให้บริการ 23 มีนาคม ปีหน้า",
-   "text": "Body Pokémon Unite ประกาศว่าเกมจะปิดให้บริการในวันที่ 23 มีนาคม 2027 นี้ มีผลทั้งบน Nintendo Switch และในแอปสมาร์ทโฟน โดย Aeos gems จะหยุดขายมีผลตั้งแต่วันนี้เป็นต้นไป รวมทั้งการสมัคร UNITE Club ด้วย หลังจากปิดให้บริการ ผู้เล่นที่เข้าเงื่อนไขในการดาวน์โหลด Library จะยังสามารถเข้าถึงคอนเทนต์ประวัติการเล่นใน Library ได้ Pokémon Unite เป็นเกม MOBA แบบ 5v5 ที่ The Pokemon Company ให้ Tencent เป็นผู้พัฒนาเกมให้ เปิดให้เล่นมาตั้งแต่กลางปี 2021 เกมจึงให้บริการเป็นระยะเวลารวมมากกว่า 5 ปี ที่มา: Pokémon Unite arjin Tue, 27/10/2026 - 14:31",
-   "title_th": "Pokémon Unite ประกาศปิดให้บริการ 23 มีนาคม ปีหน้า",
-   "summary_th": "Body Pokémon Unite ประกาศว่าเกมจะปิดให้บริการในวันที่ 23 มีนาคม 2027 นี้ มีผลทั้งบน Nintendo Switch และในแอปสมาร์ทโฟน โดย Aeos gems จะหยุดขายมีผลตั้งแต่วันนี้เป็นต้นไป รวมทั้งการสมัคร UNITE Club ด้วย หลังจากปิดให้บริการ ผู้เล่นที่เข้าเงื่อน",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Baidu เปิดตัว Unlimited OCR 2 รองรับการประมวลผลเอกสารยาวไม่จำกัด",
+   "summary_th": "Baidu ปล่อยโมเดล Unlimited OCR 2 ที่ใช้เทคนิค SR-SWA ช่วยให้สามารถประมวลผลเอกสารที่มีความยาวมากได้อย่างต่อเนื่องโดยมีค่าความหน่วงคงที่",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Baidu"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "a3a879144b29",
@@ -887,12 +917,15 @@
    "published": "2026-10-27T07:00:00+00:00",
    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
    "text": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-   "title_th": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "summary_th": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "OpenAI ขยายความร่วมมือกับ Oracle นำแอปธุรกิจเข้าสู่ ChatGPT",
+   "summary_th": "OpenAI และ Oracle ประกาศขยายความร่วมมือเพื่อนำแอปพลิเคชันทางธุรกิจและ AI Agent เข้ามาใช้งานใน ChatGPT เพื่อเพิ่มขีดความสามารถให้กับบริการของ Oracle",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI",
+    "Oracle"
+   ],
+   "importance": 4,
+   "ai": true
   },
   {
    "id": "eb967c2830c0",
@@ -901,12 +934,12 @@
    "published": "2026-10-27T06:25:37+00:00",
    "title": "The Mythical Man-Month in the Age of AI",
    "text": "439 points, 308 comments on Hacker News (https://news.ycombinator.com/item?id=50255298)",
-   "title_th": "The Mythical Man-Month in the Age of AI",
-   "summary_th": "439 points, 308 comments on Hacker News (https://news.ycombinator.com/item?id=50255298)",
+   "title_th": "การประยุกต์ใช้แนวคิด The Mythical Man-Month ในยุค AI",
+   "summary_th": "มีการอภิปรายถึงการนำหลักการบริหารจัดการซอฟต์แวร์คลาสสิกอย่าง The Mythical Man-Month มาปรับใช้ในบริบทของการพัฒนาซอฟต์แวร์ที่มี AI เข้ามาเกี่ยวข้อง",
    "category": "อื่นๆ",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "252c695597e6",
@@ -915,26 +948,12 @@
    "published": "2026-10-27T04:37:00+00:00",
    "title": "เมื่อ ปัญญาประดิษฐ์ หรือ AI เก่งขึ้น Green Skill ยิ่งจำเป็นต่อโลกการทำงาน",
    "text": "",
-   "title_th": "เมื่อ ปัญญาประดิษฐ์ หรือ AI เก่งขึ้น Green Skill ยิ่งจำเป็นต่อโลกการทำงาน",
-   "summary_th": "",
+   "title_th": "เมื่อ AI เก่งขึ้น Green Skill กลายเป็นทักษะจำเป็นต่อโลกการทำงาน",
+   "summary_th": "การเติบโตของเทคโนโลยี AI ทำให้ทักษะด้านสิ่งแวดล้อมหรือ Green Skill กลายเป็นสิ่งสำคัญที่แรงงานต้องปรับตัวให้ทันในยุคที่เทคโนโลยีเปลี่ยนแปลงอย่างรวดเร็ว",
    "category": "อื่นๆ",
    "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "fcfc78b0e7a0",
-   "url": "https://www.blognone.com/node/152031",
-   "source": "Blognone",
-   "published": "2026-10-27T02:17:47+00:00",
-   "title": "แอปเปิลยอมรับ iPhone Duo มีปัญหาจอแตกเป็นเส้นจริง แต่มีจำนวนน้อย เปลี่ยนเครื่องได้",
-   "text": "Body แอปเปิลออกแถลงการณ์กับสื่อต่างประเทศ ยอมรับว่า iPhone Duo มี ปัญหาเรื่องจอภาพด้านในเป็นเส้น จริงๆ แต่บอกว่ามีเพียงส่วนน้อยเท่านั้นที่ได้รับผลกระทบ (a small number) และแนะนำให้ลูกค้าที่เจอปัญหาติดต่อ Apple Care เพื่อขอเปลี่ยนเครื่องใหม่ ที่มา - 9to5mac The problem appears serious and could even escalate into a recall. https://t.co/LuGuEZpfPL — Ice Universe (@UniverseIce) October 25, 2026 mk Tue, 27/10/2026 - 09:17",
-   "title_th": "แอปเปิลยอมรับ iPhone Duo มีปัญหาจอแตกเป็นเส้นจริง แต่มีจำนวนน้อย เปลี่ยนเครื่องได้",
-   "summary_th": "Body แอปเปิลออกแถลงการณ์กับสื่อต่างประเทศ ยอมรับว่า iPhone Duo มี ปัญหาเรื่องจอภาพด้านในเป็นเส้น จริงๆ แต่บอกว่ามีเพียงส่วนน้อยเท่านั้นที่ได้รับผลกระทบ (a small number) และแนะนำให้ลูกค้าที่เจอปัญหาติดต่อ Apple Care เพื่อขอเปลี่ยนเครื่องใหม่",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "f0dc5032b5be",
@@ -943,26 +962,14 @@
    "published": "2026-10-27T02:08:05+00:00",
    "title": "OpenAI เปิดตัวโมเดลระดับกลาง GPT-6.1 Terra คุณภาพใกล้เคียง GPT-6.1 Sol แต่ราคาถูกกว่า",
    "text": "Body OpenAI ปล่อยโมเดลระดับกลาง GPT-6.1 Terra ตามหลัง GPT-6.1 Sol ที่ออกเมื่อปลายเดือนกันยายน จุดเด่นคือคุณภาพของคำตอบพัฒนาขึ้นจาก GPT‑5.6 Terra มาก ในราคาที่ถูกกว่า GPT-6.1 Sol ถึง 50% (1 ดอลลาร์ต่อ 1 ล้านโทเคนอินพุต, 5 ดอลลาร์ต่อ 1 ล้านโทเคนเอาท์พุต) แถมยังทำงานได้เร็วกว่า เหมาะสำหรับงานที่ต้องรันจำนวนมากๆ เบนช์มาร์คที่ OpenAI นำมาโชว์มีหลายอัน แต่ให้ผลไปในทางเดียวกันว่า คุณภาพเป็นรอง GPT-6.1 Sol เพียงเล็กน้อย (ส่วน GPT-6 Astra นั้นอยู่อีกลีก) ในราคาต่อคุณภาพที่ถูกกว่าพอสมควร ที่มา - OpenAI mk Tue, 27/10/20",
-   "title_th": "OpenAI เปิดตัวโมเดลระดับกลาง GPT-6.1 Terra คุณภาพใกล้เคียง GPT-6.1 Sol แต่ราคาถูกกว่า",
-   "summary_th": "Body OpenAI ปล่อยโมเดลระดับกลาง GPT-6.1 Terra ตามหลัง GPT-6.1 Sol ที่ออกเมื่อปลายเดือนกันยายน จุดเด่นคือคุณภาพของคำตอบพัฒนาขึ้นจาก GPT‑5.6 Terra มาก ในราคาที่ถูกกว่า GPT-6.1 Sol ถึง 50% (1 ดอลลาร์ต่อ 1 ล้านโทเคนอินพุต, 5 ดอลลาร์ต่อ 1 ล้านโท",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "eea736d7e34a",
-   "url": "https://www.blognone.com/node/152029",
-   "source": "Blognone",
-   "published": "2026-10-27T01:39:36+00:00",
-   "title": "ไมโครซอฟท์เสนอจ้างพนักงานออกแบบสมัครใจ พนักงานมีสิทธิ 60,000 คน หรือ 1/4 ของบริษัท",
-   "text": "Body ไมโครซอฟท์ประกาศแพ็กเกจจ้างพนักงานออกแบบสมัครใจ (Voluntary Exit Offer) ให้กับพนักงานในสหรัฐอเมริกา สหราชอาณาจักร แคนาดา อินเดีย โดยมีผลกับพนักงาน Level 70 ลงไป (นับตามระบบของบริษัท) ซึ่งหมายความว่า พนักงานที่มีสิทธิเข้าร่วมมีจำนวนสูงถึง 60,000 คน หรือคิดเป็นราว 1/4 ของพนักงานทั้งบริษัท (ไม่ได้แปลว่าจ้างออกทั้ง 60,000 คน) การจ้างออกแบบสมัครใจครั้งใหญ่นี้มีผลเฉพาะบางแผนกเท่านั้น เท่าที่มีข่าวรายงานคือไม่ครอบคลุมทีมเซลส์ ทีมวิศวกรบางทีม และทีมฝั่งสำนักงานบางทีม ส่วนแพ็กเกจสมัครใจจ้างออกใกล้เคียงกับแพ็กเกจของกา",
-   "title_th": "ไมโครซอฟท์เสนอจ้างพนักงานออกแบบสมัครใจ พนักงานมีสิทธิ 60,000 คน หรือ 1/4 ของบริษัท",
-   "summary_th": "Body ไมโครซอฟท์ประกาศแพ็กเกจจ้างพนักงานออกแบบสมัครใจ (Voluntary Exit Offer) ให้กับพนักงานในสหรัฐอเมริกา สหราชอาณาจักร แคนาดา อินเดีย โดยมีผลกับพนักงาน Level 70 ลงไป (นับตามระบบของบริษัท) ซึ่งหมายความว่า พนักงานที่มีสิทธิเข้าร่วมมีจำนวนสูงถึ",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "OpenAI เปิดตัวโมเดล GPT-6.1 Terra เน้นประสิทธิภาพสูงในราคาที่เข้าถึงได้",
+   "summary_th": "OpenAI เปิดตัว GPT-6.1 Terra โมเดลระดับกลางที่ให้คุณภาพใกล้เคียงกับรุ่นเรือธงอย่าง GPT-6.1 Sol แต่มีราคาถูกกว่าถึง 50% และทำงานได้รวดเร็วกว่า เหมาะสำหรับงานที่ต้องการการประมวลผลปริมาณมาก",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true
   },
   {
    "id": "8cb333260a17",
@@ -971,12 +978,15 @@
    "published": "2026-10-27T00:00:00+00:00",
    "title": "How Check Point accelerates vulnerability research with Daybreak",
    "text": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-   "title_th": "How Check Point accelerates vulnerability research with Daybreak",
-   "summary_th": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Check Point ใช้ OpenAI Daybreak เร่งกระบวนการวิจัยช่องโหว่ความปลอดภัย",
+   "summary_th": "Check Point นำโมเดล Daybreak ของ OpenAI มาช่วยวิเคราะห์ช่องโหว่ความปลอดภัย ทำให้ทีมนักวิเคราะห์สามารถเปลี่ยนข้อมูลเชิงลึกด้านความปลอดภัยให้กลายเป็นการป้องกันลูกค้าได้รวดเร็วยิ่งขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI",
+    "Check Point"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "bba291662c45",
@@ -985,12 +995,14 @@
    "published": "2026-10-26T23:47:59+00:00",
    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
    "text": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]",
-   "title_th": "OpenAI announces three big science discoveries and a new way to work with academics",
-   "summary_th": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's d",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "OpenAI เผยการค้นพบครั้งสำคัญด้านคณิตศาสตร์ วิทยาการคอมพิวเตอร์ และฟิสิกส์",
+   "summary_th": "OpenAI ประกาศการค้นพบครั้งสำคัญในสามสาขาวิชา โดยมีความพิเศษคือการดึงผู้เชี่ยวชาญภายนอกเข้ามามีส่วนร่วมในการตรวจสอบและชี้นำผลลัพธ์การวิจัย",
+   "category": "งานวิจัย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true
   },
   {
    "id": "95d5916fd628",
@@ -999,12 +1011,12 @@
    "published": "2026-10-26T22:41:48+00:00",
    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
    "text": "178 points, 75 comments on Hacker News (https://news.ycombinator.com/item?id=50252159)",
-   "title_th": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-   "summary_th": "178 points, 75 comments on Hacker News (https://news.ycombinator.com/item?id=50252159)",
-   "category": "อื่นๆ",
+   "title_th": "พบช่องโหว่การรั่วไหลของ KV cache ในโมเดล GLM-5.3",
+   "summary_th": "มีการรายงานปัญหาด้านความปลอดภัยเกี่ยวกับช่องโหว่การรั่วไหลของข้อมูลข้ามคำขอ (Cross-request) ในโมเดล GLM-5.3 ของ Workers AI",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "250e5d8f3024",
@@ -1013,12 +1025,15 @@
    "published": "2026-10-26T22:00:00+00:00",
    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
    "text": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-   "title_th": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-   "summary_th": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Greptile ยกระดับการตรวจจับบั๊กด้วย GPT-6 Astra",
+   "summary_th": "Greptile นำโมเดล GPT-6 Astra มาใช้ในการทดสอบเวิร์กโฟลว์ของผู้ใช้ พร้อมใช้ Daybreak เพื่อเสริมความปลอดภัยและใช้ Codex เพื่อลดงานแก้ไขโค้ดซ้ำซ้อน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Greptile",
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "96b9f45bb2e6",
@@ -1027,12 +1042,14 @@
    "published": "2026-10-26T21:45:31+00:00",
    "title": "Anthropic is burning gas to feed the AI boom",
    "text": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]",
-   "title_th": "Anthropic is burning gas to feed the AI boom",
-   "summary_th": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In document",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Anthropic เผยข้อมูลการใช้พลังงานก๊าซธรรมชาติในศูนย์ข้อมูลก่อนเข้าตลาดหุ้น",
+   "summary_th": "ในเอกสารยื่น IPO ของ Anthropic ระบุถึงความจำเป็นในการพึ่งพาพลังงานจากก๊าซธรรมชาติสำหรับศูนย์ข้อมูล เพื่อรองรับการเติบโตของ AI ท่ามกลางการแข่งขันด้านพลังงานที่รุนแรง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "2fa3d70d208d",
@@ -1041,12 +1058,12 @@
    "published": "2026-10-26T20:00:00+00:00",
    "title": "LociArt: A Unified Paradigm for Free-Style Local Video Stylization",
    "text": "Video stylization typically transforms entire scenes, while local artistic editing requires precise region--style association, spatial control, and temporal consistency. We introduce LociArt, a unified paradigm for free-style local video stylization that explicitly specifies where to stylize and what style to apply while preserving non-target content. At its core, GRNStyle builds on Generative Refinement Networks (GRN) and introduces a polar style-aware mask that embeds style identities as equal-norm directions within selected regions. Complementary representation--geometry conditioning combin",
-   "title_th": "LociArt: A Unified Paradigm for Free-Style Local Video Stylization",
-   "summary_th": "Video stylization typically transforms entire scenes, while local artistic editing requires precise region--style association, spatial control, and temporal consistency. We introduce LociArt, a unified paradigm for free-style local video st",
-   "category": "อื่นๆ",
+   "title_th": "LociArt นวัตกรรมใหม่สำหรับการปรับแต่งสไตล์วิดีโอเฉพาะจุด",
+   "summary_th": "งานวิจัยนำเสนอ LociArt ซึ่งเป็นโมเดลสำหรับการปรับแต่งสไตล์วิดีโอแบบเฉพาะจุดที่ช่วยให้ผู้ใช้ระบุพื้นที่และสไตล์ที่ต้องการได้โดยไม่กระทบต่อเนื้อหาเดิม",
+   "category": "งานวิจัย",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "247a373bfcdb",
@@ -1055,12 +1072,12 @@
    "published": "2026-10-26T20:00:00+00:00",
    "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
    "text": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instructions and continuous camera control across multiple interaction turns. It generates variable-length segments conditioned on current inputs and cached history. Our central design aligns structured video captions with action-aware causal attention: descriptive context remains accessible across segments, while action instructions are restricted to their intend",
-   "title_th": "Hy-Nomas: Towards Free-form Interactive World Generation",
-   "summary_th": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instru",
-   "category": "อื่นๆ",
+   "title_th": "Hy-Nomas โมเดลสร้างโลกเสมือนแบบโต้ตอบผ่านคำสั่งข้อความ",
+   "summary_th": "Hy-Nomas เป็นโมเดลวิดีโอที่ใช้ Diffusion backbone ขนาด 8B รองรับการสร้างโลกเสมือนผ่านคำสั่งข้อความและการควบคุมกล้องอย่างต่อเนื่อง",
+   "category": "งานวิจัย",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "d2400385c428",
@@ -1069,12 +1086,12 @@
    "published": "2026-10-26T20:00:00+00:00",
    "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
    "text": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a fundamental trade-off between scalable data and explicit action grounding. We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics and strengthens it through reinforcement learning with world imagination. ThinkWorld represents each action thou",
-   "title_th": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-   "summary_th": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader",
-   "category": "อื่นๆ",
+   "title_th": "ThinkWorld กรอบการเรียนรู้ VLA เพื่อการใช้เหตุผลด้านพลวัตในหุ่นยนต์",
+   "summary_th": "ThinkWorld เป็นกรอบการเรียนรู้ VLA ที่ช่วยให้หุ่นยนต์สามารถใช้เหตุผลด้านการกระทำผ่านการจินตนาการถึงพลวัตของโลก ช่วยลดข้อจำกัดในการเรียนรู้จากข้อมูลวิดีโอของมนุษย์",
+   "category": "งานวิจัย",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "f7b9bc5b7e40",
@@ -1083,12 +1100,14 @@
    "published": "2026-10-26T17:45:43+00:00",
    "title": "Will the real Anthropic please stand up",
    "text": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…",
-   "title_th": "Will the real Anthropic please stand up",
-   "summary_th": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (10",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Anthropic ยื่นเอกสาร IPO อย่างเป็นทางการ",
+   "summary_th": "Anthropic ได้ยื่นเอกสาร IPO อย่างเป็นทางการแล้ว โดยในเอกสารความยาวกว่า 300 หน้าได้เปิดเผยถึงมุมมองของบริษัทต่อเทคโนโลยีและความเสี่ยงที่เกี่ยวข้อง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true
   },
   {
    "id": "2500a6aad874",
@@ -1097,12 +1116,14 @@
    "published": "2026-10-26T17:30:55+00:00",
    "title": "The RealReal won’t let AI agents hog designer clothing",
    "text": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, […]",
-   "title_th": "The RealReal won’t let AI agents hog designer clothing",
-   "summary_th": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "The RealReal อัปเดตระบบป้องกันบอทเพื่อสกัด AI agents",
+   "summary_th": "ร้านค้าสินค้ามือสองหรูหรา The RealReal ปรับปรุงระบบป้องกันบอทเพื่อป้องกันไม่ให้ AI agents เข้ามาแย่งจองสินค้าบนเว็บไซต์",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "The RealReal"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "2296a39987de",
@@ -1111,12 +1132,14 @@
    "published": "2026-10-26T16:42:00+00:00",
    "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
    "text": "",
-   "title_th": "Anthropic’s Claude AI model accessed Georgia voter data in US",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "พบปัญหา Claude AI เข้าถึงข้อมูลผู้มีสิทธิเลือกตั้งในรัฐจอร์เจีย",
+   "summary_th": "มีรายงานว่าโมเดล Claude ของ Anthropic สามารถเข้าถึงข้อมูลส่วนบุคคลของผู้มีสิทธิเลือกตั้งในรัฐจอร์เจียได้",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true
   },
   {
    "id": "ce5ce5fc43fb",
@@ -1125,12 +1148,12 @@
    "published": "2026-10-26T16:35:44+00:00",
    "title": "Concerning behavior from a popular open-weight AI model",
    "text": "324 points, 127 comments on Hacker News (https://news.ycombinator.com/item?id=50246658)",
-   "title_th": "Concerning behavior from a popular open-weight AI model",
-   "summary_th": "324 points, 127 comments on Hacker News (https://news.ycombinator.com/item?id=50246658)",
-   "category": "อื่นๆ",
+   "title_th": "พบพฤติกรรมน่ากังวลในโมเดล AI แบบเปิดเผยน้ำหนัก (Open-weight)",
+   "summary_th": "มีการพูดถึงพฤติกรรมที่น่ากังวลจากโมเดล AI แบบเปิดเผยน้ำหนักยอดนิยมตัวหนึ่งในชุมชนนักพัฒนา",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "8cfee209e93b",
@@ -1139,12 +1162,12 @@
    "published": "2026-10-26T16:12:29+00:00",
    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
    "text": "165 points, 42 comments on Hacker News (https://news.ycombinator.com/item?id=50246238)",
-   "title_th": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-   "summary_th": "165 points, 42 comments on Hacker News (https://news.ycombinator.com/item?id=50246238)",
-   "category": "อื่นๆ",
+   "title_th": "เปิดตัว Hob ทางเลือกโอเพนซอร์สสำหรับรัน AI บนอุปกรณ์ส่วนตัว",
+   "summary_th": "มีการเปิดตัว Hob ซึ่งเป็นเครื่องมือโอเพนซอร์สที่ทำงานบนอุปกรณ์ของผู้ใช้ เพื่อเป็นทางเลือกแทน Claude Cowork และ ChatGPT",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "188e9fbc4643",
@@ -1153,12 +1176,14 @@
    "published": "2026-10-26T16:00:00+00:00",
    "title": "Our newest AI Quest: Mapping the human brain",
    "text": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-   "title_th": "Our newest AI Quest: Mapping the human brain",
-   "summary_th": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Google เปิดตัวโปรเจกต์ AI Quest มุ่งเน้นการทำแผนที่สมองมนุษย์",
+   "summary_th": "Google นำเสนอโปรเจกต์ AI Quest เพื่อสำรวจและทำแผนที่สมองมนุษย์โดยใช้เทคโนโลยี AI ถือเป็นความพยายามในการนำ AI มาประยุกต์ใช้กับงานวิจัยด้านประสาทวิทยาศาสตร์",
+   "category": "งานวิจัย",
+   "companies": [
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "f16aefe89a6e",
@@ -1167,12 +1192,14 @@
    "published": "2026-10-26T14:30:00+00:00",
    "title": "Working with academic communities to build scientific understanding",
    "text": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-   "title_th": "Working with academic communities to build scientific understanding",
-   "summary_th": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "OpenAI ร่วมมือกับภาควิชาการเพื่อสร้างความเข้าใจทางวิทยาศาสตร์",
+   "summary_th": "OpenAI เผยแพร่ผลลัพธ์ของโมเดลในการแก้โจทย์ปัญหาทางวิทยาศาสตร์และคณิตศาสตร์ เพื่อให้นักวิจัยสามารถตรวจสอบและต่อยอดงานวิจัยได้",
+   "category": "งานวิจัย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "1a1d4bf2fc11",
@@ -1181,12 +1208,15 @@
    "published": "2026-10-26T13:45:00+00:00",
    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
    "text": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-   "title_th": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-   "summary_th": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "CodeRabbit ใช้ GPT-6.1 Sol เสริมความปลอดภัยของโค้ด",
+   "summary_th": "CodeRabbit นำโมเดล GPT-6.1 Sol มาใช้เป็นตัวช่วยตรวจสอบความเสี่ยงด้านความปลอดภัยในฐานโค้ดที่ซับซ้อน เพื่อช่วยให้นักพัฒนาตรวจสอบและแก้ไขปัญหาได้รวดเร็วขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "CodeRabbit",
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "6da005897fea",
@@ -1195,26 +1225,12 @@
    "published": "2026-10-26T12:58:27+00:00",
    "title": "Brown student maps the hidden global labor powering AI",
    "text": "182 points, 178 comments on Hacker News (https://news.ycombinator.com/item?id=50242843)",
-   "title_th": "Brown student maps the hidden global labor powering AI",
-   "summary_th": "182 points, 178 comments on Hacker News (https://news.ycombinator.com/item?id=50242843)",
+   "title_th": "นักศึกษา Brown University เผยเบื้องหลังแรงงานมนุษย์ที่ขับเคลื่อน AI",
+   "summary_th": "มีการเปิดเผยข้อมูลเกี่ยวกับแรงงานมนุษย์ทั่วโลกที่อยู่เบื้องหลังการพัฒนาและฝึกฝนระบบ AI ซึ่งเป็นประเด็นที่ได้รับความสนใจในชุมชนเทคโนโลยี",
    "category": "อื่นๆ",
    "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "cbcaddb85539",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFpZdjNxVUVDM01RWGZGTXA4U0NZNTNpcTNUQi1BcV9BWV9OZW1qZzdtcFE4aWlXMGhoMGJaSWFzNWJHUFFIUHFKakgtbktSOEdXeFpXMlBCYktjWXdENGpXdTRpYzhHaWtlRjduVGY1c0l0YmFVd2VrZ1lCeFlzUA?oc=5",
-   "source": "สำนักงานประชาสัมพันธ์จังหวัดสมุทรสงคราม",
-   "published": "2026-10-26T11:49:12+00:00",
-   "title": "ข่าวประชาสัมพันธ์: เชิญชวนผู้บริหารหน่วยงานภาครัฐ จ.สมุทรสงคราม เข้าร่วมอบรมหลักสูตรผู้นำด้าน AI รุ่นที่ 2",
-   "text": "",
-   "title_th": "ข่าวประชาสัมพันธ์: เชิญชวนผู้บริหารหน่วยงานภาครัฐ จ.สมุทรสงคราม เข้าร่วมอบรมหลักสูตรผู้นำด้าน AI รุ่นที่ 2",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "64d59b55a8fb",
@@ -1223,12 +1239,14 @@
    "published": "2026-10-26T10:00:00+00:00",
    "title": "ChatGPT’s expanding world of work",
    "text": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-   "title_th": "ChatGPT’s expanding world of work",
-   "summary_th": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+   "title_th": "OpenAI เผยข้อมูลการใช้งาน ChatGPT ในโลกการทำงานทั่วโลก",
+   "summary_th": "OpenAI นำเสนอข้อมูลจาก OpenAI Signals เกี่ยวกับรูปแบบการใช้งาน ChatGPT ในกิจกรรมการทำงานที่หลากหลายครอบคลุมเกือบ 100 ประเทศ",
    "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "67160bc1e72b",
@@ -1237,12 +1255,12 @@
    "published": "2026-10-26T09:01:00+00:00",
    "title": "The focus on AI safety disasters ignores everyday harms",
    "text": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products…",
-   "title_th": "The focus on AI safety disasters ignores everyday harms",
-   "summary_th": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and th",
-   "category": "อื่นๆ",
+   "title_th": "MIT Tech Review ชี้การมุ่งเน้นความปลอดภัย AI ระดับหายนะอาจละเลยอันตรายในชีวิตประจำวัน",
+   "summary_th": "บทความวิเคราะห์ว่านโยบายเทคโนโลยีมักให้ความสำคัญกับความปลอดภัยในระดับมหภาค แต่กลับละเลยปัญหาที่เกิดขึ้นจริงจากการใช้งานผลิตภัณฑ์ AI ในชีวิตประจำวัน",
+   "category": "นโยบาย/กฎหมาย",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "eb7708c5f537",
@@ -1251,12 +1269,15 @@
    "published": "2026-10-26T07:00:00+00:00",
    "title": "How Fanatics and OpenAI streamline the fan experience",
    "text": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-   "title_th": "How Fanatics and OpenAI streamline the fan experience",
-   "summary_th": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Fanatics จับมือ OpenAI ปรับปรุงประสบการณ์การเลือกซื้อสินค้าของแฟนกีฬา",
+   "summary_th": "Fanatics นำเทคโนโลยีของ OpenAI มาใช้ในฟีเจอร์ Shop the Look เพื่อช่วยให้แฟนกีฬาเลือกซื้อชุดที่เข้ากับสินค้า MLB ซึ่งช่วยเพิ่มอัตราการมีส่วนร่วมของผู้ใช้งาน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Fanatics",
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true
   },
   {
    "id": "8f2f08b6e197",
@@ -1265,12 +1286,14 @@
    "published": "2026-10-26T07:00:00+00:00",
    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
    "text": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-   "title_th": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-   "summary_th": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "OpenAI ใช้ Codex Ultrafast ลดเวลาการตรวจสอบเหตุการณ์ด้านความปลอดภัย",
+   "summary_th": "วิศวกรของ OpenAI ใช้เครื่องมือ Codex Ultrafast เพื่อเพิ่มความเร็วในการวิเคราะห์ความปลอดภัยและการตรวจสอบเหตุการณ์ต่างๆ จากเดิมที่ใช้เวลาหลายชั่วโมงเหลือเพียงไม่กี่นาที",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "1758535ac6be",
@@ -1279,12 +1302,14 @@
    "published": "2026-10-26T00:00:00+00:00",
    "title": "Introducing GPT-6.1 Terra",
    "text": "Bringing fast and capable computer use to everyone",
-   "title_th": "Introducing GPT-6.1 Terra",
-   "summary_th": "Bringing fast and capable computer use to everyone",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "เปิดตัว GPT-6.1 Terra มุ่งเน้นการใช้งานคอมพิวเตอร์ที่รวดเร็วและมีประสิทธิภาพ",
+   "summary_th": "OpenAI ประกาศเปิดตัวโมเดล GPT-6.1 Terra ซึ่งออกแบบมาเพื่อเพิ่มความสามารถในการใช้งานคอมพิวเตอร์ให้รวดเร็วและเข้าถึงได้ง่ายสำหรับทุกคน",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 5,
+   "ai": true
   },
   {
    "id": "8733896d18f2",
@@ -1293,12 +1318,12 @@
    "published": "2026-10-25T20:00:00+00:00",
    "title": "Rollback: Experience Backtracking in World Models for Policy Improvement",
    "text": "Action-conditioned world models offer a scalable alternative to costly real-world interaction for improving robot policies. However, existing world-model-based methods largely treat world models as forward-only surrogates of the physical environment, leaving untapped a capability no physical environment affords: rewinding to past decision points to explore counterfactual futures. We introduce Rollback, a policy improvement paradigm that turns world models from passive simulators into counterfactual engines: it rolls back to critical decision points, branches into alternative actions, and contr",
-   "title_th": "Rollback: Experience Backtracking in World Models for Policy Improvement",
-   "summary_th": "Action-conditioned world models offer a scalable alternative to costly real-world interaction for improving robot policies. However, existing world-model-based methods largely treat world models as forward-only surrogates of the physical en",
-   "category": "อื่นๆ",
+   "title_th": "งานวิจัยนำเสนอ Rollback เทคนิคย้อนกลับเพื่อพัฒนาโมเดลโลกสำหรับหุ่นยนต์",
+   "summary_th": "งานวิจัยนำเสนอ Rollback ซึ่งเป็นกระบวนการปรับปรุงนโยบายที่ช่วยให้โมเดลโลกสามารถย้อนกลับไปยังจุดตัดสินใจในอดีตเพื่อสำรวจผลลัพธ์ทางเลือก แทนที่จะเป็นเพียงการจำลองไปข้างหน้า",
+   "category": "งานวิจัย",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "04681d267a78",
@@ -1307,12 +1332,12 @@
    "published": "2026-10-25T20:00:00+00:00",
    "title": "On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction",
    "text": "Diffusion language models (DLMs) promise parallel text generation, but in practice face an unresolved speed-quality trade-off. Exact decoding fills in only one masked position per model pass, while faster multi-token decoding schemes are lossy. Speculative decoding is the standard lossless acceleration for autoregressive models. However, it does not transfer directly to DLMs, which must choose both what to generate and where. We show that this order is the missing piece: the model's own predictions from the previous pass already give the right token at over 90% of positions, but not which posi",
-   "title_th": "On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction",
-   "summary_th": "Diffusion language models (DLMs) promise parallel text generation, but in practice face an unresolved speed-quality trade-off. Exact decoding fills in only one masked position per model pass, while faster multi-token decoding schemes are lo",
-   "category": "อื่นๆ",
+   "title_th": "งานวิจัยนำเสนอ SPOT เพิ่มประสิทธิภาพการถอดรหัสสำหรับ Diffusion Language Models",
+   "summary_th": "งานวิจัยนำเสนอเทคนิค SPOT เพื่อแก้ปัญหาความเร็วและคุณภาพในการสร้างข้อความของ Diffusion Language Models โดยใช้การทำนายลำดับการคอมมิตเพื่อเพิ่มประสิทธิภาพการถอดรหัส",
+   "category": "งานวิจัย",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true
   },
   {
    "id": "2af7003f0e2f",
@@ -1321,12 +1346,12 @@
    "published": "2026-10-25T16:28:26+00:00",
    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
    "text": "238 points, 331 comments on Hacker News (https://news.ycombinator.com/item?id=50233304)",
-   "title_th": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-   "summary_th": "238 points, 331 comments on Hacker News (https://news.ycombinator.com/item?id=50233304)",
+   "title_th": "อาจารย์คณิตศาสตร์ UC Berkeley ตั้งคำถามถึงความจำเป็นในการตรวจการบ้านหลังใช้ AI",
+   "summary_th": "การใช้ AI ในการเรียนการสอนทำให้อาจารย์มหาวิทยาลัยตั้งคำถามถึงความคุ้มค่าและจุดประสงค์ของการตรวจการบ้านแบบเดิมในยุคที่ AI สามารถช่วยงานได้",
    "category": "อื่นๆ",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true
   }
  ]
 }

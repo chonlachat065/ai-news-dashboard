@@ -1,52 +1,42 @@
 {
- "updated_at": "2026-10-28T04:22:13+00:00",
+ "updated_at": "2026-10-28T10:38:45+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-10-28T04:22:13+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญในวงการ AI วันนี้ครอบคลุมตั้งแต่การพัฒนาโมเดลใหม่ การขยายตัวของธุรกิจและโครงสร้างพื้นฐาน ไปจนถึงประเด็นความปลอดภัยและผลกระทบทางสังคม",
+  "generated_at": "2026-10-28T10:38:45+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญในวงการ AI ทั้งการเปิดตัวโมเดลใหม่ ความก้าวหน้าด้านการวิจัย และประเด็นความปลอดภัยที่ส่งผลกระทบต่อองค์กรและภาครัฐ",
   "points": [
    {
-    "text": "ความก้าวหน้าของโมเดล AI และการใช้งานในธุรกิจ: Google เปิดตัว Genie 4 สำหรับสร้างประสบการณ์โต้ตอบ, LiquidAI เปิดตัวโมเดลขนาดเล็ก LFM3-1.7B, และ Apple เตรียมนำ AI มาใช้ในชุดแอปสำนักงาน ขณะที่ OpenAI ขยายความร่วมมือกับ Oracle และ Anthropic พัฒนา Claude Duet พร้อมขยายการใช้งานในหน่วยงานรัฐ",
+    "text": "Google เปิดตัวโมเดล Gemini 4 Argon ที่รองรับเอาต์พุตสูงสุด 1 ล้านโทเคน และ Genie 4 สำหรับสร้างประสบการณ์โต้ตอบสมจริง ในขณะที่ LiquidAI เปิดตัวโมเดลขนาดเล็ก LFM3-1.7B สำหรับงานเอเจนต์บนอุปกรณ์พกพา",
     "ids": [
+     "2f1a76ee0328",
      "3513fbe8e952",
-     "7ac9304a8f42",
-     "0d516a24ee36",
-     "a3a879144b29",
-     "3dec6b4cf943",
-     "55d127c81982"
+     "7ac9304a8f42"
     ]
    },
    {
-    "text": "ความท้าทายด้านความปลอดภัยและจริยธรรม: เกิดกรณีฟ้องร้อง OpenAI จากคำแนะนำทางการแพทย์ที่ผิดพลาด และ Cohere ตรวจพบพฤติกรรมน่าสงสัยของโมเดล Qwen ที่ส่งข้อมูลกลับเซิร์ฟเวอร์ในจีน รวมถึงนักวิจัยเริ่มวิจารณ์ OpenAI เรื่องการปิดกั้นข้อมูลความก้าวหน้าทางเทคโนโลยี",
+    "text": "Anthropic เผชิญความท้าทายด้านความสัมพันธ์กับภาครัฐสหรัฐฯ ท่ามกลางการเตรียมตัว IPO และการถือหุ้นของ Amazon แต่ยังคงเดินหน้าใช้ Claude ช่วยเร่งกระบวนการวิจัยและพัฒนายาอย่างมีนัยสำคัญ",
+    "ids": [
+     "77a430eb2248",
+     "5d9174dd4f1a",
+     "55d127c81982",
+     "1b16f2a2a47a",
+     "01f0d2f05530",
+     "851ab2c12c7c"
+    ]
+   },
+   {
+    "text": "ประเด็นความปลอดภัยและจริยธรรม AI ยังคงเป็นเรื่องเร่งด่วน ทั้งกรณีการฟ้องร้อง OpenAI จากคำแนะนำทางการแพทย์ที่ผิดพลาด และความกังวลด้านความปลอดภัยของโมเดลโอเพนซอร์สจากจีนที่ส่งข้อมูลกลับเซิร์ฟเวอร์",
     "ids": [
      "a2f907c053da",
-     "23ea747cd926",
-     "ba3cece69efb"
+     "23ea747cd926"
     ]
    },
    {
-    "text": "การลงทุนและโครงสร้างพื้นฐาน: Disruptive ระดมทุน 1 หมื่นล้านดอลลาร์เพื่อลงทุนในสตาร์ทอัพ AI, General Compute ระดมทุนพัฒนาชิป Inference, และ SK Hynix มุ่งเน้นการผลิต HBM4 เพื่อรองรับความต้องการที่พุ่งสูงขึ้น",
+    "text": "บริษัทเทคโนโลยีรายใหญ่มีการปรับตัวเชิงกลยุทธ์ เช่น Apple ที่เตรียมนำ AI มาใช้ในแอปสำนักงาน, Amazon ที่ปรับโครงสร้างแผนก AI และแนวโน้มราคา GPU ที่อาจลดลงในปีหน้าเนื่องจากความต้องการในตลาดเปลี่ยนไป",
     "ids": [
-     "195cb6337f5e",
-     "e4dd73cec05d",
-     "9b367299b78a"
-    ]
-   },
-   {
-    "text": "ผลกระทบทางสังคมและสิ่งแวดล้อม: การขยายตัวของศูนย์ข้อมูล AI กำลังเผชิญกับการต่อต้านจากชุมชนท้องถิ่นในสหรัฐฯ และเกิดความกังวลเรื่องการแย่งชิงทรัพยากรพลังงานสะอาดในระดับโลก",
-    "ids": [
-     "415aa97d276f",
-     "8cc6860df974"
-    ]
-   },
-   {
-    "text": "การประยุกต์ใช้ AI ในงานวิจัยและชีวิตประจำวัน: Claude และเทคโนโลยี AI อื่นๆ ถูกนำมาใช้เร่งกระบวนการวิจัยยาและรักษาโรคสมองเสื่อม รวมถึงการนำ AI มาใช้ตรวจจับพฤติกรรมการขับขี่และเครื่องมือช่วยชีวิตแบบออฟไลน์",
-    "ids": [
-     "01f0d2f05530",
-     "851ab2c12c7c",
-     "4a299d1e9f3d",
-     "099c4912233a",
-     "62b1fcdba263"
+     "0d516a24ee36",
+     "a044912b52ff",
+     "77b008858811"
     ]
    }
   ]
@@ -139,7 +129,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": null
   }
  ],
@@ -163,9 +153,143 @@
   "a30b4228516c",
   "f0dc5032b5be",
   "db98bf59a6c7",
-  "94bd09c7b9e0"
+  "94bd09c7b9e0",
+  "77add2a0f7d3",
+  "2c70456f6024",
+  "def989c58b9d"
  ],
  "items": [
+  {
+   "id": "2f1a76ee0328",
+   "url": "https://www.blognone.com/node/152032",
+   "source": "Blognone",
+   "published": "2026-10-28T10:00:00+00:00",
+   "title": "Google เปิดตัว Gemini 4 Argon ส่งออกข้อมูลได้ 1 ล้านโทเคน ล้ำหน้าที่สุดในอุตสาหกรรม",
+   "text": "Body Google เปิดตัว Gemini 4 Argon โมเดล AI ระดับแนวหน้ารุ่นล่าสุดอย่างเป็นทางการ โดยพร้อมให้ใช้งานทั่วไป (GA) ใน Gemini Enterprise แล้ว โดย Gemini 4 Argon ถูกสร้างมาเพื่อการใช้เหตุผลเชิงลึก สามารถแก้ปัญหาที่ยากและซับซ้อนเหมาะกับการใช้งานระดับองค์กรทั้งด้านวิศวกรรมซอฟต์แวร์ การวิจัยทางการเงิน การร่างเอกสารทางกฎหมาย และการป้องกันภัยไซเบอร์ Gemini 4 Argon มีจุดเด่นหลักๆ ได้แก่ เอาต์พุตสูงสุด 1 ล้านโทเคน: ขยายขีดจำกัดเอาต์พุตจาก 64,000 เป็น 1,000,000 โทเคน ช่วยให้ใช้เหตุผลเชิงลึกและทำงานขนาดใหญ่ได้จบในรอบเดียวโดยไ",
+   "title_th": "Google เปิดตัว Gemini 4 Argon รองรับเอาต์พุตสูงสุด 1 ล้านโทเคน",
+   "summary_th": "Google เปิดตัว Gemini 4 Argon โมเดล AI รุ่นล่าสุดที่เน้นการใช้เหตุผลเชิงลึกสำหรับงานระดับองค์กร จุดเด่นสำคัญคือการขยายขีดจำกัดเอาต์พุตข้อมูลได้สูงสุดถึง 1 ล้านโทเคน เพื่อรองรับงานที่ซับซ้อนและมีขนาดใหญ่",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Google"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2fc8e689e413",
+   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "source": "OpenAI",
+   "published": "2026-10-28T09:30:00+00:00",
+   "title": "Legora is building the agentic operating system for legal work",
+   "text": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+   "title_th": "Legora พัฒนา Agentic OS สำหรับงานด้านกฎหมาย",
+   "summary_th": "Legora ใช้โมเดลของ OpenAI เพื่อสร้างระบบปฏิบัติการแบบ Agentic สำหรับงานกฎหมาย ช่วยเร่งกระบวนการทำงาน วิเคราะห์สัญญา และเพิ่มประสิทธิภาพให้ทนายความ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Legora",
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "354a001c7bb0",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3FOTWhTbXZ6MG1oU3huaUFvUS1VaVVaRFZTelhheklPcEtHbWh3SkZOUVNfc25OTlZDS05fQzAzYzJkd3ZZM2JOZ1NubjcwMWRwZTREekZ5MUU2LUlkRXhJdjQ4MUdySWZvWEFWMTJ0RmN2TWVzZGoyLXlOMFZmX3hZWlhnOTIwYkRkMUc2QnFWVVdfZnNxSjZWZzdxOWFrNUVKNEVKdE5kVk5mQWxWdDBLYmM3NFUzazJYYUpMSGduT2Y2c0ZLWmZfV3p0N3Ruc2pzV01qR1dKdw?oc=5",
+   "source": "Investopedia",
+   "published": "2026-10-28T09:00:00+00:00",
+   "title": "Anthropic Investors Aren’t Just Buying a Chatbot—Here’s How the Company Behind Claude Makes Money",
+   "text": "",
+   "title_th": "เจาะลึกโมเดลธุรกิจของ Anthropic ผู้สร้าง Claude",
+   "summary_th": "บทความวิเคราะห์ถึงวิธีการสร้างรายได้ของ Anthropic นอกเหนือจากการเป็นเพียงผู้ให้บริการแชทบอต เพื่อให้เห็นภาพรวมธุรกิจของบริษัท AI ชั้นนำ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "77a430eb2248",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPazMyTEtZY2RWSjJJaC05T0Y2NDE4bG9NeF9od29uVmtubVYxQnVNOGFuY0hrNjM1bW0xRFVGUkJHbEJNSjJWVGc0YzA0TFZKcl9fRlM0YnVjcU55aXhDcTk1Nl9PYkhXWWZYUnVpMUx5XzNIVTBwR0VPUkxfMnltUEExbGE0alRYZXQtUzhJWDZrTTFqbm1EMW5LbTd1UGx0Z1JCejgxVU1BOWs30gGyAUFVX3lxTE45MVA4TGJmSW1LU1BrdW5MOFhVb1UwU0FDdTZwcnhiNUN5NlhHaW4wTjc5ZDFya2NRUEE0TjEtU21INHhORE5LRUxoeEhNYmo5YXBVcEtjWm1JOGdUaFVYMHV4RndneXVIZ2EwWEN0QjVzOHBRVFVJODR3MzJGSVlPM0RfZTJQWENuaGZHck1zMmZUd0tsOFc0bUpRRmdjUzFTYUFtZHJGUmoxel9oV2t2MXc?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published": "2026-10-28T07:52:52+00:00",
+   "title": "Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain 'risk'",
+   "text": "",
+   "title_th": "รัฐบาลสหรัฐฯ สั่งตัดความสัมพันธ์กับ Anthropic",
+   "summary_th": "มีรายงานว่ารัฐบาลสหรัฐฯ ได้ออกคำสั่งให้หน่วยงานรัฐตัดความสัมพันธ์กับ Anthropic โดยอ้างเหตุผลด้านความเสี่ยงของห่วงโซ่อุปทาน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "978565a6b593",
+   "url": "https://www.blognone.com/node/152041",
+   "source": "Blognone",
+   "published": "2026-10-28T07:23:44+00:00",
+   "title": "Amazon ปรับวิธีวัดการใช้ AI ช่วยเขียนโค้ด จากเดิมสนใจจำนวน Token และบรรทัดของโค้ด",
+   "text": "Body Amazon เผยแพร่บันทึกภายในของทีมวิศวกรรมซอฟต์แวร์ ว่าได้ปรับวิธีการวัดผลว่าใช้ AI ช่วยพัฒนาซอฟต์แวร์ได้ดีแค่ไหน จากเดิมที่วัดด้วยการนับ token หรือนับบรรทัดของโค้ด (line of codes) มาเป็นการวัดผลลัพธ์สุดท้ายแทน Amazon ยอมรับว่าถึงแม้การวัดผลแบบนี้ยังใช้ได้ในหลายกรณี แต่มันอาจส่งผลในเชิงลบ เช่น การกระหน่ำใช้โทเคนมากๆ (tokenmaxxing) หรือจูงใจให้เขียนโค้ดยาวขึ้น แทนการเขียนโค้ดสั้นๆ ที่ได้ผลเหมือนกัน แนวทางใหม่ที่ Amazon ใช้งานคือวัดที่ผลลัพธ์สุดท้าย (outcome) ของงาน ซึ่งบริษัทก็ยอมรับว่าวัดผลได้ยากในระยะสั้น จึงข",
+   "title_th": "Amazon ปรับวิธีวัดผลการใช้ AI ช่วยเขียนโค้ด",
+   "summary_th": "Amazon เปลี่ยนแนวทางการวัดประสิทธิภาพการใช้ AI ช่วยเขียนโค้ด จากเดิมที่นับจำนวนโทเคนหรือบรรทัด มาเป็นการวัดที่ผลลัพธ์สุดท้าย เพื่อป้องกันพฤติกรรมที่ไม่เหมาะสมในการใช้งาน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Amazon"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7a0b3f7203f8",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwOTRqSmk0WjAweVZQNktPUEZQcVRTRDNOeUpQLVVtZmFrSVVBUjIwTFc1MkItS0poallzN3M1LTJtVW5TbzNYUXVjVWlrNjZZVmhwYkY3WQ?oc=5",
+   "source": "Hfocus.org",
+   "published": "2026-10-28T05:15:04+00:00",
+   "title": "เปิดเวที DTAM Digital Hackathon 2026 แข่งพัฒนา AI ต่อยอดภูมิปัญญาไทย",
+   "text": "",
+   "title_th": "DTAM จัดงาน Digital Hackathon 2026 พัฒนา AI ต่อยอดภูมิปัญญาไทย",
+   "summary_th": "มีการจัดเวทีแข่งขันพัฒนา AI เพื่อนำมาประยุกต์ใช้ในการต่อยอดภูมิปัญญาไทยในงาน DTAM Digital Hackathon 2026",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "77b008858811",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-28T04:34:41+00:00",
+   "title": "Dirt cheap GPUs coming next year",
+   "text": "I think a turn of events are pointing towards a very likely crash in prices in the coming months. With a single gb300 rack being to serve all of Openrouter's traffic for DSV4.1 Flash( https://x.com/thdxr/status/2115165365630026178 ) Half of data center buildouts already being cancelled/stalled. Neoclouds unable to finance debt for their compute, and being stuck in a 5 year deal with no confirmed demand. AI adoption not matching expectations. Smaller models being able to serve majority of the requests. OpenAI/Anthropic being unlikely to finance their coming compute contracts. I think we will se",
+   "title_th": "คาดการณ์ราคา GPU อาจลดลงในปีหน้า",
+   "summary_th": "มีการวิเคราะห์ถึงแนวโน้มราคา GPU ที่อาจปรับตัวลดลงเนื่องจากความต้องการในตลาดไม่เป็นไปตามคาด และการที่โมเดลขนาดเล็กสามารถทำงานได้ดีขึ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ecdc6b48bf5b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhdmlk/artificial_analysis_intelligence_index_v5_major/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-28T03:36:56+00:00",
+   "title": "Artificial Analysis Intelligence Index v5 (major update)",
+   "text": "Artificial Analysis Intelligence Index has been updated to v5, which according to them is a major upgrade resulting in a more accurate ranking. Notably, this update widens the gap between open-weight models and closed ones. Some people already questioning its accuracy based on their experiences with models (GPT-Terra-6.1 > Fable-5.1). Also, this update, v5, has 60% of the Index based on evaluations with private test sets or held-out answers, which makes reproducing the results impossible. From their announcement: “The open weights gap widens from 3 points to 12: Kimi K3.1 Pro (weights not yet ",
+   "title_th": "Artificial Analysis อัปเดต Intelligence Index v5",
+   "summary_th": "มีการอัปเดตดัชนีวัดประสิทธิภาพโมเดล AI เวอร์ชัน 5 ซึ่งเน้นการประเมินด้วยชุดทดสอบส่วนตัวมากขึ้น ทำให้ช่องว่างระหว่างโมเดลโอเพนซอร์สและโมเดลปิดกว้างขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "55d127c81982",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
@@ -439,6 +563,23 @@
     "ElevenLabs"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "583278607ec8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh17tk/statistically_lossless_qwen38_27b_ggufs/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-27T18:52:27+00:00",
+   "title": "Statistically Lossless Qwen3.8 27B GGUFs",
+   "text": "Reposting just the HF link because author hid their analysis behind a paywall on their blog & apparently want qwen3.8 FN to find an exploit on substack & upload the contents of his blog to an alibaba server submitted by /u/Dany0 [link] [comments]",
+   "title_th": "เผยแพร่โมเดล Qwen3.8 27B แบบ Statistically Lossless",
+   "summary_th": "มีการแชร์ไฟล์โมเดล Qwen3.8 ขนาด 27B ในรูปแบบ GGUF ซึ่งเป็นโมเดลที่ถูกปรับแต่งให้สูญเสียข้อมูลน้อยที่สุด",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Alibaba"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -1060,6 +1201,36 @@
    "dedup": true
   },
   {
+   "id": "d4e4fc64e706",
+   "url": "https://huggingface.co/papers/2610.37381",
+   "source": "HF Daily Papers",
+   "published": "2026-10-26T20:00:00+00:00",
+   "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+   "text": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can capture scene dynamics, yet generating future videos introduces high latency into the control loop. We introduce PDRVLA, whose lightweight Physical Dynamics Module extracts physical tokens from vision--language features to condition action generation without online video generation. The module learns through direct prediction of future RGB, depth, and optical-flow features, with auxiliary supervisio",
+   "title_th": "เปิดตัว PDRVLA โมเดล VLA ที่เข้าใจพลศาสตร์ทางกายภาพ",
+   "summary_th": "นักวิจัยนำเสนอ PDRVLA โมเดล Vision-Language-Action ที่ใช้โมดูล Physical Dynamics เพื่อสกัดข้อมูลทางกายภาพมาช่วยในการตัดสินใจของหุ่นยนต์โดยไม่ต้องสร้างวิดีโอออนไลน์",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "28bd24cde23e",
+   "url": "https://huggingface.co/papers/2610.37341",
+   "source": "HF Daily Papers",
+   "published": "2026-10-26T20:00:00+00:00",
+   "title": "CodeCap-Bench: Can Code Serve as a Good Video Caption?",
+   "text": "Video captioning aims to preserve visual information through compact descriptions, predominantly using natural language. However, precisely expressing fine-grained spatial structures and temporal dynamics in natural language often leads to lengthy and potentially ambiguous descriptions. In this work, we explore Code as Video Caption, a paradigm where executable programs serve as a complementary representation of visual content through graphical primitives, layout rules, and functions of time. To examine whether code captions effectively preserve video information, we compare them with natural ",
+   "title_th": "CodeCap-Bench งานวิจัยการใช้โค้ดแทนคำบรรยายวิดีโอ",
+   "summary_th": "งานวิจัยนำเสนอแนวคิดการใช้โค้ดโปรแกรมเป็นคำบรรยายวิดีโอ เพื่ออธิบายโครงสร้างเชิงพื้นที่และพลศาสตร์ของเวลาได้แม่นยำกว่าภาษาธรรมชาติ",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "f7b9bc5b7e40",
    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
    "source": "MIT Technology Review",
@@ -1321,6 +1492,21 @@
    "text": "Diffusion language models (DLMs) promise parallel text generation, but in practice face an unresolved speed-quality trade-off. Exact decoding fills in only one masked position per model pass, while faster multi-token decoding schemes are lossy. Speculative decoding is the standard lossless acceleration for autoregressive models. However, it does not transfer directly to DLMs, which must choose both what to generate and where. We show that this order is the missing piece: the model's own predictions from the previous pass already give the right token at over 90% of positions, but not which posi",
    "title_th": "งานวิจัยนำเสนอ SPOT เพิ่มประสิทธิภาพการถอดรหัสสำหรับ Diffusion Language Models",
    "summary_th": "งานวิจัยนำเสนอเทคนิค SPOT เพื่อแก้ปัญหาความเร็วและคุณภาพในการสร้างข้อความของ Diffusion Language Models โดยใช้การทำนายลำดับการคอมมิตเพื่อเพิ่มประสิทธิภาพการถอดรหัส",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "14c308a32a9e",
+   "url": "https://huggingface.co/papers/2610.36077",
+   "source": "HF Daily Papers",
+   "published": "2026-10-25T20:00:00+00:00",
+   "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+   "text": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-improvement framework coupling world generation with Harness evolution through three roles: Creator,",
+   "title_th": "The Trinity แนวทางการพัฒนาตนเองของ Multimodal Agents",
+   "summary_th": "นำเสนอแนวคิด The Trinity ซึ่งเป็นกระบวนการพัฒนาตนเองแบบเรียกซ้ำสำหรับ Multimodal Agents เพื่อแก้ปัญหาความหลากหลายของงานและข้อจำกัดในการสร้างสภาพแวดล้อมทดสอบ",
    "category": "งานวิจัย",
    "companies": [],
    "importance": 3,

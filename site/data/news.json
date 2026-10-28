@@ -1,42 +1,50 @@
 {
- "updated_at": "2026-10-28T10:38:45+00:00",
+ "updated_at": "2026-10-28T18:23:00+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-10-28T10:38:45+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญในวงการ AI ทั้งการเปิดตัวโมเดลใหม่ ความก้าวหน้าด้านการวิจัย และประเด็นความปลอดภัยที่ส่งผลกระทบต่อองค์กรและภาครัฐ",
+  "generated_at": "2026-10-28T18:23:00+00:00",
+  "headline": "ความเคลื่อนไหวครั้งใหญ่ของ Google ในการเปิดตัว Gemini รุ่นใหม่ พร้อมความท้าทายด้านกฎหมายและนโยบายที่ Anthropic และบริษัท AI ชั้นนำกำลังเผชิญ",
   "points": [
    {
-    "text": "Google เปิดตัวโมเดล Gemini 4 Argon ที่รองรับเอาต์พุตสูงสุด 1 ล้านโทเคน และ Genie 4 สำหรับสร้างประสบการณ์โต้ตอบสมจริง ในขณะที่ LiquidAI เปิดตัวโมเดลขนาดเล็ก LFM3-1.7B สำหรับงานเอเจนต์บนอุปกรณ์พกพา",
+    "text": "Google เปิดตัว Gemini 4 Carbon และ Gemini 4 Argon ที่เน้นงานระดับองค์กรและการใช้เหตุผลเชิงลึก พร้อมขยายขีดจำกัดเอาต์พุตถึง 1 ล้านโทเคน และเปิดแพลตฟอร์มเชื่อมต่อบริการเข้ากับ Gemini",
     "ids": [
+     "34b0bf3f94c3",
      "2f1a76ee0328",
-     "3513fbe8e952",
-     "7ac9304a8f42"
+     "a01db71b034c",
+     "c802108aab79"
     ]
    },
    {
-    "text": "Anthropic เผชิญความท้าทายด้านความสัมพันธ์กับภาครัฐสหรัฐฯ ท่ามกลางการเตรียมตัว IPO และการถือหุ้นของ Amazon แต่ยังคงเดินหน้าใช้ Claude ช่วยเร่งกระบวนการวิจัยและพัฒนายาอย่างมีนัยสำคัญ",
+    "text": "Anthropic เผชิญสถานการณ์ที่ซับซ้อน ทั้งการถูกฟ้องร้องเรื่องลิขสิทธิ์เพลงและการสั่งตัดความสัมพันธ์จากรัฐบาลสหรัฐฯ ในขณะที่ยังคงขยายความร่วมมือกับหน่วยงานรัฐผ่าน GSA และมีการเปิดเผยสัดส่วนหุ้นของ Amazon",
     "ids": [
      "77a430eb2248",
-     "5d9174dd4f1a",
+     "b137501d0def",
      "55d127c81982",
-     "1b16f2a2a47a",
-     "01f0d2f05530",
-     "851ab2c12c7c"
+     "1b16f2a2a47a"
     ]
    },
    {
-    "text": "ประเด็นความปลอดภัยและจริยธรรม AI ยังคงเป็นเรื่องเร่งด่วน ทั้งกรณีการฟ้องร้อง OpenAI จากคำแนะนำทางการแพทย์ที่ผิดพลาด และความกังวลด้านความปลอดภัยของโมเดลโอเพนซอร์สจากจีนที่ส่งข้อมูลกลับเซิร์ฟเวอร์",
+    "text": "ความเคลื่อนไหวของ NVIDIA ในการเปิดตัวฮาร์ดแวร์และโมเดลประมวลผลภาษา รวมถึงการวิเคราะห์แนวโน้มราคา GPU ที่อาจลดลงในปีหน้าเนื่องจากประสิทธิภาพของโมเดลขนาดเล็กที่เพิ่มขึ้น",
+    "ids": [
+     "36eb3dda48d9",
+     "d9d311919980",
+     "7ae8eb20550e",
+     "77b008858811"
+    ]
+   },
+   {
+    "text": "บริษัทเทคโนโลยีรายใหญ่อย่าง Meta และ Microsoft กำลังปรับตัวด้านการลงทุนและโครงสร้างพื้นฐาน AI ท่ามกลางแรงกดดันด้านต้นทุนและการคัดค้านจากสำนักพิมพ์เรื่องการใช้ข้อมูลฝึกฝนโมเดล",
+    "ids": [
+     "7712901314f3",
+     "1739307690c3",
+     "81ef804488f9"
+    ]
+   },
+   {
+    "text": "ประเด็นความปลอดภัยและจริยธรรม AI ยังคงเป็นเรื่องสำคัญ หลังมีการฟ้องร้อง OpenAI กรณีคำแนะนำของ ChatGPT ที่ส่งผลกระทบต่อชีวิต และความเสี่ยงจากการโจมตีไซเบอร์ด้วย AI ในสถาบันการเงิน",
     "ids": [
      "a2f907c053da",
-     "23ea747cd926"
-    ]
-   },
-   {
-    "text": "บริษัทเทคโนโลยีรายใหญ่มีการปรับตัวเชิงกลยุทธ์ เช่น Apple ที่เตรียมนำ AI มาใช้ในแอปสำนักงาน, Amazon ที่ปรับโครงสร้างแผนก AI และแนวโน้มราคา GPU ที่อาจลดลงในปีหน้าเนื่องจากความต้องการในตลาดเปลี่ยนไป",
-    "ids": [
-     "0d516a24ee36",
-     "a044912b52ff",
-     "77b008858811"
+     "1af93ecc8fda"
     ]
    }
   ]
@@ -156,9 +164,376 @@
   "94bd09c7b9e0",
   "77add2a0f7d3",
   "2c70456f6024",
-  "def989c58b9d"
+  "def989c58b9d",
+  "7e7377082087",
+  "6a7b2d702bba",
+  "efca0b654d0c",
+  "8030d1b5c635",
+  "5e4098babe95",
+  "e985329a7777",
+  "6318bf62f2c5",
+  "4e5ec94f40bf",
+  "e8c61706efad"
  ],
  "items": [
+  {
+   "id": "b85c3831e13a",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWVNRVVR4Y1lWYXF5bm9nU1VOTlk1d3VPdkhuejZyNHBINDMtQ2tFWng4WHhEa1F1UjQzNmFaR1pUVDJlaGVlVGFNSk92TzBOSDVURk5WVlRPMlRSQzNPUzkwWkVCVXgzdEdjSVREcEFyNHJxZmp1dkRUYjRsVnpyZDd2WWJvdl9xWVQ0RkZYeFlqVlZqUHNOMA?oc=5",
+   "source": "GenomeWeb",
+   "published": "2026-10-28T18:03:00+00:00",
+   "title": "A Biotech Used Anthropic’s Claude to Design Better CAR T Signaling Domain",
+   "text": "",
+   "title_th": "บริษัทเทคโนโลยีชีวภาพใช้ Claude ของ Anthropic ออกแบบโดเมนสัญญาณ CAR T",
+   "summary_th": "บริษัทเทคโนโลยีชีวภาพนำโมเดล Claude มาประยุกต์ใช้ในการออกแบบโดเมนสัญญาณสำหรับเซลล์บำบัด CAR T ซึ่งช่วยเพิ่มประสิทธิภาพในการพัฒนาการรักษาทางการแพทย์",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "34b0bf3f94c3",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind",
+   "published": "2026-10-28T17:00:58+00:00",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "text": "",
+   "title_th": "Google DeepMind เผยรายละเอียด Gemini 4 Carbon",
+   "summary_th": "Google DeepMind ประกาศเปิดตัว Gemini 4 Carbon ในฐานะโมเดลระดับแนวหน้าตัวใหม่ล่าสุดของบริษัท",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Google"
+   ],
+   "importance": 5,
+   "ai": true,
+   "also": [
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152047"
+    },
+    {
+     "source": "Hacker News",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "a01db71b034c",
+   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-28T17:00:00+00:00",
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "text": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+   "title_th": "Google เปิดแพลตฟอร์มให้นักพัฒนาเชื่อมต่อบริการเข้ากับ Gemini",
+   "summary_th": "Google เปิดตัวแพลตฟอร์มใหม่ที่ช่วยให้ธุรกิจสามารถนำบริการของตนเข้าสู่ประสบการณ์ AI ของ Google ได้ ซึ่งจะเปลี่ยนวิธีการค้นหาและใช้งานแอปพลิเคชันของผู้ใช้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c802108aab79",
+   "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+   "source": "The Verge AI",
+   "published": "2026-10-28T16:32:41+00:00",
+   "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+   "text": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
+   "title_th": "Chrome ขยายความสามารถ Autofill ด้วย Gemini",
+   "summary_th": "Chrome อัปเดตฟีเจอร์ Autofill ให้สามารถดึงข้อมูลจาก Gmail มาช่วยกรอกข้อมูลในแบบฟอร์มต่างๆ ได้อย่างชาญฉลาดผ่านเทคโนโลยี Gemini",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "c1bc7bea3bcc",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-28T16:28:00+00:00",
+   "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs, plus free shipping — 300 racks of decommissioned GPUs on offer",
+   "text": "Anyone want to chip in a cool $60m for me? submitted by /u/giveen [link] [comments]",
+   "title_th": "พบการขายซูเปอร์คอมพิวเตอร์ AI มือสองบน eBay",
+   "summary_th": "มีการประกาศขายซูเปอร์คอมพิวเตอร์ AI ขนาดใหญ่ที่ประกอบด้วย GPU Nvidia A100 จำนวนมากบนเว็บไซต์ eBay ซึ่งสะท้อนถึงตลาดฮาร์ดแวร์ AI มือสอง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA",
+    "AMD"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1739307690c3",
+   "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+   "source": "The Verge AI",
+   "published": "2026-10-28T16:15:30+00:00",
+   "title": "Meta says it’ll probably delay its controversial new business terms again",
+   "text": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" […]",
+   "title_th": "Meta อาจเลื่อนการบังคับใช้ข้อกำหนดธุรกิจใหม่ท่ามกลางกระแสคัดค้าน",
+   "summary_th": "Meta พิจารณาเลื่อนการบังคับใช้ข้อกำหนดธุรกิจใหม่เนื่องจากได้รับแรงกดดันจากสำนักพิมพ์ที่กังวลเรื่องการนำข้อมูลไปใช้ฝึกฝน AI",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "516d6345c17a",
+   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-28T15:53:52+00:00",
+   "title": "AI execs may be too out of touch to build for the general public",
+   "text": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+   "title_th": "บทวิเคราะห์: ผู้บริหาร AI อาจห่างเหินจากผู้ใช้งานทั่วไป",
+   "summary_th": "บทความวิจารณ์ว่าผู้นำด้านเทคโนโลยี AI อาจขาดความเข้าใจในความต้องการของผู้ใช้งานทั่วไปจากการแสดงความคิดเห็นที่ไม่เหมาะสม",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1af93ecc8fda",
+   "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-28T15:41:18+00:00",
+   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+   "text": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+   "title_th": "สถาบันการเงินในเกาหลีใต้เผชิญการโจมตีไซเบอร์ระลอกใหม่",
+   "summary_th": "สถาบันการเงินในเกาหลีใต้ถูกโจมตีทางไซเบอร์ ซึ่งตอกย้ำถึงความเสี่ยงที่เพิ่มขึ้นจากการแฮ็กด้วย AI ในภูมิภาคเอเชีย",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "586ebfabd2cd",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTJlbERhR2hXeUJNbkw5cUVwd0Q1MTZkQUNMU0hWbnlfZmhlTmdOVi1CWm8yVjMwZ1NGaC1TZmdkOWg2S1c5bUpxelowTXdXcTh0aTExU0o4d2lEaDZHY1BIVlJFRTFpQ3FZUHM1VnZmNUxEb1d1eGpkR2U4ZkdvNjVnMGc5VEVpQ1pON28yaGs0alY0Tm1TOGRaQ1BMWWJmZlFYRm5nZHkxYXZZOEFxOWs5YU52QzI2VFBybzU5MW42NVpveEkxdGFwUEZpSWtkZmp2MThR?oc=5",
+   "source": "Law.com",
+   "published": "2026-10-28T15:15:00+00:00",
+   "title": "Anthropic Releases Claude for Legal Artifacts, a Set of New Interactive Tools for Legal Users",
+   "text": "",
+   "title_th": "Anthropic เปิดตัว Claude for Legal Artifacts",
+   "summary_th": "Anthropic เปิดตัวชุดเครื่องมือโต้ตอบสำหรับผู้ใช้งานในสายงานกฎหมาย เพื่อช่วยเพิ่มประสิทธิภาพในการจัดการเอกสารทางกฎหมาย",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFBaWDBVa3BKM0dEcGpjZldpYXlJb1pZdDYtMFFOaDJpMEtjWkVyaGMtVHhGd0pwZDRLLUJhNnlveHJwZHNsckY1STlMZXBuc1Z4SUpiSEJVTFlWR0I5d1o3X3ZabkRNMkE0TDRTaVNiVnRzS0o4S1JTcllTVUVPZ1JXOFI1bFV2dm1JaE00YzluSGZwY2V4NDk1aVB3c1RTX2pFZUk5SzQ?oc=5"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "7712901314f3",
+   "url": "https://www.blognone.com/node/152046",
+   "source": "Blognone",
+   "published": "2026-10-28T15:03:13+00:00",
+   "title": "Meta ขายหุ้นระดมทุนครั้งใหญ่ 3.3 ล้านล้านบาท AMD, NVIDIA, Broadcom ลงทุนด้วย",
+   "text": "Body Meta ประกาศระดมทุนก้อนใหญ่ มูลค่ารวม 97.5 พันล้านดอลลาร์ (ราว 3.3 ล้านล้านบาท) เพื่อนำไปใช้ลงทุนโครงสร้างพื้นฐาน AI, การพัฒนาโมเดล Muse และธุรกิจเดิมที่ทำแอพโซเชียล การระดมทุนครั้งนี้แบ่งออกเป็น 2 ส่วนคือ ออกหุ้นใหม่ มูลค่ารวม 37.5 พันล้านดอลลาร์ แบ่งเป็นหุ้นแบบ Class C Common Stock 25 พันล้านดอลลาร์ และ Preferred Stock อีก 12.5 พันล้านดอลลาร์ นำหุ้นล็อตที่เคยประกาศไว้ก่อนหน้านี้ (เป็น Class A Common Stock) มาขายในตลาดที่มูลค่ารวม 60 พันล้านดอลลาร์ การระดมทุนก้อนแรก ได้พันธมิตรธุรกิจ 3 รายซึ่งเป็นผู้ผลิตชิปทั้งหม",
+   "title_th": "Meta ระดมทุนครั้งใหญ่เพื่อลงทุนโครงสร้างพื้นฐาน AI",
+   "summary_th": "Meta ประกาศระดมทุนก้อนใหญ่เพื่อนำไปใช้พัฒนาโครงสร้างพื้นฐานด้าน AI และโมเดล Muse โดยมีพันธมิตรอย่าง AMD และ NVIDIA เข้าร่วมลงทุน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Meta",
+    "AMD",
+    "NVIDIA"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "36eb3dda48d9",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+   "source": "NVIDIA",
+   "published": "2026-10-28T15:00:46+00:00",
+   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+   "text": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
+   "title_th": "NVIDIA เปิดตัวแล็ปท็อป RTX Spark ขุมพลัง Blackwell และ Grace CPU",
+   "summary_th": "NVIDIA เปิดตัวแล็ปท็อปซีรีส์ RTX Spark ที่ใช้ชิปประมวลผล Blackwell RTX GPU ร่วมกับ Grace CPU ในชิปเดียว เพื่อรองรับงานด้านนักพัฒนา ครีเอเตอร์ และเกมเมอร์ โดยมีผู้ผลิตชั้นนำหลายรายเข้าร่วมผลิต",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "NVIDIA",
+    "ASUS",
+    "Dell"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d9d311919980",
+   "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-28T15:00:00+00:00",
+   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "text": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+   "title_th": "NVIDIA ปล่อยโมเดลแปลงเสียงเป็นข้อความแบบโอเพนซอร์ส รองรับ 40 ภาษา",
+   "summary_th": "NVIDIA เปิดตัวโมเดล Speech-to-Text แบบฟรีที่รองรับการถอดความได้ถึง 40 ภาษา แต่ยังจำกัดการใช้งานเฉพาะไฟล์บันทึกเสียงเท่านั้น ไม่รองรับการประมวลผลแบบเรียลไทม์",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7ae8eb20550e",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "source": "Hugging Face",
+   "published": "2026-10-28T14:58:17+00:00",
+   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+   "text": "",
+   "title_th": "NVIDIA เปิดตัว Nemotron 3.5 Transcribe และ Granary v2",
+   "summary_th": "NVIDIA นำเสนอโมเดล Nemotron 3.5 Transcribe และ Granary v2 ซึ่งเป็นเครื่องมือถอดความหลายภาษาที่สามารถปรับแต่งและสั่งงานด้วย Prompt ได้",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1d279a3c29e4",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWR3LUtEY3JZNnBIc3VxUjZWYmdlUHZ5eTFSM3FDVUd1YVowX0RqZ2dVQW9SeHppcEpkOEgxekhXR3N5eEFNOWd1UF94bWh6R1hYcGt6cUhlR1g1dDRHQ290bGdJUkV5azV4bW0tcGtURkphclc0d0RhaFRWUjRkb29OZ094ZVhad3ZsU081eV80alVjX2RIemx4TndZS3pIaHhfbk96QXlyX1g2clhmZQ?oc=5",
+   "source": "Dealroom",
+   "published": "2026-10-28T14:46:23+00:00",
+   "title": "phData lands Anthropic-backed funding to scale its Claude enterprise services",
+   "text": "",
+   "title_th": "phData ระดมทุนสำเร็จเพื่อขยายบริการ Claude สำหรับองค์กร",
+   "summary_th": "phData ได้รับเงินลงทุนสนับสนุนจาก Anthropic เพื่อนำไปขยายขีดความสามารถในการให้บริการโซลูชัน Claude สำหรับกลุ่มลูกค้าองค์กร",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "phData",
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5283652bd524",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+   "source": "The Verge AI",
+   "published": "2026-10-28T14:44:00+00:00",
+   "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+   "text": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans […]",
+   "title_th": "xAI เสนอซื้อบ้านจากผู้อยู่อาศัยเพื่อแลกกับการไม่ฟ้องร้องเรื่องเสียงรบกวน",
+   "summary_th": "บริษัทในเครือ xAI เสนอซื้อบ้านในละแวกใกล้เคียงกับศูนย์ข้อมูลและโรงไฟฟ้า โดยมีเงื่อนไขว่าผู้อยู่อาศัยต้องไม่เข้าร่วมการฟ้องร้องบริษัทเกี่ยวกับปัญหาเสียงรบกวน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "xAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "31ebe027e441",
+   "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+   "source": "Hacker News",
+   "published": "2026-10-28T13:41:30+00:00",
+   "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+   "text": "295 points, 341 comments on Hacker News (https://news.ycombinator.com/item?id=50273396)",
+   "title_th": "ชายชาวเคนทักกีได้รับข้อยกเว้นทางศาสนาจากการใช้งาน AI เป็นคนแรก",
+   "summary_th": "มีการรายงานกรณีชายคนหนึ่งได้รับสิทธิ์ยกเว้นทางศาสนาจากการบังคับใช้หรือเกี่ยวข้องกับเทคโนโลยี AI ซึ่งถือเป็นกรณีศึกษาที่น่าสนใจในเชิงสังคม",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "635e5e395a3d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-28T12:26:44+00:00",
+   "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
+   "text": "This might have implications for tool calling and computer use. Write-up: https://divagr.com/blog/qwenputer HF: https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer Live demo: https://modelscope.ai/studios/Spartan1925/Qwenputer submitted by /u/LatentSpacer [link] [comments]",
+   "title_th": "นักพัฒนาสร้าง CPU RISC-V 32-bit ภายในน้ำหนักโมเดล Qwen",
+   "summary_th": "มีการทดลองสร้าง CPU จำลองภายในน้ำหนักของโมเดล Qwen เพื่อให้สามารถประมวลผลคำสั่งได้โดยตรง ซึ่งอาจส่งผลต่อการพัฒนาด้านการสั่งงานเครื่องมือและคอมพิวเตอร์ในอนาคต",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Alibaba"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "85069581580d",
+   "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+   "source": "MIT Technology Review",
+   "published": "2026-10-28T12:00:00+00:00",
+   "title": "Pairing industrial AI autonomy and human control",
+   "text": "",
+   "title_th": "การจับคู่ระหว่างระบบ AI อัตโนมัติในอุตสาหกรรมและการควบคุมโดยมนุษย์",
+   "summary_th": "บทความวิเคราะห์ถึงความสำคัญของการผสานรวมระบบ AI อัตโนมัติเข้ากับกระบวนการทำงานในอุตสาหกรรม โดยยังคงต้องมีการกำกับดูแลและควบคุมโดยมนุษย์",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6da995572c9c",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+   "source": "The Verge AI",
+   "published": "2026-10-28T11:27:30+00:00",
+   "title": "Meta quietly launched an ‘AI pet journal’ app",
+   "text": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
+   "title_th": "Meta เปิดตัว Waddle World แอปบันทึกประจำวันในรูปแบบเกมสัตว์เลี้ยง AI",
+   "summary_th": "Meta เปิดตัวแอปพลิเคชันเกมแนวสัตว์เลี้ยงเสมือนจริงที่เน้นการสนทนาด้วยเสียง เพื่อใช้เป็นเครื่องมือในการบันทึกประจำวันของผู้ใช้งาน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "925a5fa83123",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhk7hp/aa_is_getting_ridiculous_now_zero_open_weights_in/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-28T10:19:22+00:00",
+   "title": "AA is getting ridiculous now. Zero open weights in the Most Attractive Quadrant.",
+   "text": "https://preview.redd.it/dvq3y314o6yh1.png?width=1332&format=png&auto=webp&s=87a0adf5f6329c375b253f4d18f8ebaf2e457e6f I've always actively disagreed with the conspiracy takes when AA reshuffled their index, but v5.0 now has zero open weight models in AA's Most Attractive Quadrant, let alone getting anywhere close to the Pareto line. The old version at least acknowledged DeepSeek, GLM, Kimi, and Qwen were attractive/interesting. I'm ready to ignore AA's index and look at the subsidiary benchmarks. Edit: I screencapped while they were still posting new scores. And it's actually still ongoing. But",
+   "title_th": "ข้อถกเถียงเรื่องการจัดอันดับโมเดล AI และการขาดหายไปของโมเดลโอเพนเวท",
+   "summary_th": "ผู้ใช้งานในชุมชนวิพากษ์วิจารณ์ดัชนีการจัดอันดับโมเดล AI ที่ดูเหมือนจะลดความสำคัญของโมเดลแบบโอเพนเวทลงในการจัดกลุ่มโมเดลที่น่าสนใจ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "2f1a76ee0328",
    "url": "https://www.blognone.com/node/152032",
@@ -173,6 +548,40 @@
     "Google"
    ],
    "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0dc3cf0b7c98",
+   "url": "https://openai.com/index/the-future-of-the-firm",
+   "source": "OpenAI",
+   "published": "2026-10-28T10:00:00+00:00",
+   "title": "The future of the firm",
+   "text": "How AI might enter the org chart—beneath, beside, and between us.",
+   "title_th": "OpenAI วิเคราะห์อนาคตขององค์กรกับการเข้ามาของ AI",
+   "summary_th": "OpenAI นำเสนอแนวคิดเกี่ยวกับบทบาทของ AI ในโครงสร้างองค์กร ทั้งในฐานะผู้ช่วยและส่วนหนึ่งของกระบวนการทำงานร่วมกับมนุษย์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fabbc74e31a1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhjn9d/gemma_5_models_soon/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-28T09:45:18+00:00",
+   "title": "Gemma 5 models soon ??",
+   "text": "https://x.com/osanseviero/status/2115351234811249111 submitted by /u/KokaOP [link] [comments]",
+   "title_th": "ข่าวลือการเปิดตัวโมเดล Gemma 5 จาก Google",
+   "summary_th": "มีการคาดการณ์ถึงการเปิดตัวโมเดลตระกูล Gemma รุ่นใหม่ในเร็วๆ นี้ ซึ่งเป็นโมเดลโอเพนเวทจาก Google ที่ได้รับความนิยมในกลุ่มนักพัฒนา",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Google"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -208,6 +617,23 @@
     "Anthropic"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b137501d0def",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aM0VCcEtCcW8wb2VSYU8zM2ducWdqTGtXbTVSQlVFenFITHdISHUzVllRRXdSNGtBcHVWcjYyd1VJTk9BcWRjeVdCYVFkVkJtWlE4cEp4eHMwUE4zakZGUlE4QnVHbUpnbVRUSTNYU0QzQkxiamRkdlB2OWsxVlU?oc=5",
+   "source": "Mashable",
+   "published": "2026-10-28T08:03:45+00:00",
+   "title": "Anthropic sued for allegedly training Claude on Elvis Presley's music",
+   "text": "",
+   "title_th": "Anthropic ถูกฟ้องร้องกรณีนำเพลงของ Elvis Presley มาใช้ฝึกสอน Claude",
+   "summary_th": "Anthropic เผชิญกับการฟ้องร้องทางกฎหมายในข้อหาละเมิดลิขสิทธิ์จากการนำผลงานเพลงของ Elvis Presley มาใช้ในการฝึกสอนโมเดล AI",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -397,6 +823,23 @@
     "Anthropic"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "81ef804488f9",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0NoUkRBemhmTEpYSEdEVThfNmlnWkRZcFF3YV83RFk5SHQwZl9GRGtVdXZtSGRmMFZUc013cjhUY3V4Z3g4c0piM2RkVXFFWThGajJmeVlNeVJuTmE1WDB5MGR1Q013bmZLS1ZNSGNyYXJ4WkRyMDFiZFBmNVM2cjdIMEQzTDBHUXJTN1JNLU5iNUw0eHR5N0xKc0RoX2pjeHh3YWFIUzY3N3Z4R1paeE9hX3VKbWFrWnc?oc=5",
+   "source": "internationalfinance.com",
+   "published": "2026-10-28T00:00:13+00:00",
+   "title": "ไมโครซอฟต์เสนอโครงการลาออกโดยสมัครใจให้กับพนักงาน 60,000 คน เนื่องจากต้นทุนด้านปัญญาประดิษฐ์ (AI) เพิ่มสูงขึ้น",
+   "text": "",
+   "title_th": "Microsoft เสนอโครงการลาออกโดยสมัครใจแก่พนักงาน ท่ามกลางต้นทุน AI ที่พุ่งสูง",
+   "summary_th": "Microsoft เสนอโครงการให้พนักงานลาออกโดยสมัครใจ โดยมีรายงานว่าสาเหตุส่วนหนึ่งมาจากต้นทุนการดำเนินงานด้านปัญญาประดิษฐ์ที่เพิ่มสูงขึ้นอย่างต่อเนื่อง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Microsoft"
+   ],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -787,6 +1230,10 @@
     {
      "source": "TechCrunch AI",
      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152045"
     }
    ],
    "dedup": true
@@ -1231,6 +1678,36 @@
    "dedup": true
   },
   {
+   "id": "d47afb54fd8c",
+   "url": "https://huggingface.co/papers/2610.35864",
+   "source": "HF Daily Papers",
+   "published": "2026-10-26T20:00:00+00:00",
+   "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
+   "text": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a rule-consistent game or narration synchronized to on-screen events. A different route is emerging: multimodal agents that write code to render every frame and synthesize every sound. We introduce VibeVideoBench, a benchmark for evaluating agents on code-driven video generation. Its 239 self-contained tasks in English and Chinese span 12 categories, from data stories and music-driven pieces to classroom lessons and paper explainers; each asks an agent, running in its native harnes",
+   "title_th": "เปิดตัว VibeVideoBench เกณฑ์มาตรฐานสำหรับประเมิน AI สร้างวิดีโอผ่านการเขียนโค้ด",
+   "summary_th": "นักวิจัยนำเสนอ VibeVideoBench ซึ่งเป็นเกณฑ์มาตรฐานใหม่สำหรับประเมินความสามารถของ AI ในการสร้างวิดีโอด้วยการเขียนโค้ด เพื่อแก้ปัญหาความไม่แม่นยำของโมเดล Diffusion ในปัจจุบัน",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d451aa6926fd",
+   "url": "https://huggingface.co/papers/2610.37662",
+   "source": "HF Daily Papers",
+   "published": "2026-10-26T20:00:00+00:00",
+   "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+   "text": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantization error is widely assumed to cause unavoidable semantic loss, fundamentally limiting the semantic fidelity of discrete visual tokens and positioning continuous visual representations as an intrinsic upper bound. Using multimodal understanding as a proxy for semantic fidelity, we revisit this assumption and find quantization error unreliable, as discrete representations with substantially larger ",
+   "title_th": "งานวิจัยตั้งคำถามเรื่องการสูญเสียข้อมูลเชิงความหมายใน Discrete Visual Tokens",
+   "summary_th": "งานวิจัยนี้ท้าทายความเชื่อเดิมที่ว่าการแปลงภาพเป็นโทเค็นแบบแยกส่วน (Discrete Tokens) จะทำให้เกิดการสูญเสียข้อมูลเชิงความหมายอย่างหลีกเลี่ยงไม่ได้ โดยมุ่งเน้นการเพิ่มความแม่นยำในโมเดลหลายรูปแบบ",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "f7b9bc5b7e40",
    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
    "source": "MIT Technology Review",
@@ -1507,6 +1984,21 @@
    "text": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-improvement framework coupling world generation with Harness evolution through three roles: Creator,",
    "title_th": "The Trinity แนวทางการพัฒนาตนเองของ Multimodal Agents",
    "summary_th": "นำเสนอแนวคิด The Trinity ซึ่งเป็นกระบวนการพัฒนาตนเองแบบเรียกซ้ำสำหรับ Multimodal Agents เพื่อแก้ปัญหาความหลากหลายของงานและข้อจำกัดในการสร้างสภาพแวดล้อมทดสอบ",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f16bea4d1af6",
+   "url": "https://huggingface.co/papers/2610.35013",
+   "source": "HF Daily Papers",
+   "published": "2026-10-25T20:00:00+00:00",
+   "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
+   "text": "Long-horizon LLM agents interact with their environments through complete assistant turns while generating each action token by token. We observe that critic values vary primarily across turns, motivating optimization anchored at turns with finer credit allocation among tokens. We propose Multiscale Policy Optimization (MPO), combining Multiscale Advantage Estimation (MAE) and turn-level importance sampling to align credit assignment and policy updates at the turn scale. Extensive experiments across search, tool-use, and automation tasks with 4B and 30B-A3B models demonstrate consistent gains ",
+   "title_th": "นำเสนอ Multiscale Policy Optimization สำหรับ LLM Agents ระยะยาว",
+   "summary_th": "ผู้วิจัยเสนอเทคนิค Multiscale Policy Optimization (MPO) เพื่อปรับปรุงการจัดสรรเครดิตและการอัปเดตนโยบายสำหรับ LLM Agents ที่ต้องทำงานในระยะยาวและมีหลายขั้นตอน",
    "category": "งานวิจัย",
    "companies": [],
    "importance": 3,

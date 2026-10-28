@@ -1,39 +1,23 @@
 {
- "updated_at": "2026-10-28T04:14:30+00:00",
+ "updated_at": "2026-10-28T04:22:13+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-10-28T04:14:30+00:00",
-  "headline": "ความก้าวหน้าของโมเดล AI ระดับโลกและการขยายตัวของเทคโนโลยีสู่ภาคธุรกิจและภาครัฐ",
+  "generated_at": "2026-10-28T04:22:13+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญในวงการ AI วันนี้ครอบคลุมตั้งแต่การพัฒนาโมเดลใหม่ การขยายตัวของธุรกิจและโครงสร้างพื้นฐาน ไปจนถึงประเด็นความปลอดภัยและผลกระทบทางสังคม",
   "points": [
    {
-    "text": "Google เปิดตัว Genie 4 โมเดลจำลองโลก (World Model) ที่ยกระดับความสมจริงด้วยระบบเสียง ฟิสิกส์ และการโต้ตอบผ่านภาษาธรรมชาติ โดยใช้ Gemini 3.8 Flash เป็นพื้นฐาน",
+    "text": "ความก้าวหน้าของโมเดล AI และการใช้งานในธุรกิจ: Google เปิดตัว Genie 4 สำหรับสร้างประสบการณ์โต้ตอบ, LiquidAI เปิดตัวโมเดลขนาดเล็ก LFM3-1.7B, และ Apple เตรียมนำ AI มาใช้ในชุดแอปสำนักงาน ขณะที่ OpenAI ขยายความร่วมมือกับ Oracle และ Anthropic พัฒนา Claude Duet พร้อมขยายการใช้งานในหน่วยงานรัฐ",
     "ids": [
-     "a30b4228516c",
-     "5ef94984dce4",
-     "3513fbe8e952"
-    ]
-   },
-   {
-    "text": "Anthropic เดินหน้าขยายความร่วมมือกับภาครัฐผ่าน GSA และเร่งการประยุกต์ใช้ Claude ในงานวิจัยยา พร้อมเตรียมตัวเข้าสู่ตลาดหลักทรัพย์ (IPO) โดยมี Amazon เป็นผู้ถือหุ้นรายใหญ่",
-    "ids": [
-     "5d9174dd4f1a",
-     "55d127c81982",
-     "1b16f2a2a47a",
-     "01f0d2f05530",
-     "851ab2c12c7c",
-     "3dec6b4cf943"
-    ]
-   },
-   {
-    "text": "LiquidAI เปิดตัวโมเดลขนาดเล็ก LFM3 สำหรับรันบนอุปกรณ์พกพาและงานเอเจนต์ พร้อมรองรับการใช้งานผ่าน WebGPU เพื่อเพิ่มประสิทธิภาพการประมวลผลแบบออฟไลน์",
-    "ids": [
+     "3513fbe8e952",
      "7ac9304a8f42",
-     "94bd09c7b9e0",
-     "db98bf59a6c7"
+     "0d516a24ee36",
+     "a3a879144b29",
+     "3dec6b4cf943",
+     "55d127c81982"
     ]
    },
    {
-    "text": "ประเด็นความปลอดภัยและจริยธรรม AI ยังคงเป็นที่จับตามอง ทั้งกรณีการฟ้องร้อง OpenAI เรื่องคำแนะนำทางการแพทย์ที่ผิดพลาด และความกังวลด้านความปลอดภัยของโมเดลโอเพนซอร์สจากจีน",
+    "text": "ความท้าทายด้านความปลอดภัยและจริยธรรม: เกิดกรณีฟ้องร้อง OpenAI จากคำแนะนำทางการแพทย์ที่ผิดพลาด และ Cohere ตรวจพบพฤติกรรมน่าสงสัยของโมเดล Qwen ที่ส่งข้อมูลกลับเซิร์ฟเวอร์ในจีน รวมถึงนักวิจัยเริ่มวิจารณ์ OpenAI เรื่องการปิดกั้นข้อมูลความก้าวหน้าทางเทคโนโลยี",
     "ids": [
      "a2f907c053da",
      "23ea747cd926",
@@ -41,13 +25,28 @@
     ]
    },
    {
-    "text": "อุตสาหกรรมชิปและโครงสร้างพื้นฐาน AI เติบโตอย่างต่อเนื่อง โดย SK Hynix ทำรายได้สูงสุดจากความต้องการ HBM4 ในขณะที่บริษัทเทคโนโลยีรายใหญ่อย่าง Amazon และ Apple กำลังปรับกลยุทธ์การใช้งาน AI ในองค์กร",
+    "text": "การลงทุนและโครงสร้างพื้นฐาน: Disruptive ระดมทุน 1 หมื่นล้านดอลลาร์เพื่อลงทุนในสตาร์ทอัพ AI, General Compute ระดมทุนพัฒนาชิป Inference, และ SK Hynix มุ่งเน้นการผลิต HBM4 เพื่อรองรับความต้องการที่พุ่งสูงขึ้น",
     "ids": [
-     "9b367299b78a",
-     "0d516a24ee36",
-     "a3a879144b29",
-     "a044912b52ff",
+     "195cb6337f5e",
+     "e4dd73cec05d",
+     "9b367299b78a"
+    ]
+   },
+   {
+    "text": "ผลกระทบทางสังคมและสิ่งแวดล้อม: การขยายตัวของศูนย์ข้อมูล AI กำลังเผชิญกับการต่อต้านจากชุมชนท้องถิ่นในสหรัฐฯ และเกิดความกังวลเรื่องการแย่งชิงทรัพยากรพลังงานสะอาดในระดับโลก",
+    "ids": [
+     "415aa97d276f",
      "8cc6860df974"
+    ]
+   },
+   {
+    "text": "การประยุกต์ใช้ AI ในงานวิจัยและชีวิตประจำวัน: Claude และเทคโนโลยี AI อื่นๆ ถูกนำมาใช้เร่งกระบวนการวิจัยยาและรักษาโรคสมองเสื่อม รวมถึงการนำ AI มาใช้ตรวจจับพฤติกรรมการขับขี่และเครื่องมือช่วยชีวิตแบบออฟไลน์",
+    "ids": [
+     "01f0d2f05530",
+     "851ab2c12c7c",
+     "4a299d1e9f3d",
+     "099c4912233a",
+     "62b1fcdba263"
     ]
    }
   ]
@@ -156,7 +155,15 @@
   "a1679112c9d8",
   "fcfc78b0e7a0",
   "eea736d7e34a",
-  "cbcaddb85539"
+  "cbcaddb85539",
+  "2d38b9609613",
+  "780fe36a78e3",
+  "edc22be0fdf0",
+  "5ef94984dce4",
+  "a30b4228516c",
+  "f0dc5032b5be",
+  "db98bf59a6c7",
+  "94bd09c7b9e0"
  ],
  "items": [
   {
@@ -174,7 +181,14 @@
     "GSA"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "also": [
+    {
+     "source": "FedScoop",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50MnRrUWwyYUg2azNuWVBkYUdxeGxnVjJqVm43NThxQ2d0eGVrZUZTTHdIVngyWmVFRXdfUEFGcXVGMmFKRWxKVTc1Q2x3TDBSQ1pwY0NLUEphNUZwNk5nc2lSYlg?oc=5"
+    }
+   ],
+   "dedup": true
   },
   {
    "id": "1b16f2a2a47a",
@@ -191,7 +205,8 @@
     "Amazon"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "2836f05afa7b",
@@ -207,7 +222,8 @@
     "Anthropic"
    ],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "0946eb0301be",
@@ -223,7 +239,8 @@
     "Anthropic"
    ],
    "importance": 1,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "9b367299b78a",
@@ -239,7 +256,8 @@
     "SK Hynix"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "0e043503e602",
@@ -255,7 +273,8 @@
     "Anthropic"
    ],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "01f0d2f05530",
@@ -271,7 +290,8 @@
     "Anthropic"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "a2f907c053da",
@@ -287,7 +307,8 @@
     "OpenAI"
    ],
    "importance": 4,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "a81d0c1c06b0",
@@ -301,24 +322,8 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 2,
-   "ai": true
-  },
-  {
-   "id": "2d38b9609613",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50MnRrUWwyYUg2azNuWVBkYUdxeGxnVjJqVm43NThxQ2d0eGVrZUZTTHdIVngyWmVFRXdfUEFGcXVGMmFKRWxKVTc1Q2x3TDBSQ1pwY0NLUEphNUZwNk5nc2lSYlg?oc=5",
-   "source": "FedScoop",
-   "published": "2026-10-27T21:58:48+00:00",
-   "title": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
-   "text": "",
-   "title_th": "GSA ขยายข้อตกลง OneGov ร่วมกับ Anthropic พร้อมส่วนลดพิเศษ",
-   "summary_th": "GSA ขยายความร่วมมือในข้อตกลง OneGov กับ Anthropic เพื่อให้หน่วยงานรัฐเข้าถึงบริการ AI ได้ในราคาที่คุ้มค่าขึ้น",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic",
-    "GSA"
-   ],
-   "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "7afb98bf1433",
@@ -334,7 +339,8 @@
     "Bank of America"
    ],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "e4dbba9a243c",
@@ -350,7 +356,8 @@
     "Anthropic"
    ],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "ba3cece69efb",
@@ -366,7 +373,8 @@
     "OpenAI"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "851ab2c12c7c",
@@ -382,7 +390,8 @@
     "Anthropic"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "62b1fcdba263",
@@ -396,7 +405,8 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "8cc6860df974",
@@ -410,7 +420,8 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "195cb6337f5e",
@@ -428,7 +439,8 @@
     "ElevenLabs"
    ],
    "importance": 4,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "3dec6b4cf943",
@@ -444,40 +456,8 @@
     "Anthropic"
    ],
    "importance": 3,
-   "ai": true
-  },
-  {
-   "id": "94bd09c7b9e0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh0otf/realtime_video_captioning_with_lfm3vl2b_running/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-27T18:33:10+00:00",
-   "title": "Real-time video captioning with LFM3-VL-2B running locally in-browser on WebGPU",
-   "text": "Collection on HF: https://huggingface.co/collections/LiquidAI/lfm3 WebGPU demo: https://huggingface.co/spaces/webml-community/LFM3-VL-2B-WebGPU submitted by /u/xenovatech [link] [comments]",
-   "title_th": "การทำคำบรรยายวิดีโอแบบเรียลไทม์ด้วย LFM3-VL-2B บน WebGPU",
-   "summary_th": "นักพัฒนาสาธิตการรันโมเดล LFM3-VL-2B บนเบราว์เซอร์ผ่าน WebGPU เพื่อทำคำบรรยายวิดีโอแบบเรียลไทม์โดยไม่ต้องพึ่งพาเซิร์ฟเวอร์",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "LiquidAI"
-   ],
-   "importance": 3,
-   "ai": true
-  },
-  {
-   "id": "db98bf59a6c7",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-   "source": "Hugging Face",
-   "published": "2026-10-27T17:16:52+00:00",
-   "title": "Build specialized multimodal models with LFM3",
-   "text": "",
-   "title_th": "สร้างโมเดล Multimodal เฉพาะทางด้วย LFM3",
-   "summary_th": "Hugging Face แนะนำการใช้งานโมเดล LFM3 เพื่อสร้างและปรับแต่งโมเดลแบบหลายรูปแบบ (Multimodal) สำหรับงานเฉพาะทาง",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Hugging Face",
-    "LiquidAI"
-   ],
-   "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "8a93bec2dc7c",
@@ -494,7 +474,8 @@
     "MIT"
    ],
    "importance": 4,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "5d9174dd4f1a",
@@ -510,7 +491,8 @@
     "Anthropic"
    ],
    "importance": 4,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "7ac9304a8f42",
@@ -523,10 +505,22 @@
    "summary_th": "LiquidAI เปิดตัวโมเดล LFM3-1.7B ที่ใช้สถาปัตยกรรม tri-hybrid ออกแบบมาเพื่อรันบนอุปกรณ์พกพาและรองรับงานด้านเอเจนต์ด้วย context window ขนาดใหญ่",
    "category": "โมเดลใหม่",
    "companies": [
-    "LiquidAI"
+    "LiquidAI",
+    "Hugging Face"
    ],
    "importance": 4,
-   "ai": true
+   "ai": true,
+   "also": [
+    {
+     "source": "Hugging Face",
+     "url": "https://huggingface.co/blog/LiquidAI/lfm3"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh0otf/realtime_video_captioning_with_lfm3vl2b_running/"
+    }
+   ],
+   "dedup": true
   },
   {
    "id": "099c4912233a",
@@ -540,23 +534,8 @@
    "category": "นโยบาย/กฎหมาย",
    "companies": [],
    "importance": 3,
-   "ai": true
-  },
-  {
-   "id": "a30b4228516c",
-   "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-27T16:30:57+00:00",
-   "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-   "text": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-   "title_th": "Google อัปเดต Genie 4 เพิ่มระบบเสียงและฟิสิกส์ที่สมจริง",
-   "summary_th": "Google เปิดตัว Genie 4 ซึ่งเป็นโมเดลโลก (World Model) ที่ปรับปรุงความสามารถในการสร้างฉากที่ต่อเนื่องยาวนานขึ้น พร้อมเพิ่มระบบเสียงและฟิสิกส์ที่สมจริง",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Google"
-   ],
-   "importance": 5,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "a044912b52ff",
@@ -572,7 +551,8 @@
     "Amazon"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "abb96e9fdd6f",
@@ -588,7 +568,8 @@
     "Mozilla"
    ],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "34370e88c88d",
@@ -604,24 +585,8 @@
     "Hugging Face"
    ],
    "importance": 2,
-   "ai": true
-  },
-  {
-   "id": "5ef94984dce4",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-   "source": "Google DeepMind",
-   "published": "2026-10-27T16:01:38+00:00",
-   "title": "Genie 4: A new generation of world simulation",
-   "text": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-   "title_th": "Google DeepMind เปิดตัว Genie 4 โมเดลจำลองโลกยุคใหม่",
-   "summary_th": "Google DeepMind เผยโฉม Genie 4 โมเดลจำลองโลกที่ยกระดับความสมจริงในการจำลองสถานการณ์แบบเรียลไทม์",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Google",
-    "DeepMind"
-   ],
-   "importance": 5,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "4f6eb45509cb",
@@ -637,7 +602,8 @@
     "Apple"
    ],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "a10a8c4a17e1",
@@ -653,7 +619,8 @@
     "Apple"
    ],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "3513fbe8e952",
@@ -666,10 +633,22 @@
    "summary_th": "Google เปิดตัว Genie 4 ซึ่งเป็นโมเดลสร้างประสบการณ์แบบโต้ตอบที่รองรับการสร้างเสียงและปรับแต่งโลกจำลองผ่านคำสั่งภาษาธรรมชาติ โดยใช้ Gemini 3.8 Flash เป็นพื้นฐาน",
    "category": "โมเดลใหม่",
    "companies": [
-    "Google"
+    "Google",
+    "DeepMind"
    ],
    "importance": 5,
-   "ai": true
+   "ai": true,
+   "also": [
+    {
+     "source": "Google DeepMind",
+     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+    }
+   ],
+   "dedup": true
   },
   {
    "id": "4a299d1e9f3d",
@@ -685,7 +664,8 @@
     "NVIDIA"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "d42fb1eb3362",
@@ -702,7 +682,8 @@
     "Retell"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "0d516a24ee36",
@@ -719,7 +700,8 @@
     "OpenAI"
    ],
    "importance": 4,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "2d1cc6aaea46",
@@ -735,7 +717,8 @@
     "Opera"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "e4dd73cec05d",
@@ -752,23 +735,8 @@
     "NVIDIA"
    ],
    "importance": 3,
-   "ai": true
-  },
-  {
-   "id": "780fe36a78e3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-27T12:55:08+00:00",
-   "title": "Ling-3.1-flash-1019 weights are out, and they released the base model too",
-   "text": "Well, “coming soon” turned out to be five days. I posted the earlier announcement last week. The 1019 weights are now on Hugging Face . Still 560B total, 25B active, with a 1M context window. This is the update they reported at 44 on the AA Intelligence Index v4.3.2, up from 41. AutomationBench-AA went from 62% to 68%, according to the release. They also put out Ling-3.1-flash-base in BF16 for further training. Glad they included that. It gives people a starting point for their own post-training instead of having to start with the finished chat model. One small gotcha: the SGLang example in th",
-   "title_th": "inclusionAI ปล่อยโมเดล Ling-3.1-flash-1019 พร้อมเปิดตัว base model",
-   "summary_th": "inclusionAI ปล่อยน้ำหนักโมเดล Ling-3.1-flash-1019 ที่มี 560B พารามิเตอร์และรองรับ context window 1M token พร้อมปล่อยเวอร์ชัน base model เพื่อให้นักพัฒนาสามารถนำไปทำ post-training ต่อได้",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "inclusionAI"
-   ],
-   "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "23ea747cd926",
@@ -785,7 +753,14 @@
     "Alibaba"
    ],
    "importance": 4,
-   "ai": true
+   "ai": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/"
+    }
+   ],
+   "dedup": true
   },
   {
    "id": "415aa97d276f",
@@ -799,7 +774,8 @@
    "category": "ธุรกิจ/การลงทุน",
    "companies": [],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "ef2da6cf0c5f",
@@ -813,7 +789,8 @@
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "b5a34c2c4741",
@@ -829,7 +806,14 @@
     "inclusionAI"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/"
+    }
+   ],
+   "dedup": true
   },
   {
    "id": "acb3a24ef951",
@@ -845,7 +829,8 @@
     "Wikipedia"
    ],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "c61ee1a62651",
@@ -859,24 +844,8 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 2,
-   "ai": true
-  },
-  {
-   "id": "edc22be0fdf0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-27T10:19:31+00:00",
-   "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
-   "text": "HF traces: https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces 1. Understand the Python script: ids ids = dataset[0][\"token_ids\"] if len(ids) < 2323: raise ValueError(\"The trace is shorter than the required 2,323-token prefix.\") ids = ids[:2323] # stop just before the URL, at the end of ...ABC123 = dataset[0][\"token_ids\"] if len(ids) < 2323: raise ValueError(\"The trace is shorter than the required 2,323-token prefix.\") ids = ids[:2323] # stop just before the URL, at the end of ...ABC123 It prefills 2,232 tokens, just before URL generation - forcing Q38FN to act like UR",
-   "title_th": "ข้อโต้แย้งกรณี Cohere กล่าวหาโมเดล Qwen ส่งข้อมูลกลับจีน",
-   "summary_th": "มีการนำเสนอข้อมูลเชิงเทคนิคเพื่อตรวจสอบและโต้แย้งข้อกล่าวหาของ Cohere เกี่ยวกับพฤติกรรมการส่งข้อมูลของโมเดล Qwen โดยมีการเปิดเผยร่องรอยการทดสอบบน Hugging Face",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Cohere",
-    "Alibaba"
-   ],
-   "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "c260a2a638b6",
@@ -892,7 +861,8 @@
     "Apple"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "6d54087eb35f",
@@ -908,7 +878,8 @@
     "Baidu"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "a3a879144b29",
@@ -925,7 +896,8 @@
     "Oracle"
    ],
    "importance": 4,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "eb967c2830c0",
@@ -939,7 +911,8 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "252c695597e6",
@@ -953,23 +926,8 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 2,
-   "ai": true
-  },
-  {
-   "id": "f0dc5032b5be",
-   "url": "https://www.blognone.com/node/152030",
-   "source": "Blognone",
-   "published": "2026-10-27T02:08:05+00:00",
-   "title": "OpenAI เปิดตัวโมเดลระดับกลาง GPT-6.1 Terra คุณภาพใกล้เคียง GPT-6.1 Sol แต่ราคาถูกกว่า",
-   "text": "Body OpenAI ปล่อยโมเดลระดับกลาง GPT-6.1 Terra ตามหลัง GPT-6.1 Sol ที่ออกเมื่อปลายเดือนกันยายน จุดเด่นคือคุณภาพของคำตอบพัฒนาขึ้นจาก GPT‑5.6 Terra มาก ในราคาที่ถูกกว่า GPT-6.1 Sol ถึง 50% (1 ดอลลาร์ต่อ 1 ล้านโทเคนอินพุต, 5 ดอลลาร์ต่อ 1 ล้านโทเคนเอาท์พุต) แถมยังทำงานได้เร็วกว่า เหมาะสำหรับงานที่ต้องรันจำนวนมากๆ เบนช์มาร์คที่ OpenAI นำมาโชว์มีหลายอัน แต่ให้ผลไปในทางเดียวกันว่า คุณภาพเป็นรอง GPT-6.1 Sol เพียงเล็กน้อย (ส่วน GPT-6 Astra นั้นอยู่อีกลีก) ในราคาต่อคุณภาพที่ถูกกว่าพอสมควร ที่มา - OpenAI mk Tue, 27/10/20",
-   "title_th": "OpenAI เปิดตัวโมเดล GPT-6.1 Terra เน้นประสิทธิภาพสูงในราคาที่เข้าถึงได้",
-   "summary_th": "OpenAI เปิดตัว GPT-6.1 Terra โมเดลระดับกลางที่ให้คุณภาพใกล้เคียงกับรุ่นเรือธงอย่าง GPT-6.1 Sol แต่มีราคาถูกกว่าถึง 50% และทำงานได้รวดเร็วกว่า เหมาะสำหรับงานที่ต้องการการประมวลผลปริมาณมาก",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 4,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "8cb333260a17",
@@ -986,7 +944,8 @@
     "Check Point"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "bba291662c45",
@@ -1002,7 +961,8 @@
     "OpenAI"
    ],
    "importance": 4,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "95d5916fd628",
@@ -1016,7 +976,8 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "250e5d8f3024",
@@ -1033,7 +994,8 @@
     "OpenAI"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "96b9f45bb2e6",
@@ -1049,7 +1011,8 @@
     "Anthropic"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "2fa3d70d208d",
@@ -1063,7 +1026,8 @@
    "category": "งานวิจัย",
    "companies": [],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "247a373bfcdb",
@@ -1077,7 +1041,8 @@
    "category": "งานวิจัย",
    "companies": [],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "d2400385c428",
@@ -1091,7 +1056,8 @@
    "category": "งานวิจัย",
    "companies": [],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "f7b9bc5b7e40",
@@ -1107,7 +1073,8 @@
     "Anthropic"
    ],
    "importance": 5,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "2500a6aad874",
@@ -1123,7 +1090,8 @@
     "The RealReal"
    ],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "2296a39987de",
@@ -1139,7 +1107,8 @@
     "Anthropic"
    ],
    "importance": 4,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "ce5ce5fc43fb",
@@ -1153,7 +1122,8 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "8cfee209e93b",
@@ -1167,7 +1137,8 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "188e9fbc4643",
@@ -1183,7 +1154,8 @@
     "Google"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "f16aefe89a6e",
@@ -1199,7 +1171,8 @@
     "OpenAI"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "1a1d4bf2fc11",
@@ -1216,7 +1189,8 @@
     "OpenAI"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "6da005897fea",
@@ -1230,7 +1204,8 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "64d59b55a8fb",
@@ -1246,7 +1221,8 @@
     "OpenAI"
    ],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "67160bc1e72b",
@@ -1260,7 +1236,8 @@
    "category": "นโยบาย/กฎหมาย",
    "companies": [],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "eb7708c5f537",
@@ -1277,7 +1254,8 @@
     "OpenAI"
    ],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "8f2f08b6e197",
@@ -1293,7 +1271,8 @@
     "OpenAI"
    ],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "1758535ac6be",
@@ -1309,7 +1288,14 @@
     "OpenAI"
    ],
    "importance": 5,
-   "ai": true
+   "ai": true,
+   "also": [
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152030"
+    }
+   ],
+   "dedup": true
   },
   {
    "id": "8733896d18f2",
@@ -1323,7 +1309,8 @@
    "category": "งานวิจัย",
    "companies": [],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "04681d267a78",
@@ -1337,7 +1324,8 @@
    "category": "งานวิจัย",
    "companies": [],
    "importance": 3,
-   "ai": true
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "2af7003f0e2f",
@@ -1351,7 +1339,8 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 2,
-   "ai": true
+   "ai": true,
+   "dedup": true
   }
  ]
 }

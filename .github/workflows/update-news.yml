@@ -34,7 +34,13 @@ jobs:
       - name: ดึงและสรุปข่าว
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # ตั้งที่ Settings → Secrets and variables → Actions → Variables · ไม่ตั้ง = ใช้ค่าเริ่มต้นในสคริปต์
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          MAX_NEW_PER_RUN: ${{ vars.MAX_NEW_PER_RUN }}
+          BATCH_SIZE: ${{ vars.BATCH_SIZE }}
+          CALL_GAP_SEC: ${{ vars.CALL_GAP_SEC }}
+          MAX_AGE_DAYS: ${{ vars.MAX_AGE_DAYS }}
+          KEEP_DAYS: ${{ vars.KEEP_DAYS }}
         run: python scripts/fetch_news.py
 
       - name: บันทึกข้อมูลข่าวลง repo

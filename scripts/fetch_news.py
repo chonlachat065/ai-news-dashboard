@@ -25,13 +25,19 @@ ROOT = Path(__file__).resolve().parent.parent
 FEEDS_FILE = ROOT / "feeds.json"
 OUT_FILE = ROOT / "site" / "data" / "news.json"
 
-API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-MODEL_ENV = os.environ.get("GEMINI_MODEL", "").strip()
-MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "3"))     # ข่าวเก่ากว่านี้ไม่รับเข้า
-KEEP_DAYS = int(os.environ.get("KEEP_DAYS", "14"))          # เก็บไว้ในไฟล์กี่วัน
-MAX_NEW = int(os.environ.get("MAX_NEW_PER_RUN", "90"))      # ส่งให้ Gemini สรุปได้สูงสุดกี่ข่าวต่อรอบ (คุมงบ)
-BATCH = int(os.environ.get("BATCH_SIZE", "15"))             # กี่ข่าวต่อการเรียก API หนึ่งครั้ง
-CALL_GAP = float(os.environ.get("CALL_GAP_SEC", "5"))       # เว้นระหว่างการเรียก (free tier จำกัดครั้ง/นาที)
+def env(name, default, cast=str):
+    """ค่าว่าง = ใช้ค่าเริ่มต้น (GitHub Actions ส่ง "" มาเมื่อไม่ได้ตั้ง Variable)"""
+    value = os.environ.get(name, "").strip()
+    return cast(value) if value else default
+
+
+API_KEY = env("GEMINI_API_KEY", "")
+MODEL_ENV = env("GEMINI_MODEL", "")
+MAX_AGE_DAYS = env("MAX_AGE_DAYS", 3, int)          # ข่าวเก่ากว่านี้ไม่รับเข้า
+KEEP_DAYS = env("KEEP_DAYS", 14, int)               # เก็บไว้ในไฟล์กี่วัน
+MAX_NEW = env("MAX_NEW_PER_RUN", 90, int)           # ส่งให้ Gemini สรุปได้สูงสุดกี่ข่าวต่อรอบ (คุมงบ)
+BATCH = env("BATCH_SIZE", 15, int)                  # กี่ข่าวต่อการเรียก API หนึ่งครั้ง
+CALL_GAP = env("CALL_GAP_SEC", 5.0, float)          # เว้นระหว่างการเรียก (free tier จำกัดครั้ง/นาที)
 
 API_BASE = "https://generativelanguage.googleapis.com/v1beta"
 FALLBACK_MODEL = "gemini-2.5-flash-lite"

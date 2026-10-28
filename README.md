@@ -51,8 +51,11 @@ python -m http.server 8000 --directory site
 |---|---|
 | เพิ่ม/ลบแหล่งข่าว | `feeds.json` (รองรับ RSS/Atom, Hacker News, HF Daily Papers · ตัดสำนักข่าวที่ไม่ต้องการด้วย `exclude_sources`) |
 | ความถี่ในการอัปเดต | `cron` ใน `.github/workflows/update-news.yml` |
-| จำกัดงบต่อรอบ / ขนาดชุด | env `MAX_NEW_PER_RUN` (90), `BATCH_SIZE` (15), `CALL_GAP_SEC` (5) |
-| เก็บข่าวย้อนหลังกี่วัน | env `KEEP_DAYS` (14) · รับข่าวที่อายุไม่เกิน `MAX_AGE_DAYS` (3) |
+| จำกัดงบต่อรอบ / ขนาดชุด | Variable `MAX_NEW_PER_RUN` (90), `BATCH_SIZE` (15), `CALL_GAP_SEC` (5) |
+| เก็บข่าวย้อนหลังกี่วัน | Variable `KEEP_DAYS` (14) · รับข่าวที่อายุไม่เกิน `MAX_AGE_DAYS` (3) |
+
+ค่าทั้งหมดตั้งที่ GitHub: **Settings → Secrets and variables → Actions** — `GEMINI_API_KEY` เป็น Secret ที่เหลือเป็น Variable
+ไม่ต้องตั้งอะไรบน Vercel / GitHub Pages เพราะหน้าเว็บแค่อ่าน `data/news.json`
 | หมวดข่าว / เกณฑ์ความสำคัญ | `CATEGORIES` และ `SUMMARY_PROMPT` ใน `scripts/fetch_news.py` (ถ้าแก้หมวด แก้ `CATEGORIES` ใน `site/app.js` ด้วย) |
 
 ## ขึ้นเซิร์ฟเวอร์ทีมแทน GitHub Pages

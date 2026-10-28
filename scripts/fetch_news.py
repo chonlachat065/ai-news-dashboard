@@ -331,6 +331,76 @@ DIGEST_PROMPT = """จากข่าว AI ด้านล่าง (เรี�
 """
 
 
+DEDUP_SCHEMA = {
+    "type": "OBJECT",
+    "properties": {
+        "groups": {
+            "type": "ARRAY",
+            "items": {
+                "type": "OBJECT",
+                "properties": {"ids": {"type": "ARRAY", "items": {"type": "STRING"}}},
+                "required": ["ids"],
+            },
+        },
+    },
+    "required": ["groups"],
+}
+
+DEDUP_PROMPT = """ด้านล่างคือรายการข่าว AI (id, หัวข้อ, แหล่ง, วันที่) บางชิ้นเป็นเหตุการณ์เดียวกันที่รายงานจากคนละสำนัก
+จับกลุ่มเฉพาะข่าวที่รายงาน "เหตุการณ์หรือประกาศเดียวกัน" เช่น การเปิดตัวโมเดลตัวเดียวกัน ดีลเดียวกัน คดีเดียวกัน
+ห้ามรวมข่าวที่แค่พูดถึงบริษัทหรือหัวข้อเดียวกันแต่เป็นคนละเหตุการณ์ ถ้าไม่แน่ใจให้แยกไว้
+ตอบเฉพาะกลุ่มที่มีตั้งแต่ 2 ข่าวขึ้นไป ข่าวที่ไม่ซ้ำกับใครไม่ต้องใส่
+
+ข่าว:
+"""
+
+
+def dedupe(items, now):
+    """ให้ Gemini จับข่าวเหตุการณ์เดียวกันจากหลายสำนัก แล้วรวมเป็นการ์ดเดียว · คืน id ของข่าวที่ถูกรวมเข้าการ์ดอื่น"""
+    fresh = [it for it in items.values() if it["ai"] and not it.get("dedup")]
+    if not fresh:
+        return []
+    since = (now - timedelta(days=MAX_AGE_DAYS + 1)).isoformat()
+    ref = sorted((it for it in items.values() if it["ai"] and it.get("dedup") and it["published"] >= since),
+                 key=lambda it: it["published"], reverse=True)[:150]
+    pool = ref + fresh
+    payload = [{"id": it["id"], "title": it["title_th"], "source": it["source"], "date": it["published"][:10]} for it in pool]
+    groups = generate(DEDUP_PROMPT + json.dumps(payload, ensure_ascii=False), DEDUP_SCHEMA).get("groups", [])
+
+    fresh_ids = {it["id"] for it in fresh}
+    alias, removed = {}, []
+
+    def root(i):
+        while i in alias:
+            i = alias[i]
+        return i
+
+    for g in groups:
+        raw = g.get("ids", [])
+        ids = list(dict.fromkeys(root(i) for i in raw if root(i) in items))
+        if len(ids) < 2 or not fresh_ids.intersection(raw):
+            continue
+        # การ์ดเดิมที่แสดงอยู่แล้วเป็นหลัก ไม่งั้นเลือกข่าวที่สำคัญสุด แล้วข่าวที่ออกก่อน (มักเป็นต้นทาง)
+        group = sorted((items[i] for i in ids), key=lambda it: (not it.get("dedup"), -it["importance"], it["published"]))
+        primary = group[0]
+        seen = {primary["url"]} | {a["url"] for a in primary.get("also", [])}
+        also = primary.setdefault("also", [])
+        for it in group[1:]:
+            for a in [{"source": it["source"], "url": it["url"]}, *it.get("also", [])]:
+                if a["url"] not in seen:
+                    seen.add(a["url"])
+                    also.append(a)
+            primary["importance"] = max(primary["importance"], it["importance"])
+            primary["companies"] = list(dict.fromkeys(primary["companies"] + it["companies"]))[:4]
+            del items[it["id"]]
+            alias[it["id"]] = primary["id"]
+            removed.append(it["id"])
+    for it in fresh:
+        if it["id"] in items:
+            it["dedup"] = True
+    return removed
+
+
 def summarize(batch):
     payload = [{"id": it["id"], "source": it["source"], "title": it["title"], "text": it.get("text", "")[:500]} for it in batch]
     rows = generate(SUMMARY_PROMPT + json.dumps(payload, ensure_ascii=False), SUMMARY_SCHEMA)
@@ -430,7 +500,15 @@ def main():
                     "ai": True,
                 })
             time.sleep(CALL_GAP)
-        if added or not digest:
+        removed = []
+        try:
+            removed = dedupe(items, now)
+            skipped.extend(removed)  # ไม่ดึงข่าวที่ถูกรวมแล้วกลับมาใหม่
+            log(f"รวมข่าวซ้ำต่างสำนัก {len(removed)} ชิ้น")
+        except RuntimeError as e:
+            log(f"  ! รวมข่าวซ้ำไม่สำเร็จ จะลองใหม่รอบหน้า: {e}")
+        if added or removed or not digest:
+            time.sleep(CALL_GAP)
             try:
                 digest = make_digest(sorted(items.values(), key=lambda it: it["published"], reverse=True), now) or digest
             except RuntimeError as e:

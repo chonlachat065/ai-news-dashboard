@@ -78,7 +78,7 @@ function matches(it, skip) {
   if (state.company && !(it.companies || []).includes(state.company)) return false;
   if (state.imp && (it.importance || 0) < 4) return false;
   if (state.q) {
-    const hay = [it.title_th, it.title, it.summary_th, it.source, ...(it.companies || [])].join(' ').toLowerCase();
+    const hay = [it.title_th, it.title, it.summary_th, it.source, ...(it.companies || []), ...(it.also || []).map((a) => a.source)].join(' ').toLowerCase();
     if (!state.q.toLowerCase().split(/\s+/).filter(Boolean).every((w) => hay.includes(w))) return false;
   }
   return true;
@@ -87,7 +87,10 @@ function matches(it, skip) {
 function visibleItems() {
   const list = state.data.items.filter((it) => matches(it));
   if (state.sort === 'important') {
-    list.sort((a, b) => (b.importance || 0) - (a.importance || 0) || b.published.localeCompare(a.published));
+    // คะแนนเท่ากัน: ข่าวที่หลายสำนักรายงานขึ้นก่อน
+    list.sort((a, b) => (b.importance || 0) - (a.importance || 0)
+      || (b.also?.length || 0) - (a.also?.length || 0)
+      || b.published.localeCompare(a.published));
   }
   return list;
 }
@@ -173,12 +176,14 @@ function card(it) {
   badges.push(it.ai ? `<span class="badge badge-outline">${esc(it.category)}</span>` : '<span class="badge badge-muted">ยังไม่ได้สรุป</span>');
   const orig = it.ai && it.title && it.title !== it.title_th ? `<p class="news-orig">${esc(it.title)}</p>` : '';
   const tags = (it.companies || []).map((c) => `<button class="tag-btn" type="button" data-company="${esc(c)}">${esc(c)}</button>`).join('');
+  const also = (it.also || []).map((a) => `<a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener noreferrer">${esc(a.source)}</a>`).join('<span aria-hidden="true"> · </span>');
   return `<article class="card news" id="n-${esc(it.id)}">
     <div class="news-meta">${badges.join('')}<span>${esc(it.source)}</span><span class="dot"></span>
       <time datetime="${esc(it.published)}" title="${esc(fmtFull.format(new Date(it.published)))}">${esc(timeText(it.published))}</time></div>
     <h3><a href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${esc(it.title_th || it.title)}${ICON.ext}</a></h3>
     ${orig}
     ${it.summary_th ? `<p class="news-summary">${esc(it.summary_th)}</p>` : ''}
+    ${also ? `<p class="news-also">รายงานด้วย ${also}</p>` : ''}
     ${tags ? `<div class="news-tags">${tags}</div>` : ''}
   </article>`;
 }

@@ -203,6 +203,9 @@ button, input { font: inherit; color: inherit; }
 .news h3 .icon { width: 13px; height: 13px; margin-left: 4px; vertical-align: -1px; color: var(--muted-foreground); }
 .news-summary { margin: 0; color: color-mix(in oklch, var(--foreground) 85%, var(--muted-foreground)); overflow-wrap: anywhere; max-width: 90ch; }
 .news-orig { margin: 0; font-size: 12px; color: var(--muted-foreground); overflow-wrap: anywhere; }
+.news-also { margin: 0; font-size: 12px; color: var(--muted-foreground); overflow-wrap: anywhere; }
+.news-also a { color: var(--primary); text-decoration: none; }
+.news-also a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .news-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 2px; }
 .tag-btn {
   height: 24px; padding: 0 8px; border: 1px solid var(--border); border-radius: 6px; background: var(--surface-sunken);

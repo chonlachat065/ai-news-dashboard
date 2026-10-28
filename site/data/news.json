@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T03:01:14+00:00",
+ "updated_at": "2026-10-28T04:11:27+00:00",
  "model": null,
  "digest": null,
  "sources": [
@@ -174,6 +174,20 @@
    "title": "Anthropic brings fundraising, hiring and AI governance tools to Claude for Nonprofits",
    "text": "",
    "title_th": "Anthropic brings fundraising, hiring and AI governance tools to Claude for Nonprofits",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "65b6d17615a6",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZFhoT01vUS0xMkZxNDlBekRRVnNqQTd0bldnajVJYzMwZ0U3VnpzVDF5bWh3MzNra1BHTHptQ2FCc1FxYmZGcnRQZU96MF9USXpxeDhBQzdPV0JIaVFhdDh0WlNzbHpLRWxxMGM4S3IxRmhnVE15d0xXODF5X2dxT1RNUVNVcW5wY0ZKNHVUcDhoczVZdHRJN09sYkNidlgybV9pWml6MA?oc=5",
+   "source": "Business Insider",
+   "published": "2026-10-28T00:20:41+00:00",
+   "title": "The Curious Case of Sam Bankman-Fried's Friends' Anthropic Shares",
+   "text": "",
+   "title_th": "The Curious Case of Sam Bankman-Fried's Friends' Anthropic Shares",
    "summary_th": "",
    "category": "อื่นๆ",
    "companies": [],
@@ -1043,6 +1057,20 @@
    "text": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instructions and continuous camera control across multiple interaction turns. It generates variable-length segments conditioned on current inputs and cached history. Our central design aligns structured video captions with action-aware causal attention: descriptive context remains accessible across segments, while action instructions are restricted to their intend",
    "title_th": "Hy-Nomas: Towards Free-form Interactive World Generation",
    "summary_th": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instru",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "d2400385c428",
+   "url": "https://huggingface.co/papers/2610.37666",
+   "source": "HF Daily Papers",
+   "published": "2026-10-26T20:00:00+00:00",
+   "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+   "text": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a fundamental trade-off between scalable data and explicit action grounding. We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics and strengthens it through reinforcement learning with world imagination. ThinkWorld represents each action thou",
+   "title_th": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+   "summary_th": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader",
    "category": "อื่นๆ",
    "companies": [],
    "importance": 0,

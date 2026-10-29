@@ -1,30 +1,31 @@
 {
- "updated_at": "2026-10-28T18:23:00+00:00",
+ "updated_at": "2026-10-29T00:02:11+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-10-28T18:23:00+00:00",
-  "headline": "ความเคลื่อนไหวครั้งใหญ่ของ Google ในการเปิดตัว Gemini รุ่นใหม่ พร้อมความท้าทายด้านกฎหมายและนโยบายที่ Anthropic และบริษัท AI ชั้นนำกำลังเผชิญ",
+  "generated_at": "2026-10-29T00:02:11+00:00",
+  "headline": "ความเคลื่อนไหวครั้งใหญ่ในอุตสาหกรรม AI ทั้งการเปิดตัวโมเดลใหม่จาก Google และ NVIDIA รวมถึงการเติบโตทางรายได้ของยักษ์ใหญ่เทคโนโลยี",
   "points": [
    {
-    "text": "Google เปิดตัว Gemini 4 Carbon และ Gemini 4 Argon ที่เน้นงานระดับองค์กรและการใช้เหตุผลเชิงลึก พร้อมขยายขีดจำกัดเอาต์พุตถึง 1 ล้านโทเคน และเปิดแพลตฟอร์มเชื่อมต่อบริการเข้ากับ Gemini",
+    "text": "Google เปิดตัว Gemini 4 Carbon และ Gemini 4 Argon ที่รองรับเอาต์พุตสูงสุด 1 ล้านโทเคน พร้อมขยายแพลตฟอร์มให้นักพัฒนาเชื่อมต่อบริการและเพิ่มโฆษณาในระบบค้นหา AI",
     "ids": [
      "34b0bf3f94c3",
      "2f1a76ee0328",
      "a01db71b034c",
-     "c802108aab79"
+     "9b7dd4a7a685",
+     "c802108aab79",
+     "fabbc74e31a1"
     ]
    },
    {
-    "text": "Anthropic เผชิญสถานการณ์ที่ซับซ้อน ทั้งการถูกฟ้องร้องเรื่องลิขสิทธิ์เพลงและการสั่งตัดความสัมพันธ์จากรัฐบาลสหรัฐฯ ในขณะที่ยังคงขยายความร่วมมือกับหน่วยงานรัฐผ่าน GSA และมีการเปิดเผยสัดส่วนหุ้นของ Amazon",
+    "text": "Microsoft รายงานรายได้สูงสุดต่อเนื่องเป็นไตรมาสที่ 10 โดยมีรายได้จาก Azure และความร่วมมือกับ OpenAI เป็นปัจจัยขับเคลื่อนหลัก",
     "ids": [
-     "77a430eb2248",
-     "b137501d0def",
-     "55d127c81982",
-     "1b16f2a2a47a"
+     "f9d1493b929c",
+     "1134b6a1764a",
+     "0ef91bd8c8c1"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวของ NVIDIA ในการเปิดตัวฮาร์ดแวร์และโมเดลประมวลผลภาษา รวมถึงการวิเคราะห์แนวโน้มราคา GPU ที่อาจลดลงในปีหน้าเนื่องจากประสิทธิภาพของโมเดลขนาดเล็กที่เพิ่มขึ้น",
+    "text": "NVIDIA เปิดตัวแล็ปท็อป RTX Spark ขุมพลัง Blackwell และโมเดล AI ใหม่สำหรับการถอดความภาษา พร้อมคาดการณ์แนวโน้มราคา GPU อาจลดลงในปีหน้า",
     "ids": [
      "36eb3dda48d9",
      "d9d311919980",
@@ -33,17 +34,24 @@
     ]
    },
    {
-    "text": "บริษัทเทคโนโลยีรายใหญ่อย่าง Meta และ Microsoft กำลังปรับตัวด้านการลงทุนและโครงสร้างพื้นฐาน AI ท่ามกลางแรงกดดันด้านต้นทุนและการคัดค้านจากสำนักพิมพ์เรื่องการใช้ข้อมูลฝึกฝนโมเดล",
+    "text": "Anthropic เผชิญความท้าทายทั้งด้านกฎหมายจากการถูกฟ้องร้องเรื่องลิขสิทธิ์เพลง และคำสั่งตัดความสัมพันธ์จากรัฐบาลสหรัฐฯ แม้จะมีการเปิดตัวเครื่องมือช่วยองค์กรและใช้งานในด้านการแพทย์อย่างต่อเนื่อง",
     "ids": [
-     "7712901314f3",
-     "1739307690c3",
-     "81ef804488f9"
+     "77a430eb2248",
+     "b137501d0def",
+     "ea370fdd96af",
+     "b85c3831e13a",
+     "586ebfabd2cd"
     ]
    },
    {
-    "text": "ประเด็นความปลอดภัยและจริยธรรม AI ยังคงเป็นเรื่องสำคัญ หลังมีการฟ้องร้อง OpenAI กรณีคำแนะนำของ ChatGPT ที่ส่งผลกระทบต่อชีวิต และความเสี่ยงจากการโจมตีไซเบอร์ด้วย AI ในสถาบันการเงิน",
+    "text": "Meta ระดมทุนเพื่อพัฒนาโครงสร้างพื้นฐาน AI และโมเดล Muse ขณะที่ OpenAI ขยายความร่วมมือกับ ServiceNow เพื่อเพิ่มประสิทธิภาพเวิร์กโฟลว์ในองค์กร",
     "ids": [
-     "a2f907c053da",
+     "7712901314f3",
+     "1739307690c3",
+     "75e2017ed4c5",
+     "2fc8e689e413",
+     "635e5e395a3d",
+     "978565a6b593",
      "1af93ecc8fda"
     ]
    }
@@ -173,9 +181,157 @@
   "e985329a7777",
   "6318bf62f2c5",
   "4e5ec94f40bf",
-  "e8c61706efad"
+  "e8c61706efad",
+  "5aa9dbaf4347",
+  "e4867209a9cd",
+  "8500267ec5b4",
+  "964eb21e0e03",
+  "fc7d1d71bde9",
+  "dfd3864101f9",
+  "ebf81e292c4d",
+  "fc95a75a0685",
+  "f6092a50ebd9"
  ],
  "items": [
+  {
+   "id": "09f762edab0d",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "source": "The Verge AI",
+   "published": "2026-10-28T23:05:39+00:00",
+   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "text": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
+   "title_th": "Adam Mosseri เผยกระแสเชิงลบต่อ AI มีแนวโน้มรุนแรงขึ้น",
+   "summary_th": "หัวหน้า Instagram ยอมรับว่าผู้คนจำนวนมากมีความรู้สึกเชิงลบต่อเทคโนโลยี AI ไม่ใช่แค่ในกลุ่มคนรุ่นใหม่หรือนักสร้างสรรค์เท่านั้น สะท้อนถึงความท้าทายด้านภาพลักษณ์ของเทคโนโลยีในปัจจุบัน",
+   "category": "อื่นๆ",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1134b6a1764a",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-28T21:58:32+00:00",
+   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+   "text": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+   "title_th": "Microsoft เปิดเผยรายได้ Azure ครั้งแรกที่ 3.32 หมื่นล้านดอลลาร์",
+   "summary_th": "Microsoft เปิดเผยตัวเลขรายได้รายไตรมาสของ Azure เป็นครั้งแรก ซึ่งแสดงให้เห็นถึงการเติบโตที่ใกล้เคียงกับคู่แข่งรายใหญ่อย่าง AWS อย่างมาก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Microsoft",
+    "Amazon"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9b7dd4a7a685",
+   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-28T21:48:37+00:00",
+   "title": "Google expands AI Search ads globally as core ad growth slows",
+   "text": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+   "title_th": "Google ขยายการแสดงโฆษณาใน AI Search ทั่วโลก",
+   "summary_th": "Google ประกาศขยายการใช้งานโฆษณาในระบบค้นหาด้วย AI ไปทั่วโลก ท่ามกลางการเติบโตของรายได้หลักที่ชะลอตัวลง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Google",
+    "Alphabet"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f9d1493b929c",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-28T21:34:30+00:00",
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "text": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+   "title_th": "Microsoft บันทึกรายได้ 1 หมื่นล้านดอลลาร์จากความร่วมมือกับ OpenAI",
+   "summary_th": "Microsoft รายงานรายได้จากการทำข้อตกลงเชิงพาณิชย์กับ OpenAI ซึ่งรวมถึงการแบ่งปันรายได้ สะท้อนถึงความสัมพันธ์ทางการเงินที่แน่นแฟ้นระหว่างสองบริษัท",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Microsoft",
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0ef91bd8c8c1",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-28T21:25:30+00:00",
+   "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+   "text": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+   "title_th": "Microsoft ทำสถิติรายได้สูงสุดต่อเนื่องเป็นไตรมาสที่ 10",
+   "summary_th": "Microsoft รายงานรายได้รายไตรมาสทำสถิติใหม่ต่อเนื่อง โดยได้รับอานิสงส์จากความสำเร็จในธุรกิจที่เกี่ยวข้องกับ AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Microsoft"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e164bf48fa23",
+   "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+   "source": "MIT Technology Review",
+   "published": "2026-10-28T20:32:02+00:00",
+   "title": "Creating AI value with enterprise context",
+   "text": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
+   "title_th": "การสร้างมูลค่าจาก AI ด้วยบริบทขององค์กร",
+   "summary_th": "บทวิเคราะห์เกี่ยวกับการนำ AI มาใช้ในองค์กรที่ต้องเผชิญกับความท้าทายในการจัดการระบบที่หลากหลาย เพื่อให้ได้ผลลัพธ์ที่แม่นยำและมีประสิทธิภาพ",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ea370fdd96af",
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-28T19:19:58+00:00",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "text": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+   "title_th": "Anthropic เปิดตัวเครื่องมือช่วยองค์กรตรวจสอบค่าใช้จ่ายด้าน AI",
+   "summary_th": "Anthropic เปิดตัวฟีเจอร์ใหม่ที่ช่วยให้ลูกค้าองค์กรสามารถติดตามและวิเคราะห์การใช้จ่ายในการใช้งานโมเดล AI ได้อย่างโปร่งใส ก่อนการเข้าสู่ตลาดหลักทรัพย์",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d0753be868cc",
+   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+   "source": "The Verge AI",
+   "published": "2026-10-28T18:36:26+00:00",
+   "title": "Microsoft is ending Copilot support on smart TVs",
+   "text": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
+   "title_th": "Microsoft ยุติการสนับสนุน Copilot บนสมาร์ททีวี",
+   "summary_th": "Microsoft เตรียมยุติการให้บริการ Copilot บนสมาร์ททีวีของ LG และ Samsung ภายในปีนี้ หลังจากเปิดตัวมาได้เกือบสองปี การเปลี่ยนแปลงนี้สะท้อนถึงการปรับกลยุทธ์การใช้งาน AI บนอุปกรณ์หน้าจอขนาดใหญ่",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Microsoft",
+    "LG",
+    "Samsung"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "b85c3831e13a",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWVNRVVR4Y1lWYXF5bm9nU1VOTlk1d3VPdkhuejZyNHBINDMtQ2tFWng4WHhEa1F1UjQzNmFaR1pUVDJlaGVlVGFNSk92TzBOSDVURk5WVlRPMlRSQzNPUzkwWkVCVXgzdEdjSVREcEFyNHJxZmp1dkRUYjRsVnpyZDd2WWJvdl9xWVQ0RkZYeFlqVlZqUHNOMA?oc=5",
@@ -204,7 +360,9 @@
    "summary_th": "Google DeepMind ประกาศเปิดตัว Gemini 4 Carbon ในฐานะโมเดลระดับแนวหน้าตัวใหม่ล่าสุดของบริษัท",
    "category": "โมเดลใหม่",
    "companies": [
-    "Google"
+    "Google",
+    "Anthropic",
+    "OpenAI"
    ],
    "importance": 5,
    "ai": true,
@@ -216,6 +374,10 @@
     {
      "source": "Hacker News",
      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
     }
    ],
    "dedup": true
@@ -234,6 +396,21 @@
     "Google"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9b2a09f7e49c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhtg61/list_of_suggestions_for_gemma_5/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-28T16:48:46+00:00",
+   "title": "List of suggestions for Gemma 5.",
+   "text": "Recently Omar Sanseviero asked for suggestions on Twitter for future Gemma models. Here is my take on this: Gemma 5 should be a looped transformer . Being a looped transformer with configurable loop depth will address one of the biggest Gemma 4 weaknesses - reasoning ability. Don't get me wrong, I love how concise Gemma 4 is with its reasoning, but it actively hinders its performance in certain scenarios, being looped will allow the model to perform better in such tasks, while still being configurable to reason shallower and being significantly more efficient than a traditional transformer wit",
+   "title_th": "ข้อเสนอแนะสำหรับการพัฒนา Gemma 5 ในอนาคต",
+   "summary_th": "มีการเสนอแนวคิดให้ Gemma 5 ใช้สถาปัตยกรรมแบบ looped transformer เพื่อเพิ่มขีดความสามารถในการใช้เหตุผล ซึ่งเป็นจุดที่ Gemma 4 ยังทำได้ไม่ดีนัก การปรับปรุงนี้จะช่วยให้โมเดลมีความยืดหยุ่นและประสิทธิภาพสูงขึ้นในงานที่ซับซ้อน",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -305,6 +482,21 @@
    "title_th": "บทวิเคราะห์: ผู้บริหาร AI อาจห่างเหินจากผู้ใช้งานทั่วไป",
    "summary_th": "บทความวิจารณ์ว่าผู้นำด้านเทคโนโลยี AI อาจขาดความเข้าใจในความต้องการของผู้ใช้งานทั่วไปจากการแสดงความคิดเห็นที่ไม่เหมาะสม",
    "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "97373eedda74",
+   "url": "https://surgehq.ai/blog/dayjob-tax",
+   "source": "Hacker News",
+   "published": "2026-10-28T15:46:30+00:00",
+   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+   "text": "191 points, 113 comments on Hacker News (https://news.ycombinator.com/item?id=50275626)",
+   "title_th": "การประเมินประสิทธิภาพ AI Agents ในงานด้านภาษี 50 รูปแบบ",
+   "summary_th": "รายงานการทดสอบความสามารถของ AI Agents ในการจัดการงานด้านภาษีระดับมืออาชีพจำนวน 50 งาน เพื่อวัดประสิทธิภาพและความแม่นยำในการทำงานจริง",
+   "category": "งานวิจัย",
    "companies": [],
    "importance": 2,
    "ai": true,
@@ -467,6 +659,24 @@
    "category": "นโยบาย/กฎหมาย",
    "companies": [],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "75e2017ed4c5",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "source": "OpenAI",
+   "published": "2026-10-28T13:15:00+00:00",
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "text": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+   "title_th": "OpenAI และ ServiceNow ขยายความร่วมมือด้านเวิร์กโฟลว์องค์กร",
+   "summary_th": "OpenAI และ ServiceNow ประกาศขยายความร่วมมือเพื่อนำโมเดลและ AI Agents ของ OpenAI เข้าไปรวมในระบบของ ServiceNow และเชื่อมต่อเวิร์กโฟลว์ของ ServiceNow เข้ากับ ChatGPT เพื่อเพิ่มประสิทธิภาพการทำงานในองค์กร",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI",
+    "ServiceNow"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -736,6 +946,10 @@
     {
      "source": "FedScoop",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50MnRrUWwyYUg2azNuWVBkYUdxeGxnVjJqVm43NThxQ2d0eGVrZUZTTHdIVngyWmVFRXdfUEFGcXVGMmFKRWxKVTc1Q2x3TDBSQ1pwY0NLUEphNUZwNk5nc2lSYlg?oc=5"
+    },
+    {
+     "source": "ExecutiveGov",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56X2lqb0JtRDhTZ19hUmN6MEF3dVJkNTdGSGp1MGZRV04zRHN0R0tqU1l1SklfamlyUzhXU0g1YmJtRWRWbHdMVDJHengzeTVaNzFVN09nVWRhQTdya2s0WDRFdnoxcEw5ZHdUMHNZOWVjMm0zbktVZF9VNEVNRFU?oc=5"
     }
    ],
    "dedup": true
@@ -1718,11 +1932,26 @@
    "summary_th": "Anthropic ได้ยื่นเอกสาร IPO อย่างเป็นทางการแล้ว โดยในเอกสารความยาวกว่า 300 หน้าได้เปิดเผยถึงมุมมองของบริษัทต่อเทคโนโลยีและความเสี่ยงที่เกี่ยวข้อง",
    "category": "ธุรกิจ/การลงทุน",
    "companies": [
-    "Anthropic"
+    "Anthropic",
+    "OpenAI"
    ],
    "importance": 5,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Vc2N5SUR3WmY1a1l1cWJRbFM1RXVLakdBUGc1YWZ0dWRjLVhfN2ZZX2lHUG9pcU1HVno0cnMyY096UWp5b1lmYmlSRTN6SnI5ZFhGTGE2NGtUWkM0cUhCazlDM0l1LTh6ZkNYWFlwbGZuQ3pDdUZjLUc2bU9JZ9IBgwFBVV95cUxPbnp1REdiQWJ3c1Vic0N1cEtITFRkbDlraEY0VzJhTVhLdmd5RHYweHVCWllTNlJsajJ3d3gxa2RhV0ZWRjZJNkRZYjFjQm0zZWJkTTRPSlBrRjZnQmk1RFlsUXpjc3NiakxuVlZfckNxcC1lbHUwMTZNQnJOR2FNbzMyRQ?oc=5"
+    },
+    {
+     "source": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOem9KTTZ0SWlfTWNjakFPZ2JvRDZEX2wtY2ticmFtY0tDdmNwQkdCTUZSMlJlejJOMHhOcmxSTmdYb095dXRNdkV2SklYRi13emdSdHdtZTFzUzl1eW9HOXEtbG50Vk1Ub0g4VFNCMWtDSXFONzRuRjBTUWtJb2xVWTQ5TjV0TE5nRFNPZ1lPQ2YwaVhJX2pFcndSYUFTOTJpTG10S1hpQWotSlJWT2ctSHhfSVR2Zw?oc=5"
+    },
+    {
+     "source": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjRYLVhlLVlmcUNLMWllM1Fuc1VzdW10djk3eF93aXhMOEpRdFlLTDJGeklZQS1rS2FZcHpXQUJvS1RPMVhsNnZ3Y2tJY3NST2ZJbFVzSjFYUFYwdDlnZnlhTWhaV3BLNGxGMFE3Rk9ZX2JxdEEzQ3VBZGVhQk4wTm1RdzFZZkk5aklHUUlaLVRPbmNPdWMwRkF0SFBFdEZnV2VtSVJzbjh1QlVXNEE?oc=5"
+    }
+   ]
   },
   {
    "id": "2500a6aad874",

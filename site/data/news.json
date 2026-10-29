@@ -1,58 +1,54 @@
 {
- "updated_at": "2026-10-29T00:02:11+00:00",
+ "updated_at": "2026-10-29T05:55:30+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-10-29T00:02:11+00:00",
-  "headline": "ความเคลื่อนไหวครั้งใหญ่ในอุตสาหกรรม AI ทั้งการเปิดตัวโมเดลใหม่จาก Google และ NVIDIA รวมถึงการเติบโตทางรายได้ของยักษ์ใหญ่เทคโนโลยี",
+  "generated_at": "2026-10-29T05:55:30+00:00",
+  "headline": "ยักษ์ใหญ่เทคโนโลยีเร่งเครื่องลงทุนโครงสร้างพื้นฐาน AI พร้อมเปิดตัวโมเดลใหม่และขยายขีดความสามารถสู่ระดับองค์กร",
   "points": [
    {
-    "text": "Google เปิดตัว Gemini 4 Carbon และ Gemini 4 Argon ที่รองรับเอาต์พุตสูงสุด 1 ล้านโทเคน พร้อมขยายแพลตฟอร์มให้นักพัฒนาเชื่อมต่อบริการและเพิ่มโฆษณาในระบบค้นหา AI",
+    "text": "Alphabet, Microsoft และ Meta รายงานผลประกอบการที่แข็งแกร่งและเร่งลงทุนในโครงสร้างพื้นฐาน AI มหาศาล โดย Microsoft เผยรายได้จาก Azure และความร่วมมือกับ OpenAI ที่เติบโตอย่างต่อเนื่อง",
+    "ids": [
+     "a5174400f741",
+     "f9d1493b929c",
+     "1134b6a1764a",
+     "0ef91bd8c8c1",
+     "7712901314f3"
+    ]
+   },
+   {
+    "text": "Google เปิดตัวโมเดล Gemini 4 Carbon และ Argon ที่เน้นการใช้เหตุผลเชิงลึกและรองรับเอาต์พุตสูงสุด 1 ล้านโทเคน พร้อมขยายการใช้งานโฆษณาใน AI Search และเปิดแพลตฟอร์มเชื่อมต่อบริการเข้ากับ Gemini",
     "ids": [
      "34b0bf3f94c3",
      "2f1a76ee0328",
-     "a01db71b034c",
      "9b7dd4a7a685",
-     "c802108aab79",
-     "fabbc74e31a1"
+     "a01db71b034c",
+     "c802108aab79"
     ]
    },
    {
-    "text": "Microsoft รายงานรายได้สูงสุดต่อเนื่องเป็นไตรมาสที่ 10 โดยมีรายได้จาก Azure และความร่วมมือกับ OpenAI เป็นปัจจัยขับเคลื่อนหลัก",
-    "ids": [
-     "f9d1493b929c",
-     "1134b6a1764a",
-     "0ef91bd8c8c1"
-    ]
-   },
-   {
-    "text": "NVIDIA เปิดตัวแล็ปท็อป RTX Spark ขุมพลัง Blackwell และโมเดล AI ใหม่สำหรับการถอดความภาษา พร้อมคาดการณ์แนวโน้มราคา GPU อาจลดลงในปีหน้า",
-    "ids": [
-     "36eb3dda48d9",
-     "d9d311919980",
-     "7ae8eb20550e",
-     "77b008858811"
-    ]
-   },
-   {
-    "text": "Anthropic เผชิญความท้าทายทั้งด้านกฎหมายจากการถูกฟ้องร้องเรื่องลิขสิทธิ์เพลง และคำสั่งตัดความสัมพันธ์จากรัฐบาลสหรัฐฯ แม้จะมีการเปิดตัวเครื่องมือช่วยองค์กรและใช้งานในด้านการแพทย์อย่างต่อเนื่อง",
+    "text": "Anthropic เผชิญความท้าทายรอบด้าน ทั้งการถูกรัฐบาลสหรัฐฯ สั่งตัดความสัมพันธ์ การถูกฟ้องร้องเรื่องลิขสิทธิ์เพลง และปัญหาการใช้ Token เกินจริงใน Claude Code แม้จะมีการเปิดตัวเครื่องมือช่วยองค์กรใหม่ๆ ก็ตาม",
     "ids": [
      "77a430eb2248",
      "b137501d0def",
+     "271134257c4a",
      "ea370fdd96af",
-     "b85c3831e13a",
      "586ebfabd2cd"
     ]
    },
    {
-    "text": "Meta ระดมทุนเพื่อพัฒนาโครงสร้างพื้นฐาน AI และโมเดล Muse ขณะที่ OpenAI ขยายความร่วมมือกับ ServiceNow เพื่อเพิ่มประสิทธิภาพเวิร์กโฟลว์ในองค์กร",
+    "text": "NVIDIA เดินหน้าเปิดตัวฮาร์ดแวร์ใหม่ซีรีส์ RTX Spark และโมเดล AI ด้านการถอดความภาษาที่หลากหลาย เพื่อรองรับงานนักพัฒนาและองค์กร",
     "ids": [
-     "7712901314f3",
-     "1739307690c3",
-     "75e2017ed4c5",
-     "2fc8e689e413",
+     "36eb3dda48d9",
+     "d9d311919980",
+     "7ae8eb20550e"
+    ]
+   },
+   {
+    "text": "ความก้าวหน้าของโมเดลเฉพาะทางและเครื่องมือโอเพนซอร์สยังคงเติบโต เช่น Mica v0.5 สำหรับเล่นเกม Minecraft และการพัฒนา CPU จำลองภายในโมเดล Qwen",
+    "ids": [
+     "3311bb06df5c",
      "635e5e395a3d",
-     "978565a6b593",
-     "1af93ecc8fda"
+     "f2ec6f385a54"
     ]
    }
   ]
@@ -194,6 +190,41 @@
  ],
  "items": [
   {
+   "id": "271134257c4a",
+   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+   "source": "Hacker News",
+   "published": "2026-10-29T03:33:42+00:00",
+   "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+   "text": "190 points, 41 comments on Hacker News (https://news.ycombinator.com/item?id=50284255)",
+   "title_th": "ผู้ใช้พบปัญหา Claude Code กิน Token สูงเกินจริงจากการแสดงสถานะ",
+   "summary_th": "มีการรายงานว่า Claude Code ใช้ปริมาณ Token สูงถึง 15-20% เพียงเพื่อแสดงสถานะการทำงานสั้นๆ ซึ่งส่งผลกระทบต่อค่าใช้จ่ายของผู้ใช้งานโดยไม่จำเป็น",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a5174400f741",
+   "url": "https://www.blognone.com/node/152049",
+   "source": "Blognone",
+   "published": "2026-10-29T01:32:38+00:00",
+   "title": "Alphabet ไตรมาส 3/2026 รายได้รวมโต 25%, Google Cloud โตมากกว่าเท่าตัว เดินหน้าลงทุน AI มากขึ้นอีก",
+   "text": "Body Alphabet บริษัทแม่ของกูเกิล รายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้รวมเพิ่มขึ้น 25% จากไตรมาสเดียวกันในปีก่อนเป็น 127,577 ล้านดอลลาร์ และมีกำไรสุทธิ 26,170 ล้านดอลลาร์ ส่วนกระแสเงินสดอิสระซึ่งนักลงทุนให้ความสนใจมาก เพราะ ไตรมาสก่อนหน้านี้ ติดลบเป็นครั้งแรก ในไตรมาส 3 ก็ยังคงติดลบอีก 9,065 ล้านดอลลาร์ เนื่องจากมีการใช้จ่ายลงทุนที่เกี่ยวกับ AI เพิ่มขึ้น โดยตัวเลขการลงทุนสินทรัพย์ถาวร (CapEx) เพิ่มเป็น 51,355 ล้านดอลลาร์ Alphabet ประเมินตัวเลขการลงทุนสินทรัพย์ถาวรที่ราว 2 แสนล้านดอลลาร์ ส",
+   "title_th": "Alphabet รายได้โต 25% พร้อมเร่งลงทุนโครงสร้างพื้นฐาน AI มหาศาล",
+   "summary_th": "Alphabet รายงานผลประกอบการไตรมาส 3 ปี 2026 โดยมีรายได้เติบโตแข็งแกร่ง แต่กระแสเงินสดอิสระยังคงติดลบจากการลงทุนในสินทรัพย์ถาวรเพื่อรองรับการขยายตัวของ AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Alphabet",
+    "Google"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "09f762edab0d",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
    "source": "The Verge AI",
@@ -333,6 +364,21 @@
    "dedup": true
   },
   {
+   "id": "3311bb06df5c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhw2l0/a_4b_model_made_me_a_netherite_ingot_from_bare/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-28T18:21:25+00:00",
+   "title": "A 4B model made me a netherite ingot from bare hands. All I did was type one sentence in chat.",
+   "text": "Last time my Minecraft assistant could do tasks, but it couldn’t really understand what you asked it in plain language. This time I built a pipeline for exactly that part, and it isn’t tailored to this one sentence. It works for requests in general. In the video the player types “I’m hungry, get me at least 3 porkchops and also make me a netherite ingot.” Mica v0.5 4B reads it, works out the two goals and how many of each, and then starts from bare hands. It goes wood, tools, iron, diamonds, obsidian, portal, Nether, ancient debris, gold, and finally the netherite ingot, then comes back and ha",
+   "title_th": "Mica v0.5 โมเดลขนาด 4B ที่สามารถเล่นเกม Minecraft ตามคำสั่งภาษาธรรมชาติ",
+   "summary_th": "นักพัฒนาเปิดตัว Mica v0.5 โมเดลขนาดเล็กที่สามารถเข้าใจคำสั่งภาษาธรรมชาติเพื่อทำภารกิจซับซ้อนในเกม Minecraft ได้สำเร็จ โดยไม่ต้องเขียนคำสั่งเฉพาะเจาะจง",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "b85c3831e13a",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWVNRVVR4Y1lWYXF5bm9nU1VOTlk1d3VPdkhuejZyNHBINDMtQ2tFWng4WHhEa1F1UjQzNmFaR1pUVDJlaGVlVGFNSk92TzBOSDVURk5WVlRPMlRSQzNPUzkwWkVCVXgzdEdjSVREcEFyNHJxZmp1dkRUYjRsVnpyZDd2WWJvdl9xWVQ0RkZYeFlqVlZqUHNOMA?oc=5",
    "source": "GenomeWeb",
@@ -344,6 +390,23 @@
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [
     "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f2ec6f385a54",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-28T17:19:05+00:00",
+   "title": "A small step for man, a GIANT step for LOCAL AI",
+   "text": "Shoutout to the Unsloth AI team for constantly pushing the needle forward for local ai worldwide. While many of us already had features such as this via other means, it is more what this means for entry level ai enthusiasts & accessibility. It is clear as day! We are in \"the age of the agent.\" The more people we can get onboard local ai, the tougher it will be for the powers that be to snatch it from us. submitted by /u/HolidayBit143 [link] [comments]",
+   "title_th": "Unsloth AI ยกระดับการเข้าถึง Local AI สำหรับผู้ใช้งานทั่วไป",
+   "summary_th": "ทีมงาน Unsloth AI พัฒนาเครื่องมือที่ช่วยให้การใช้งาน AI บนเครื่องส่วนตัวทำได้ง่ายขึ้น ซึ่งถือเป็นก้าวสำคัญในการส่งเสริมการเข้าถึงเทคโนโลยี AI ให้กับผู้ใช้งานทั่วไป",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Unsloth AI"
    ],
    "importance": 3,
    "ai": true,
@@ -1643,6 +1706,21 @@
    "text": "622 points, 617 comments on Hacker News (https://news.ycombinator.com/item?id=50257325)",
    "title_th": "ความย้อนแย้งของ AI: สัญญาว่าจะช่วยลดงาน แต่กลับทำให้งานเพิ่มขึ้น",
    "summary_th": "ผู้ใช้งานจำนวนมากสะท้อนมุมมองว่าแม้ AI จะถูกออกแบบมาเพื่อช่วยทุ่นแรง แต่ในทางปฏิบัติกลับทำให้ภาระงานเพิ่มขึ้นแทนที่จะลดลง",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c444a6335ada",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sUWFJY2IyczhRd0tLUkpSUVVXX2M0dTlOMWlCQ3FOd3RUczdlajdZRWMyOFZEVm1oYk14bVViem9TanFJMUVQWWJmRjlKVzdvSF9TYlpOcExIcVVC?oc=5",
+   "source": "bangkokbiznews",
+   "published": "2026-10-27T10:36:13+00:00",
+   "title": "คุยกับ ‘พงศ์พรหม ยามะรัต’ โอกาสเศรษฐกิจกับ ‘Small AI’ ต้องคว้าให้ได้ใน 3 ปี",
+   "text": "",
+   "title_th": "มุมมองโอกาสทางเศรษฐกิจไทยกับ Small AI ในอีก 3 ปีข้างหน้า",
+   "summary_th": "บทวิเคราะห์เกี่ยวกับโอกาสของประเทศไทยในการคว้าประโยชน์จากเทคโนโลยี Small AI เพื่อขับเคลื่อนเศรษฐกิจภายในกรอบเวลา 3 ปี",
    "category": "อื่นๆ",
    "companies": [],
    "importance": 2,

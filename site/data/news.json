@@ -1,54 +1,53 @@
 {
- "updated_at": "2026-10-29T21:12:29+00:00",
+ "updated_at": "2026-10-30T05:56:25+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-10-29T21:12:29+00:00",
-  "headline": "อุตสาหกรรม AI เร่งขยายตัวผ่านการลงทุนโครงสร้างพื้นฐานมหาศาลและการพัฒนาโมเดลเฉพาะทางที่เน้นความปลอดภัยและประสิทธิภาพ",
+  "generated_at": "2026-10-30T05:56:25+00:00",
+  "headline": "อุตสาหกรรม AI เร่งขยายโครงสร้างพื้นฐานและโมเดลเฉพาะทาง พร้อมยกระดับความปลอดภัยและการกำกับดูแลการใช้งาน",
   "points": [
    {
-    "text": "บริษัทเทคโนโลยีรายใหญ่รายงานรายได้เติบโตแข็งแกร่งจากบริการ AI และ Cloud โดย Alphabet, Microsoft และ Samsung ต่างเร่งลงทุนในโครงสร้างพื้นฐานและชิปประมวลผลเพื่อรองรับความต้องการที่เพิ่มขึ้น",
+    "text": "บริษัทเทคโนโลยีรายใหญ่เดินหน้าลงทุนในโครงสร้างพื้นฐาน AI อย่างหนักเพื่อรองรับการเติบโตของรายได้และมุ่งสู่ AGI โดย Amazon ตั้งเป้ารายได้ Cloud แตะ 1 ล้านล้านดอลลาร์ ขณะที่ Anthropic ทุ่มงบมหาศาลด้าน Compute และ Samsung ทำสถิติรายได้สูงสุดจากความต้องการชิปหน่วยความจำ AI",
     "ids": [
-     "a5174400f741",
-     "fedf08b40a3b",
-     "f9d1493b929c",
+     "720b04b8c5b9",
+     "0b3918620b86",
      "ce80b7e38182"
     ]
    },
    {
-    "text": "ความก้าวหน้าของโมเดลภาษาขนาดใหญ่ยังคงดำเนินไปอย่างต่อเนื่อง ทั้งการเปิดตัว Mistral Large 4 แบบ Open Weight, การเตรียมเปิดตัว Qwen4 ที่รองรับ Context Window ขนาดใหญ่ และการใช้โมเดล Claude ในงานเฉพาะทาง",
+    "text": "การพัฒนาโมเดล AI เน้นความโปร่งใสและความปลอดภัยมากขึ้น โดย Mistral ปล่อยโมเดล Open Weight สำหรับงานไซเบอร์ซีเคียวริตี้ และ OpenAI อัปเดต Model Spec พร้อมระบบตรวจสอบพฤติกรรม AI Agents เพื่อป้องกันการใช้งานที่ไม่เหมาะสม",
     "ids": [
      "34a9d739c6fb",
      "23e63926ccea",
-     "caf385804cd7",
-     "3801e55a0f5a",
-     "9172711be2ad"
-    ]
-   },
-   {
-    "text": "การกำกับดูแลและความปลอดภัยของ AI กลายเป็นประเด็นสำคัญ โดย OpenAI และหน่วยงานต่างๆ เร่งพัฒนาระบบตรวจสอบพฤติกรรม AI Agents และกำหนดแนวทางจริยธรรมเพื่อป้องกันความเสี่ยงจากการใช้งาน",
-    "ids": [
      "7bf0065ceb16",
      "24f676feeb3a",
      "d28967fce9c6"
     ]
    },
    {
-    "text": "เครื่องมือและแพลตฟอร์ม AI มีการอัปเดตฟีเจอร์ใหม่เพื่อเพิ่มประสิทธิภาพการทำงาน เช่น GitHub Copilot Fusion, Google Gemini ที่แก้ไขไฟล์ได้โดยตรง และการใช้ AI Agents ในงานจำลองสถานการณ์",
+    "text": "การประยุกต์ใช้ AI ในภาคธุรกิจขยายตัวอย่างต่อเนื่อง ทั้งการนำโมเดลไปใช้ในงานความปลอดภัยไซเบอร์โดย SentinelOne และ Anthropic, การเข้าซื้อกิจการเพื่อเสริมแกร่งเทคโนโลยีของ Thrive Holdings และ Deepgram รวมถึงการเพิ่มฟีเจอร์ AI ในผลิตภัณฑ์ของ Microsoft, Google, Meta และ Rivian",
     "ids": [
-     "63973e462872",
+     "fedf08b40a3b",
+     "4db20898e948",
+     "d0e2301d55a3",
+     "3801e55a0f5a",
+     "9172711be2ad",
      "2a1a8a7c88a0",
-     "1112027d5901",
-     "f4bafd177065"
+     "f4bafd177065",
+     "7587406daf7d"
     ]
    },
    {
-    "text": "เกิดความเคลื่อนไหวในเชิงกลยุทธ์ธุรกิจและการจัดการทรัพยากร ทั้งการเข้าซื้อกิจการเพื่อเสริมแกร่งเทคโนโลยี AI, การปรับโครงสร้างแรงงานของ Microsoft และปัญหาความมั่นคงจากการจารกรรมข้อมูลชิป",
+    "text": "นักพัฒนาและองค์กรเผชิญความท้าทายใหม่จากการเปลี่ยนแปลงของโมเดล AI ทั้งปัญหาประสิทธิภาพที่ลดลงจากการอัปเดต API แบบเงียบๆ และการปรับตัวของโครงสร้างแรงงานในบริษัทเทคโนโลยีท่ามกลางการเปลี่ยนผ่านสู่ยุค AI",
     "ids": [
      "45b4ef0b726f",
-     "0b3918620b86",
-     "4db20898e948",
-     "d0e2301d55a3",
-     "a9493e03c65c"
+     "dbe2c3574031"
+    ]
+   },
+   {
+    "text": "นวัตกรรมด้านการจัดการโมเดลและเครื่องมือช่วยเขียนโค้ดมีความก้าวหน้าขึ้น โดย GitHub เปิดตัวระบบเลือกโมเดลอัตโนมัติ (Fusion) และ Hugging Face แนะนำแนวทางการอัปเดตโมเดลที่ง่ายเหมือนซอฟต์แวร์ทั่วไป",
+    "ids": [
+     "63973e462872",
+     "f3538b6fb36f"
     ]
    }
   ]
@@ -141,7 +140,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 4,
+   "count": 2,
    "error": null
   }
  ],
@@ -198,9 +197,83 @@
   "079251699e8e",
   "eebb63f2228b",
   "748c74148f35",
-  "f5f11d6375e3"
+  "f5f11d6375e3",
+  "188cfe2fae3b",
+  "913c2058fe95",
+  "09f3a7a19185",
+  "e04ff4b38614",
+  "3f421dfac052"
  ],
  "items": [
+  {
+   "id": "7642eca317aa",
+   "url": "https://www.blognone.com/node/152057",
+   "source": "Blognone",
+   "published": "2026-10-30T02:38:04+00:00",
+   "title": "Valve ยอมรับ Steam มีปัญหาเกมโคลน-เกมคุณภาพต่ำสร้างด้วย AI แต่ก็ไม่มีนโยบายปิดกั้น",
+   "text": "Body Tom Giardino และ Marc Wilkinson ตัวแทนฝ่ายธุรกิจของ Valve ไปขึ้นเวทีงาน Steam Indie Connect ที่เกาหลีใต้ และตอบคำถามนักพัฒนาเกมเรื่องปัญหาการใช้ AI โคลนเกมมาขายแข่ง ที่ไปไกลถึงขั้นมีคนไปขู่เรียกเงินให้นักพัฒนาจ่ายเพื่อแลกกับการไม่โคลนเกมแข่ง Giardino ยอมรับว่า Steam มีปัญหาเรื่องการโคลนเกมมายาวนานตั้งแต่ก่อนยุค AI คือสร้างเกมคล้ายๆ กันกับเกมดังช่วงนั้น เพียงแต่ AI เข้ามาช่วยเร่งความเร็วของการโคลนให้มากขึ้น อย่างไรก็ตาม นโยบายของ Valve ไม่ต้องการเป็น \"ผู้คุมประตู\" (gatekeeper) สั่งนักพัฒนาห้ามใช้เครื่องมือตั",
+   "title_th": "Valve ยอมรับปัญหาเกมโคลนจาก AI บน Steam แต่ยังไม่ปิดกั้น",
+   "summary_th": "ผู้บริหารของ Valve ยอมรับว่าการใช้ AI ช่วยเร่งความเร็วในการสร้างเกมโคลนเป็นปัญหาที่เกิดขึ้นจริงบนแพลตฟอร์ม Steam อย่างไรก็ตาม Valve ยืนยันนโยบายว่าจะไม่ทำหน้าที่เป็นผู้คุมประตูในการปิดกั้นนักพัฒนา",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Valve"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "720b04b8c5b9",
+   "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-29T23:42:22+00:00",
+   "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+   "text": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+   "title_th": "Amazon มุ่งเป้า AWS สู่รายได้ 1 ล้านล้านดอลลาร์ด้วยการลงทุนด้าน AI",
+   "summary_th": "ซีอีโอของ Amazon ระบุว่าบริษัทต้องการก้าวขึ้นเป็นผู้นำด้าน AI Cloud Computing และตั้งเป้าสร้างรายได้ถึง 1 ล้านล้านดอลลาร์ โดยจำเป็นต้องเพิ่มงบประมาณการลงทุนในโครงสร้างพื้นฐานอย่างต่อเนื่อง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Amazon",
+    "AWS"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "13f3cb55c8dd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-29T23:11:52+00:00",
+   "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
+   "text": "Sam Altman: “ Local inference is a terrible allocation of scarce resources. A lot of people want local inference, and somehow they assume that the problem is solved now because we have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data centre but from a global allocation perspective, actually it's quite terrible to have everybody, like, have a bunch of the world's limited supply of DRAM sitting in their own computer and being used five percent of the time you want maximum utilisation in the cloud if you're trying to",
+   "title_th": "Sam Altman มองว่าการรัน Local Inference เป็นการใช้ทรัพยากรที่ไม่คุ้มค่า",
+   "summary_th": "Sam Altman แสดงความเห็นว่าการรันโมเดล AI บนเครื่องคอมพิวเตอร์ส่วนบุคคลเป็นการจัดสรรทรัพยากร DRAM ที่มีจำกัดของโลกอย่างไม่มีประสิทธิภาพ เมื่อเทียบกับการประมวลผลผ่านศูนย์ข้อมูล",
+   "category": "งานวิจัย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "00bf38dbd41e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-29T21:43:11+00:00",
+   "title": "Arguably unethical behavior from Cohere",
+   "text": "3 days ago, u/Cohere generated a huge amount of media attention and many fear-mongering headlines by publishing a largely unscientific blog post about an \"experiment\" where they used extensive pre-filling and prompt engineering to force Qwen 3.8 Flash Next to complete partial cURL commands. Today, they announced Series E fundraising for several billion dollars, including up to $1.6 billion dollars from the Canadian government. We don't even need to get into the fact that the model used, 3.8 Flash Next, is an underbaked architecture demo, not a normal model release, since there are bigger probl",
+   "title_th": "ข้อกังขาต่อวิธีการทดสอบโมเดลของ Cohere",
+   "summary_th": "มีการวิพากษ์วิจารณ์ Cohere ว่าใช้วิธีการทดสอบโมเดลที่ไม่เป็นวิทยาศาสตร์เพื่อสร้างกระแสข่าวเชิงลบต่อโมเดลอื่น ก่อนที่จะมีการประกาศระดมทุนครั้งใหญ่",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Cohere"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "3986bcdd48f8",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVZ4bmFld2hiSlliWkMxcDhwbnRGbUZsVW1KNDliVGpiTHRncmx5XzFRRWYyWmphN0h0cllRYWMxbHlhMmVXTHRINVZjSDUyaEZ5cW5vOG1ZLURSRWF3X1RHMWpoZEs5QTFwN3A1TGpFQVV1SEE0cnBndVhkRnFseWNtSlZ6b1B2ZUtBcUpSOHdiZ1pLZE9HVTBUMGd6N0tVQnRyRDNRTjM4Y0pGZnR5S3p0bw?oc=5",
@@ -234,7 +307,17 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj2pnp/reddit_will_force_everyone_to_log_in/"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152058"
+    }
+   ]
   },
   {
    "id": "7587406daf7d",
@@ -405,6 +488,21 @@
     "Mistral AI"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1348d77898b9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiplj7/kokoro_can_now_clone_any_voice_with_just_600_mb/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-29T16:59:08+00:00",
+   "title": "Kokoro can now clone any voice with just ~600 MB of extra VRAM!",
+   "text": "While looking for audio models, I came across OpenVoice. It's getting pretty old, but surprisingly still ranks high on TTS leaderboards. What caught my attention was its design: essentially TTS + voice conversion . The ToneColorConverter can run independently of the TTS model. That got me thinking: Can we pair it with other TTS models? I tried it with Kokoro, and the results were pretty good! So I added a small recipe any-tts to audio.cpp for Kokoro + OpenVoice ToneColorConverter. Recipes were introduced in v0.9.2 as predefined pipelines that combine multiple audio models. The overheads: ~600 ",
+   "title_th": "Kokoro รองรับการโคลนเสียงด้วย VRAM เพียง 600 MB",
+   "summary_th": "มีการพัฒนาเทคนิคใหม่ที่ช่วยให้โมเดล Kokoro สามารถโคลนเสียงได้โดยใช้ทรัพยากร VRAM เพิ่มเติมเพียงเล็กน้อย โดยการผสานการทำงานร่วมกับ OpenVoice ToneColorConverter",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -1431,7 +1529,13 @@
    "companies": [],
    "importance": 2,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+    }
+   ]
   },
   {
    "id": "75e2017ed4c5",
@@ -2757,6 +2861,10 @@
     {
      "source": "The Verge AI",
      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
+    },
+    {
+     "source": "TradingKey",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa28tTl93WVB4VlNSanNWbTJpaFFyVzFqV1poNkFtRkc2cG93ZDVmaTZkdDhNSTcxdzNTZml3NW9NLXNuc3ViZlZPTkZTc0tGZmFCRGkwOXpYb0g0aG1zVzRuRVJFYTFDWmROQm5LSmlfd0Zrd19kblFBczMySkJ3RFNNekRicWlDcXNZc1NvcVZvOFZ1Tk93clhBYVF4dw?oc=5"
     }
    ]
   },

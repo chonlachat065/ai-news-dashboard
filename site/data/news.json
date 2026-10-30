@@ -1,39 +1,52 @@
 {
- "updated_at": "2026-10-30T15:05:25+00:00",
+ "updated_at": "2026-10-30T20:52:21+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-10-30T15:05:25+00:00",
-  "headline": "อุตสาหกรรม AI เติบโตอย่างก้าวกระโดดผ่านการลงทุนโครงสร้างพื้นฐานและโมเดลประสิทธิภาพสูง พร้อมเผชิญความท้าทายด้านความปลอดภัยและจริยธรรม",
+  "generated_at": "2026-10-30T20:52:21+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญความท้าทายรอบด้านทั้งเรื่องต้นทุนมหาศาล ความปลอดภัยของโมเดล และการปรับตัวของตลาดแรงงาน",
   "points": [
    {
-    "text": "บริษัทเทคโนโลยีรายใหญ่รายงานผลประกอบการที่เติบโตอย่างโดดเด่นจากธุรกิจคลาวด์และ AI โดย Amazon มุ่งเป้าสร้างรายได้ 1 ล้านล้านดอลลาร์ผ่าน AWS และ Intel มีรายได้จาก Data Center และ AI เติบโตสูงถึง 78%",
+    "text": "บริษัทเทคโนโลยีรายใหญ่รายงานผลประกอบการที่เติบโตจากความต้องการโครงสร้างพื้นฐาน AI แต่หุ้นกลุ่มเทคโนโลยีกลับปรับตัวลดลงจากความกังวลเรื่องต้นทุนการพัฒนาที่สูงลิ่ว",
     "ids": [
      "720b04b8c5b9",
+     "1634c7b4a767",
      "d673427b3d59",
      "2eae49e978ce"
     ]
    },
    {
-    "text": "การพัฒนาโมเดลภาษาขนาดใหญ่ยังคงเดินหน้าอย่างต่อเนื่อง โดย Mistral เปิดตัวโมเดลโอเพนเวทประสิทธิภาพสูงสำหรับการเขียนโค้ดและความปลอดภัยไซเบอร์ ในขณะที่ OpenAI อัปเดตแนวทาง Model Spec เพื่อเน้นจริยธรรม",
-    "ids": [
-     "359f85155983",
-     "23e63926ccea",
-     "7bf0065ceb16"
-    ]
-   },
-   {
-    "text": "ความปลอดภัยของระบบ AI กลายเป็นประเด็นสำคัญ หลังพบมัลแวร์ในส่วนขยาย Claude Code และนักพัฒนาพบปัญหาพฤติกรรมโมเดลเปลี่ยนไปหลังการอัปเดต API แบบเงียบๆ",
+    "text": "เกิดความเคลื่อนไหวสำคัญด้านความปลอดภัยและจริยธรรม ทั้งการพบมัลแวร์ในส่วนขยาย Claude Code, การสร้างมาตรฐานใหม่ให้เจ้าของเว็บไซต์ปฏิเสธการดึงข้อมูล และการเรียกร้องให้แบนอาวุธสังหารอัตโนมัติ",
     "ids": [
      "9585607c5f98",
-     "dbe2c3574031"
+     "25a528e218b1",
+     "a973ac401cee",
+     "974d9b85c8fb",
+     "c7606af40dbb"
     ]
    },
    {
-    "text": "ผลกระทบของ AI ต่อแรงงานและสังคมเริ่มชัดเจนขึ้น ทั้งการปรับโครงสร้างองค์กรของ Microsoft การเลิกใช้การทดสอบเขียนโค้ดในการสัมภาษณ์งานของ Anthropic และข้อเรียกร้องระดับโลกเรื่องการแบนอาวุธสังหารอัตโนมัติ",
+    "text": "การปรับตัวของตลาดแรงงานในยุค AI เห็นได้ชัดจากการที่บริษัทเทคโนโลยีเริ่มปรับเปลี่ยนกระบวนการสัมภาษณ์งานใหม่ เนื่องจากความสามารถของ AI ในการเขียนโค้ดที่เหนือกว่าผู้สมัครทั่วไป",
     "ids": [
-     "45b4ef0b726f",
      "534b31bc8130",
-     "974d9b85c8fb"
+     "9226a0978b1e"
+    ]
+   },
+   {
+    "text": "ความก้าวหน้าของโมเดลและนวัตกรรม AI ยังคงดำเนินไปอย่างต่อเนื่อง ทั้งการเปิดตัวโมเดลใหม่จาก Mistral และ DeepSeek รวมถึงการประยุกต์ใช้ AI ในอวกาศและธุรกิจบริการ",
+    "ids": [
+     "359f85155983",
+     "0fe0b7627983",
+     "b4d5bdc88ba3",
+     "fc6c72287137",
+     "a457451f7b0a",
+     "0de3f9697e49"
+    ]
+   },
+   {
+    "text": "ผู้บริหารระดับสูงอย่าง Sam Altman แสดงมุมมองเชิงวิพากษ์ต่อการรัน AI บนเครื่องส่วนบุคคล โดยเน้นย้ำความสำคัญของการรวมทรัพยากรไว้ที่ศูนย์ข้อมูลเพื่อประสิทธิภาพสูงสุด",
+    "ids": [
+     "13f3cb55c8dd",
+     "e6a83342c0c5"
     ]
    }
   ]
@@ -126,7 +139,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "error": null
   }
  ],
@@ -201,9 +214,210 @@
   "b682a8e5faaa",
   "0cb8fd704244",
   "f3c2cffd57ed",
-  "dbfbce585037"
+  "dbfbce585037",
+  "e120c9a62745",
+  "691ea04d2959",
+  "3a9a06a3139d",
+  "b676f18f6907",
+  "c4dbacf8aa2b",
+  "25cc4c9bb2e3"
  ],
  "items": [
+  {
+   "id": "e6a83342c0c5",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+   "source": "The Verge AI",
+   "published": "2026-10-30T20:48:43+00:00",
+   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+   "text": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want […]",
+   "title_th": "Sam Altman เผยควรนำ RAM ไปไว้ใน Data Center มากกว่าบนคอมพิวเตอร์ส่วนบุคคล",
+   "summary_th": "Sam Altman ซีอีโอของ OpenAI แสดงความเห็นเกี่ยวกับปัญหาห่วงโซ่อุปทาน โดยมองว่าการมี RAM ในเครื่องคอมพิวเตอร์ส่วนบุคคลนั้นไม่เหมาะสมเท่ากับการนำไปใช้ในศูนย์ข้อมูลเพื่อรองรับการประมวลผล AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "25a528e218b1",
+   "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+   "source": "The Verge AI",
+   "published": "2026-10-30T20:26:10+00:00",
+   "title": "The biggest names in AI are backing a new way to opt out of scraping",
+   "text": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
+   "title_th": "ยักษ์ใหญ่ AI จับมือสร้างมาตรฐานใหม่ให้เจ้าของเว็บไซต์ปฏิเสธการถูกดึงข้อมูล",
+   "summary_th": "OpenAI, Google, Microsoft และ Anthropic ร่วมกันนำมาตรฐานใหม่มาใช้เพื่อให้ผู้เผยแพร่เนื้อหาสามารถปฏิเสธการถูกนำข้อมูลไปฝึกฝน AI ได้ผ่านช่องทางเดียว แทนการตั้งค่าแยกรายบริษัท",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI",
+    "Google",
+    "Microsoft"
+   ],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "OpenAI",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "b2263e9f8412",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+   "source": "Hugging Face",
+   "published": "2026-10-30T17:57:24+00:00",
+   "title": "nemotron-halloween",
+   "text": "",
+   "title_th": "Hugging Face เปิดตัว nemotron-halloween",
+   "summary_th": "Hugging Face ได้มีการอัปเดตหรือเปิดตัวโมเดลในชื่อ nemotron-halloween เพื่อต้อนรับเทศกาลฮาโลวีน",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Hugging Face"
+   ],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a457451f7b0a",
+   "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-30T17:47:12+00:00",
+   "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+   "text": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+   "title_th": "Zest เปิดตัว AI Agent ช่วยเลือกร้านอาหารและจองโต๊ะผ่านข้อความ",
+   "summary_th": "Zest พัฒนา AI Concierge ที่สามารถรวบรวมความชอบของกลุ่มเพื่อนเพื่อเลือกร้านอาหารและทำการจองโต๊ะให้โดยอัตโนมัติผ่านการสนทนา",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Zest"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0de3f9697e49",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+   "source": "The Verge AI",
+   "published": "2026-10-30T17:38:04+00:00",
+   "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+   "text": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More […]",
+   "title_th": "Starbucks เตรียมใช้ AI แสดงเมนูดิจิทัลส่วนบุคคลที่จุดบริการ Drive-thru",
+   "summary_th": "Starbucks วางแผนนำ AI มาใช้จดจำลูกค้าที่เข้ามาใช้บริการเพื่อแสดงเมนูดิจิทัลที่ปรับแต่งตามความชอบส่วนบุคคลและอำนวยความสะดวกในการชำระเงิน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Starbucks"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9226a0978b1e",
+   "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+   "source": "Hacker News",
+   "published": "2026-10-30T17:24:45+00:00",
+   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+   "text": "222 points, 189 comments on Hacker News (https://news.ycombinator.com/item?id=50307183)",
+   "title_th": "ซีอีโอ Proton ยกเลิกนโยบายสัมภาษณ์งานใหม่ด้วย AI",
+   "summary_th": "ซีอีโอของ Proton ตัดสินใจยกเลิกกระบวนการสัมภาษณ์งานใหม่ที่เกี่ยวข้องกับการใช้ AI หลังจากเกิดกระแสวิพากษ์วิจารณ์",
+   "category": "อื่นๆ",
+   "companies": [
+    "Proton"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fc6c72287137",
+   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-30T17:00:00+00:00",
+   "title": "Google’s first data center satellite is online and writing poetry",
+   "text": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+   "title_th": "Google ส่ง TPU ขึ้นสู่อวกาศพร้อมรันโมเดล Gemma 4",
+   "summary_th": "Google นำชิป TPU ไปติดตั้งบนดาวเทียมและใช้งานโมเดล Gemma 4 ของ Google DeepMind เพื่อสร้างสรรค์ผลงานในอวกาศ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "1634c7b4a767",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+   "source": "Hacker News",
+   "published": "2026-10-30T16:13:02+00:00",
+   "title": "US tech stocks see sharp falls over AI cost fears",
+   "text": "211 points, 238 comments on Hacker News (https://news.ycombinator.com/item?id=50306008)",
+   "title_th": "หุ้นกลุ่มเทคโนโลยีสหรัฐฯ ร่วงหนักจากความกังวลเรื่องต้นทุน AI",
+   "summary_th": "ราคาหุ้นของบริษัทเทคโนโลยีในสหรัฐฯ ปรับตัวลดลงอย่างรวดเร็ว เนื่องจากนักลงทุนมีความกังวลเกี่ยวกับต้นทุนมหาศาลในการพัฒนาและใช้งาน AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d906f2ca87fc",
+   "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-30T16:03:45+00:00",
+   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+   "text": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+   "title_th": "ผู้แจ้งเบาะแส Theranos เตือน AI Boom อาจเป็นช่องทางหลอกลวงผู้คน",
+   "summary_th": "Tyler Shultz ผู้แจ้งเบาะแสคดี Theranos เตือนว่ากระแสความตื่นตัวด้าน AI อาจถูกใช้เป็นเครื่องมือในการหลอกลวงนักลงทุนและผู้คนในลักษณะเดียวกับที่เคยเกิดขึ้นในอดีต",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9e37c40a85b3",
+   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "source": "Hacker News",
+   "published": "2026-10-30T15:52:18+00:00",
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "text": "390 points, 298 comments on Hacker News (https://news.ycombinator.com/item?id=50305693)",
+   "title_th": "มุมมอง AI ไม่ได้มาแทนที่ SRE แต่กำลังทำให้ทักษะลดลง",
+   "summary_th": "มีการถกเถียงในวงการว่า AI ไม่ได้เข้ามาทดแทนตำแหน่ง Site Reliability Engineer (SRE) โดยตรง แต่กำลังส่งผลให้ทักษะความเชี่ยวชาญของคนในสายงานนี้ลดลง",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "691aeb39c444",
+   "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+   "source": "NVIDIA",
+   "published": "2026-10-30T15:00:10+00:00",
+   "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+   "text": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+   "title_th": "NVIDIA เผยการใช้ Agentic AI ค้นหาสัญญาณจากต่างดาว",
+   "summary_th": "NVIDIA ระบุว่าการค้นหาสิ่งมีชีวิตนอกโลกมีความก้าวหน้าขึ้นด้วยการใช้ AI Agents ในการตรวจจับและวิเคราะห์สัญญาณที่ซับซ้อน",
+   "category": "งานวิจัย",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "974d9b85c8fb",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
@@ -286,6 +500,23 @@
    "dedup": true
   },
   {
+   "id": "0fe0b7627983",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-30T13:48:01+00:00",
+   "title": "Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs",
+   "text": "Hey everyone! We’re releasing new DeepSeek-V4.1-1017 Dynamic V3.1 (preview) GGUFs which showcases how Unsloth’s GGUFs retain the most accuracy for its size across 7 different benchmarks . We benchmarked ISTA's GSQ-RCO GGUFs but could not reproduce their reported results , even when using the highest scores. The biggest discrepancy was on AIME25 where they claimed 100% accuracy recovery to baseline, but was only ~91.88% in benchmark tests. Across AIME25 , LiveCodeBench , GPQA Diamond , Aider Polyglot , and more, Unsloth Dynamic V3.1 outperforms GSQ-RCO GGUFs on nearly all metrics. Even our old ",
+   "title_th": "เปิดตัว DeepSeek-V4.1-Flash-1017 ในรูปแบบ GGUF พร้อมผลทดสอบประสิทธิภาพ",
+   "summary_th": "มีการปล่อยโมเดล DeepSeek-V4.1-Flash-1017 ในรูปแบบ GGUF โดยใช้เทคนิคของ Unsloth เพื่อรักษาความแม่นยำสูงในขนาดที่เล็กลง พร้อมตั้งข้อสังเกตเกี่ยวกับผลการทดสอบที่แตกต่างจากรายงานก่อนหน้าในบางเกณฑ์มาตรฐาน",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "DeepSeek"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "5cfbd02556ec",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
    "source": "The Verge AI",
@@ -352,6 +583,23 @@
    "dedup": true
   },
   {
+   "id": "536c393f8f7d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjdjy0/gemma431bhumanlikechat_20s_improved_human_voice/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-30T12:05:50+00:00",
+   "title": "Gemma-4-31B-Humanlike-Chat: 2.0's improved human voice on official Gemma 4 31B",
+   "text": "The previous released Qwen3.8-27B-Humanlike-Chat 2.0, a fine-tune that texts humanly and does stuff, is now at 136k downloads for the GGUF repo between v1 and 2.0. Thank you. One of the top comments on the 2.0 post was \"I wonder how Gemma 4 31B would do, trained with your method\" . So here it is: Gemma-4-31B-Humanlike-Chat. The voice of 2.0 on the official Gemma 4 31B from Google. What it does Texts humanly without a prompt. Short lowercase lines. Responds to what you say. Show a blind judge a real chat and two possible next messages. It picks which one came from the real person. The judge too",
+   "title_th": "เปิดตัว Gemma-4-31B-Humanlike-Chat ปรับจูนให้โต้ตอบเป็นธรรมชาติ",
+   "summary_th": "นักพัฒนาปล่อยโมเดล Gemma-4-31B-Humanlike-Chat ซึ่งเป็นการปรับจูนโมเดล Gemma 4 31B ของ Google ให้สามารถสื่อสารด้วยภาษาที่เป็นธรรมชาติเหมือนมนุษย์มากขึ้น โดยไม่ต้องใช้ Prompt ซับซ้อน",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Google"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "d673427b3d59",
    "url": "https://www.blognone.com/node/152064",
    "source": "Blognone",
@@ -403,6 +651,40 @@
    "dedup": true
   },
   {
+   "id": "c7606af40dbb",
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "source": "OpenAI",
+   "published": "2026-10-30T09:00:00+00:00",
+   "title": "Community safety report and new protections for teens",
+   "text": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+   "title_th": "OpenAI เพิ่มมาตรการความปลอดภัยสำหรับวัยรุ่นใน ChatGPT",
+   "summary_th": "OpenAI ยกระดับมาตรการป้องกันความรุนแรงใน ChatGPT โดยเพิ่มการตรวจสอบเชิงรุกและการแทรกแซงที่รวดเร็วขึ้น พร้อมให้คำมั่นสัญญาเรื่องความปลอดภัยสาธารณะ",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d071ec466e37",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj9xjh/the_rtx_5080_has_been_removed_from_nvidias/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-30T08:38:08+00:00",
+   "title": "The RTX 5080 Has Been Removed From NVIDIA's Official Marketplace.",
+   "text": "Rumors claim that the RTX 5080 16GB will be discontinued alongside the already discontinued RTX 5090, and those claims seem to be true. NVIDIA is reportedly planning to introduce an RTX 5080 24GB model in early 2027, which would serve as its flagship GPU until RTX Rubin arrives sometime in 2028. According to the same rumors, the 24GB model will use the exact same GPU die as the current RTX 5080. As highlighted by HUB, the die is already fully utilized, meaning this won't be a more powerful Super variant or a noticeable performance upgrade. The only expected difference is the increase in VRAM f",
+   "title_th": "ข่าวลือ NVIDIA เตรียมถอด RTX 5080 ออกจากตลาดและเปิดตัวรุ่นใหม่",
+   "summary_th": "มีรายงานว่า NVIDIA อาจถอด RTX 5080 รุ่นปัจจุบันออกจากตลาด และวางแผนเปิดตัวรุ่น 24GB ในปี 2027 เพื่อเป็นรุ่นเรือธงจนกว่าสถาปัตยกรรมใหม่จะมาถึง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "9585607c5f98",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDNoVkx3Mmpqa0JHVUJkdjl6RTEyX1RpU0p2eHF3eGxWNm52aEd1NDUxY3ZZLU12QTk0WC1OZkNCR2J6azRkTEd6QVliX1B0V0NzT21RRWRYUTBwQngyNFR4dFNrMmxyeGhwSzE1a1VJdWZ4X0hkcWxlWHgtWFVJcGRSSjczWm04RXJCVHJ5ZGkzQlRmTHJYbVhFQ3FyS0ViLTEw?oc=5",
    "source": "Rescana",
@@ -437,6 +719,22 @@
     {
      "source": "r/LocalLLaMA",
      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjclj9/official_claude_code_vs_code_extension/"
+    },
+    {
+     "source": "DoublePulsar",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlhhemJJUy1zRzV1V3BYQnZVOEsxR3JDbzF5eUVTNzg3Q180OWxaTFV5alZVNUpHWGdvVWVabEE5OTVmV1dyTjJSTnI1cGctc2VCcldCYzRaMFhfMlpWSE1fTzN5WXh6STNaNDl0TXV1RS1KaW9LTDJaenNfSHo1WG1TLUY4WEJDUmhMRE5OTUR6Z2QwTmMtZTBvYkJHZkpkakRHQThIamxlcDRWQ0U1R3l3TnNvYlJlaktTeWRHVXYwUQ?oc=5"
+    },
+    {
+     "source": "Sophos",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWV5czdyUDJ4VEtJS1B2aGs4cHBzT1RyNEpXZGhWdGE4RGl3Sm9zX2Myem9SeDJBbS12S2xYX0V6ZWNlZWp4R1A1UGNSc21QbDY5TmJjRkN5UE9CdUtvRkpnRTQ5RGdtUzhXeTRuSXpHR01FOGIwUTNwM2pJQlRLWWdEZThoR05wRlhzMGROMWp1cEdnMkk0T21qaEZxLWNhZFZGeUxUVQ?oc=5"
+    },
+    {
+     "source": "WIRED",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ25XT1VwZ0xkZDJHT014UWlQbFAwaXFrUGxSaG9EY3BidHd2b3VsN2lzTm1jSjd0VGR5dmFqNnhHR2ZxMDR4RFd1QjVUVE80eFpUX2NqeGVaZGxmdXZ4RGdnNUIwU1JSUmpWdGFaY3ZXaXR2VmRUaFN5QnJKT0wzakdtTWY2b0kwZGlKLVpiU25NSkRwT1JXbDFwbV95NVhW?oc=5"
+    },
+    {
+     "source": "The Register",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2FaNjdkR0JjU3Itc3RRakQ1UkdSLXdnZG1KVUhhSFdZRERLU2QwVFliWmNMXzdhMHJBMGZKWHlURWJNZ0MwTnA3YnI3VjV2UWNwYmJJYTdCMUIwYUhrbWdwaDMxNDlaMms3eVNfYWJVb3dJbzAtLWFRaE5GQ2JqQ0JxLWJzcEd2Z3FMdklvWWg3aXhka2V5U01ZeEE0MEhTVFRsRkphOFV5VjdGdnNFenR2OEpLMnlMcEROVA?oc=5"
     }
    ],
    "dedup": true
@@ -989,6 +1287,23 @@
    "dedup": true
   },
   {
+   "id": "6dc6a1863308",
+   "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+   "source": "Hacker News",
+   "published": "2026-10-29T14:29:06+00:00",
+   "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+   "text": "215 points, 75 comments on Hacker News (https://news.ycombinator.com/item?id=50289692)",
+   "title_th": "มุมมองต่อการปรับตัวด้าน AI ของ Proton",
+   "summary_th": "บทความวิเคราะห์ถึงแนวคิดและทัศนคติภายในบริษัท Proton เกี่ยวกับการนำ AI มาใช้ในองค์กรท่ามกลางความกังวลในอุตสาหกรรม",
+   "category": "อื่นๆ",
+   "companies": [
+    "Proton"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "fedf08b40a3b",
    "url": "https://www.blognone.com/node/152051",
    "source": "Blognone",
@@ -1304,6 +1619,24 @@
    "dedup": true
   },
   {
+   "id": "6750c2461412",
+   "url": "https://openai.com/index/credit-saison",
+   "source": "OpenAI",
+   "published": "2026-10-29T00:00:00+00:00",
+   "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+   "text": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+   "title_th": "Credit Saison เผยผลตอบแทนการลงทุนสูงถึง 954% จากการใช้ ChatGPT Enterprise",
+   "summary_th": "Credit Saison รายงานความสำเร็จในการนำ ChatGPT Enterprise มาใช้ในองค์กร โดยสามารถสร้างผลตอบแทนจากการลงทุนได้สูงถึง 954% ผ่านการใช้งานจริงของพนักงาน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI",
+    "Credit Saison"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "09f762edab0d",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
    "source": "The Verge AI",
@@ -1447,6 +1780,36 @@
    "text": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches rely on either temporal context or explicit 3D memory, both of which scale poorly because memory grows with the length of the generated stream. Moreover, explicit 3D memories condition latent video generators by re-encoding RGB renderings, which precludes real-time generation. In this paper, we introduce a Latent 3D Gaussian Memory (L3G) that combines the efficiency of feed-forward reconstruction wi",
    "title_th": "L3G-World: การสร้างโลกเสมือนแบบเรียลไทม์ด้วย Latent 3D Gaussian Memory",
    "summary_th": "L3G-World เป็นโมเดลที่ช่วยให้สามารถสร้างเนื้อหาภาพแบบโต้ตอบได้โดยรักษาความสม่ำเสมอของพื้นที่ในระยะยาวแบบเรียลไทม์ โดยใช้หน่วยความจำ 3D Gaussian แทนการใช้บริบทชั่วคราวแบบเดิม ช่วยแก้ปัญหาการขยายตัวของหน่วยความจำเมื่อระยะเวลาการสร้างยาวขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c8f4db4ef10f",
+   "url": "https://huggingface.co/papers/2610.39302",
+   "source": "HF Daily Papers",
+   "published": "2026-10-28T20:00:00+00:00",
+   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+   "text": "Whether models trained on different modalities converge to the same representation of the world is central to AI. The Platonic Representation Hypothesis (PRH) conjectures that they do as they scale, but without a proof it offers neither a guarantee nor a recipe. We turn the hypothesis into a theorem. First, we prove a Platonic Representation Theorem: Joint-Embedding Predictive Architectures (JEPAs) trained separately on any number of modalities learn the same representation up to one rotation whenever their positive pairs are two observations of one scene--good views--and their misalignment is",
+   "title_th": "งานวิจัยพิสูจน์สมมติฐาน Platonic Representation ด้วย JEPA",
+   "summary_th": "งานวิจัยนำเสนอการพิสูจน์ทางทฤษฎีว่าโมเดลที่เทรนด้วยสถาปัตยกรรม JEPA ในรูปแบบข้อมูลที่ต่างกัน สามารถเรียนรู้การแทนค่าข้อมูลที่เหมือนกันได้ ซึ่งเป็นก้าวสำคัญของทฤษฎีการเรียนรู้ของ AI",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "995c90cb5d11",
+   "url": "https://huggingface.co/papers/2610.39301",
+   "source": "HF Daily Papers",
+   "published": "2026-10-28T20:00:00+00:00",
+   "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
+   "text": "We present Youtu-Parsing-Omni, an omni-modal parser that converts documents, images, audio, and video into structured records grounded in space and time, providing a perception layer for agents that read, locate, and cite evidence across modalities. Its design rests on one encoder for every modality and one schema for every task. Youtu-Omni-Encoder, initialized from a pre-trained language model to strengthen text reading, encodes all modalities with shared weights in a unified space-time coordinate system, and a few fusion layers let video frames attend to concurrent audio, bringing cross-moda",
+   "title_th": "เปิดตัว Youtu-Parsing-Omni โมเดลประมวลผลข้อมูลหลายรูปแบบ",
+   "summary_th": "Youtu-Parsing-Omni เป็นโมเดลที่ออกแบบมาเพื่อแปลงเอกสาร ภาพ เสียง และวิดีโอ ให้เป็นข้อมูลโครงสร้างเดียวกัน เพื่อใช้เป็นชั้นการรับรู้สำหรับ AI Agent ในการอ่านและอ้างอิงข้อมูล",
    "category": "งานวิจัย",
    "companies": [],
    "importance": 3,

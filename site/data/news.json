@@ -1,53 +1,39 @@
 {
- "updated_at": "2026-10-30T05:56:25+00:00",
+ "updated_at": "2026-10-30T15:05:25+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-10-30T05:56:25+00:00",
-  "headline": "อุตสาหกรรม AI เร่งขยายโครงสร้างพื้นฐานและโมเดลเฉพาะทาง พร้อมยกระดับความปลอดภัยและการกำกับดูแลการใช้งาน",
+  "generated_at": "2026-10-30T15:05:25+00:00",
+  "headline": "อุตสาหกรรม AI เติบโตอย่างก้าวกระโดดผ่านการลงทุนโครงสร้างพื้นฐานและโมเดลประสิทธิภาพสูง พร้อมเผชิญความท้าทายด้านความปลอดภัยและจริยธรรม",
   "points": [
    {
-    "text": "บริษัทเทคโนโลยีรายใหญ่เดินหน้าลงทุนในโครงสร้างพื้นฐาน AI อย่างหนักเพื่อรองรับการเติบโตของรายได้และมุ่งสู่ AGI โดย Amazon ตั้งเป้ารายได้ Cloud แตะ 1 ล้านล้านดอลลาร์ ขณะที่ Anthropic ทุ่มงบมหาศาลด้าน Compute และ Samsung ทำสถิติรายได้สูงสุดจากความต้องการชิปหน่วยความจำ AI",
+    "text": "บริษัทเทคโนโลยีรายใหญ่รายงานผลประกอบการที่เติบโตอย่างโดดเด่นจากธุรกิจคลาวด์และ AI โดย Amazon มุ่งเป้าสร้างรายได้ 1 ล้านล้านดอลลาร์ผ่าน AWS และ Intel มีรายได้จาก Data Center และ AI เติบโตสูงถึง 78%",
     "ids": [
      "720b04b8c5b9",
-     "0b3918620b86",
-     "ce80b7e38182"
+     "d673427b3d59",
+     "2eae49e978ce"
     ]
    },
    {
-    "text": "การพัฒนาโมเดล AI เน้นความโปร่งใสและความปลอดภัยมากขึ้น โดย Mistral ปล่อยโมเดล Open Weight สำหรับงานไซเบอร์ซีเคียวริตี้ และ OpenAI อัปเดต Model Spec พร้อมระบบตรวจสอบพฤติกรรม AI Agents เพื่อป้องกันการใช้งานที่ไม่เหมาะสม",
+    "text": "การพัฒนาโมเดลภาษาขนาดใหญ่ยังคงเดินหน้าอย่างต่อเนื่อง โดย Mistral เปิดตัวโมเดลโอเพนเวทประสิทธิภาพสูงสำหรับการเขียนโค้ดและความปลอดภัยไซเบอร์ ในขณะที่ OpenAI อัปเดตแนวทาง Model Spec เพื่อเน้นจริยธรรม",
     "ids": [
-     "34a9d739c6fb",
+     "359f85155983",
      "23e63926ccea",
-     "7bf0065ceb16",
-     "24f676feeb3a",
-     "d28967fce9c6"
+     "7bf0065ceb16"
     ]
    },
    {
-    "text": "การประยุกต์ใช้ AI ในภาคธุรกิจขยายตัวอย่างต่อเนื่อง ทั้งการนำโมเดลไปใช้ในงานความปลอดภัยไซเบอร์โดย SentinelOne และ Anthropic, การเข้าซื้อกิจการเพื่อเสริมแกร่งเทคโนโลยีของ Thrive Holdings และ Deepgram รวมถึงการเพิ่มฟีเจอร์ AI ในผลิตภัณฑ์ของ Microsoft, Google, Meta และ Rivian",
+    "text": "ความปลอดภัยของระบบ AI กลายเป็นประเด็นสำคัญ หลังพบมัลแวร์ในส่วนขยาย Claude Code และนักพัฒนาพบปัญหาพฤติกรรมโมเดลเปลี่ยนไปหลังการอัปเดต API แบบเงียบๆ",
     "ids": [
-     "fedf08b40a3b",
-     "4db20898e948",
-     "d0e2301d55a3",
-     "3801e55a0f5a",
-     "9172711be2ad",
-     "2a1a8a7c88a0",
-     "f4bafd177065",
-     "7587406daf7d"
-    ]
-   },
-   {
-    "text": "นักพัฒนาและองค์กรเผชิญความท้าทายใหม่จากการเปลี่ยนแปลงของโมเดล AI ทั้งปัญหาประสิทธิภาพที่ลดลงจากการอัปเดต API แบบเงียบๆ และการปรับตัวของโครงสร้างแรงงานในบริษัทเทคโนโลยีท่ามกลางการเปลี่ยนผ่านสู่ยุค AI",
-    "ids": [
-     "45b4ef0b726f",
+     "9585607c5f98",
      "dbe2c3574031"
     ]
    },
    {
-    "text": "นวัตกรรมด้านการจัดการโมเดลและเครื่องมือช่วยเขียนโค้ดมีความก้าวหน้าขึ้น โดย GitHub เปิดตัวระบบเลือกโมเดลอัตโนมัติ (Fusion) และ Hugging Face แนะนำแนวทางการอัปเดตโมเดลที่ง่ายเหมือนซอฟต์แวร์ทั่วไป",
+    "text": "ผลกระทบของ AI ต่อแรงงานและสังคมเริ่มชัดเจนขึ้น ทั้งการปรับโครงสร้างองค์กรของ Microsoft การเลิกใช้การทดสอบเขียนโค้ดในการสัมภาษณ์งานของ Anthropic และข้อเรียกร้องระดับโลกเรื่องการแบนอาวุธสังหารอัตโนมัติ",
     "ids": [
-     "63973e462872",
-     "f3538b6fb36f"
+     "45b4ef0b726f",
+     "534b31bc8130",
+     "974d9b85c8fb"
     ]
    }
   ]
@@ -140,7 +126,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "error": null
   }
  ],
@@ -202,9 +188,259 @@
   "913c2058fe95",
   "09f3a7a19185",
   "e04ff4b38614",
-  "3f421dfac052"
+  "3f421dfac052",
+  "857e9bd5ca3c",
+  "62373f3f48e1",
+  "f63058a65b72",
+  "cce36ebb1d81",
+  "ca84fa05d431",
+  "759fc1633699",
+  "281af7b77070",
+  "349e5d63ed48",
+  "6f249246221f",
+  "b682a8e5faaa",
+  "0cb8fd704244",
+  "f3c2cffd57ed",
+  "dbfbce585037"
  ],
  "items": [
+  {
+   "id": "974d9b85c8fb",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+   "source": "The Verge AI",
+   "published": "2026-10-30T14:58:06+00:00",
+   "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+   "text": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many […]",
+   "title_th": "Pope Leo เรียกร้องให้มีการปลดอาวุธ AI และแบนอาวุธสังหารอัตโนมัติ",
+   "summary_th": "Pope Leo XIV เรียกร้องให้ประเทศสมาชิกสหประชาชาติร่วมกันแบนอาวุธสังหารอัตโนมัติ โดยเน้นย้ำว่ามนุษย์มีหน้าที่รับผิดชอบในการควบคุมและตัดสินใจเกี่ยวกับแอปพลิเคชันของ AI",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "534b31bc8130",
+   "url": "https://www.blognone.com/node/152067",
+   "source": "Blognone",
+   "published": "2026-10-30T14:20:54+00:00",
+   "title": "ผู้จัดการ Anthropic บอกเลิกสัมภาษณ์พนักงานด้วยการให้เขียนโค้ด ล้าสมัยแล้วในยุค Claude",
+   "text": "Body Felix Rieseberg พนักงานระดับผู้จัดการวิศวกร (engineering manager) ของ Anthropic เปิดเผยผ่านบล็อกส่วนตัวว่า เขาเลิกใช้วิธีสัมภาษณ์พนักงานด้วยการให้ทำโจทย์เขียนโค้ดแล้ว Rieseberg บอกว่าการให้ผู้สมัครทำโจทย์เขียนโค้ด เคยมีประโยชน์ตรงที่ช่วยพยากรณ์ว่าผู้สมัครคนนั้นจะประสบความสำเร็จในทีมของเขา ส่วนการเขียนโค้ดจริงก็ช่วยบอกความสามารถของผู้สมัครได้ดีเช่นกัน แต่เมื่อ Claude เขียนโค้ดได้ดีกว่าผู้สมัครงานไปเรียบร้อยแล้ว การทดสอบแบบนี้ตอนสัมภาษณ์งานจึงหมดประโยชน์ไปในทันที Rieseberg บอกว่าตอนนี้ การวัดว่าใครวิศวกรที",
+   "title_th": "ผู้จัดการ Anthropic เลิกใช้การทดสอบเขียนโค้ดในการสัมภาษณ์งาน",
+   "summary_th": "ผู้จัดการวิศวกรของ Anthropic ระบุว่าการทดสอบเขียนโค้ดในการสัมภาษณ์งานล้าสมัยแล้ว เนื่องจากปัจจุบัน AI อย่าง Claude สามารถเขียนโค้ดได้ดีกว่าผู้สมัครงานทั่วไป",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "04d25edf8cd2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjgfuv/another_reason_to_own_your_own_compute_your/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-30T14:11:29+00:00",
+   "title": "Another reason to own your own compute. Your account may get banned in a sneaky update.",
+   "text": "https://x.com/chasmmmmmmmmmmm/status/2116062991686721968?a=JVe1OUAJiZa650pZBXQ&s=20 submitted by /u/Bestlife73 [link] [comments]",
+   "title_th": "ความเสี่ยงของการพึ่งพาคลาวด์: บัญชีผู้ใช้อาจถูกแบนจากการอัปเดตระบบ",
+   "summary_th": "ผู้ใช้งานในชุมชน AI เตือนถึงความเสี่ยงในการพึ่งพาบริการคลาวด์เพียงอย่างเดียว เนื่องจากบัญชีผู้ใช้อาจถูกระงับได้โดยไม่คาดคิดจากการอัปเดตเงื่อนไขหรือระบบ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "359f85155983",
+   "url": "https://www.blognone.com/node/152066",
+   "source": "Blognone",
+   "published": "2026-10-30T13:57:23+00:00",
+   "title": "เปิดตัว Mistral Large 4 พัฒนาเรื่องการเขียนโค้ด อันดับหนึ่งในกลุ่มโมเดลเปิด",
+   "text": "Body Mistral สตาร์ตอัพ AI สัญชาติฝรั่งเศส เปิดตัวโมเดลระดับเรือธง Mistral Large 4 (Le Chonk) ขนาด 1 ล้านล้านพารามิเตอร์ และเป็นโมเดลแบบเปิด (open weight) ที่มีความสามารถด้านเขียนโค้ดดีที่สุดในตอนนี้ หากวัดจากเบนช์มาร์ค FrontierCode 2.0 ทำคะแนนได้ 19.7% เอาชนะ DeepSeek V4.1Flash ที่ได้ 19.3% ส่วนเบนช์มาร์คอีกตัวคือ Artificial Analysis Coding Agent Index โมเดล Mistral Large 4 ทำคะแนนได้ 48% ยังเป็นรอง GLM-5.3 เล็กน้อย แต่ใช้งานโทเคนน้อยกว่ากันถึง 47% ประหยัดกว่ากันมาก นอกจากความสามารถด้านเขียนโค้ดแล้ว อีกจุดที่ Mistral L",
+   "title_th": "Mistral เปิดตัว Mistral Large 4 โมเดลโอเพนเวทประสิทธิภาพสูงด้านการเขียนโค้ด",
+   "summary_th": "Mistral เปิดตัวโมเดลเรือธง Mistral Large 4 ขนาด 1 ล้านล้านพารามิเตอร์ ซึ่งเป็นโมเดลแบบเปิดที่โดดเด่นด้านความสามารถในการเขียนโค้ดและมีความคุ้มค่าในการใช้งานสูง",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Mistral"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e9e7beb52b83",
+   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-30T13:54:25+00:00",
+   "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+   "text": "DoorDash said that it is open to working with third-party agent makers",
+   "title_th": "DoorDash เผยยอดคำสั่งซื้อผ่าน AI Agent ยังอยู่ในระดับหลักร้อย",
+   "summary_th": "DoorDash ระบุว่าได้รับคำสั่งซื้อผ่าน AI Agent เพียงไม่กี่ร้อยรายการ และยังคงเปิดกว้างสำหรับการร่วมมือกับผู้พัฒนา AI Agent รายอื่น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "DoorDash"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5cfbd02556ec",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+   "source": "The Verge AI",
+   "published": "2026-10-30T13:30:14+00:00",
+   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+   "text": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
+   "title_th": "Sam Altman ยืนยัน OpenAI จะเดินหน้าสร้างผลลัพธ์ทางคณิตศาสตร์ด้วย AI ต่อไป",
+   "summary_th": "ซีอีโอของ OpenAI แสดงความเห็นใจต่อนักคณิตศาสตร์ที่ได้รับผลกระทบจากผลงานวิจัยที่สร้างโดย AI แต่ยืนยันว่าจะยังคงพัฒนาและปล่อยผลลัพธ์ใหม่ๆ ออกมาอย่างต่อเนื่อง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a973ac401cee",
+   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+   "source": "The Verge AI",
+   "published": "2026-10-30T13:19:25+00:00",
+   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+   "text": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+   "title_th": "Wikimedia Foundation เตือนคำตัดสินเรื่องลิขสิทธิ์ AI อาจกระทบต่อเว็บเปิด",
+   "summary_th": "Wikimedia Foundation เรียกร้องให้ศาลคุ้มครองการฝึกฝน LLM ด้วยข้อมูลที่มีลิขสิทธิ์ แต่ต้องจำกัดการนำเสนอข้อมูลที่ละเมิดลิขสิทธิ์โดยตรงผ่านแชทบอท เพื่อรักษาประโยชน์ของเครื่องมือ AI",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Wikimedia Foundation"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5ec9437afb13",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+   "source": "The Verge AI",
+   "published": "2026-10-30T13:11:05+00:00",
+   "title": "Silicon Valley wants you to invest in miracles",
+   "text": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, […]",
+   "title_th": "มุมมองการลงทุนในซิลิคอนวัลเลย์: การเดิมพันกับเทคโนโลยีที่อาจเปลี่ยนโลก",
+   "summary_th": "บทความวิเคราะห์ถึงความเสี่ยงและโอกาสในการลงทุนในเทคโนโลยี AI ซึ่งถูกมองว่าเป็นทั้งความเสี่ยงระดับหายนะต่อมนุษยชาติและโอกาสในการสร้างปาฏิหาริย์ทางเทคโนโลยี",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3e4e3eed2bbf",
+   "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-30T13:00:00+00:00",
+   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+   "text": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+   "title_th": "สตาร์ตอัพ Runware พัฒนาโรงงานผลิตศูนย์ข้อมูล AI แบบสำเร็จรูป",
+   "summary_th": "Runware กำลังสร้างโรงงานเพื่อผลิตศูนย์ข้อมูล AI แบบสำเร็จรูปในรูปแบบสายการผลิต เพื่อทดสอบความเป็นไปได้ในการขยายขนาดการติดตั้งศูนย์ข้อมูล",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Runware"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d673427b3d59",
+   "url": "https://www.blognone.com/node/152064",
+   "source": "Blognone",
+   "published": "2026-10-30T11:53:22+00:00",
+   "title": "Intel ไตรมาส 3/2026 รายได้รวมโต 21% เร่งผลิตซีพียู Xeon ให้ทันความต้องการ",
+   "text": "Body อินเทลรายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้รวม 16,513 เพิ่มขึ้น 21% จากไตรมาสเดียวกันในปีก่อน และมีกำไรสุทธิตามบัญชี GAAP 3,520 ล้านดอลลาร์ รายได้แยกตามกลุ่มธุรกิจของอินเทลมีทั้งที่เพิ่มขึ้นและลดลง โดยกลุ่ม Client Computing และ Physical AI ลดลง 5% เป็น 8,097 ล้านดอลลาร์, กลุ่ม Data Center และ AI เพิ่มขึ้น 78% เป็น 7,318 ล้านดอลลาร์ และธุรกิจรับจ้างผลิต Intel Foundry เพิ่มขึ้น 58% เป็น 6,697 ล้านดอลลาร์ Lip-Bu Tan ซีอีโออินเทลบอกว่าตอนนี้ทั้งอุตสาหกรรมพีซีได้รับผลกระทบในระยะสั้น อย่างไรก็ตามอินเทลยังเห็นแนวโ",
+   "title_th": "Intel รายได้ไตรมาส 3/2026 โต 21% กลุ่ม Data Center และ AI เติบโตโดดเด่น",
+   "summary_th": "Intel รายงานผลประกอบการไตรมาส 3 ปี 2026 โดยกลุ่มธุรกิจ Data Center และ AI มีการเติบโตสูงถึง 78% ท่ามกลางความต้องการซีพียู Xeon ที่เพิ่มขึ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Intel"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2eae49e978ce",
+   "url": "https://www.blognone.com/node/152063",
+   "source": "Blognone",
+   "published": "2026-10-30T11:49:11+00:00",
+   "title": "Amazon รายงานผลประกอบการไตรมาส มอง AWS ยังเติบโตได้อีกมาก",
+   "text": "Body Amazon รายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้รวม 201,944 ล้านดอลลาร์ เพิ่มขึ้น 12% จากไตรมาสเดียวกันในปีก่อน มีกำไรจากการดำเนินงาน 28,076 ล้านดอลลาร์ คิดเป็นอัตรากำไร 13.9% สูงที่สุดที่เคยมีมาของบริษัท และมีกำไรสุทธิตามบัญชี GAAP 20,685 ล้านดอลลาร์ ธุรกิจคลาวด์ AWS ของ Amazon มีรายได้เฉพาะกลุ่ม 17,773 ล้านดอลลาร์ เพิ่มขึ้น 39.3% ซึ่ง Amazon บอกว่าเป็นการเติบโตเร็วที่สุดในรอบ 5 ปี ส่วนธุรกิจโฆษณาที่นักวิเคราะห์ให้ความสนใจมากในช่วงที่ผ่านมา รายได้ 19,637 ล้านดอลลาร์ เพิ่มขึ้น 11% Andy Jassy ซีอีโอ Amazon ให้ข้อมูลว่าด้วยโครงส",
+   "title_th": "Amazon เผยผลประกอบการไตรมาส 3/2026 ชี้ AWS เติบโตเร็วที่สุดในรอบ 5 ปี",
+   "summary_th": "Amazon รายงานรายได้รวมและกำไรที่เติบโตอย่างแข็งแกร่ง โดยธุรกิจคลาวด์ AWS มีการเติบโตอย่างโดดเด่นถึง 39.3% ซึ่งสะท้อนถึงความต้องการใช้งานโครงสร้างพื้นฐานคลาวด์ที่เพิ่มสูงขึ้นอย่างต่อเนื่อง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Amazon"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c90f6862e755",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2hGS1gwVmk3ZWdTUjZOZDE0U1FGZ3JBUDB4bDJJWjhaTks1dmZIUWUzUFJOc1pCUjZ1M1BvUDczck42dFpENlVRY0htWVd6eFdkWXhVSkF3eFN2ZTJBcWZNc1dLZVRUY3lVd29UemJMRm9MMllDZG1VcVZwd2Q0Y0hEeUJLWncx?oc=5",
+   "source": "NECTEC",
+   "published": "2026-10-30T09:18:08+00:00",
+   "title": "เนคเทค สวทช. ผนึกกำลัง สภาดิจิทัลฯ (DCT) หารือความร่วมมือขับเคลื่อนเทคโนโลยีดิจิทัลและ AI ภายใต้กรอบความร่วมมือการส่งเสริมขีดความสามารถด้านข้อมูลและปัญญาประดิษฐ์ (AI) - NECTEC : National Electronics and Computer Technology Center",
+   "text": "",
+   "title_th": "เนคเทค สวทช. จับมือ สภาดิจิทัลฯ ขับเคลื่อน AI และข้อมูลในไทย",
+   "summary_th": "เนคเทคและสภาดิจิทัลฯ ร่วมหารือแนวทางความร่วมมือเพื่อส่งเสริมขีดความสามารถด้านปัญญาประดิษฐ์และข้อมูลของประเทศไทย",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "NECTEC"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9585607c5f98",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDNoVkx3Mmpqa0JHVUJkdjl6RTEyX1RpU0p2eHF3eGxWNm52aEd1NDUxY3ZZLU12QTk0WC1OZkNCR2J6azRkTEd6QVliX1B0V0NzT21RRWRYUTBwQngyNFR4dFNrMmxyeGhwSzE1a1VJdWZ4X0hkcWxlWHgtWFVJcGRSSjczWm04RXJCVHJ5ZGkzQlRmTHJYbVhFQ3FyS0ViLTEw?oc=5",
+   "source": "Rescana",
+   "published": "2026-10-30T08:31:30+00:00",
+   "title": "Trojanized Claude Code Extension 2.1.313 in Cursor Marketplace Plants SSH Backdoor",
+   "text": "",
+   "title_th": "พบมัลแวร์ SSH Backdoor ในส่วนขยาย Claude Code เวอร์ชัน 2.1.313",
+   "summary_th": "การตรวจพบมัลแวร์ในส่วนขยาย Claude Code เวอร์ชันเฉพาะที่ถูกนำมาวางบน Cursor Marketplace เพื่อติดตั้ง SSH Backdoor ในเครื่องนักพัฒนา",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "also": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSE5Sd2ZzblVoTHk3cWowdjBHOUlGQ25obHhuSkoyell3S2JWTUxqeXFFRnBMbTVaOENobjFKVFJXT0VhQi1VSzVBX0dSM3N5SGJ4N2VWSjhnX3NCQlJsSmdTX1RmSlpEeHN0NFFXVll0MzZRV1lfbUpkcDZ1dk9xQXpSWHBVUVJiMDJCYXgtMmlxMnQ1a2dxcmxBZlFBcTY0SUZMYXZyeHNZX3o1ejRUbkxmN3JqRlYtSnNCRnFiZkswLWx4S2c?oc=5"
+    },
+    {
+     "source": "The Hacker News",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2hyRVBYNEpLVEQ2V2IwYk9aZmhtUm9veEV5RE4tZVVONXpIM1Y5Q1hxSWprYjFDR1NXNGF2MjlyeUpod2p6NFNydVltcmpudHoxU2wtUWJxSUdrWUhhanRiTUo3ZzdGNXViN0NyRUdTcHFiVEJfT2Z0VklGczNiOGhzYw?oc=5"
+    },
+    {
+     "source": "Step Security",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QN1Q5bXI1WXMzZlpOLWIxaDJEVGhuTWZxcXRwTWdaXzlETHZYd0pIcGhpdnR3R1dsQXUzWGFoZHUyZUd2UldGMHotYVFHNHFQZjdCWERJektwVXZVMWw5dGc4WldHQktiLXFYVnBST19Ecmc?oc=5"
+    },
+    {
+     "source": "Help Net Security",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnQ4Ylo3R2N1ekJRbGFaYko3RF9FN2hsdzlncVA1U1Y1TWxLcTdnUEhyR3NYMmtYaUJYRXBsSlQ0bzZKX3ZVTEdkaFc0eWZYbVFLVXZVbnNxcHROU3NHQkhGQWRHNGc0MnNNaXo5VnktTEZILU9PUTltS0liN2lVUUdaWEU?oc=5"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjclj9/official_claude_code_vs_code_extension/"
+    }
+   ],
+   "dedup": true
+  },
   {
    "id": "7642eca317aa",
    "url": "https://www.blognone.com/node/152057",
@@ -275,6 +511,36 @@
    "dedup": true
   },
   {
+   "id": "d8eb5a4b641e",
+   "url": "https://labs.ycombinator.com/projects/games/index.html",
+   "source": "Hacker News",
+   "published": "2026-10-29T21:40:28+00:00",
+   "title": "We ran AI agent swarms in Minecraft and Mindustry",
+   "text": "349 points, 141 comments on Hacker News (https://news.ycombinator.com/item?id=50296486)",
+   "title_th": "การทดลองใช้ AI Agent Swarm เล่นเกม Minecraft และ Mindustry",
+   "summary_th": "นักพัฒนาทดลองนำกลุ่ม AI Agent มาทำงานร่วมกันเพื่อเล่นเกม Minecraft และ Mindustry แสดงให้เห็นถึงความสามารถในการประสานงานของ Agent",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b4d5bdc88ba3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-29T21:40:04+00:00",
+   "title": "Release: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
+   "text": "This model was made in collaboration with u/jeffpeng3 (on huggingface) who developed the v2 heretic weights for this quant. He managed to preserve both reasoning ability and output length. Great work, and a big step up from his v1 weights. I made the quantization recipe and the imatrix recipe, and created the actual quants. Comes pre-packed with strata build artifacts - zip file in repo. GGUF File Format for the quant. I released my own heretic version of his v1 weights in here a while ago - the heretic calibration was a bit broken, and my quant wasn't amazing. This is a huge step up on both f",
+   "title_th": "เปิดตัวโมเดล Swift 1.5 Flash Next - Heretic v2",
+   "summary_th": "การปล่อยโมเดล Swift 1.5 Flash Next รุ่น Heretic v2 ที่ปรับปรุงน้ำหนักโมเดลให้คงความสามารถในการใช้เหตุผลและความยาวของคำตอบได้ดีขึ้น",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "3986bcdd48f8",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVZ4bmFld2hiSlliWkMxcDhwbnRGbUZsVW1KNDliVGpiTHRncmx5XzFRRWYyWmphN0h0cllRYWMxbHlhMmVXTHRINVZjSDUyaEZ5cW5vOG1ZLURSRWF3X1RHMWpoZEs5QTFwN3A1TGpFQVV1SEE0cnBndVhkRnFseWNtSlZ6b1B2ZUtBcUpSOHdiZ1pLZE9HVTBUMGd6N0tVQnRyRDNRTjM4Y0pGZnR5S3p0bw?oc=5",
    "source": "EIN News",
@@ -289,6 +555,21 @@
     "Miami Cyber"
    ],
    "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c30c38a613a7",
+   "url": "https://github.com/SheepSeb/tinyworldformer",
+   "source": "Hacker News",
+   "published": "2026-10-29T20:32:28+00:00",
+   "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+   "text": "253 points, 16 comments on Hacker News (https://news.ycombinator.com/item?id=50295450)",
+   "title_th": "โมเดลโลกขนาดจิ๋วรันเกมบน Raspberry Pi Pico 2 W",
+   "summary_th": "ความสำเร็จในการรันโมเดลโลกขนาดเล็กบนฮาร์ดแวร์จำกัดอย่าง Raspberry Pi Pico 2 W เพื่อประมวลผลการเล่นเกม",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -972,6 +1253,23 @@
    "dedup": true
   },
   {
+   "id": "ce34ff86cdae",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcW9ZRXY3R3Z1X0EtUnE2VTBPb3pvdzRsOWZicTQ1VlZKYUNiamNGMVJtWWt4Y1Jodi00WE1NYlBnNnl6WGNIY2k1ZDg0TVNrZ0JNS09zcVdjQ2lZQVI2UVpCdEtPSzgzQnh4dzFtd004Q01rTmRHb21feEo4OUlRdjUzaG1STG5WQlVwOGU1QUpyeG1nMjhjdk8zX2JjMTFWakxSWnpQM2Fuc1dqQWJWSWtTOFNGLThZa3M2VzV6amlYdG0x?oc=5",
+   "source": "internationalfinance.com",
+   "published": "2026-10-29T00:00:44+00:00",
+   "title": "เจเนอรัล มอเตอร์ส ย้ายไปจดทะเบียนในตลาด Nasdaq ขณะที่บริษัทกำลังเดิมพันกับรถยนต์ไฮบริด ปัญญาประดิษฐ์ และระบบขับขี่อัตโนมัติ",
+   "text": "",
+   "title_th": "General Motors ย้ายเข้าตลาด Nasdaq มุ่งเน้น AI และรถยนต์อัตโนมัติ",
+   "summary_th": "General Motors ประกาศย้ายการจดทะเบียนเข้าสู่ตลาด Nasdaq เพื่อรองรับกลยุทธ์การเติบโตที่เน้นเทคโนโลยี AI และระบบขับขี่อัตโนมัติ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "General Motors"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "e1c742c1d925",
    "url": "https://huggingface.co/blog/announcing-project-protostar",
    "source": "Hugging Face",
@@ -1122,6 +1420,36 @@
    "category": "งานวิจัย",
    "companies": [],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "13b40bac05ea",
+   "url": "https://huggingface.co/papers/2610.39633",
+   "source": "HF Daily Papers",
+   "published": "2026-10-28T20:00:00+00:00",
+   "title": "Intrinsic Distribution Matching",
+   "text": "One-step and few-step text-to-image generation must accurately render the details specified in the prompt despite limited opportunities for refinement. Distribution matching distillation (DMD) uses score differences to bring the generated distribution closer to a reference distribution. Following prior work, we estimate this difference with internal velocity branches, avoiding a separate fake-score network. We ask whether an explicit moment constraint improves this learned score supervision. A decomposition of the reverse-KL field into a Gaussian moment component and a non-Gaussian residual id",
+   "title_th": "Intrinsic Distribution Matching: เทคนิคใหม่เพื่อการสร้างภาพแบบ One-step",
+   "summary_th": "งานวิจัยนี้นำเสนอวิธีการปรับปรุงการสร้างภาพจากข้อความแบบขั้นตอนเดียวหรือขั้นตอนน้อยให้มีความแม่นยำสูงขึ้น โดยใช้การจับคู่การกระจายตัว (Distribution Matching) เพื่อลดความจำเป็นในการใช้เครือข่ายประเมินผลแยกต่างหาก ช่วยให้โมเดลสามารถสร้างรายละเอียดตามคำสั่งได้ดีขึ้นแม้มีโอกาสปรับแต่งจำกัด",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d29a393655a1",
+   "url": "https://huggingface.co/papers/2610.40614",
+   "source": "HF Daily Papers",
+   "published": "2026-10-28T20:00:00+00:00",
+   "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+   "text": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches rely on either temporal context or explicit 3D memory, both of which scale poorly because memory grows with the length of the generated stream. Moreover, explicit 3D memories condition latent video generators by re-encoding RGB renderings, which precludes real-time generation. In this paper, we introduce a Latent 3D Gaussian Memory (L3G) that combines the efficiency of feed-forward reconstruction wi",
+   "title_th": "L3G-World: การสร้างโลกเสมือนแบบเรียลไทม์ด้วย Latent 3D Gaussian Memory",
+   "summary_th": "L3G-World เป็นโมเดลที่ช่วยให้สามารถสร้างเนื้อหาภาพแบบโต้ตอบได้โดยรักษาความสม่ำเสมอของพื้นที่ในระยะยาวแบบเรียลไทม์ โดยใช้หน่วยความจำ 3D Gaussian แทนการใช้บริบทชั่วคราวแบบเดิม ช่วยแก้ปัญหาการขยายตัวของหน่วยความจำเมื่อระยะเวลาการสร้างยาวขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -1298,6 +1626,10 @@
     {
      "source": "TechCrunch AI",
      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152060"
     }
    ],
    "dedup": true
@@ -2050,6 +2382,21 @@
    "dedup": true
   },
   {
+   "id": "d0a61c51acd8",
+   "url": "https://huggingface.co/papers/2610.38568",
+   "source": "HF Daily Papers",
+   "published": "2026-10-27T20:00:00+00:00",
+   "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+   "text": "Recursive self-improvement requires models not only to acquire useful training experience, but also to decide when their current experience has ceased to be useful. Existing methods often focus on what experience to generate next, while paying less attention to when fresh experience should be introduced. Many also construct training targets through self-consistency or majority voting, making supervision depend on the model's own uncertain predictions. We address these two questions separately: training dynamics determine when to acquire new experience, while the answers to new tasks remain ind",
+   "title_th": "A-RSI: เทคนิคการปรับปรุงตัวเองของโมเดลแบบไม่ต้องใช้ข้อมูล",
+   "summary_th": "งานวิจัยนี้เสนอวิธีการ A-RSI เพื่อช่วยให้โมเดลสามารถตัดสินใจได้ว่าเมื่อใดที่ประสบการณ์การเรียนรู้เดิมหมดประโยชน์และควรได้รับประสบการณ์ใหม่ โดยมุ่งเน้นการแก้ปัญหาการพึ่งพาการคาดการณ์ที่ไม่แน่นอนของโมเดลเองในการสร้างเป้าหมายการฝึกฝน",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "62b1fcdba263",
    "url": "https://www.brangus.io/survival-llm",
    "source": "Hacker News",
@@ -2452,7 +2799,13 @@
    "companies": [],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
+    }
+   ]
   },
   {
    "id": "ef2da6cf0c5f",

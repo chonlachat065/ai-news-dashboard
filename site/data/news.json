@@ -1,48 +1,47 @@
 {
- "updated_at": "2026-10-31T20:01:57+00:00",
+ "updated_at": "2026-10-31T23:26:18+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-10-31T20:01:57+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายรอบด้าน ทั้งความปลอดภัยทางไซเบอร์ ความยั่งยืนทางการเงิน และปัญหาห่วงโซ่อุปทานฮาร์ดแวร์",
+  "generated_at": "2026-10-31T23:26:18+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านความปลอดภัยทางไซเบอร์และข้อจำกัดของห่วงโซ่อุปทานฮาร์ดแวร์ในขณะที่การพัฒนาโมเดลขนาดเล็กยังคงเติบโตอย่างต่อเนื่อง",
   "points": [
    {
-    "text": "พบภัยคุกคามความปลอดภัยในเครื่องมือ AI ยอดนิยม ทั้งมัลแวร์ในส่วนขยาย Claude บน Cursor และช่องโหว่ที่ทำให้บัญชี ChatGPT ถูกยึด รวมถึงการใช้ LLM ในทางที่ผิดเพื่อจัดลำดับเหยื่อเรียกค่าไถ่",
+    "text": "พบภัยคุกคามความปลอดภัยในแพลตฟอร์ม AI ยอดนิยม ทั้งการฝังมัลแวร์ในส่วนขยาย Claude บน Cursor, ช่องโหว่ที่ทำให้บัญชี ChatGPT ถูกยึด และการใช้ LLM ในมัลแวร์เพื่อจัดลำดับเหยื่อเรียกค่าไถ่",
     "ids": [
      "341ae9434fea",
-     "5b0ac3b976a1",
-     "381223935ae3"
+     "381223935ae3",
+     "5b0ac3b976a1"
     ]
    },
    {
-    "text": "บริษัท AI ขนาดใหญ่เผชิญแรงกดดันด้านการเงินและการระดมทุน โดยมีสัญญาณความไม่มั่นคงจากการขาดทุนสะสมและมูลค่าบริษัทที่ต่ำกว่าคาดการณ์ รวมถึงความกังวลเรื่องอันดับเครดิตในอนาคต",
-    "ids": [
-     "d26d562373a8",
-     "07912041c313",
-     "1ad66cf690a9"
-    ]
-   },
-   {
-    "text": "วิกฤตขาดแคลนชิ้นส่วนฮาร์ดแวร์อย่าง PCB คาดว่าจะลากยาวถึงปี 2030 ส่งผลกระทบต่อผู้ผลิตและอุตสาหกรรมคอมพิวเตอร์ ในขณะที่ผู้นำในอุตสาหกรรมมองว่าควรเน้นทรัพยากรไปที่ศูนย์ข้อมูลมากกว่าอุปกรณ์ส่วนบุคคล",
+    "text": "อุตสาหกรรมฮาร์ดแวร์ AI กำลังเผชิญวิกฤตขาดแคลนแผ่นวงจรพิมพ์ (PCB) ที่อาจลากยาวถึงปี 2030 ในขณะที่ Nvidia เข้ามามีบทบาทสนับสนุนเงินทุนเพื่อเร่งการสร้างศูนย์ข้อมูล",
     "ids": [
      "9eb659302c10",
-     "a977761811a9",
-     "e6a83342c0c5"
+     "c6b2d3ea7917"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวในตลาด AI มีการร่วมมือสร้างมาตรฐานใหม่ในการปฏิเสธการดึงข้อมูลเพื่อฝึกฝน AI และการขยายตัวของฟีเจอร์ AI ในตลาดจีนผ่าน Apple Intelligence",
+    "text": "ความก้าวหน้าของโมเดลขนาดเล็ก (Small Language Models) มีความคืบหน้าอย่างมาก ทั้งการเปิดตัว Mage-VL-Cowork และการทดสอบรันโมเดล Qwen บนฮาร์ดแวร์ทั่วไปได้อย่างมีประสิทธิภาพ",
     "ids": [
-     "25a528e218b1",
-     "011fdc062b2b"
-    ]
-   },
-   {
-    "text": "การอัปเดตด้านเทคนิคและผลิตภัณฑ์ใหม่ๆ เช่น การเปิดตัวอุปกรณ์ AI พกพาของ Meta, โมเดลขนาดเล็กประสิทธิภาพสูง Mage-VL-Cowork และการอัปเดตซอฟต์แวร์รันโมเดลในเครื่อง",
-    "ids": [
-     "ed0268fa6e32",
      "41a301ebb5e4",
-     "3f9cf40eb917",
+     "a492f43c9a7f",
      "38d68cd40774"
+    ]
+   },
+   {
+    "text": "ประเด็นด้านจริยธรรมและกฎหมายยังคงเป็นที่จับตา ทั้งคดีฟ้องร้องมลพิษจากศูนย์ข้อมูลของ xAI, ปัญหาการระงับบัญชีนักพัฒนาของ Anthropic และความกังวลเรื่องลายน้ำในโมเดลรุ่นเก่า",
+    "ids": [
+     "e07dacdb45dc",
+     "70131f44683c",
+     "b0ea1cf1f211"
+    ]
+   },
+   {
+    "text": "ความเคลื่อนไหวในตลาดธุรกิจ AI มีความผันผวน โดย OpenAI เผชิญความกังวลเรื่องการระดมทุน ขณะที่ Apple ย้ำจุดยืนการพัฒนา AI ที่เน้นประโยชน์จริง และ Meta เตรียมเปิดตัวอุปกรณ์ AI พกพา",
+    "ids": [
+     "d26d562373a8",
+     "9f56e268b05e",
+     "ed0268fa6e32"
     ]
    }
   ]
@@ -232,9 +231,80 @@
   "b56f7fea6503",
   "a7174a3f7705",
   "ced0b5c17520",
-  "c10fef6ec816"
+  "c10fef6ec816",
+  "5a4bff0c2db2",
+  "bbfa5e225551",
+  "a8558ab8e981",
+  "88cfd3863888"
  ],
  "items": [
+  {
+   "id": "9f56e268b05e",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-31T21:41:00+00:00",
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "text": "Apple's new CEO defended the company's current position in the AI landscape.",
+   "title_th": "CEO ของ Apple ย้ำบริษัทไม่ต้องการพัฒนา AI เพียงเพื่อตามกระแส",
+   "summary_th": "Tim Cook ชี้แจงจุดยืนของ Apple ในตลาด AI โดยเน้นว่าบริษัทมุ่งเน้นการพัฒนาเทคโนโลยีที่มีประโยชน์จริงมากกว่าการทำ AI เพียงเพื่อสร้างกระแสในตลาด",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "70131f44683c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm5gz/jiahao_shao_on_x_shame_on_darioamodei_anthropic_i/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-31T21:40:39+00:00",
+   "title": "Jiahao Shao on X: \"Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for \"training a competitor,\" and now anything touching RFT, SFT, or training larger models gets me blocked",
+   "text": "submitted by /u/f0urxio [link] [comments]",
+   "title_th": "นักพัฒนาโวย Anthropic บล็อกบัญชีหลังถูกกล่าวหาว่าใช้ Claude ฝึกโมเดลคู่แข่ง",
+   "summary_th": "นักพัฒนาออกมาวิจารณ์ Anthropic หลังถูกระงับการใช้งานเนื่องจากถูกเข้าใจผิดว่าใช้ Claude ในการฝึกโมเดลคู่แข่ง ทั้งที่ใช้เพียงเพื่อช่วยวิเคราะห์ข้อมูลเท่านั้น",
+   "category": "อื่นๆ",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "92a3003b0ed6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-31T21:21:02+00:00",
+   "title": "Well, my local AI addiction officially got out of hand tonight.",
+   "text": "Met a guy off Facebook Marketplace and scored 2x RTX 3090 Founders Editions for €1,700. The problem? I already had one 3090 FE. I am now sitting in my room looking at three 3090 FEs (72 GB GDDR6X VRAM) , and my current case barely fits one card, and that was only after I literally took pliers and bent the inner metal bracket to shove it in. My motherboard is just a standard B760. I clearly can't put three 3-slot cards in this PC. What is the cheapest, most sensible way forward to run all three (or two) for LLMs? Open-air mining frame + PCIe 4.0 risers + dual PSU? Get a giant full-tower case? J",
+   "title_th": "ผู้ใช้คอมมูนิตี้ AI ประสบปัญหาการจัดวางฮาร์ดแวร์หลังซื้อ RTX 3090 เพิ่ม",
+   "summary_th": "ผู้ใช้งานในชุมชน LocalLLaMA แชร์ประสบการณ์การอัปเกรดการ์ดจอ RTX 3090 จำนวน 3 ใบเพื่อใช้รันโมเดล AI แต่ประสบปัญหาเรื่องพื้นที่ในเคสคอมพิวเตอร์และการระบายความร้อน",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e07dacdb45dc",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "source": "TechCrunch AI",
+   "published": "2026-10-31T21:17:03+00:00",
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "text": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+   "title_th": "ศาลอนุญาตให้คดีฟ้องร้อง xAI เรื่องมลพิษจากศูนย์ข้อมูลดำเนินต่อไปได้",
+   "summary_th": "ศาลตัดสินให้คดีที่ NAACP ฟ้องร้อง xAI เกี่ยวกับการละเมิดกฎหมายอากาศสะอาดจากมลพิษของศูนย์ข้อมูลสามารถดำเนินการพิจารณาคดีต่อไปได้",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "xAI",
+    "SpaceX"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "b0ea1cf1f211",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWRRVDc2NW4xb3Vod21YR3hORTRGNjlONHFUc3ozSWx0SGZ2ZnpGd1NoUnRXSFlXcUoxOUZEcXJHVkhQVHc1ei01VHpaMWJXZUJZVEFjTXpoVm5oMnlaOW9KZ3BPQXBBMzVRaEVva3p3eFMteHFjdnltQmozZnZqNXFDTVVRME9ONXZ5YXdCRDV5U2FiTzFmRmtKa2c3ams?oc=5",
@@ -249,6 +319,21 @@
     "Anthropic"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a492f43c9a7f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-31T19:18:53+00:00",
+   "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
+   "text": "Code: https://github.com/divagr18/QwenPU Weights: https://huggingface.co/divagr1925/QwenPU From the original tweet : 1/3 A CPU inside an LLM is one thing, but running another LLM inside an LLM would be taking things a bit too far, wouldn't it? Anyways, here's an LLM running inside an LLM : QwenPU, an LLM (@karpathy's stories260k) running on an NPU compiled inside Qwen 3.5-4B's weights. 2/3 stories260K is just a C program. To run it inside Qwen, I compiled an NPU into Qwen's weights that does matmuls, softmax and attention bit-exact. The LLM weights are in Qwen's own memory, with no external to",
+   "title_th": "นักพัฒนาทดลองรันโมเดล LLM ขนาดเล็กภายในน้ำหนักของ Qwen 3.5-4B",
+   "summary_th": "มีการสาธิตการรันโปรแกรม NPU ภายในน้ำหนักของโมเดล Qwen 3.5-4B ซึ่งเป็นการทดลองเชิงเทคนิคที่น่าสนใจเกี่ยวกับการฝังระบบประมวลผลไว้ในโมเดลภาษา",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -516,6 +601,18 @@
     {
      "source": "Mashable SEA",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWE1XzRLYklNY3ExdU5pSzYydWMtN1dyQndyZzVodlUtcDB0RDdTZ2FmNXVBSjVxcWJHbWcybG1oMmtNaHI3b0x6cG5RdVBDblN6aG1VX29XSXprMzVnMWM3R09fSmYyQnE0V2pYSVRfd3g4NUZDOTU2QzUtUDR0cGJPY0Z1N3QxQjJyNjlZSlZ4UC15Nkx3WkpFMEQ4MzNrWkhVaDBWQ0RzekFTSnpr?oc=5"
+    },
+    {
+     "source": "TweakTown",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDUxaGRnQTd0RDIzSlVoNUJsRnpWMmJpUjAzdWhBbVliVXZNNUd2azZLZGRIRHYzclcxUTZqanZqdFIyenpZZFNQa010TmVUeTFGQkU3dXE1X05mTFlXb3VyU1cyMl8wWkFFUDlPUUtCajRzTXpXN19IM182WkJfRmJLSkRQUmtHaHZOcnE2bWpTZkVrRGlMWlUySXkySG9zck5DWldWX2l6cXNreXZhR0c0bHAxQkRxWFBuTHFhaFdOZFh0elVmd3pQVE02VXNQdHZVNFQtMFc?oc=5"
+    },
+    {
+     "source": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0V2cUVWOVl0eFNNN0tEVjluRlliOHR0MkVQbXdWaERXUzhTSFZfend2OTVmZldaT3k0b3pINTlacGEtdmNXV243bnZUbXFqVW1sZ3ZnT2t2REdyaENNOEJuS3ZlV3VwbGhxZEZnYTJKa2NlOHRTd1RubTZuVlA2bElhQ24yS2VvLWV6MlBMU0RnOU9nSGRjaXhQNG9DVmly?oc=5"
+    },
+    {
+     "source": "IGN",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUVpyWDB6dXRCZnY5ZExiUFRuTTVtVU1IM29kaWlfMHdpSGphVHJNU2tQSUJQbWRfbWNYUzhYSThIYWpicVM1RnhKYTdsa3I2UDlieXY0emxFZmZNVFpSeXpyaUpFYjZHLWdBNzR5VU95b01iclBMOThaMFdrX2dvR0ZyWDhlNTh6dkE?oc=5"
     }
    ]
   },

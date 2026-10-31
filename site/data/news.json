@@ -1,50 +1,48 @@
 {
- "updated_at": "2026-10-31T14:34:43+00:00",
+ "updated_at": "2026-10-31T20:01:57+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-10-31T05:52:33+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านความยั่งยืนทางการเงินและความปลอดภัย ในขณะที่การพัฒนาโมเดลใหม่ยังคงเดินหน้าอย่างรวดเร็ว",
+  "generated_at": "2026-10-31T20:01:57+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญความท้าทายรอบด้าน ทั้งความปลอดภัยทางไซเบอร์ ความยั่งยืนทางการเงิน และปัญหาห่วงโซ่อุปทานฮาร์ดแวร์",
   "points": [
    {
-    "text": "นักลงทุนเริ่มกังวลเกี่ยวกับความยั่งยืนทางการเงินของบริษัทเทคโนโลยีขนาดใหญ่ เนื่องจากต้นทุนมหาศาลในการพัฒนาโครงสร้างพื้นฐาน AI ส่งผลให้หุ้นกลุ่มเทคโนโลยีร่วงหนักและเกิดความไม่มั่นใจในอันดับเครดิตของสตาร์ทอัพ AI",
+    "text": "พบภัยคุกคามความปลอดภัยในเครื่องมือ AI ยอดนิยม ทั้งมัลแวร์ในส่วนขยาย Claude บน Cursor และช่องโหว่ที่ทำให้บัญชี ChatGPT ถูกยึด รวมถึงการใช้ LLM ในทางที่ผิดเพื่อจัดลำดับเหยื่อเรียกค่าไถ่",
     "ids": [
+     "341ae9434fea",
+     "5b0ac3b976a1",
+     "381223935ae3"
+    ]
+   },
+   {
+    "text": "บริษัท AI ขนาดใหญ่เผชิญแรงกดดันด้านการเงินและการระดมทุน โดยมีสัญญาณความไม่มั่นคงจากการขาดทุนสะสมและมูลค่าบริษัทที่ต่ำกว่าคาดการณ์ รวมถึงความกังวลเรื่องอันดับเครดิตในอนาคต",
+    "ids": [
+     "d26d562373a8",
      "07912041c313",
-     "1634c7b4a767",
      "1ad66cf690a9"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวในตลาดโมเดลภาษาขนาดใหญ่ยังคงคึกคัก โดยมีการเปิดตัว Mistral Large 4 และ DeepSeek-V4.1-Flash-1017 รวมถึงการนำชิป TPU ไปใช้งานบนอวกาศและการพัฒนาโมเดลสื่อประสมจากทีม MOSS",
+    "text": "วิกฤตขาดแคลนชิ้นส่วนฮาร์ดแวร์อย่าง PCB คาดว่าจะลากยาวถึงปี 2030 ส่งผลกระทบต่อผู้ผลิตและอุตสาหกรรมคอมพิวเตอร์ ในขณะที่ผู้นำในอุตสาหกรรมมองว่าควรเน้นทรัพยากรไปที่ศูนย์ข้อมูลมากกว่าอุปกรณ์ส่วนบุคคล",
     "ids": [
-     "359f85155983",
-     "0fe0b7627983",
-     "fc6c72287137",
-     "2ac4269ab863"
+     "9eb659302c10",
+     "a977761811a9",
+     "e6a83342c0c5"
     ]
    },
    {
-    "text": "บริษัท AI ยักษ์ใหญ่ร่วมมือกันสร้างมาตรฐานใหม่ให้เจ้าของเว็บไซต์ปฏิเสธการดึงข้อมูลไปฝึก AI ได้ง่ายขึ้น พร้อมกับความพยายามในการยกระดับมาตรการความปลอดภัยและการกำกับดูแลการใช้งาน AI",
+    "text": "ความเคลื่อนไหวในตลาด AI มีการร่วมมือสร้างมาตรฐานใหม่ในการปฏิเสธการดึงข้อมูลเพื่อฝึกฝน AI และการขยายตัวของฟีเจอร์ AI ในตลาดจีนผ่าน Apple Intelligence",
     "ids": [
      "25a528e218b1",
-     "a973ac401cee",
-     "c7606af40dbb",
-     "974d9b85c8fb"
+     "011fdc062b2b"
     ]
    },
    {
-    "text": "พบความเสี่ยงด้านความปลอดภัยในส่วนขยาย Claude Code ที่มีมัลแวร์ฝังตัว รวมถึงการปรับเปลี่ยนนโยบายภายในของ Anthropic ที่เลิกใช้การทดสอบเขียนโค้ดในการสัมภาษณ์งานเนื่องจาก AI มีความสามารถสูงกว่า",
+    "text": "การอัปเดตด้านเทคนิคและผลิตภัณฑ์ใหม่ๆ เช่น การเปิดตัวอุปกรณ์ AI พกพาของ Meta, โมเดลขนาดเล็กประสิทธิภาพสูง Mage-VL-Cowork และการอัปเดตซอฟต์แวร์รันโมเดลในเครื่อง",
     "ids": [
-     "9585607c5f98",
-     "534b31bc8130"
-    ]
-   },
-   {
-    "text": "ผลประกอบการบริษัทเทคโนโลยีมีความหลากหลาย โดย Intel และ Amazon รายงานการเติบโตที่โดดเด่นในกลุ่ม Data Center และคลาวด์ ในขณะที่ Apple เดินหน้าขยายตลาด Apple Intelligence เข้าสู่จีนและเข้าซื้อกิจการสตาร์ทอัพ AI เพิ่มเติม",
-    "ids": [
-     "d673427b3d59",
-     "2eae49e978ce",
-     "011fdc062b2b",
-     "0b86e4267949"
+     "ed0268fa6e32",
+     "41a301ebb5e4",
+     "3f9cf40eb917",
+     "38d68cd40774"
     ]
    }
   ]
@@ -137,7 +135,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "error": null
   }
  ],
@@ -224,9 +222,85 @@
   "ade2d7581a3b",
   "7fc1ef26770f",
   "5aa4c5cc091d",
-  "1ee79686caa7"
+  "1ee79686caa7",
+  "f50deee694f6",
+  "e27915edd082",
+  "17715f9f4e07",
+  "0c76f1c0e273",
+  "b042358e1274",
+  "e0e3a812f5ab",
+  "b56f7fea6503",
+  "a7174a3f7705",
+  "ced0b5c17520",
+  "c10fef6ec816"
  ],
  "items": [
+  {
+   "id": "b0ea1cf1f211",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWRRVDc2NW4xb3Vod21YR3hORTRGNjlONHFUc3ozSWx0SGZ2ZnpGd1NoUnRXSFlXcUoxOUZEcXJHVkhQVHc1ei01VHpaMWJXZUJZVEFjTXpoVm5oMnlaOW9KZ3BPQXBBMzVRaEVva3p3eFMteHFjdnltQmozZnZqNXFDTVVRME9ONXZ5YXdCRDV5U2FiTzFmRmtKa2c3ams?oc=5",
+   "source": "the-decoder.com",
+   "published": "2026-10-31T19:24:43+00:00",
+   "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+   "text": "",
+   "title_th": "Anthropic พบช่องโหว่ใน Claude รุ่นเก่าที่ไม่มีระบบลายน้ำ",
+   "summary_th": "Anthropic เริ่มใช้ระบบลายน้ำในโมเดล แต่พบว่าโมเดล Claude รุ่นเก่าบางตัวยังไม่มีการป้องกันนี้ ซึ่งอาจส่งผลต่อการตรวจสอบที่มาของเนื้อหาที่สร้างโดย AI",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9dee3fa62c05",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84cHZlMURNNDdZcjg1STBlNU1WMHA4YmlWMFM4RzExMGx6aDYxeHR1T252MG1OVmdySXdGMERHTTAwejBrMzIycFJ4MzR2UGFFVTlRX2w3eFRBVWZNdE5BZVI0d1YxTWM?oc=5",
+   "source": "Engadget",
+   "published": "2026-10-31T18:30:00+00:00",
+   "title": "How To Use Claude Duet When It Rolls Out To You",
+   "text": "",
+   "title_th": "วิธีใช้งาน Claude Duet เมื่อเปิดให้ใช้งานทั่วไป",
+   "summary_th": "แนะนำขั้นตอนการใช้งานฟีเจอร์ Claude Duet สำหรับผู้ใช้ทั่วไปเมื่อมีการปล่อยอัปเดตอย่างเป็นทางการ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ed0268fa6e32",
+   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+   "source": "The Verge AI",
+   "published": "2026-10-31T16:09:02+00:00",
+   "title": "I built an AI Tamagotchi before Meta could",
+   "text": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+   "title_th": "Meta เตรียมเปิดตัว Muse Charm อุปกรณ์ AI พกพา",
+   "summary_th": "Meta เตรียมวางจำหน่าย Muse Charm อุปกรณ์ AI ขนาดเล็กที่ให้ผู้ใช้พกพาผู้ช่วย AI ไปได้ทุกที่ คล้ายกับของเล่น Tamagotchi",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5b0ac3b976a1",
+   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+   "source": "Hacker News",
+   "published": "2026-10-31T14:29:03+00:00",
+   "title": "Malware uses LLMs to rank victims by how much they're worth",
+   "text": "202 points, 108 comments on Hacker News (https://news.ycombinator.com/item?id=50316531)",
+   "title_th": "มัลแวร์ใช้ LLM จัดลำดับความสำคัญของเหยื่อเพื่อเรียกค่าไถ่",
+   "summary_th": "พบการใช้ LLM ในมัลแวร์เพื่อวิเคราะห์และจัดลำดับเหยื่อตามมูลค่าความเสียหายที่อาจได้รับ ซึ่งแสดงถึงการนำ AI มาใช้ในทางที่ผิด",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "341ae9434fea",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzdKWXRiWk0zaGNvdzItNGg1VWZ5Vjc0U1RSRno5a1lKT1lLeTZaOUwwT2dMMU8yajMwN2pvQ1VKZF9BZFVpbndKNEQ1VDNGeG9JcUZ1Q0VyYUdkOHhYRFFSekY4WS1JeVVtZU8waktRNndNeEt2MVRvN1dIM29rOWJsWjA4R2stdDdqTzc4ZmVpeEJ2X3BvSWFPVk43T01XTjNtWm4tZjRtdEtBYWhnZEFKc1c?oc=5",
@@ -234,40 +308,80 @@
    "published": "2026-10-31T13:23:56+00:00",
    "title": "Tampered Claude Code Extension Put SSH Backdoor on Up to 5,000 Cursor Users' Computers",
    "text": "",
-   "title_th": "Tampered Claude Code Extension Put SSH Backdoor on Up to 5,000 Cursor Users' Computers",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "พบมัลแวร์ในส่วนขยาย Claude บน Cursor กระทบผู้ใช้กว่า 5,000 ราย",
+   "summary_th": "มีการตรวจพบส่วนขยาย Claude ที่ถูกดัดแปลง ซึ่งแอบฝังช่องโหว่ SSH Backdoor ในเครื่องของผู้ใช้ Cursor จำนวนมาก",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic",
+    "Cursor"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
   },
   {
-   "id": "0c76f1c0e273",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUNWTmVLUlF0MlpzdnpqcXhDaUpsMm96X19XQlBDOG9BaVg0a2FoTjV3aVFHNHJ2ZE1SRTdpZHZ5VkE5Yk9vYmwxR2ZSSE5pWjdraXZ5ZXFIZ1ZTTU9UbFUzenRkbE1xS281TXJmNk1lYV84S2dqT1czUVlZYzhtMzFMNWxYWUlBV0VPcnJzZS1xeEFBa052aHRYSG1iRGFx?oc=5",
-   "source": "https://tech-insider.org/",
-   "published": "2026-10-31T12:53:26+00:00",
-   "title": "Anthropic’s 2-Sentence Rule Targets Game Clones [2026]",
-   "text": "",
-   "title_th": "Anthropic’s 2-Sentence Rule Targets Game Clones [2026]",
-   "summary_th": "",
-   "category": "อื่นๆ",
+   "id": "38d68cd40774",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-31T12:20:02+00:00",
+   "title": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
+   "text": "About two months ago I posted here about trying to predict which MoE experts get used on the next token to speed up CPU/GPU offload on Qwen 3.6 35B. Quick confession on that older post before anything else: I ended up throwing that prototype away. To get the big numbers I was seeing back then, I was basically cheating with gate pruning (dropping cold experts when their router weights were low). It made the tok/s counter go brrr, but on an already low-bit quant it quietly degraded output quality and reasoning. I didn't want to ship something that lobotomizes the model just to look fast in a scr",
+   "title_th": "ทดสอบรัน Qwen 3.8 Flash บนฮาร์ดแวร์ทั่วไปได้สำเร็จ",
+   "summary_th": "ผู้ใช้ทดสอบรันโมเดล Qwen 3.8 Flash บนการ์ดจอ RTX 3060 โดยเน้นความแม่นยำของบิตข้อมูลและการทำความเร็วในการประมวลผล",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
-   "id": "17715f9f4e07",
-   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5",
-   "source": "Tom's Hardware",
-   "published": "2026-10-31T12:20:00+00:00",
-   "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
+   "id": "387b7729e56e",
+   "url": "https://news.google.com/rss/articles/CBMi-wVBVV95cUxOajV4WGQxbEFzSXdNdDVzQUV2bE1nRldzcktqdllvRngwckIxbW9XWnZCamtwYmlUZlRub2JSMzBPOHhibXdLbHZDVndCTlh0NnpoaTh0SDdhbkFoSG96dUtmaV9EbFlseU5DMzZKbXdITTFtb1NZTkFaWHhvT2FGRHJXZllWTmlXMlM3S3pyUkhNOU5mUmdfaGxNSjJHTlhoVU1SZW11ZmdsRk91Q1RlcTNHV1NZSDZ3Q1A4VnZ4TTFDWFFJLWdpZnpSaWFQWWl0MklQWFlzRktoZFI1UWpmU1RranN1dGktZy1YM3hXaGtFcFhZVldFb0RCS2M4VUZaUW9wMFZfSHBVX1huMnpWbWNyTTJDUHpxalI1Z2Z3T3h0cy1TczM2NzFiQjdyMG9PS2xoTzFPckp0UkMxbE4zb1JGQWRNS0g0ZlViR01pZmV2TzZLXzlBSWVHZWpsT29KYTlhNE9VeTVuUlZFX1JuUnpGbklwSjJCRGZBMlNqbFllT3NNbGVJVDVyN2pNUFp6QWZQSzNiVF9ZeUl5aWNvMjY5LU9fM0dUUmdCYUFWTXZTZTZtd1BmeUtXUFNDSTJaS01HRDdBRkhTNzZrNDJBb0lNUnM4LS1DM0FpZEV2aEVnWllreFdDMWhyWDVuQ190a1Rray1XdWtkQndKVjUzQlc3eTNhZ3JwWWtiRGVmX1JobE9DdEFFWGhOaUxBYkIteEZTcEM3RlVYTHFLV0h3YWhrUzNvRWZZQnM5Q1ppcFlsVzNRUkl6Z3pCaXpXMEowU2tOYW0tbUlXVTYwbExrNkJteHpCMExmemI2Zk9ILVZLMm8xY0tXS09nUGxYbzFScmtnS1VKOUVLdWl2N2J5UWN4UU16dU1jN2paeEJiZlNhZlQ1Ujh1SmU4UG9CbVZuNXdEcl9ZSERjUkxzQ3k3YmEzSGl6S3ZJOHVZMkJVajhoeTU5X2FlLVZLaWZyY3dMVkNHb1Bob291YlBNLXVQV2g0V0JzZnREYmhV?oc=5",
+   "source": "Facebook",
+   "published": "2026-10-31T12:03:57+00:00",
+   "title": "SWITCH 2026: ปักหมุด 5 สตาร์ทอัพน่าจับตา เมื่อ DeepTech & AI พร้อมเปลี่ยนโลกความจริง ในยุคที่เทคโนโลยีเปลี่ยนโลกไม่ได้หยุดอยู่แค่ในหน้ากระดาษวิจัย งาน SWITCH 2026 ได้กลายเป็นเวทีสะท้อนศักยภาพของสตาร์ทอัพยุคใหม่ที่พร้อมเปลี่ยนนวัตกรรมล้ำสมัยให้กลายเป็นเครื่องมือต",
    "text": "",
-   "title_th": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
-   "summary_th": "",
-   "category": "อื่นๆ",
+   "title_th": "งาน SWITCH 2026 เผยสตาร์ทอัพ DeepTech และ AI ที่น่าจับตา",
+   "summary_th": "งาน SWITCH 2026 รวบรวมสตาร์ทอัพด้าน DeepTech และ AI ที่มีศักยภาพในการสร้างการเปลี่ยนแปลงให้กับโลกจริง",
+   "category": "ธุรกิจ/การลงทุน",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "381223935ae3",
+   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+   "source": "Hacker News",
+   "published": "2026-10-31T10:30:11+00:00",
+   "title": "Do the math: How we took over ChatGPT accounts",
+   "text": "273 points, 125 comments on Hacker News (https://news.ycombinator.com/item?id=50314699)",
+   "title_th": "เผยช่องโหว่ความปลอดภัยที่ทำให้บัญชี ChatGPT ถูกยึด",
+   "summary_th": "มีการเปิดเผยวิธีการที่ใช้ในการเข้าถึงและยึดบัญชี ChatGPT ของผู้ใช้งาน ซึ่งเป็นประเด็นสำคัญด้านความปลอดภัยของแพลตฟอร์ม",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "41a301ebb5e4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-31T10:02:47+00:00",
+   "title": "microsoft/Mage-VL-Cowork · Hugging Face",
+   "text": "Mage-VL-Cowork demonstrates that an efficient 4B small vision-language model can master hybrid computer use when paired with upstream teacher-harness evolution , workflow-first environment synthesis ( Mage-CUA-Forge ) , and a five-stage specialize-then-unify curriculum . Achieving the best performance at the 4B scale (66.0% on OSWorld-Verified) while using 13.0% fewer model calls and 25.4% fewer output tokens after online RL, Mage-VL-Cowork pushes the frontier of on-device intelligence for autonomous desktop agents. submitted by /u/pmttyji [link] [comments]",
+   "title_th": "เปิดตัว Mage-VL-Cowork โมเดล Vision-Language ขนาดเล็กประสิทธิภาพสูง",
+   "summary_th": "Mage-VL-Cowork เป็นโมเดลขนาด 4B ที่ออกแบบมาเพื่อการใช้งานบนอุปกรณ์อย่างมีประสิทธิภาพ โดยทำคะแนนได้ดีในงานด้านการควบคุมคอมพิวเตอร์",
+   "category": "งานวิจัย",
+   "companies": [
+    "Microsoft"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "d26d562373a8",
@@ -276,40 +390,36 @@
    "published": "2026-10-31T09:48:06+00:00",
    "title": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด",
    "text": "Body Wall Street Journal รายงานโดยอ้างแหล่งข่าวไม่เปิดเผยตัวตน ระบุว่า OpenAI ระดมทุนรอบล่าสุดได้เงิน 11,000 ล้านดอลลาร์ ไม่ถึงครึ่งของเป้าหมาย 30,000 ล้านดอลลาร์ และมูลค่าบริษัทอยู่ที่ 1.25 ล้านล้านดอลลาร์ จากเป้าหมาย 1.4 ล้านล้านดอลลาร์ เหตุผลที่การระดมทุนทำได้ไม่ครบตามที่ต้องการมีได้หลายสาเหตุ โดยในช่วงหลังมีหลายบริษัทระดมทุนเพื่อลงทุนด้านปัญญาประดิษฐ์เช่นเดียวกัน และยังมีความกังวลเนื่องจากบริษัทเหล่านี้มักขาดทุนอย่างหนักแม้รายได้จะเติบโตเร็วมาก รายได้ล่าสุดของ OpenAI เมื่อเดือนตุลาคมที่ผ่านมาเมื่อขยายจากรายได้ในเดือนกันยายนเป็น",
-   "title_th": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด",
-   "summary_th": "Body Wall Street Journal รายงานโดยอ้างแหล่งข่าวไม่เปิดเผยตัวตน ระบุว่า OpenAI ระดมทุนรอบล่าสุดได้เงิน 11,000 ล้านดอลลาร์ ไม่ถึงครึ่งของเป้าหมาย 30,000 ล้านดอลลาร์ และมูลค่าบริษัทอยู่ที่ 1.25 ล้านล้านดอลลาร์ จากเป้าหมาย 1.4 ล้านล้านดอลลาร์ เ",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "ลือ OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าที่คาดการณ์",
+   "summary_th": "มีรายงานว่า OpenAI ระดมทุนได้ไม่ถึงเป้าหมายที่ตั้งไว้ โดยมูลค่าบริษัทก็ต่ำกว่าที่คาดการณ์เช่นกัน สะท้อนถึงความกังวลของนักลงทุนต่อการขาดทุนอย่างหนักของบริษัท AI แม้รายได้จะเติบโตอย่างรวดเร็ว",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+    }
+   ],
+   "dedup": true
   },
   {
-   "id": "e0e3a812f5ab",
-   "url": "https://www.blognone.com/node/152071",
-   "source": "Blognone",
-   "published": "2026-10-31T09:17:12+00:00",
-   "title": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า",
-   "text": "Body Sam Altman ซีอีโอ OpenAI เปิดสงครามกับผู้ใช้พีซีทั่วโลก เมื่อเขาไปออกรายการช่อง Cheekly Pint แล้วตอบคำถามเรื่องแรมขาดแคลนเพราะโดนวงการ AI แย่งชิง คำตอบของ Sam บอกว่า มันค่อนข้างแย่ (quite terrible) ที่ทุกคนมีแรมอันหาได้ยากยิ่งอยู่ในคอมพิวเตอร์ของตัวเอง แต่มันถูกใช้งานเพียง 5% ของเวลาทั้งหมด หากเอาแรมเหล่านี้ไปใช้งานกับคลาวด์ก็จะถูกใช้งานตลอดเวลา เป็นการใช้ประโยชน์ที่คุ้มค่ากว่าในสภาพแวดล้อมที่แรมขาดแคลนระดับนี้ ที่มา - XDA mk Sat, 31/10/2026 - 16:17",
-   "title_th": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า",
-   "summary_th": "Body Sam Altman ซีอีโอ OpenAI เปิดสงครามกับผู้ใช้พีซีทั่วโลก เมื่อเขาไปออกรายการช่อง Cheekly Pint แล้วตอบคำถามเรื่องแรมขาดแคลนเพราะโดนวงการ AI แย่งชิง คำตอบของ Sam บอกว่า มันค่อนข้างแย่ (quite terrible) ที่ทุกคนมีแรมอันหาได้ยากยิ่งอยู่ในคอม",
-   "category": "อื่นๆ",
+   "id": "3f9cf40eb917",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk1vyk/koboldcpp_v1124_released/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-31T05:24:06+00:00",
+   "title": "Koboldcpp v1.124 released",
+   "text": "submitted by /u/Fcking_Chuck [link] [comments]",
+   "title_th": "Koboldcpp ออกเวอร์ชัน v1.124",
+   "summary_th": "มีการปล่อยอัปเดตซอฟต์แวร์ Koboldcpp เวอร์ชัน v1.124 ซึ่งเป็นเครื่องมือยอดนิยมสำหรับรันโมเดลภาษาขนาดใหญ่ในเครื่องของผู้ใช้งานทั่วไป",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "b56f7fea6503",
-   "url": "https://www.blognone.com/node/152070",
-   "source": "Blognone",
-   "published": "2026-10-31T09:02:01+00:00",
-   "title": "Google, Microsoft, OpenAI, Anthropic ตกลงใช้แท็กห้ามดูดข้อมูลไปเทรน AI ร่วมกัน",
-   "text": "Body บริษัท AI สัญชาติอเมริกัน 4 รายใหญ่ ได้แก่ Google, Microsoft, OpenAI, Anthropic ประกาศร่วมสาบาน ว่าจะไม่ดูดข้อมูลจากเว็บไซต์ที่ประกาศชัดว่าไม่ต้องการให้นำข้อมูลไปเทรน AI วิธีการระบุว่าไม่ต้องการให้ดูดข้อมูลไปเทรน AI ใช้ไฟล์ robots.txt ที่เป็นมาตรฐานของวงการ search engine อยู่แล้ว โดยจะเพิ่มคำสั่งใหม่เข้ามาตามร่างสเปกของ Internet Engineering Task Force (IETF) ตามตัวอย่างดังนี้ (ห้าม AI ใช้งานทุกกรณี ยกเว้นในพาธ press-kit) User-Agent: __usage_ai-training Disallow: / Allow: /press-kit/ ก่อนหน้านี้ บริษัท AI หลายเจ",
-   "title_th": "Google, Microsoft, OpenAI, Anthropic ตกลงใช้แท็กห้ามดูดข้อมูลไปเทรน AI ร่วมกัน",
-   "summary_th": "Body บริษัท AI สัญชาติอเมริกัน 4 รายใหญ่ ได้แก่ Google, Microsoft, OpenAI, Anthropic ประกาศร่วมสาบาน ว่าจะไม่ดูดข้อมูลจากเว็บไซต์ที่ประกาศชัดว่าไม่ต้องการให้นำข้อมูลไปเทรน AI วิธีการระบุว่าไม่ต้องการให้ดูดข้อมูลไปเทรน AI ใช้ไฟล์ robots.txt ",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "9eb659302c10",
@@ -318,12 +428,13 @@
    "published": "2026-10-31T04:45:10+00:00",
    "title": "First memory, storage, and now PCBsss: AI Boom Triggers Massive PCB Shortage With Orders Booked Until 2030, Posing Big Challenges For Consumer Hardware Vendors",
    "text": "submitted by /u/chemist_slime [link] [comments]",
-   "title_th": "First memory, storage, and now PCBsss: AI Boom Triggers Massive PCB Shortage With Orders Booked Until 2030, Posing Big Challenges For Consumer Hardware Vendors",
-   "summary_th": "submitted by /u/chemist_slime [link] [comments]",
-   "category": "อื่นๆ",
+   "title_th": "วิกฤตขาดแคลน PCB กระทบอุตสาหกรรมฮาร์ดแวร์ AI คาดลากยาวถึงปี 2030",
+   "summary_th": "ความต้องการด้าน AI ส่งผลให้เกิดการขาดแคลนแผ่นวงจรพิมพ์ (PCB) อย่างหนักจนมียอดสั่งจองล่วงหน้าไปถึงปี 2030 ซึ่งสร้างความท้าทายอย่างมากต่อผู้ผลิตฮาร์ดแวร์สำหรับผู้บริโภค",
+   "category": "ธุรกิจ/การลงทุน",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "c6b2d3ea7917",
@@ -342,20 +453,6 @@
    "importance": 3,
    "ai": true,
    "dedup": true
-  },
-  {
-   "id": "ced0b5c17520",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVTNFbkFXZkZqc0wyZ2ZkWjdya3FsQWFxZmY3bndubkNxN0JVbFZVRmtyN1pQOHdLU2JEY0QzcXNLN0lzT2dUaTdmQjlFVnJLU0JiOUJobVMxUUdlWjZCNGRhVVpZem43XzdESUVsZkZJcDdWMmlkYzZBaDhtbEkwYVVQVDBib1MybE11QlY0Y0xsaXBDeFduR3o4R0EzX2VYaUZyMHhVUV9GN3FjeVV1bEZhZ08xZlpOaTd1NVBLWm9RbW1sTzdVb2x1aHgteUln?oc=5",
-   "source": "Microsoft",
-   "published": "2026-10-31T01:02:57+00:00",
-   "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-   "text": "",
-   "title_th": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
   },
   {
    "id": "5d6f84404e1c",
@@ -404,9 +501,23 @@
    "companies": [
     "Anthropic"
    ],
-   "importance": 2,
+   "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Tom's Hardware",
+     "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5"
+    },
+    {
+     "source": "https://tech-insider.org/",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUNWTmVLUlF0MlpzdnpqcXhDaUpsMm96X19XQlBDOG9BaVg0a2FoTjV3aVFHNHJ2ZE1SRTdpZHZ5VkE5Yk9vYmwxR2ZSSE5pWjdraXZ5ZXFIZ1ZTTU9UbFUzenRkbE1xS281TXJmNk1lYV84S2dqT1czUVlZYzhtMzFMNWxYWUlBV0VPcnJzZS1xeEFBa052aHRYSG1iRGFx?oc=5"
+    },
+    {
+     "source": "Mashable SEA",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWE1XzRLYklNY3ExdU5pSzYydWMtN1dyQndyZzVodlUtcDB0RDdTZ2FmNXVBSjVxcWJHbWcybG1oMmtNaHI3b0x6cG5RdVBDblN6aG1VX29XSXprMzVnMWM3R09fSmYyQnE0V2pYSVRfd3g4NUZDOTU2QzUtUDR0cGJPY0Z1N3QxQjJyNjlZSlZ4UC15Nkx3WkpFMEQ4MzNrWkhVaDBWQ0RzekFTSnpr?oc=5"
+    }
+   ]
   },
   {
    "id": "a977761811a9",
@@ -458,20 +569,6 @@
    "dedup": true
   },
   {
-   "id": "e27915edd082",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjrery/amd_reportedly_plans_another_radeon_gpu_price/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-30T21:06:27+00:00",
-   "title": "AMD reportedly plans another Radeon GPU price increase in November",
-   "text": "submitted by /u/chemist_slime [link] [comments]",
-   "title_th": "AMD reportedly plans another Radeon GPU price increase in November",
-   "summary_th": "submitted by /u/chemist_slime [link] [comments]",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
    "id": "e6a83342c0c5",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
    "source": "The Verge AI",
@@ -484,9 +581,15 @@
    "companies": [
     "OpenAI"
    ],
-   "importance": 2,
+   "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152071"
+    }
+   ]
   },
   {
    "id": "25a528e218b1",
@@ -509,6 +612,10 @@
     {
      "source": "OpenAI",
      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152070"
     }
    ],
    "dedup": true
@@ -537,12 +644,13 @@
    "published": "2026-10-30T19:45:05+00:00",
    "title": "vLLM now has PLE disk offload support on nightly",
    "text": "submitted by /u/rmhubbert [link] [comments]",
-   "title_th": "vLLM now has PLE disk offload support on nightly",
-   "summary_th": "submitted by /u/rmhubbert [link] [comments]",
-   "category": "อื่นๆ",
+   "title_th": "vLLM เพิ่มการรองรับฟีเจอร์ PLE disk offload ในเวอร์ชัน nightly",
+   "summary_th": "vLLM ได้เพิ่มการรองรับฟีเจอร์ disk offload สำหรับ PLE ในเวอร์ชัน nightly เพื่อช่วยเพิ่มประสิทธิภาพในการจัดการหน่วยความจำขณะรันโมเดล",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "43fd8c354699",
@@ -551,12 +659,13 @@
    "published": "2026-10-30T18:25:48+00:00",
    "title": "So uh...where are we on uncensored / NSFW audio models?",
    "text": "IIRC there was a guy working on this a year or so ago but it didn't seem to go anywhere. Meanwhile there's a new Gemma-4-Max-Fursona-UwU-9000 every day. Is there no interest or is there just a lack of resources / knowledge? submitted by /u/draetheus [link] [comments]",
-   "title_th": "So uh...where are we on uncensored / NSFW audio models?",
-   "summary_th": "IIRC there was a guy working on this a year or so ago but it didn't seem to go anywhere. Meanwhile there's a new Gemma-4-Max-Fursona-UwU-9000 every day. Is there no interest or is there just a lack of resources / knowledge? submitted by /u/",
-   "category": "อื่นๆ",
+   "title_th": "ข้อสงสัยเกี่ยวกับสถานะการพัฒนาโมเดลเสียงแบบ Uncensored",
+   "summary_th": "มีการตั้งคำถามในชุมชนนักพัฒนาเกี่ยวกับความคืบหน้าและทรัพยากรในการสร้างโมเดลเสียงที่ไม่มีการเซ็นเซอร์เนื้อหา ซึ่งดูเหมือนจะยังไม่มีการพัฒนาที่ชัดเจนในปัจจุบัน",
+   "category": "งานวิจัย",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 1,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "b2263e9f8412",
@@ -645,6 +754,10 @@
     {
      "source": "The Verge AI",
      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/"
     }
    ],
    "dedup": true
@@ -814,12 +927,15 @@
    "published": "2026-10-30T14:08:20+00:00",
    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
    "text": "232 points, 282 comments on Hacker News (https://news.ycombinator.com/item?id=50304122)",
-   "title_th": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-   "summary_th": "232 points, 282 comments on Hacker News (https://news.ycombinator.com/item?id=50304122)",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Cisco มอบสิทธิ์ใช้งาน AI แบบไม่จำกัดให้วิศวกรเพื่อเขียนโค้ดเก่าใหม่",
+   "summary_th": "Cisco ได้อนุญาตให้วิศวกรของบริษัทสามารถใช้งาน AI ได้โดยไม่จำกัดโควตา เพื่อช่วยในการปรับปรุงและเขียนโค้ดระบบเดิม (legacy code) ให้ทันสมัยขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Cisco"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "359f85155983",
@@ -1096,6 +1212,10 @@
     {
      "source": "BankInfoSecurity",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjJqYTE0ZGVsdGk1cklsaDg2R2wxa2pvU3BtdnEzSkIxNFNqRGgzcVZrOGVBd09vUW1ubEdMQWFURUNPU3dyRjJ4RlhhbWx5Vkp5R2thMkhCVmRnQkZvZTNyTG1hZkFYN1lkQWNlU0lMRlpHTkJSZ2c0enUxQUFCZVhHWlUzZElsOFZFWS1SMUYzRXhmcndnemg1ZXRtbERNdVE?oc=5"
+    },
+    {
+     "source": "Microsoft",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVTNFbkFXZkZqc0wyZ2ZkWjdya3FsQWFxZmY3bndubkNxN0JVbFZVRmtyN1pQOHdLU2JEY0QzcXNLN0lzT2dUaTdmQjlFVnJLU0JiOUJobVMxUUdlWjZCNGRhVVpZem43XzdESUVsZkZJcDdWMmlkYzZBaDhtbEkwYVVQVDBib1MybE11QlY0Y0xsaXBDeFduR3o4R0EzX2VYaUZyMHhVUV9GN3FjeVV1bEZhZ08xZlpOaTd1NVBLWm9RbW1sTzdVb2x1aHgteUln?oc=5"
     }
    ],
    "dedup": true

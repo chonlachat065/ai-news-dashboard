@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T05:52:33+00:00",
+ "updated_at": "2026-10-31T14:34:43+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
   "generated_at": "2026-10-31T05:52:33+00:00",
@@ -228,6 +228,104 @@
  ],
  "items": [
   {
+   "id": "341ae9434fea",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzdKWXRiWk0zaGNvdzItNGg1VWZ5Vjc0U1RSRno5a1lKT1lLeTZaOUwwT2dMMU8yajMwN2pvQ1VKZF9BZFVpbndKNEQ1VDNGeG9JcUZ1Q0VyYUdkOHhYRFFSekY4WS1JeVVtZU8waktRNndNeEt2MVRvN1dIM29rOWJsWjA4R2stdDdqTzc4ZmVpeEJ2X3BvSWFPVk43T01XTjNtWm4tZjRtdEtBYWhnZEFKc1c?oc=5",
+   "source": "Northeast Times",
+   "published": "2026-10-31T13:23:56+00:00",
+   "title": "Tampered Claude Code Extension Put SSH Backdoor on Up to 5,000 Cursor Users' Computers",
+   "text": "",
+   "title_th": "Tampered Claude Code Extension Put SSH Backdoor on Up to 5,000 Cursor Users' Computers",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "0c76f1c0e273",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUNWTmVLUlF0MlpzdnpqcXhDaUpsMm96X19XQlBDOG9BaVg0a2FoTjV3aVFHNHJ2ZE1SRTdpZHZ5VkE5Yk9vYmwxR2ZSSE5pWjdraXZ5ZXFIZ1ZTTU9UbFUzenRkbE1xS281TXJmNk1lYV84S2dqT1czUVlZYzhtMzFMNWxYWUlBV0VPcnJzZS1xeEFBa052aHRYSG1iRGFx?oc=5",
+   "source": "https://tech-insider.org/",
+   "published": "2026-10-31T12:53:26+00:00",
+   "title": "Anthropic’s 2-Sentence Rule Targets Game Clones [2026]",
+   "text": "",
+   "title_th": "Anthropic’s 2-Sentence Rule Targets Game Clones [2026]",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "17715f9f4e07",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5",
+   "source": "Tom's Hardware",
+   "published": "2026-10-31T12:20:00+00:00",
+   "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
+   "text": "",
+   "title_th": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "d26d562373a8",
+   "url": "https://www.blognone.com/node/152072",
+   "source": "Blognone",
+   "published": "2026-10-31T09:48:06+00:00",
+   "title": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด",
+   "text": "Body Wall Street Journal รายงานโดยอ้างแหล่งข่าวไม่เปิดเผยตัวตน ระบุว่า OpenAI ระดมทุนรอบล่าสุดได้เงิน 11,000 ล้านดอลลาร์ ไม่ถึงครึ่งของเป้าหมาย 30,000 ล้านดอลลาร์ และมูลค่าบริษัทอยู่ที่ 1.25 ล้านล้านดอลลาร์ จากเป้าหมาย 1.4 ล้านล้านดอลลาร์ เหตุผลที่การระดมทุนทำได้ไม่ครบตามที่ต้องการมีได้หลายสาเหตุ โดยในช่วงหลังมีหลายบริษัทระดมทุนเพื่อลงทุนด้านปัญญาประดิษฐ์เช่นเดียวกัน และยังมีความกังวลเนื่องจากบริษัทเหล่านี้มักขาดทุนอย่างหนักแม้รายได้จะเติบโตเร็วมาก รายได้ล่าสุดของ OpenAI เมื่อเดือนตุลาคมที่ผ่านมาเมื่อขยายจากรายได้ในเดือนกันยายนเป็น",
+   "title_th": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด",
+   "summary_th": "Body Wall Street Journal รายงานโดยอ้างแหล่งข่าวไม่เปิดเผยตัวตน ระบุว่า OpenAI ระดมทุนรอบล่าสุดได้เงิน 11,000 ล้านดอลลาร์ ไม่ถึงครึ่งของเป้าหมาย 30,000 ล้านดอลลาร์ และมูลค่าบริษัทอยู่ที่ 1.25 ล้านล้านดอลลาร์ จากเป้าหมาย 1.4 ล้านล้านดอลลาร์ เ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "e0e3a812f5ab",
+   "url": "https://www.blognone.com/node/152071",
+   "source": "Blognone",
+   "published": "2026-10-31T09:17:12+00:00",
+   "title": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า",
+   "text": "Body Sam Altman ซีอีโอ OpenAI เปิดสงครามกับผู้ใช้พีซีทั่วโลก เมื่อเขาไปออกรายการช่อง Cheekly Pint แล้วตอบคำถามเรื่องแรมขาดแคลนเพราะโดนวงการ AI แย่งชิง คำตอบของ Sam บอกว่า มันค่อนข้างแย่ (quite terrible) ที่ทุกคนมีแรมอันหาได้ยากยิ่งอยู่ในคอมพิวเตอร์ของตัวเอง แต่มันถูกใช้งานเพียง 5% ของเวลาทั้งหมด หากเอาแรมเหล่านี้ไปใช้งานกับคลาวด์ก็จะถูกใช้งานตลอดเวลา เป็นการใช้ประโยชน์ที่คุ้มค่ากว่าในสภาพแวดล้อมที่แรมขาดแคลนระดับนี้ ที่มา - XDA mk Sat, 31/10/2026 - 16:17",
+   "title_th": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า",
+   "summary_th": "Body Sam Altman ซีอีโอ OpenAI เปิดสงครามกับผู้ใช้พีซีทั่วโลก เมื่อเขาไปออกรายการช่อง Cheekly Pint แล้วตอบคำถามเรื่องแรมขาดแคลนเพราะโดนวงการ AI แย่งชิง คำตอบของ Sam บอกว่า มันค่อนข้างแย่ (quite terrible) ที่ทุกคนมีแรมอันหาได้ยากยิ่งอยู่ในคอม",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "b56f7fea6503",
+   "url": "https://www.blognone.com/node/152070",
+   "source": "Blognone",
+   "published": "2026-10-31T09:02:01+00:00",
+   "title": "Google, Microsoft, OpenAI, Anthropic ตกลงใช้แท็กห้ามดูดข้อมูลไปเทรน AI ร่วมกัน",
+   "text": "Body บริษัท AI สัญชาติอเมริกัน 4 รายใหญ่ ได้แก่ Google, Microsoft, OpenAI, Anthropic ประกาศร่วมสาบาน ว่าจะไม่ดูดข้อมูลจากเว็บไซต์ที่ประกาศชัดว่าไม่ต้องการให้นำข้อมูลไปเทรน AI วิธีการระบุว่าไม่ต้องการให้ดูดข้อมูลไปเทรน AI ใช้ไฟล์ robots.txt ที่เป็นมาตรฐานของวงการ search engine อยู่แล้ว โดยจะเพิ่มคำสั่งใหม่เข้ามาตามร่างสเปกของ Internet Engineering Task Force (IETF) ตามตัวอย่างดังนี้ (ห้าม AI ใช้งานทุกกรณี ยกเว้นในพาธ press-kit) User-Agent: __usage_ai-training Disallow: / Allow: /press-kit/ ก่อนหน้านี้ บริษัท AI หลายเจ",
+   "title_th": "Google, Microsoft, OpenAI, Anthropic ตกลงใช้แท็กห้ามดูดข้อมูลไปเทรน AI ร่วมกัน",
+   "summary_th": "Body บริษัท AI สัญชาติอเมริกัน 4 รายใหญ่ ได้แก่ Google, Microsoft, OpenAI, Anthropic ประกาศร่วมสาบาน ว่าจะไม่ดูดข้อมูลจากเว็บไซต์ที่ประกาศชัดว่าไม่ต้องการให้นำข้อมูลไปเทรน AI วิธีการระบุว่าไม่ต้องการให้ดูดข้อมูลไปเทรน AI ใช้ไฟล์ robots.txt ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "9eb659302c10",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk17m0/first_memory_storage_and_now_pcbsss_ai_boom/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-31T04:45:10+00:00",
+   "title": "First memory, storage, and now PCBsss: AI Boom Triggers Massive PCB Shortage With Orders Booked Until 2030, Posing Big Challenges For Consumer Hardware Vendors",
+   "text": "submitted by /u/chemist_slime [link] [comments]",
+   "title_th": "First memory, storage, and now PCBsss: AI Boom Triggers Massive PCB Shortage With Orders Booked Until 2030, Posing Big Challenges For Consumer Hardware Vendors",
+   "summary_th": "submitted by /u/chemist_slime [link] [comments]",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
    "id": "c6b2d3ea7917",
    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
    "source": "TechCrunch AI",
@@ -244,6 +342,20 @@
    "importance": 3,
    "ai": true,
    "dedup": true
+  },
+  {
+   "id": "ced0b5c17520",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVTNFbkFXZkZqc0wyZ2ZkWjdya3FsQWFxZmY3bndubkNxN0JVbFZVRmtyN1pQOHdLU2JEY0QzcXNLN0lzT2dUaTdmQjlFVnJLU0JiOUJobVMxUUdlWjZCNGRhVVpZem43XzdESUVsZkZJcDdWMmlkYzZBaDhtbEkwYVVQVDBib1MybE11QlY0Y0xsaXBDeFduR3o4R0EzX2VYaUZyMHhVUV9GN3FjeVV1bEZhZ08xZlpOaTd1NVBLWm9RbW1sTzdVb2x1aHgteUln?oc=5",
+   "source": "Microsoft",
+   "published": "2026-10-31T01:02:57+00:00",
+   "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+   "text": "",
+   "title_th": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
   },
   {
    "id": "5d6f84404e1c",
@@ -346,6 +458,20 @@
    "dedup": true
   },
   {
+   "id": "e27915edd082",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjrery/amd_reportedly_plans_another_radeon_gpu_price/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-30T21:06:27+00:00",
+   "title": "AMD reportedly plans another Radeon GPU price increase in November",
+   "text": "submitted by /u/chemist_slime [link] [comments]",
+   "title_th": "AMD reportedly plans another Radeon GPU price increase in November",
+   "summary_th": "submitted by /u/chemist_slime [link] [comments]",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
    "id": "e6a83342c0c5",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
    "source": "The Verge AI",
@@ -403,6 +529,34 @@
    "importance": 2,
    "ai": true,
    "dedup": true
+  },
+  {
+   "id": "073b71f97ac8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpbcg/vllm_now_has_ple_disk_offload_support_on_nightly/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-30T19:45:05+00:00",
+   "title": "vLLM now has PLE disk offload support on nightly",
+   "text": "submitted by /u/rmhubbert [link] [comments]",
+   "title_th": "vLLM now has PLE disk offload support on nightly",
+   "summary_th": "submitted by /u/rmhubbert [link] [comments]",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "43fd8c354699",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjn911/so_uhwhere_are_we_on_uncensored_nsfw_audio_models/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-30T18:25:48+00:00",
+   "title": "So uh...where are we on uncensored / NSFW audio models?",
+   "text": "IIRC there was a guy working on this a year or so ago but it didn't seem to go anywhere. Meanwhile there's a new Gemma-4-Max-Fursona-UwU-9000 every day. Is there no interest or is there just a lack of resources / knowledge? submitted by /u/draetheus [link] [comments]",
+   "title_th": "So uh...where are we on uncensored / NSFW audio models?",
+   "summary_th": "IIRC there was a guy working on this a year or so ago but it didn't seem to go anywhere. Meanwhile there's a new Gemma-4-Max-Fursona-UwU-9000 every day. Is there no interest or is there just a lack of resources / knowledge? submitted by /u/",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
   },
   {
    "id": "b2263e9f8412",
@@ -652,6 +806,20 @@
    "importance": 2,
    "ai": true,
    "dedup": true
+  },
+  {
+   "id": "32c78f8a2d41",
+   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+   "source": "Hacker News",
+   "published": "2026-10-30T14:08:20+00:00",
+   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+   "text": "232 points, 282 comments on Hacker News (https://news.ycombinator.com/item?id=50304122)",
+   "title_th": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+   "summary_th": "232 points, 282 comments on Hacker News (https://news.ycombinator.com/item?id=50304122)",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
   },
   {
    "id": "359f85155983",

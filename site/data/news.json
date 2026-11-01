@@ -1,45 +1,39 @@
 {
- "updated_at": "2026-11-01T06:17:10+00:00",
+ "updated_at": "2026-11-01T15:15:28+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-01T06:17:10+00:00",
-  "headline": "ความปลอดภัยของ AI และการแข่งขันในตลาดเครื่องมือพัฒนาซอฟต์แวร์เป็นประเด็นสำคัญในวันนี้",
+  "generated_at": "2026-11-01T15:15:28+00:00",
+  "headline": "ความเคลื่อนไหวในวงการ AI วันนี้เน้นไปที่การแข่งขันด้านเครื่องมือเขียนโค้ด การพัฒนาโมเดลประสิทธิภาพสูง และประเด็นท้าทายด้านต้นทุนและจริยธรรมของบริษัทชั้นนำ",
   "points": [
    {
-    "text": "พบภัยคุกคามทางไซเบอร์ที่เกี่ยวข้องกับ AI เพิ่มขึ้น ทั้งมัลแวร์ในส่วนขยาย Claude บน Cursor, การใช้ LLM จัดลำดับเหยื่อเรียกค่าไถ่ และช่องโหว่ที่ทำให้บัญชี ChatGPT ถูกยึด",
+    "text": "การแข่งขันด้าน AI Coding Agent ร้อนแรงขึ้นเมื่อ DeepSeek เปิดตัวเครื่องมือใหม่ท้าชน Claude Code ของ Anthropic ในขณะที่โมเดล Qwen3.8-27B ทำผลงานโดดเด่นเอาชนะ Fable 5 ในการทดสอบ LiveCodeBench Hard ได้สำเร็จ",
     "ids": [
-     "341ae9434fea",
-     "5b0ac3b976a1",
-     "381223935ae3"
+     "90ce8805a7b3",
+     "21a340ff67ad"
     ]
    },
    {
-    "text": "การแข่งขันในกลุ่มเครื่องมือช่วยเขียนโค้ดเข้มข้นขึ้น เมื่อ DeepSeek เปิดตัว autonomous coding agent มาท้าชนกับ Claude Code ของ Anthropic",
+    "text": "Anthropic เผชิญประเด็นท้าทายหลายด้าน ทั้งต้นทุนการใช้งาน AI ภายในที่สูงกว่าค่าจ้างพนักงาน ปัญหาการบล็อกบัญชีนักพัฒนาที่ถูกเข้าใจผิด และการพบช่องโหว่ในโมเดลรุ่นเก่าที่ไม่มีระบบลายน้ำ",
     "ids": [
-     "90ce8805a7b3"
+     "a585d3962e68",
+     "70131f44683c",
+     "b0ea1cf1f211"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวของบริษัทเทคโนโลยีขนาดใหญ่ ทั้ง OpenAI ที่เผชิญความกังวลเรื่องการระดมทุน, Apple ที่เน้นพัฒนา AI เพื่อประโยชน์จริง และ Meta ที่เตรียมเปิดตัวอุปกรณ์ AI พกพา",
+    "text": "ความเคลื่อนไหวของบริษัทเทคโนโลยีรายใหญ่และนวัตกรรมใหม่ ได้แก่ Apple ที่เน้นพัฒนา AI เพื่อประโยชน์จริงมากกว่าตามกระแส, Meta เตรียมเปิดตัวอุปกรณ์ AI พกพา Muse Charm และโครงการ CrowdGPT ที่พัฒนาโมเดลโดยไม่พึ่งพา Data Center",
     "ids": [
-     "d26d562373a8",
      "9f56e268b05e",
-     "ed0268fa6e32"
+     "ed0268fa6e32",
+     "7cd805a36d48"
     ]
    },
    {
-    "text": "ความก้าวหน้าของโมเดลขนาดเล็กและการใช้งานบนฮาร์ดแวร์ทั่วไป เช่น การเปิดตัว Mage-VL-Cowork และการทดสอบรันโมเดล Qwen บนการ์ดจอทั่วไป",
-    "ids": [
-     "41a301ebb5e4",
-     "38d68cd40774",
-     "a492f43c9a7f"
-    ]
-   },
-   {
-    "text": "ประเด็นด้านจริยธรรมและข้อพิพาททางกฎหมาย รวมถึงคดีมลพิษจากศูนย์ข้อมูลของ xAI และปัญหาการระงับบัญชีผู้ใช้ของ Anthropic",
+    "text": "ประเด็นด้านโครงสร้างพื้นฐานและฮาร์ดแวร์ยังคงเป็นที่จับตามอง ทั้งกรณี xAI ที่ถูกฟ้องเรื่องมลพิษจากศูนย์ข้อมูล, ข้อสังเกตเรื่อง GPU ของ NVIDIA ในคลังสินค้า และปัญหาการจัดการฮาร์ดแวร์ของนักพัฒนาที่รันโมเดลในเครื่องส่วนตัว",
     "ids": [
      "e07dacdb45dc",
-     "70131f44683c"
+     "3b32d4a92897",
+     "92a3003b0ed6"
     ]
    }
   ]
@@ -240,9 +234,84 @@
   "3153c80c5aac",
   "19888afaafaa",
   "286d9d09b633",
-  "09e64a85a37e"
+  "09e64a85a37e",
+  "0f7a316056b8",
+  "82a3bc74d7a4",
+  "3edc2072a542",
+  "48af856e3fcf",
+  "b112e6ada6a0",
+  "1fc1e2c8d204",
+  "638bd5ba0a8f",
+  "7b8b2b83311d",
+  "5d61d6741b00"
  ],
  "items": [
+  {
+   "id": "a585d3962e68",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckZlQklSTUE5MnZLZDM2U1RWbGFtQzRmVU1mTTk5YUVLNEVta3FmZnM5OWIxUW9DN253ZlctTGk4RFEybHFGQU9hXzNSdkE5SGZRbjNKLUd6RE9OaEN6NWkzd2dpcnRDRjdGR01DN0JyQWVjcFhkaEs5UmlmNS1oZV9VSVhjbHk3d0M3aHVwa0lfODdOZFF4NnVHSTBRUy1EZlE?oc=5",
+   "source": "Business Insider",
+   "published": "2026-11-01T15:00:00+00:00",
+   "title": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers",
+   "text": "",
+   "title_th": "มูลค่าการใช้งาน AI ภายในของ Anthropic สูงกว่าค่าจ้างพนักงาน",
+   "summary_th": "มีการเปิดเผยว่าต้นทุนการใช้งาน AI ภายในของ Anthropic หากคิดตามราคาที่เรียกเก็บจากลูกค้า มีมูลค่าสูงกว่างบประมาณค่าจ้างพนักงานทั้งหมด สะท้อนถึงการลงทุนมหาศาลในโครงสร้างพื้นฐาน AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3b32d4a92897",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4bjz/while_altman_complains_about_your_audacity_of/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-01T14:23:38+00:00",
+   "title": "While Altman complains about your audacity of having RAM in your PC, more than half of NVIDIA's GPUs are unproductive stocked in warehouses says author Ed Zitron",
+   "text": "https://x.com/edzitron/status/2102425034241307030 submitted by /u/dreamyrhodes [link] [comments]",
+   "title_th": "วิเคราะห์สถานการณ์ GPU ของ NVIDIA ในคลังสินค้า",
+   "summary_th": "มีการตั้งข้อสังเกตเกี่ยวกับสถานการณ์ของ NVIDIA ว่า GPU จำนวนมากยังคงถูกกักตุนอยู่ในคลังสินค้าแทนที่จะถูกนำไปใช้งานจริง ท่ามกลางกระแสการถกเถียงเรื่องความต้องการฮาร์ดแวร์ AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "21a340ff67ad",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-01T08:24:18+00:00",
+   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+   "text": "submitted by /u/PferdOne [link] [comments]",
+   "title_th": "ทีมโมเดล Qwen3.8-27B ทำคะแนนสูงสุดบน LiveCodeBench Hard",
+   "summary_th": "การรวมพลังของโมเดล Qwen3.8-27B จำนวน 5 ตัว สามารถทำผลงานเอาชนะ Fable 5 ในการทดสอบ LiveCodeBench Hard ได้สำเร็จ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Alibaba Cloud"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "761e5e0baaa4",
+   "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+   "source": "Hacker News",
+   "published": "2026-11-01T06:06:19+00:00",
+   "title": "The AI cost of JavaScript frameworks",
+   "text": "172 points, 118 comments on Hacker News (https://news.ycombinator.com/item?id=50323088)",
+   "title_th": "การวิเคราะห์ต้นทุนด้าน AI ของเฟรมเวิร์ก JavaScript",
+   "summary_th": "มีการถกเถียงในชุมชนนักพัฒนาเกี่ยวกับผลกระทบและต้นทุนที่เพิ่มขึ้นจากการนำ AI มาใช้ร่วมกับเฟรมเวิร์ก JavaScript ในปัจจุบัน",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "90ce8805a7b3",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3ZjNTJLaFEza3NuN1FnWVJkSjNzVXdsLW1VMjFrZDVsOTFzVGd6S1BvU2VMRkNBVlpHU2huZzBIU0xTZ0VtcWVMSnFGZHFhazJKLU1BUU5VQXNEejUzbXVrRHZDS2dnTG5jSFdmTjEydU4yaExlRk1Ed1VHelJ1aVFMeDhfSnNjZGVYVFNsd1VsS0owbGxJQ0stVThkdmlmaHFqMGdpOUwwOTJfOFlpTFpEd0pCN1VSVmVsdVd4NHJuZExjSVJweg?oc=5",
@@ -259,7 +328,13 @@
    ],
    "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Stocktwits",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXBscHNvYmNNV2RfZTJ0ZXlEanNzeUx6bVU1RW1UOThQcjhkRVdOMVl4bHlLZ3dDaUZFc3RiWE0xWHd0Y3RDU2ZUTVprR09fZHhheGg1Vm55NnFKYjZxeXItR2s1LVZWWVM0akEtbmNvSU9fYl9PVFpXWDc0b2o0SlkyVTd6MGRwTTd4S2RZb1loNkFuNnlUS0VDaUhtenU0R2V1cmVtUWFfbWFBem9VVmllMUxrNGlOdTMxaGs4dw?oc=5"
+    }
+   ]
   },
   {
    "id": "9f56e268b05e",
@@ -555,6 +630,10 @@
     {
      "source": "TechCrunch AI",
      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+    },
+    {
+     "source": "Hacker News",
+     "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"
     }
    ],
    "dedup": true
@@ -681,6 +760,10 @@
     {
      "source": "IGN",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUVpyWDB6dXRCZnY5ZExiUFRuTTVtVU1IM29kaWlfMHdpSGphVHJNU2tQSUJQbWRfbWNYUzhYSThIYWpicVM1RnhKYTdsa3I2UDlieXY0emxFZmZNVFpSeXpyaUpFYjZHLWdBNzR5VU95b01iclBMOThaMFdrX2dvR0ZyWDhlNTh6dkE?oc=5"
+    },
+    {
+     "source": "Firstpost",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSXBhOXIzTkpXLXkxRWVPdVNVMTNYWUN1aDgyWkhzajJnLXdUUGRlQ3pQZ2ZNZS1YOWpJUzVrclZJRzY0RGhIR01ZYW9ycm9CUkxDTTNUODFfZlZoUVVHSnNmV1lBZnZjcTVJRjFiVTg0LVh3dmlHWjd6OEJfWFBkZWtNNEhRWmxWcENoajUxaEhITlA0NGhvNDZSVWNZV1RVVzBDOWJ4S0pUcFJJUGYtR0o1YVpWOW5LbFU5WFVROVdoVHRZbVVEa1JQejZhQQ?oc=5"
     }
    ]
   },
@@ -913,7 +996,7 @@
    "companies": [
     "Google"
    ],
-   "importance": 3,
+   "importance": 4,
    "ai": true,
    "also": [
     {
@@ -923,6 +1006,10 @@
     {
      "source": "r/LocalLLaMA",
      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152081"
     }
    ],
    "dedup": true
@@ -1455,6 +1542,21 @@
    "dedup": true
   },
   {
+   "id": "2f083e35c49b",
+   "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+   "source": "Hacker News",
+   "published": "2026-10-29T21:58:34+00:00",
+   "title": "Building an AI-native engineering org",
+   "text": "188 points, 197 comments on Hacker News (https://news.ycombinator.com/item?id=50296730)",
+   "title_th": "แนวทางการสร้างองค์กรวิศวกรรมที่เน้น AI เป็นหลัก",
+   "summary_th": "บทความวิเคราะห์เกี่ยวกับการปรับโครงสร้างและวัฒนธรรมองค์กรให้กลายเป็น AI-native เพื่อเพิ่มประสิทธิภาพในการพัฒนาซอฟต์แวร์",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "00bf38dbd41e",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
    "source": "r/LocalLLaMA",
@@ -1499,7 +1601,13 @@
    "companies": [],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/"
+    }
+   ]
   },
   {
    "id": "3986bcdd48f8",
@@ -1611,9 +1719,15 @@
    "companies": [
     "Meta"
    ],
-   "importance": 2,
+   "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152078"
+    }
+   ]
   },
   {
    "id": "883edec00279",

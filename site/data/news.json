@@ -1,47 +1,45 @@
 {
- "updated_at": "2026-10-31T23:26:18+00:00",
+ "updated_at": "2026-11-01T06:17:10+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-10-31T23:26:18+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านความปลอดภัยทางไซเบอร์และข้อจำกัดของห่วงโซ่อุปทานฮาร์ดแวร์ในขณะที่การพัฒนาโมเดลขนาดเล็กยังคงเติบโตอย่างต่อเนื่อง",
+  "generated_at": "2026-11-01T06:17:10+00:00",
+  "headline": "ความปลอดภัยของ AI และการแข่งขันในตลาดเครื่องมือพัฒนาซอฟต์แวร์เป็นประเด็นสำคัญในวันนี้",
   "points": [
    {
-    "text": "พบภัยคุกคามความปลอดภัยในแพลตฟอร์ม AI ยอดนิยม ทั้งการฝังมัลแวร์ในส่วนขยาย Claude บน Cursor, ช่องโหว่ที่ทำให้บัญชี ChatGPT ถูกยึด และการใช้ LLM ในมัลแวร์เพื่อจัดลำดับเหยื่อเรียกค่าไถ่",
+    "text": "พบภัยคุกคามทางไซเบอร์ที่เกี่ยวข้องกับ AI เพิ่มขึ้น ทั้งมัลแวร์ในส่วนขยาย Claude บน Cursor, การใช้ LLM จัดลำดับเหยื่อเรียกค่าไถ่ และช่องโหว่ที่ทำให้บัญชี ChatGPT ถูกยึด",
     "ids": [
      "341ae9434fea",
-     "381223935ae3",
-     "5b0ac3b976a1"
+     "5b0ac3b976a1",
+     "381223935ae3"
     ]
    },
    {
-    "text": "อุตสาหกรรมฮาร์ดแวร์ AI กำลังเผชิญวิกฤตขาดแคลนแผ่นวงจรพิมพ์ (PCB) ที่อาจลากยาวถึงปี 2030 ในขณะที่ Nvidia เข้ามามีบทบาทสนับสนุนเงินทุนเพื่อเร่งการสร้างศูนย์ข้อมูล",
+    "text": "การแข่งขันในกลุ่มเครื่องมือช่วยเขียนโค้ดเข้มข้นขึ้น เมื่อ DeepSeek เปิดตัว autonomous coding agent มาท้าชนกับ Claude Code ของ Anthropic",
     "ids": [
-     "9eb659302c10",
-     "c6b2d3ea7917"
+     "90ce8805a7b3"
     ]
    },
    {
-    "text": "ความก้าวหน้าของโมเดลขนาดเล็ก (Small Language Models) มีความคืบหน้าอย่างมาก ทั้งการเปิดตัว Mage-VL-Cowork และการทดสอบรันโมเดล Qwen บนฮาร์ดแวร์ทั่วไปได้อย่างมีประสิทธิภาพ",
-    "ids": [
-     "41a301ebb5e4",
-     "a492f43c9a7f",
-     "38d68cd40774"
-    ]
-   },
-   {
-    "text": "ประเด็นด้านจริยธรรมและกฎหมายยังคงเป็นที่จับตา ทั้งคดีฟ้องร้องมลพิษจากศูนย์ข้อมูลของ xAI, ปัญหาการระงับบัญชีนักพัฒนาของ Anthropic และความกังวลเรื่องลายน้ำในโมเดลรุ่นเก่า",
-    "ids": [
-     "e07dacdb45dc",
-     "70131f44683c",
-     "b0ea1cf1f211"
-    ]
-   },
-   {
-    "text": "ความเคลื่อนไหวในตลาดธุรกิจ AI มีความผันผวน โดย OpenAI เผชิญความกังวลเรื่องการระดมทุน ขณะที่ Apple ย้ำจุดยืนการพัฒนา AI ที่เน้นประโยชน์จริง และ Meta เตรียมเปิดตัวอุปกรณ์ AI พกพา",
+    "text": "ความเคลื่อนไหวของบริษัทเทคโนโลยีขนาดใหญ่ ทั้ง OpenAI ที่เผชิญความกังวลเรื่องการระดมทุน, Apple ที่เน้นพัฒนา AI เพื่อประโยชน์จริง และ Meta ที่เตรียมเปิดตัวอุปกรณ์ AI พกพา",
     "ids": [
      "d26d562373a8",
      "9f56e268b05e",
      "ed0268fa6e32"
+    ]
+   },
+   {
+    "text": "ความก้าวหน้าของโมเดลขนาดเล็กและการใช้งานบนฮาร์ดแวร์ทั่วไป เช่น การเปิดตัว Mage-VL-Cowork และการทดสอบรันโมเดล Qwen บนการ์ดจอทั่วไป",
+    "ids": [
+     "41a301ebb5e4",
+     "38d68cd40774",
+     "a492f43c9a7f"
+    ]
+   },
+   {
+    "text": "ประเด็นด้านจริยธรรมและข้อพิพาททางกฎหมาย รวมถึงคดีมลพิษจากศูนย์ข้อมูลของ xAI และปัญหาการระงับบัญชีผู้ใช้ของ Anthropic",
+    "ids": [
+     "e07dacdb45dc",
+     "70131f44683c"
     ]
    }
   ]
@@ -134,7 +132,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "error": null
   }
  ],
@@ -235,9 +233,34 @@
   "5a4bff0c2db2",
   "bbfa5e225551",
   "a8558ab8e981",
-  "88cfd3863888"
+  "88cfd3863888",
+  "ddf4f00183aa",
+  "f8e3cb91d809",
+  "3020ca69a03c",
+  "3153c80c5aac",
+  "19888afaafaa",
+  "286d9d09b633",
+  "09e64a85a37e"
  ],
  "items": [
+  {
+   "id": "90ce8805a7b3",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3ZjNTJLaFEza3NuN1FnWVJkSjNzVXdsLW1VMjFrZDVsOTFzVGd6S1BvU2VMRkNBVlpHU2huZzBIU0xTZ0VtcWVMSnFGZHFhazJKLU1BUU5VQXNEejUzbXVrRHZDS2dnTG5jSFdmTjEydU4yaExlRk1Ed1VHelJ1aVFMeDhfSnNjZGVYVFNsd1VsS0owbGxJQ0stVThkdmlmaHFqMGdpOUwwOTJfOFlpTFpEd0pCN1VSVmVsdVd4NHJuZExjSVJweg?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-01T05:47:14+00:00",
+   "title": "DeepSeek launches autonomous coding agent to challenge Anthropic’s Claude Code",
+   "text": "",
+   "title_th": "DeepSeek เปิดตัว autonomous coding agent ท้าชน Claude Code ของ Anthropic",
+   "summary_th": "DeepSeek ได้เปิดตัวเครื่องมือช่วยเขียนโค้ดแบบอัตโนมัติเพื่อแข่งขันกับ Claude Code ของ Anthropic โดยมุ่งเน้นการเพิ่มประสิทธิภาพในการพัฒนาซอฟต์แวร์ด้วย AI",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "DeepSeek",
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "9f56e268b05e",
    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -338,6 +361,21 @@
    "dedup": true
   },
   {
+   "id": "7cd805a36d48",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-31T18:57:36+00:00",
+   "title": "CrowdGPT v2.6 - The collaborative LLM",
+   "text": "For those who saw the original post , a week ago, I'm glad to announce CrowdGPT v2 (more precisely v2.6), a massive update to the original CrowdGPT project :D (scroll down to see what's new) For the newcomers: CrowdGPT is a project aiming to create a LLM without datacenters and without the usual millions of dollars spent by AI companies. The project aims to train a 1 billion parameter model collaboratively and openly, as a proof of concept (it is possible to scale to bigger dense models or even MoE architectures with this project) This project implements a protocol where everyone gets a say in",
+   "title_th": "CrowdGPT v2.6 โครงการพัฒนา LLM แบบร่วมมือกันโดยไม่พึ่งพา Data Center",
+   "summary_th": "CrowdGPT อัปเดตเวอร์ชันใหม่โดยมีเป้าหมายเพื่อสร้างโมเดลภาษาขนาดใหญ่ผ่านความร่วมมือของผู้ใช้งานโดยไม่จำเป็นต้องใช้ทรัพยากรจาก Data Center ขนาดใหญ่",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "9dee3fa62c05",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84cHZlMURNNDdZcjg1STBlNU1WMHA4YmlWMFM4RzExMGx6aDYxeHR1T252MG1OVmdySXdGMERHTTAwejBrMzIycFJ4MzR2UGFFVTlRX2w3eFRBVWZNdE5BZVI0d1YxTWM?oc=5",
    "source": "Engadget",
@@ -350,9 +388,15 @@
    "companies": [
     "Anthropic"
    ],
-   "importance": 2,
+   "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Tech My Money",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pa3dLb1cxV2otcTNSS3B3cnNWektHVlh3WXV1eExVbGVmdnBqdXFPMU5Ja2FfY0I0S0swVjdMQ1JMeEdKOFN1Qnp5TDAxb0pYdlR2VVBXQ0llYlJOMDhUWWk4eXRROTJrQVo5TnYtYWtOWW5OTUNMSURaRWNFeVnSAX9BVV95cUxOaWt3S29XMVdqLXEzUktwd3JzVnpLR1ZYd1l1dXhMVWxlZnZwanVxTzFOSWthX2NCNEtLMFY3TENSTHhHSjhTdUJ6eUwwMW9KWHZUdlVQV0NJZWJSTjA4VFlpOHl0UTkya0FaOU52LWFrTlluTk1DTElEWkVjRXlZ?oc=5"
+    }
+   ]
   },
   {
    "id": "ed0268fa6e32",
@@ -387,6 +431,24 @@
    "dedup": true
   },
   {
+   "id": "66093f9c6102",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkau4g/just_finished_my_humble_moecentric_workstation/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-10-31T13:54:27+00:00",
+   "title": "Just finished my humble MoE-Centric Workstation",
+   "text": "CPU: AMD EPYC 7452 (8 memory channels) Motherboard: Gigabyte MZ32 GPU: Radeon AI PRO R9700 (32GB) RAM: 256GB DDR4 (16×16GB). Not exactly a “budget” build, but it came in at roughly half the price of a DGX Spark. Got it up and running just in time for Qwen4, can’t wait to start experimenting with it! submitted by /u/Numerous-Ad6217 [link] [comments]",
+   "title_th": "การประกอบ Workstation สำหรับงาน MoE โดยเฉพาะ",
+   "summary_th": "ผู้ใช้งานแชร์รายละเอียดการประกอบคอมพิวเตอร์ประสิทธิภาพสูงที่เน้นการทำงานด้าน Mixture-of-Experts (MoE) เพื่อเตรียมพร้อมสำหรับการทดลองโมเดลใหม่",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "AMD",
+    "Gigabyte"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "341ae9434fea",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzdKWXRiWk0zaGNvdzItNGg1VWZ5Vjc0U1RSRno5a1lKT1lLeTZaOUwwT2dMMU8yajMwN2pvQ1VKZF9BZFVpbndKNEQ1VDNGeG9JcUZ1Q0VyYUdkOHhYRFFSekY4WS1JeVVtZU8waktRNndNeEt2MVRvN1dIM29rOWJsWjA4R2stdDdqTzc4ZmVpeEJ2X3BvSWFPVk43T01XTjNtWm4tZjRtdEtBYWhnZEFKc1c?oc=5",
    "source": "Northeast Times",
@@ -417,7 +479,13 @@
    "companies": [],
    "importance": 2,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/"
+    }
+   ]
   },
   {
    "id": "387b7729e56e",
@@ -1579,7 +1647,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152075"
+    }
+   ]
   },
   {
    "id": "3e9c42624863",
@@ -1777,6 +1851,21 @@
    "companies": [
     "NVIDIA"
    ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c2ed3a03a42f",
+   "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+   "source": "Hacker News",
+   "published": "2026-10-29T15:29:48+00:00",
+   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+   "text": "196 points, 47 comments on Hacker News (https://news.ycombinator.com/item?id=50290652)",
+   "title_th": "อนาคตของ Formal Verification กับ AI และภาษา Lean",
+   "summary_th": "บทสนทนากับ Leo de Moura ผู้สร้างภาษา Lean เกี่ยวกับการนำ AI มาประยุกต์ใช้ในงานด้าน Formal Verification เพื่อเพิ่มความแม่นยำในการพิสูจน์ทางคณิตศาสตร์",
+   "category": "งานวิจัย",
+   "companies": [],
    "importance": 3,
    "ai": true,
    "dedup": true

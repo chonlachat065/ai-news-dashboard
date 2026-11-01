@@ -1,39 +1,47 @@
 {
- "updated_at": "2026-11-01T15:15:28+00:00",
+ "updated_at": "2026-11-01T20:33:55+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-01T15:15:28+00:00",
-  "headline": "ความเคลื่อนไหวในวงการ AI วันนี้เน้นไปที่การแข่งขันด้านเครื่องมือเขียนโค้ด การพัฒนาโมเดลประสิทธิภาพสูง และประเด็นท้าทายด้านต้นทุนและจริยธรรมของบริษัทชั้นนำ",
+  "generated_at": "2026-11-01T20:33:55+00:00",
+  "headline": "ความก้าวหน้าของ AI Agent และโมเดลขนาดเล็กกำลังเปลี่ยนโฉมการพัฒนาซอฟต์แวร์และประสิทธิภาพการประมวลผล",
   "points": [
    {
-    "text": "การแข่งขันด้าน AI Coding Agent ร้อนแรงขึ้นเมื่อ DeepSeek เปิดตัวเครื่องมือใหม่ท้าชน Claude Code ของ Anthropic ในขณะที่โมเดล Qwen3.8-27B ทำผลงานโดดเด่นเอาชนะ Fable 5 ในการทดสอบ LiveCodeBench Hard ได้สำเร็จ",
+    "text": "DeepSeek เปิดตัวเครื่องมือเขียนโค้ดอัตโนมัติและเผยแนวคิดระบบ Super-agent เพื่อเพิ่มความเป็นอิสระในการทำงาน ท้าชนกับ Claude Code ของ Anthropic",
     "ids": [
      "90ce8805a7b3",
+     "cc7ea1fd6bc3"
+    ]
+   },
+   {
+    "text": "งานวิจัยใหม่พบโมเดลขนาดจิ๋ว 109M พารามิเตอร์ที่มีประสิทธิภาพสูงกว่าโมเดลขนาดใหญ่ และโมเดล Qwen3.8-27B ทำคะแนนสูงสุดบน LiveCodeBench Hard",
+    "ids": [
+     "9bc22c02951c",
      "21a340ff67ad"
     ]
    },
    {
-    "text": "Anthropic เผชิญประเด็นท้าทายหลายด้าน ทั้งต้นทุนการใช้งาน AI ภายในที่สูงกว่าค่าจ้างพนักงาน ปัญหาการบล็อกบัญชีนักพัฒนาที่ถูกเข้าใจผิด และการพบช่องโหว่ในโมเดลรุ่นเก่าที่ไม่มีระบบลายน้ำ",
+    "text": "Anthropic เผชิญประเด็นเรื่องต้นทุนการใช้งาน AI ภายในที่สูงมหาศาล รวมถึงปัญหาการระงับบัญชีนักพัฒนาและการกำหนดแนวทางปฏิสัมพันธ์กับ Claude",
     "ids": [
      "a585d3962e68",
      "70131f44683c",
-     "b0ea1cf1f211"
+     "c9246c7365f1"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวของบริษัทเทคโนโลยีรายใหญ่และนวัตกรรมใหม่ ได้แก่ Apple ที่เน้นพัฒนา AI เพื่อประโยชน์จริงมากกว่าตามกระแส, Meta เตรียมเปิดตัวอุปกรณ์ AI พกพา Muse Charm และโครงการ CrowdGPT ที่พัฒนาโมเดลโดยไม่พึ่งพา Data Center",
+    "text": "ชุมชนนักพัฒนา AI เผชิญความท้าทายด้านฮาร์ดแวร์ ทั้งปัญหาการระบายความร้อนเมื่อใช้ GPU หลายตัว การกักตุน GPU ของ NVIDIA และการปรับแต่งเครื่องส่วนตัวเพื่อรันโมเดล",
+    "ids": [
+     "3b32d4a92897",
+     "1db6cd4a0750",
+     "92a3003b0ed6",
+     "cf0bcfa1c162"
+    ]
+   },
+   {
+    "text": "ประเด็นอื่นๆ ที่น่าสนใจ ได้แก่ ท่าทีของ Apple ที่เน้นประโยชน์จริงมากกว่ากระแส AI, คดีฟ้องร้องมลพิษจากศูนย์ข้อมูลของ xAI และการพัฒนาโมเดลเฉพาะทางอย่าง CRAP สำหรับเขียนโค้ด Linux",
     "ids": [
      "9f56e268b05e",
-     "ed0268fa6e32",
-     "7cd805a36d48"
-    ]
-   },
-   {
-    "text": "ประเด็นด้านโครงสร้างพื้นฐานและฮาร์ดแวร์ยังคงเป็นที่จับตามอง ทั้งกรณี xAI ที่ถูกฟ้องเรื่องมลพิษจากศูนย์ข้อมูล, ข้อสังเกตเรื่อง GPU ของ NVIDIA ในคลังสินค้า และปัญหาการจัดการฮาร์ดแวร์ของนักพัฒนาที่รันโมเดลในเครื่องส่วนตัว",
-    "ids": [
      "e07dacdb45dc",
-     "3b32d4a92897",
-     "92a3003b0ed6"
+     "ab3d0dcb4d8a"
     ]
    }
   ]
@@ -126,7 +134,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": null
   }
  ],
@@ -243,9 +251,46 @@
   "1fc1e2c8d204",
   "638bd5ba0a8f",
   "7b8b2b83311d",
-  "5d61d6741b00"
+  "5d61d6741b00",
+  "d7e241d7cf24",
+  "384c42503f75",
+  "866962551c72"
  ],
  "items": [
+  {
+   "id": "ab3d0dcb4d8a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-01T17:31:32+00:00",
+   "title": "Coding is solved* (exclusions apply)",
+   "text": "Good news, everyone! Having been inspired to revolutionize the field of computer science , I can now report that coding is solved! Sure, only if you care about x86 Linux binaries that print and exit, but \"big journeys\" and \"small steps\" and what not. CRAP (Compiler Replacement for Assembling Programs) is a Gemma 4 E2B fine tune that takes prompts like generate a Linux x86_64 binary that prints 'boop' and emits a working ELF binary (as hex, most of the time, every time). See, since programs end up as a binary anyway, why not just skip the middleman and write the binary itself? No compiler, no a",
+   "title_th": "เปิดตัว CRAP โมเดล Gemma ที่ปรับแต่งเพื่อเขียนโค้ดภาษาเครื่อง Linux",
+   "summary_th": "มีการพัฒนาโมเดล CRAP ซึ่งเป็นการปรับแต่งจาก Gemma เพื่อสร้างไฟล์ไบนารี x86 Linux จากคำสั่งที่กำหนด แม้จะยังจำกัดอยู่แค่การทำงานพื้นฐาน แต่ถือเป็นก้าวสำคัญในการใช้ AI ช่วยเขียนโปรแกรม",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Google"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c9246c7365f1",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01ZU5qTkttUWgxLW5mbWVCb3lVVWZrQjRJLU5nbXozRjRhMDhmSGswckNlZGpMMWZwQlZHT3g5Mm1KM2JMaWQzcGFoRWg1d2N0dTlDQkhWR0RPa1puRWRfUlZXWXh6YmxOZDRKdEdWV2VFbXAwV3hzZnNzckptQQ?oc=5",
+   "source": "CNN",
+   "published": "2026-11-01T17:00:16+00:00",
+   "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings",
+   "text": "",
+   "title_th": "Anthropic ย้ำผู้ใช้งานไม่ควรใช้ถ้อยคำรุนแรงกับ Claude",
+   "summary_th": "Anthropic ชี้แจงว่าการห้ามใช้ถ้อยคำรุนแรงกับ Claude ไม่ใช่เรื่องของความรู้สึกของ AI แต่เป็นแนวทางปฏิบัติเพื่อให้ผู้ใช้งานมีปฏิสัมพันธ์กับโมเดลอย่างเหมาะสมและสร้างสรรค์",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "a585d3962e68",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckZlQklSTUE5MnZLZDM2U1RWbGFtQzRmVU1mTTk5YUVLNEVta3FmZnM5OWIxUW9DN253ZlctTGk4RFEybHFGQU9hXzNSdkE5SGZRbjNKLUd6RE9OaEN6NWkzd2dpcnRDRjdGR01DN0JyQWVjcFhkaEs5UmlmNS1oZV9VSVhjbHk3d0M3aHVwa0lfODdOZFF4NnVHSTBRUy1EZlE?oc=5",
@@ -264,6 +309,21 @@
    "dedup": true
   },
   {
+   "id": "1db6cd4a0750",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-01T14:24:50+00:00",
+   "title": "Don't people pay attention anymore when buying hardware for AI?",
+   "text": "I was trying to sell my old AM4 system, X470 / Ryzen 5 5600 / 64GB / RX580 / 1TB NVME and it didn't sell. Granted it was a bit pricey at 750€, because I took into account the current local RAM and NVME pricing. (Buying the same RAM and SSD new costs 775€ if you go to the cheapest sellers in my country) I decided to try and sell it as an AI system: removed the RX580, put in 2 of my 4 R9700. I set the system up with Fedora to run Qwen3.6 (latest release at the time) and ComfyUI; to show it working. It sold almost instantly! I priced it based on new prices for all of the DDR4 memory, PCI-E 4.0 ss",
+   "title_th": "การเลือกฮาร์ดแวร์สำหรับรัน AI ในเครื่องส่วนตัวยังคงเป็นเรื่องสำคัญ",
+   "summary_th": "ผู้ใช้งานแบ่งปันประสบการณ์การปรับแต่งคอมพิวเตอร์เก่าให้กลายเป็นระบบสำหรับรัน AI โดยเน้นการเลือกใช้ RAM และ GPU ที่เหมาะสมเพื่อใช้งานโมเดลอย่าง Qwen",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "3b32d4a92897",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4bjz/while_altman_complains_about_your_audacity_of/",
    "source": "r/LocalLLaMA",
@@ -277,6 +337,38 @@
     "NVIDIA"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cc7ea1fd6bc3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-01T12:36:14+00:00",
+   "title": "DeepSeek: Exploring Super-agent Design: Towards a More Autonomous Agent System",
+   "text": "DeepSeek Harness article on 𝕏: Exploring Super-agent Design: Towards a More Autonomous Agent System: https://x.com/DeepSeekHarness/status/2116857257245987236 Parts of the design in this article are implemented in dsh-superagent-prototype. This plugin is only a prototype for validating the technical approach, not an official DeepSeek product: https://github.com/deepseek-ai/dsh-superagent-prototype submitted by /u/Nunki08 [link] [comments]",
+   "title_th": "DeepSeek เผยแนวคิดการออกแบบระบบ Super-agent ที่มีความเป็นอิสระมากขึ้น",
+   "summary_th": "DeepSeek ได้เผยแพร่บทความวิจัยและต้นแบบซอฟต์แวร์เกี่ยวกับการออกแบบระบบ Super-agent เพื่อเพิ่มขีดความสามารถในการทำงานอย่างอิสระของ AI",
+   "category": "งานวิจัย",
+   "companies": [
+    "DeepSeek"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9bc22c02951c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-01T10:24:21+00:00",
+   "title": "new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data",
+   "text": "submitted by /u/Lazylion2 [link] [comments]",
+   "title_th": "งานวิจัยใหม่เผยโมเดลขนาดจิ๋ว 109M พารามิเตอร์ ประสิทธิภาพสูงกว่าโมเดลใหญ่",
+   "summary_th": "มีการค้นพบโมเดลขนาดเล็กเพียง 109 ล้านพารามิเตอร์ที่สามารถทำผลงานด้านการจับคู่ภาพและข้อความได้ดีกว่าโมเดลขนาดใหญ่ถึง 72 พันล้านพารามิเตอร์ โดยใช้ข้อมูลฝึกฝนน้อยกว่ามาก",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -335,6 +427,21 @@
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXBscHNvYmNNV2RfZTJ0ZXlEanNzeUx6bVU1RW1UOThQcjhkRVdOMVl4bHlLZ3dDaUZFc3RiWE0xWHd0Y3RDU2ZUTVprR09fZHhheGg1Vm55NnFKYjZxeXItR2s1LVZWWVM0akEtbmNvSU9fYl9PVFpXWDc0b2o0SlkyVTd6MGRwTTd4S2RZb1loNkFuNnlUS0VDaUhtenU0R2V1cmVtUWFfbWFBem9VVmllMUxrNGlOdTMxaGs4dw?oc=5"
     }
    ]
+  },
+  {
+   "id": "cf0bcfa1c162",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-01T03:02:34+00:00",
+   "title": "64GB isn't the dead zone anymore if you run agents",
+   "text": "https://preview.redd.it/hboxdgjh2xyh1.png?width=1230&format=png&auto=webp&s=cca6b2b7b08807a334ff5280e19d96133667fbb0 The usual advice was that 64GB is a dead zone for local LLMs: too small for a 70B with real context, and more than a 30B needs. After running a 27B for agentic coding on a 64GB M4 Max for the last ten days, I think that has flipped. My memory usage is in the 50 GB as the context starts building up. Setup: Qwen3.8 27B (16 GB MLX quant) in LM Studio, 256k context, coding agent sessions that sit at 100-200k tokens. At 164k tokens, LM Studio's engine process is using 48 GB, 46 GB of",
+   "title_th": "RAM 64GB ยังคงเพียงพอสำหรับการรัน AI Agent ในปัจจุบัน",
+   "summary_th": "ผู้ใช้งานพบว่าหน่วยความจำ 64GB ไม่ใช่ข้อจำกัดอีกต่อไปสำหรับการรันโมเดลภาษาขนาดกลางเพื่อทำงานแบบ Agentic โดยเฉพาะเมื่อใช้ร่วมกับเทคนิคการทำ Quantization",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "9f56e268b05e",
@@ -418,7 +525,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEM4THdHaktsdExGbnVyMWxVLWhuRmx4S3hYSEMwWFIxcjIydjA2TVl6bkZidU10QmYyWEZWYkNsM0NXdTBHc2pIY0tXU1ZiMTdYbDZvYVNUUDduTDB2eU1DRU0yVERyS3ppRFpHWjZ5OUFxdXU5ZTRCbk5hSG9UNkgxQTJmX1BKWlJkOXAtNA?oc=5"
+    }
+   ]
   },
   {
    "id": "a492f43c9a7f",
@@ -764,6 +877,10 @@
     {
      "source": "Firstpost",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSXBhOXIzTkpXLXkxRWVPdVNVMTNYWUN1aDgyWkhzajJnLXdUUGRlQ3pQZ2ZNZS1YOWpJUzVrclZJRzY0RGhIR01ZYW9ycm9CUkxDTTNUODFfZlZoUVVHSnNmV1lBZnZjcTVJRjFiVTg0LVh3dmlHWjd6OEJfWFBkZWtNNEhRWmxWcENoajUxaEhITlA0NGhvNDZSVWNZV1RVVzBDOWJ4S0pUcFJJUGYtR0o1YVpWOW5LbFU5WFVROVdoVHRZbVVEa1JQejZhQQ?oc=5"
+    },
+    {
+     "source": "X",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlYmtMUVEwY1JRTzB5LXF1d1k5anJEWlpOR0djYVVJMDROeV9HRmRtYzVacm52UU9RV0EyT1FJSnZ4ck0xN0NXZU4tTTFfRE1qcXFPN2piWQ?oc=5"
     }
    ]
   },
@@ -1371,6 +1488,21 @@
     "NECTEC"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b91e16468749",
+   "url": "https://news.ycombinator.com/item?id=50301479",
+   "source": "Hacker News",
+   "published": "2026-10-30T09:17:43+00:00",
+   "title": "Ask HN: Are you tired too in this AI era?",
+   "text": "149 points, 142 comments on Hacker News (https://news.ycombinator.com/item?id=50301479)",
+   "title_th": "กระแสความเหนื่อยล้าของผู้คนในยุค AI",
+   "summary_th": "มีการตั้งกระทู้สนทนาเกี่ยวกับความรู้สึกเหนื่อยล้าของผู้คนในวงการเทคโนโลยีท่ามกลางการเปลี่ยนแปลงอย่างรวดเร็วของยุค AI",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
    "ai": true,
    "dedup": true
   },

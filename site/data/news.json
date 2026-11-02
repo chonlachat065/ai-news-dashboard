@@ -1,41 +1,48 @@
 {
- "updated_at": "2026-11-02T06:18:07+00:00",
+ "updated_at": "2026-11-02T18:29:19+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-02T06:18:07+00:00",
-  "headline": "ความก้าวหน้าของโมเดลขนาดเล็กที่มีประสิทธิภาพสูงและการปรับตัวด้านการลงทุนในอุตสาหกรรม AI",
+  "generated_at": "2026-11-02T18:29:19+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านความคุ้มค่าและการกำกับดูแล ในขณะที่การพัฒนาโมเดลและ Agentic AI ยังคงก้าวหน้าอย่างต่อเนื่อง",
   "points": [
    {
-    "text": "มีการพัฒนาโมเดลขนาดเล็กที่น่าสนใจ เช่น โมเดล 109M พารามิเตอร์ที่ประสิทธิภาพเหนือกว่าโมเดลใหญ่, โมเดล 4B สำหรับสร้างงาน 3D และโมเดลเฉพาะทางอย่าง CRAP สำหรับเขียนโค้ด Linux รวมถึงความสำเร็จของ Qwen3.8-27B ในการทดสอบเขียนโค้ด",
+    "text": "การพัฒนาโมเดล AI ยังคงคึกคักด้วยการเปิดตัวและอัปเดตใหม่ๆ เช่น Claude Mythos 5.5, การยืนยันสถานะ Open Source ของ Qwen, และการทดสอบเปรียบเทียบประสิทธิภาพระหว่างโมเดลต่างๆ เพื่อหาความคุ้มค่าด้านต้นทุน",
     "ids": [
-     "9bc22c02951c",
-     "8b8c79857faf",
-     "ab3d0dcb4d8a",
-     "21a340ff67ad"
-    ]
-   },
-   {
-    "text": "สถานการณ์การลงทุนใน AI มีความท้าทาย โดยบริษัทเทคโนโลยีขนาดใหญ่ยังคงระดมทุนเพื่อขยายโครงสร้างพื้นฐาน ในขณะที่ผู้ให้บริการคลาวด์ขนาดเล็กเริ่มประสบปัญหาการระดมทุน และนักเศรษฐศาสตร์ชี้ว่า AI ยังไม่สร้างผลตอบแทนทางการเงินที่ชัดเจนให้แก่บริษัทส่วนใหญ่",
-    "ids": [
-     "b094ae7dc8e1",
-     "4366ddea3a3e",
-     "b23877b88e69"
-    ]
-   },
-   {
-    "text": "ความเคลื่อนไหวของ Anthropic และ OpenAI ได้แก่ การเตรียมเปิดตัว Claude Mythos 5.5, การใช้ Claude ช่วยลดเวลาตรวจสอบเอกสารทางยาได้ 89%, การเปิดเผยต้นทุนการใช้งาน AI ภายในที่สูงมหาศาล และการที่ OpenAI พิจารณาปรับภาพลักษณ์ศูนย์ข้อมูลใหม่",
-    "ids": [
-     "d149cb6bf7d8",
-     "c242497ce887",
-     "a585d3962e68",
-     "0dbf0226aa90"
-    ]
-   },
-   {
-    "text": "การเลือกใช้โมเดล AI ในปัจจุบันเน้นความคุ้มค่าด้านต้นทุนและประสิทธิภาพ เช่น การเปรียบเทียบ GPT-6.1 Terra กับ Claude Opus 5.5 รวมถึงการปรับแต่งฮาร์ดแวร์ส่วนตัวเพื่อรันโมเดล AI",
-    "ids": [
+     "733cf565f7ff",
      "c49325a7a61e",
-     "1db6cd4a0750"
+     "d149cb6bf7d8"
+    ]
+   },
+   {
+    "text": "กระแสการใช้งาน AI Agent กำลังเปลี่ยนผ่านสู่ยุค Agentic Web โดยเน้นการวัดผลสำเร็จของงานจริงมากกว่าปริมาณ Token พร้อมความท้าทายในการจัดการคุณภาพข้อมูลเชิงลึก",
+    "ids": [
+     "1126d665d260",
+     "f054e35351ae",
+     "09bdd94f057e"
+    ]
+   },
+   {
+    "text": "บริษัทเทคโนโลยีและสตาร์ทอัพเผชิญแรงกดดันด้านต้นทุนและการระดมทุน โดยมีการจำกัดการใช้งาน Grok เนื่องจากค่าใช้จ่ายสูง และกลุ่มผู้ให้บริการคลาวด์ที่เน้นเช่าจีพียูเริ่มประสบปัญหาทางการเงิน",
+    "ids": [
+     "272a05aa5da7",
+     "4366ddea3a3e",
+     "b094ae7dc8e1"
+    ]
+   },
+   {
+    "text": "ประเด็นด้านกฎหมายและจริยธรรมยังคงเป็นเรื่องสำคัญ โดยมีการฟ้องร้องเบราว์เซอร์ Brave เรื่องการดึงข้อมูลฝึก AI รวมถึงความกังวลเรื่องผลตอบแทนทางการเงินจากการลงทุนใน AI ที่ยังไม่ชัดเจนในองค์กรส่วนใหญ่",
+    "ids": [
+     "dc6c7ef2ed74",
+     "b23877b88e69",
+     "bdc6c31ce1c9"
+    ]
+   },
+   {
+    "text": "ความร่วมมือระดับภาครัฐและอุตสาหกรรมขยายตัวอย่างต่อเนื่อง ทั้งการลงทุนมหาศาลของเกาหลีใต้, ความร่วมมือด้านรัฐบาลดิจิทัลระหว่างไทย-สหรัฐฯ และโครงการพัฒนาโครงสร้างพื้นฐานพลังงานสำหรับศูนย์ข้อมูลของ OpenAI",
+    "ids": [
+     "15bad593ab19",
+     "19244c7aa206",
+     "c97059e7e222"
     ]
    }
   ]
@@ -128,7 +135,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 6,
+   "count": 9,
    "error": null
   }
  ],
@@ -256,9 +263,360 @@
   "06d7b2dc98b6",
   "794f4ed76100",
   "4cc5d0d1ba66",
-  "3949ddd21c3a"
+  "3949ddd21c3a",
+  "b1d1b8b0266c",
+  "52e624ece4ea",
+  "61a9aa644453",
+  "7b1528becef1",
+  "5bbad0fbe174",
+  "0846045c755c",
+  "108888c9d859",
+  "8b3e9d8da77f",
+  "534a3cae7808",
+  "feacae6ffae7",
+  "f284a1cf3225",
+  "8f7e0709d34e"
  ],
  "items": [
+  {
+   "id": "b9c9e01fec97",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHl6bTlzTEs0Zkt0UkQ5NGhDUXozSEtSbHFhek0xRDlPZUZ5X2JwUmpMcDl2dk5BQVF3QVhOTDhTTTZaU0FRcGJOSWNja1VrOEFzdHZzb2c5WlFodU9sRHJhWmhudDlYRXM3YmkwcG5tbU16b3RVMW1IM1k5cko1dG9YTElTSUZ3MmEwX1lqb21VVXhXX3BOTXNpcEl2S2xvajY5REtQT3YtYnp3VDJuTTloTlg?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-02T18:03:06+00:00",
+   "title": "Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages",
+   "text": "",
+   "title_th": "Anthropic เตรียมรับมือผลกระทบจากการเลือกตั้งก่อนเข้าตลาดหุ้น",
+   "summary_th": "Anthropic กำลังเตรียมความพร้อมสำหรับผลกระทบทางการเมืองที่อาจเกิดขึ้นในช่วงก่อนการเสนอขายหุ้นต่อสาธารณะครั้งแรก (IPO) ท่ามกลางการถกเถียงเรื่อง AI ในระดับนโยบาย",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "dc6c7ef2ed74",
+   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+   "source": "The Verge AI",
+   "published": "2026-11-02T18:00:03+00:00",
+   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+   "text": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the companies that run New York Daily News, the […]",
+   "title_th": "The New York Times ฟ้องเบราว์เซอร์ Brave ฐานดึงข้อมูลฝึก AI และเลี่ยงเพย์วอลล์",
+   "summary_th": "สำนักข่าวชั้นนำรวมถึง The New York Times ยื่นฟ้องผู้พัฒนาเบราว์เซอร์ Brave โดยกล่าวหาว่ามีการดึงข้อมูลโดยไม่ได้รับอนุญาตเพื่อฝึก AI และเปิดช่องให้ผู้ใช้เข้าถึงเนื้อหาโดยเลี่ยงระบบจ่ายเงิน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "The New York Times",
+    "Brave"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1802721ebc5f",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+   "source": "Google AI Blog",
+   "published": "2026-11-02T17:45:00+00:00",
+   "title": "The latest AI news we announced in October 2026",
+   "text": "Animated carousel of images from AI posts in October",
+   "title_th": "สรุปข่าวสารด้าน AI ล่าสุดจาก Google ประจำเดือนตุลาคม 2026",
+   "summary_th": "Google รวบรวมอัปเดตและประกาศสำคัญด้าน AI ที่เกิดขึ้นตลอดเดือนตุลาคม 2026 ไว้ในที่เดียว",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1126d665d260",
+   "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+   "source": "MIT Technology Review",
+   "published": "2026-11-02T17:00:00+00:00",
+   "title": "Raising the quality of insights in agentic analytics",
+   "text": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
+   "title_th": "ยกระดับคุณภาพข้อมูลเชิงลึกใน Agentic Analytics",
+   "summary_th": "การใช้ Agentic AI ในการวิเคราะห์ข้อมูลองค์กรช่วยให้ทำงานอัตโนมัติได้มากขึ้น แต่ยังคงมีความท้าทายเรื่องคุณภาพของข้อมูลเชิงลึกที่ AI สร้างขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "733cf565f7ff",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-02T16:42:32+00:00",
+   "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+   "text": "There were some rumours the last few days that Qwen4 will be the last open-weight series of Qwen, and future ones would be API only. The following statement contradicts the rumours and clearly states the stance that Qwen is taking regarding their future releases. Qwen Head Liu Dayi Heng Clearly States : Future Qwen 4.0 and Qwen 5.0 Will Continue to Be Open Source! He believes that the value of AI should not belong only to a few people, but should become a foundational capability that users around the world can access, use, and create with, enabling more people to afford AI, utilize AI effectiv",
+   "title_th": "ยืนยัน Qwen จะยังคงเป็น Open Source ต่อไปในอนาคต",
+   "summary_th": "ผู้บริหารของ Qwen ออกมายืนยันว่าโมเดลรุ่นถัดไปอย่าง Qwen 4.0 และ 5.0 จะยังคงเป็น Open Source เพื่อให้ AI เป็นความสามารถพื้นฐานที่ทุกคนเข้าถึงได้",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Alibaba Cloud"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "133799eedc2b",
+   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-02T16:30:00+00:00",
+   "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+   "text": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+   "title_th": "42AI เปิดตัวพร้อมระดมทุน 62.5 ล้านดอลลาร์ กับโมเดลทำนายพฤติกรรมมนุษย์",
+   "summary_th": "สตาร์ทอัพ 42AI เปิดตัวอย่างเป็นทางการด้วยเงินทุนก้อนใหญ่ พร้อมนำเสนอโมเดลที่อ้างว่าสามารถทำนายพฤติกรรมมนุษย์ได้แม้ในสถานการณ์ใหม่",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "42AI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "272a05aa5da7",
+   "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-02T16:23:21+00:00",
+   "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+   "text": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+   "title_th": "Elon Musk จำกัดการใช้งาน Grok Bot เนื่องจากต้นทุนสูงเกินไป",
+   "summary_th": "Elon Musk ประกาศจำกัดการใช้งาน Grok Bot เนื่องจากมีอัตราการเติบโตของผู้ใช้ที่รวดเร็วมากจนส่งผลให้ต้นทุนการดำเนินงานสูงเกินระดับที่ยั่งยืน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "xAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "19244c7aa206",
+   "url": "https://openai.com/index/grid-protectors-program",
+   "source": "OpenAI",
+   "published": "2026-11-02T15:00:00+00:00",
+   "title": "Introducing the Grid Protectors Program",
+   "text": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+   "title_th": "OpenAI เปิดตัวโครงการ Grid Protectors",
+   "summary_th": "OpenAI ร่วมมือกับบริษัทสาธารณูปโภคเพื่อพัฒนาโครงการ Grid Protectors ช่วยให้ศูนย์ข้อมูลคอมพิวเตอร์ในอนาคตมีความเสถียรทางพลังงานและไม่กระทบต่อค่าไฟฟ้าของผู้บริโภค",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "31255b2b57a8",
+   "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-02T15:00:00+00:00",
+   "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+   "text": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+   "title_th": "Omen AI เข้าซื้อกิจการ Aquatic Labs ด้วยมูลค่า 16 ล้านดอลลาร์",
+   "summary_th": "Omen AI เข้าซื้อกิจการ Aquatic Labs เพื่อผสานเทคโนโลยีจัดการปัญหาการใช้น้ำในศูนย์ข้อมูลเข้าด้วยกัน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Omen AI",
+    "Aquatic Labs"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bdc6c31ce1c9",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kY3ZuMVhEWkxmOTdqa0NMeEFZZnNRRVQzWEtPOXhfbTBmNjNGNUNDY0IzMjI0NTJucFp0SlZSM0FVVmtiN2JhdUVVNnlLUDJoc1ZZdUxvTXNuQ21QZzRfQw?oc=5",
+   "source": "Thairath.co.th",
+   "published": "2026-11-02T14:19:55+00:00",
+   "title": "ภัยคุกคามจากปัญญาประดิษฐ์ที่อาจทำลายล้างมนุษย์?!",
+   "text": "",
+   "title_th": "ภัยคุกคามจากปัญญาประดิษฐ์ที่อาจทำลายล้างมนุษย์",
+   "summary_th": "บทความนำเสนอประเด็นความกังวลเกี่ยวกับความเสี่ยงและภัยคุกคามที่อาจเกิดขึ้นจากเทคโนโลยีปัญญาประดิษฐ์ต่อมนุษยชาติ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d2dd462bc21c",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMU9mUnA3eGNRaE42VV9SdE5yWFpwUVBWazdiNFV2QmpsWFY5V1hrdV9wMEJiUFIxamVLaXNLNmNTczRGRHZkMWlDT0JWUkhhZExkc25BeWhxNDN2TThXcUszN3dVcU5VS3NCbzUySmRva0NjRmFHVmNfTXhRTWlUYWswVzNzRjRjQ3JKbk9pX2tKM2d1cHlQUWRBSDZfblZSTkV5Z2VzRnJJVTNVem05VmUwTzE3OGE1dXVZN0JJMlQydHpHUS1tVVR3?oc=5",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-02T14:00:00+00:00",
+   "title": "Athenahealth launches tool to bring patient health records into Anthropic's Claude",
+   "text": "",
+   "title_th": "Athenahealth เปิดตัวเครื่องมือเชื่อมต่อข้อมูลสุขภาพผู้ป่วยเข้ากับ Claude",
+   "summary_th": "Athenahealth เปิดตัวฟีเจอร์ใหม่ที่ช่วยให้สามารถนำข้อมูลสุขภาพของผู้ป่วยเข้าสู่โมเดล Claude ของ Anthropic เพื่อการใช้งานที่สะดวกยิ่งขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Athenahealth",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1ab8989706ea",
+   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-02T13:57:53+00:00",
+   "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+   "text": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+   "title_th": "OpenAI รวมแท็บ Chat และ Work ใน ChatGPT เข้าด้วยกัน",
+   "summary_th": "OpenAI ประกาศรวมการใช้งาน ChatGPT และ Codex ให้ใช้โควตาเดียวกัน การเปลี่ยนแปลงนี้ช่วยให้ผู้ใช้งานจัดการทรัพยากรการประมวลผลได้สะดวกขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9bf9ff9ea7e5",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWVTdUODhsNll0alprazl3LWxreEwzN0VYSXpnMkdyNUxvVmlDZ1JtQkEyWmRjZWtpb25Nck5VQktpY21XRWo0c1pnVTNKTjZEcmc?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-11-02T13:36:03+00:00",
+   "title": "Iris Vale, ปัญญาประดิษฐ์ และ ระบบพลังงานทดแทน ตัวแทนการวิจัย AI",
+   "text": "",
+   "title_th": "Iris Vale: การวิจัย AI กับระบบพลังงานทดแทน",
+   "summary_th": "บทความนำเสนอการประยุกต์ใช้ปัญญาประดิษฐ์ในบริบทของระบบพลังงานทดแทนผ่านงานวิจัย Iris Vale ซึ่งสะท้อนถึงการนำ AI มาแก้ปัญหาด้านพลังงาน",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f054e35351ae",
+   "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+   "source": "MIT Technology Review",
+   "published": "2026-11-02T13:10:32+00:00",
+   "title": "Stop counting tokens, start counting what ships",
+   "text": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
+   "title_th": "เลิกนับ Token แล้วหันมาดูผลลัพธ์ที่ใช้งานได้จริงจาก AI Agent",
+   "summary_th": "การทำงานของ AI Agent ในปัจจุบันมีการวางแผนและทดสอบซ้ำหลายรอบ ทำให้ใช้ Token มากกว่าการแชทปกติหลายเท่า นักพัฒนาควรเปลี่ยนมุมมองจากการวัดปริมาณ Token มาเป็นการวัดความสำเร็จของงานที่ AI ทำได้จริง",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4895115da769",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-02T13:08:34+00:00",
+   "title": "Not another tok/s post: local quants vs Claude on 9 real bugs",
+   "text": "There's a lot of talk here about not chasing tok/s by lobotomizing the model, and most of what I post is still speed numbers. So this is the other half: what the models I run at home actually get done on my own work, with Claude models added as fixed reference points. Everything local runs on my own engine (capy-flash) on 2x RTX 5070 Ti 16 GB, Ryzen 9900X, 96 GB DDR5. No expert skipping for flash next. The tasks I took 9 real regressions from the private history of that engine (C++/CUDA). For each one I checked out the code right before the fix and wrote the bug report the way I'd file it to m",
+   "title_th": "เปรียบเทียบประสิทธิภาพโมเดล Local Quant กับ Claude ในงานเขียนโค้ดจริง",
+   "summary_th": "การทดสอบประสิทธิภาพโมเดลภาษาขนาดเล็กที่รันบนเครื่องส่วนตัวเทียบกับ Claude ในการแก้บั๊กซอฟต์แวร์จริง เพื่อให้เห็นว่าโมเดล Local สามารถทำงานที่ซับซ้อนได้ดีเพียงใดโดยไม่ต้องเน้นแค่ความเร็ว",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "81aaf4893d5a",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81T1duN2Z3bHR6OWZVdG1Eb3R5bE5zd2xCazlsaTkxZmg3bkpBbTI2bUJOLXZaVHBaWWF4Qndqb3Vra2FjY1R4REJrdHYyaFRuZTI5VXpCNGlnenRUQ0RFMmZqTEVfUQ?oc=5",
+   "source": "Noahpinion",
+   "published": "2026-11-02T11:03:51+00:00",
+   "title": "Anthropic’s moat is Claude",
+   "text": "",
+   "title_th": "วิเคราะห์ความได้เปรียบทางการแข่งขันของ Anthropic ผ่าน Claude",
+   "summary_th": "บทวิเคราะห์ถึงจุดแข็งของ Anthropic ที่มี Claude เป็นหัวใจสำคัญในการสร้างความได้เปรียบในตลาด AI ที่มีการแข่งขันสูง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "09bdd94f057e",
+   "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+   "source": "MIT Technology Review",
+   "published": "2026-11-02T09:35:19+00:00",
+   "title": "The agentic web is here",
+   "text": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
+   "title_th": "ยุคสมัยของ Agentic Web มาถึงแล้ว",
+   "summary_th": "บทความกล่าวถึงวิวัฒนาการของเว็บจากแนวคิด Semantic Web สู่ยุคที่ซอฟต์แวร์ Agent สามารถทำงานแทนมนุษย์ได้อย่างอิสระและชาญฉลาด",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ed4b58253682",
+   "url": "https://openai.com/index/lifeval",
+   "source": "OpenAI",
+   "published": "2026-11-02T09:00:00+00:00",
+   "title": "LifeVal",
+   "text": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+   "title_th": "OpenAI เปิดตัว LifeVal เกณฑ์วัดความสามารถ AI ในชีวิตประจำวัน",
+   "summary_th": "OpenAI แนะนำ LifeVal ซึ่งเป็น Benchmark ใหม่ที่ใช้วัดประสิทธิภาพของ AI ในการช่วยเหลือมนุษย์จัดการงานในชีวิตประจำวัน เช่น การเงินและเอกสารราชการ",
+   "category": "งานวิจัย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c97059e7e222",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MbnNTaUY3Y01rWHN2X3lJaENXSHRrdmJvdkZEOERjbHBkTFVGdk9aaVJwTjNCaTQ5TXZ0ZU91WWZ2Nm15OWRSblI3WHN0Sl9GSFVnWlFuejNwQQ?oc=5",
+   "source": "bangkokbiznews",
+   "published": "2026-11-02T07:44:00+00:00",
+   "title": "‘ไทย–สหรัฐ’ เดินหน้าความร่วมมือ AI ขั้นสูง ดีอี เสนอส่งผู้เชี่ยวชาญร่วมพัฒนารัฐบาลดิจิทัล",
+   "text": "",
+   "title_th": "ไทย-สหรัฐฯ จับมือร่วมพัฒนา AI ยกระดับรัฐบาลดิจิทัล",
+   "summary_th": "กระทรวงดิจิทัลฯ ของไทยหารือร่วมกับสหรัฐฯ เพื่อส่งผู้เชี่ยวชาญมาช่วยพัฒนาระบบรัฐบาลดิจิทัลโดยใช้เทคโนโลยี AI ขั้นสูง",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "15bad593ab19",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05amFDak4yZy13RVZOQjZ3cmdpMmdzN1E0ZTlWZGFidFY2bHMyM1FvZFFleE9wb2RRMVBHU3MydTZCZ0p4Q2FHaGZLczk1cEh4X014YVRn?oc=5",
+   "source": "LINE TODAY",
+   "published": "2026-11-02T07:23:16+00:00",
+   "title": "เกาหลีใต้ทุ่มงบ 820 ล้านล้านวอน เดิมพัน AI แห่งอนาคต | การเงินธนาคาร",
+   "text": "",
+   "title_th": "เกาหลีใต้เดิมพันอนาคตด้วยงบลงทุนมหาศาลในอุตสาหกรรม AI",
+   "summary_th": "เกาหลีใต้ประกาศแผนลงทุนครั้งใหญ่ในอุตสาหกรรม AI เพื่อสร้างความมั่นคงทางเศรษฐกิจและเทคโนโลยีในอนาคต",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "RYT9",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uVDFRSU5sX2o3ZTl4aUxackVNdktZYVJlY25VMkVVc241dkRDWWw1dDBlclhMb04yNTMyRUZoM3BVVFRsTDQwVzZn?oc=5"
+    },
+    {
+     "source": "The Bangkok Insight",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RTVp4U2pVY0hpN0NBU1RJaDRxUFpTOWY4bGJlNm93YlpaZzY0SDNZeHh6RkNFX2FJTEwxdDQ1UXVVR2tTMDNGRmJrdU1XNDAwcXJsaGc1WE1PekVXRDA2U19laTd2S1RsY1E?oc=5"
+    }
+   ],
+   "dedup": true
+  },
   {
    "id": "c49325a7a61e",
    "url": "https://www.blognone.com/node/152084",
@@ -327,6 +685,21 @@
     "Lambda"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b35afb50f76b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljjf2/do_we_really_need_all_these_speed_posts/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-02T00:52:40+00:00",
+   "title": "Do we really need all these \"speed\" posts?",
+   "text": "I appreciate the research and development that is going into these open source tools. However, there appears to be multiple posts on a daily basis about reaching 300 t/s, and then reading into it: Running on Q1_XXXS REAP quant Greedy decoding TAIL_SKIP (I only have 5GB RAM, but if the API ignores all experts that are not in RAM, then I can still say I generated something and call a speed record. YAY! Without any KLD benchmark data being presented, are these posts really of value to this community? What are your thoughts? submitted by /u/PathfinderTactician [link] [comments]",
+   "title_th": "ข้อถกเถียงเรื่องความคุ้มค่าของการโพสต์สถิติความเร็ว LLM",
+   "summary_th": "มีการตั้งคำถามในชุมชนนักพัฒนาถึงความสำคัญของการโพสต์สถิติความเร็วในการประมวลผล LLM ที่เน้นตัวเลขสูงๆ แต่ขาดการทดสอบคุณภาพผลลัพธ์ที่แท้จริง ซึ่งอาจทำให้เกิดความเข้าใจผิดในประสิทธิภาพของโมเดล",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -412,6 +785,21 @@
    "dedup": true
   },
   {
+   "id": "c99f5e759753",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-01T19:15:26+00:00",
+   "title": "llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU",
+   "text": "hardware: PortalPlayer PP5022, ARM7TDMI @ 80 MHz, 64 MB ram wrote a fun rockbox plugin that runs Karpathy's llama2.c TinyStories models on an ipod video 5.5G. since there's no FPU, I ported llama2.c's int8 runq.c to use only integer math. it uses lookup tables -> exp/softmax + an integer square root for RMSNorm the 15M model is 17 MB, so it loads directly off the hard drive into the music buffer. Unfortunately you can't listen to music while it works lol want to eventually run this on both cores, and set up a more ipod themed model that does local music recommendation submitted by /u/r0tlier0 ",
+   "title_th": "นักพัฒนาพอร์ต llama2.c ให้รันบน iPod รุ่นปี 2006 ได้สำเร็จ",
+   "summary_th": "นักพัฒนาสามารถรันโมเดลภาษาขนาดเล็กบนเครื่องเล่นเพลง iPod รุ่นเก่าได้โดยการปรับแต่งโค้ดให้ใช้เฉพาะการคำนวณเลขจำนวนเต็มแทนการใช้ FPU ซึ่งแสดงให้เห็นถึงความสามารถในการปรับแต่งโมเดลให้ทำงานบนฮาร์ดแวร์จำกัด",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "ab3d0dcb4d8a",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
    "source": "r/LocalLLaMA",
@@ -443,7 +831,13 @@
    ],
    "importance": 2,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "AL.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcU1OZkZuTjJLNkppaDFNWFB5Zm1lbWVvNEVKNURKOXZLRVNuTmVyTDAxVjhoTzljZlB4ajNaNjlYODZNT2dQNWVERElvVzdvbGhtWlU2UVNvb2JuLWdpZUp0c3R4RGpWMTNiN3pCdWZaeWNoTVVTbTgtaHlLRHowZ3R5WEJxTUp3bTZ1bEV5V0hoZkx3enFIZHNySTBFWl83SWUtUHRUMndnclB1YkhTZ1g1bDRGSEc5N2Fr0gHPAUFVX3lxTE9WSEM0aExZSGZnajhjTC0yN2FldXBVWF9XQUlVNzEtZXRWTHRrVDlQVTVQdkRwWTZ4RnJMa0hHRnlwUW1nWjE3dHZ5N3h2aXVISFUzOWlZc2ZCTUJ1czlTUlFqbGpsTGN1V0pqaDM0bXhQTU50QUFVdWxnVjJ2U3lfek4xQ3pSSUNQZnJlZkpTV05VUlh5Tmw2eHloVHRFaldLUmhLTzBWd0tVT1pXNnNPcWJsZV9rRlpobXF5ZUhibXN1RG9MZXNURFQzTUppTQ?oc=5"
+    }
+   ]
   },
   {
    "id": "a585d3962e68",
@@ -1092,6 +1486,14 @@
     {
      "source": "Engadget",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWdaMk1uTzMzRnFaWXdrRVVBTWZHNGp0WDAxR010U0pxM0owYjNzeWd2dHRlLWdEOWZRRjh6YWhkWEtpYjg5cWt6SXBqSGtrU0VhUi1uZzY2eXZqVkpmT04wZXhjWHRBS1NDZDJhbTBrVTJLREoyREhfZXIycjhyUVNmOURIMmMxaXhSSXIyOWlwR0ctOW5oRzZjZEdTV3J0UW9CTUlhdW5UUQ?oc=5"
+    },
+    {
+     "source": "Tom's Hardware",
+     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOQmtwU201Rm8zX2dFeGRGay0wY0F2UVZ2V0wydFFNVEU1Q1d1SzJlQmgwT0JhUnB3eHF2X3BmdGFQZ2dMajR4UHp1by1rUmlMZHBqd2Z1VkRwYlRhVmkxUG9GWE93X3JNd3dFbExob0VPcl9KN1czbFlJdXpqbTJxU1hCTTNSMWIxaEs4SHdoYVAwMlI2cEQ3dDlVVUF0bDdnV0RDOTBnQWpmUGJtSmZLOWQ5QUItTDhxWlN2ZEdhMTNuMGEwQ0gweDZvVWRLRWVZQ1BMeTNETzA2MTlwTnAxYXEyNTFFRFZUZTl1eDJMV0hCVExYRkFnazFKZjBybGRlQ2JWUG9BM2Y4U0MzOVF0NEJVRDV4RVNHNDBKczBRbk03di0zV0ppd1A2N3lCZ1k?oc=5"
+    },
+    {
+     "source": "Polygon.com",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDcjBYeFZaVjB4SkVaSTVFSE10X2k2bV9GREJYbU1wMFFOR3d2NU1qOUFGTmE2aVRYV1dNYzZUbWJBVUQ1RVJkUDQzd25Ic2pNQl9HcWhDTUI4X25vZ01ldVFuYzRmbkV5VXc?oc=5"
     }
    ]
   },
@@ -1575,6 +1977,10 @@
     {
      "source": "r/LocalLLaMA",
      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100/"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/"
     }
    ]
   },
@@ -1939,7 +2345,13 @@
    "companies": [],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
+    }
+   ]
   },
   {
    "id": "b4d5bdc88ba3",

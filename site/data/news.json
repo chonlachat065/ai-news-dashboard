@@ -1,47 +1,41 @@
 {
- "updated_at": "2026-11-01T20:33:55+00:00",
+ "updated_at": "2026-11-02T06:18:07+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-01T20:33:55+00:00",
-  "headline": "ความก้าวหน้าของ AI Agent และโมเดลขนาดเล็กกำลังเปลี่ยนโฉมการพัฒนาซอฟต์แวร์และประสิทธิภาพการประมวลผล",
+  "generated_at": "2026-11-02T06:18:07+00:00",
+  "headline": "ความก้าวหน้าของโมเดลขนาดเล็กที่มีประสิทธิภาพสูงและการปรับตัวด้านการลงทุนในอุตสาหกรรม AI",
   "points": [
    {
-    "text": "DeepSeek เปิดตัวเครื่องมือเขียนโค้ดอัตโนมัติและเผยแนวคิดระบบ Super-agent เพื่อเพิ่มความเป็นอิสระในการทำงาน ท้าชนกับ Claude Code ของ Anthropic",
-    "ids": [
-     "90ce8805a7b3",
-     "cc7ea1fd6bc3"
-    ]
-   },
-   {
-    "text": "งานวิจัยใหม่พบโมเดลขนาดจิ๋ว 109M พารามิเตอร์ที่มีประสิทธิภาพสูงกว่าโมเดลขนาดใหญ่ และโมเดล Qwen3.8-27B ทำคะแนนสูงสุดบน LiveCodeBench Hard",
+    "text": "มีการพัฒนาโมเดลขนาดเล็กที่น่าสนใจ เช่น โมเดล 109M พารามิเตอร์ที่ประสิทธิภาพเหนือกว่าโมเดลใหญ่, โมเดล 4B สำหรับสร้างงาน 3D และโมเดลเฉพาะทางอย่าง CRAP สำหรับเขียนโค้ด Linux รวมถึงความสำเร็จของ Qwen3.8-27B ในการทดสอบเขียนโค้ด",
     "ids": [
      "9bc22c02951c",
+     "8b8c79857faf",
+     "ab3d0dcb4d8a",
      "21a340ff67ad"
     ]
    },
    {
-    "text": "Anthropic เผชิญประเด็นเรื่องต้นทุนการใช้งาน AI ภายในที่สูงมหาศาล รวมถึงปัญหาการระงับบัญชีนักพัฒนาและการกำหนดแนวทางปฏิสัมพันธ์กับ Claude",
+    "text": "สถานการณ์การลงทุนใน AI มีความท้าทาย โดยบริษัทเทคโนโลยีขนาดใหญ่ยังคงระดมทุนเพื่อขยายโครงสร้างพื้นฐาน ในขณะที่ผู้ให้บริการคลาวด์ขนาดเล็กเริ่มประสบปัญหาการระดมทุน และนักเศรษฐศาสตร์ชี้ว่า AI ยังไม่สร้างผลตอบแทนทางการเงินที่ชัดเจนให้แก่บริษัทส่วนใหญ่",
     "ids": [
+     "b094ae7dc8e1",
+     "4366ddea3a3e",
+     "b23877b88e69"
+    ]
+   },
+   {
+    "text": "ความเคลื่อนไหวของ Anthropic และ OpenAI ได้แก่ การเตรียมเปิดตัว Claude Mythos 5.5, การใช้ Claude ช่วยลดเวลาตรวจสอบเอกสารทางยาได้ 89%, การเปิดเผยต้นทุนการใช้งาน AI ภายในที่สูงมหาศาล และการที่ OpenAI พิจารณาปรับภาพลักษณ์ศูนย์ข้อมูลใหม่",
+    "ids": [
+     "d149cb6bf7d8",
+     "c242497ce887",
      "a585d3962e68",
-     "70131f44683c",
-     "c9246c7365f1"
+     "0dbf0226aa90"
     ]
    },
    {
-    "text": "ชุมชนนักพัฒนา AI เผชิญความท้าทายด้านฮาร์ดแวร์ ทั้งปัญหาการระบายความร้อนเมื่อใช้ GPU หลายตัว การกักตุน GPU ของ NVIDIA และการปรับแต่งเครื่องส่วนตัวเพื่อรันโมเดล",
+    "text": "การเลือกใช้โมเดล AI ในปัจจุบันเน้นความคุ้มค่าด้านต้นทุนและประสิทธิภาพ เช่น การเปรียบเทียบ GPT-6.1 Terra กับ Claude Opus 5.5 รวมถึงการปรับแต่งฮาร์ดแวร์ส่วนตัวเพื่อรันโมเดล AI",
     "ids": [
-     "3b32d4a92897",
-     "1db6cd4a0750",
-     "92a3003b0ed6",
-     "cf0bcfa1c162"
-    ]
-   },
-   {
-    "text": "ประเด็นอื่นๆ ที่น่าสนใจ ได้แก่ ท่าทีของ Apple ที่เน้นประโยชน์จริงมากกว่ากระแส AI, คดีฟ้องร้องมลพิษจากศูนย์ข้อมูลของ xAI และการพัฒนาโมเดลเฉพาะทางอย่าง CRAP สำหรับเขียนโค้ด Linux",
-    "ids": [
-     "9f56e268b05e",
-     "e07dacdb45dc",
-     "ab3d0dcb4d8a"
+     "c49325a7a61e",
+     "1db6cd4a0750"
     ]
    }
   ]
@@ -134,7 +128,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 1,
+   "count": 6,
    "error": null
   }
  ],
@@ -254,9 +248,169 @@
   "5d61d6741b00",
   "d7e241d7cf24",
   "384c42503f75",
-  "866962551c72"
+  "866962551c72",
+  "9cf20b146edb",
+  "40bae784ea51",
+  "89307f734cfd",
+  "bb0036b97413",
+  "06d7b2dc98b6",
+  "794f4ed76100",
+  "4cc5d0d1ba66",
+  "3949ddd21c3a"
  ],
  "items": [
+  {
+   "id": "c49325a7a61e",
+   "url": "https://www.blognone.com/node/152084",
+   "source": "Blognone",
+   "published": "2026-11-02T04:18:28+00:00",
+   "title": "ผลทดสอบ GPT-6.1 Terra ทำงานเร็วกว่า ต้นทุนถูกกว่า Claude Opus 5.5 ได้จริง",
+   "text": "Body เว็บไซต์ The New Stack ทดสอบคำโม้ของ OpenAI ที่บอกว่าโมเดลใหม่ GPT-6.1 Terra ให้ประสิทธิภาพของคำตอบด้อยกว่าคู่แข่ง Claude Opus 5.5 เล็กน้อย (ต่างกัน 5%) แต่ประหยัดโทเคนกว่า 3 เท่า และค่าใช้งานถูกกว่า 1/4 เท่า (ราคารวมต่อการรันถูกว่า 1/9 เท่า) วิธีการทดสอบของ The New Stack มีทั้งหมด 3 ชุด ใช้การรันโมเดลแบบ max effort ทั้งหมด สร้างซอฟต์แวร์หน้าตาคล้ายๆ GitHub ขึ้นมา เป็นซอฟต์แวร์ที่พัฒนาไม่สำเร็จ แล้วให้โมเดลทั้งสองค่ายลองแก้ไขซอฟต์แวร์ตัวนี้ โดยให้ใช้งานผ่านเบราว์เซอร์แล้วดูภาพหน้าจอ สร้างคลิปวิดีโอการแบ่งเซลล์ 72 เฟ",
+   "title_th": "ผลทดสอบ GPT-6.1 Terra เทียบกับ Claude Opus 5.5 ในด้านประสิทธิภาพและต้นทุน",
+   "summary_th": "The New Stack ทดสอบเปรียบเทียบโมเดล GPT-6.1 Terra และ Claude Opus 5.5 พบว่าแม้ GPT-6.1 Terra จะมีประสิทธิภาพด้อยกว่าเล็กน้อย แต่มีความคุ้มค่าด้านต้นทุนและประหยัดโทเคนมากกว่าอย่างเห็นได้ชัด ข้อมูลนี้ช่วยให้ผู้ใช้งานตัดสินใจเลือกใช้โมเดลตามความเหมาะสมของงานและงบประมาณได้ดีขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c242497ce887",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNbnhoR3JwTHdGNnRUSE9VWnA5MF8tSUcwNDZsVkhMYkFhTDZ6UXRhVGd2X2RZT1luRTEtS1cybW55WGNYbUg0emRXU0J2eWpFaDl5aXlxOHl2Z2lBNE9vOGNwcS1QVXJad3JERXFzVFZQNE51MDZDS3NZVzZiMS03eHpWdE1qeWNVMUlSNTl2UXZpSWxQWmxJMmR2cXNFV2E3dTF4QjB2TWxtM0o5OUR5ZWdueTNzcFFRcTZHbEZQYnJzOTdjLVhaY0FmYk9ZLTRQb1pNVlMtV2ZFTU9CalVzZllpQ2F6TFVtQThVTDJiREpRWkhMbG5iQlpqQjBjaHRMaXlhTTExZ2VFQjB1dUJXLVZWWjc1NWE2SEVWRXc5enFaMVB6Z09yTTAzYmhKbW9jbVhaZTNiWXY?oc=5",
+   "source": "TechRadar",
+   "published": "2026-11-02T02:16:41+00:00",
+   "title": "Anthropic’s Claude slashes pharmaceutical document review times by 89%",
+   "text": "",
+   "title_th": "Claude ช่วยลดเวลาการตรวจสอบเอกสารทางเภสัชกรรมได้ถึง 89%",
+   "summary_th": "Anthropic รายงานว่าโมเดล Claude สามารถเพิ่มประสิทธิภาพในการตรวจสอบเอกสารสำคัญในอุตสาหกรรมยาได้อย่างมหาศาล ช่วยลดระยะเวลาการทำงานลงอย่างมาก",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b094ae7dc8e1",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0oxSDgyRXdaejZ1aE9GQkxqTDdkYzRhZjZheWpPREdmTjJ6bkw1NU0ycjd6ZTZLVEdRYldFMl9rZEk2VFJka3d5V2JMSWc1NFYyTkJxZ1VvUlgtNGZHc0VUbV9NMzg0cjJLWng5TXpuVWI4ZnJSamdSS2dDdkNkSVRQTVVldkdEcGJoTDFERlU0M3RNRTlJd1lseHI5ZWl1a0hpSHBWeDlOenRLc2FvMkpKY2k4d0IxaWZPLQ?oc=5",
+   "source": "internationalfinance.com",
+   "published": "2026-11-02T02:00:29+00:00",
+   "title": "แม้จะมีกระแสเงินสดที่แข็งแกร่ง แต่ Microsoft ก็ยังต้องระดมทุนจากตลาดพันธบัตรเพื่อสนับสนุนแผนงานด้าน AI ของตน",
+   "text": "",
+   "title_th": "Microsoft ระดมทุนผ่านตลาดพันธบัตรเพื่อสนับสนุนแผนงานด้าน AI",
+   "summary_th": "แม้จะมีกระแสเงินสดที่แข็งแกร่ง แต่ Microsoft ยังคงต้องหาแหล่งเงินทุนเพิ่มเติมจากตลาดพันธบัตร เพื่อนำมาใช้ขับเคลื่อนแผนการลงทุนในเทคโนโลยี AI ของบริษัท",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Microsoft"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4366ddea3a3e",
+   "url": "https://www.blognone.com/node/152083",
+   "source": "Blognone",
+   "published": "2026-11-02T01:56:20+00:00",
+   "title": "บริษัทจีพียูคลาวด์แนว Neocloud เริ่มประสบปัญหาระดมทุนสร้างศูนย์ข้อมูลยากขึ้น",
+   "text": "Body Wall Street Journal รายงานข่าวจากแวดวงการเงินว่า ผู้ให้บริการคลาวด์ยุคใหม่ที่เรียกรวมๆ ว่า neocloud (ซึ่งเริ่มมาจากธุรกิจให้เช่าจีพียู หลายรายเป็นบริษัทขุดเหมืองคริปโตมาก่อน เช่น CoreWeave ) เริ่มประสบปัญหาระดมทุนยากขึ้น ทั้งรูปแบบกู้เงิน (ผ่านการออกหุ้นกู้) และการขายหุ้น IPO เข้าตลาดหลักทรัพย์ ตัวอย่างบริษัทกลุ่ม neocloud ได้แก่ CoreWeave, IREN, Nscale, Nebius, Lambda ซึ่งมีโมเดลธุรกิจคล้ายๆ กันคือระดมทุนซื้อจีพียูจำนวนมากๆ แล้วนำมาปล่อยให้บริษัทเทคโนโลยีเช่าต่ออีกที ในช่วงก่อนหน้านี้ที่วงการ AI เริ่มบูม ส่งผลให",
+   "title_th": "บริษัทกลุ่ม Neocloud เริ่มเผชิญความยากลำบากในการระดมทุน",
+   "summary_th": "ผู้ให้บริการคลาวด์ที่เน้นเช่าจีพียูหรือกลุ่ม Neocloud เริ่มประสบปัญหาในการระดมทุนทั้งผ่านการออกหุ้นกู้และการทำ IPO เนื่องจากสภาวะตลาดที่เปลี่ยนแปลงไป ส่งผลกระทบต่อโมเดลธุรกิจที่ต้องใช้เงินลงทุนสูงในการซื้อจีพียู",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "CoreWeave",
+    "Nebius",
+    "Lambda"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8b8c79857faf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-01T22:56:19+00:00",
+   "title": "[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines",
+   "text": "Hey everyone! After sharing my previous 3D coding model, a lot of you asked about using it to generate assets for your games . That sounded like a fun direction to explore, so I started training a version focused on exactly that. The model writes Three.js scenes with GLB export , so you can take the generated assets into editors like Godot . The video shows some examples I've been testing, including assets imported into Godot. You don't need complicated prompts. Use the system prompt in the model card , then try a simple request like “Create a mana potion” or “Build a weathered frontier medic ",
+   "title_th": "เปิดตัว GLB-3D-Coder โมเดลขนาดเล็ก 4B สำหรับสร้างโมเดล 3D",
+   "summary_th": "โมเดลขนาดเล็กที่ถูกฝึกมาเพื่อเขียนโค้ดสร้างฉาก 3D และส่งออกเป็นไฟล์ GLB เพื่อนำไปใช้งานต่อในเอนจินเกมอย่าง Godot ได้โดยตรง ช่วยลดความซับซ้อนในการสร้างสินทรัพย์ดิจิทัล",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b23877b88e69",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "source": "Hacker News",
+   "published": "2026-11-01T22:10:45+00:00",
+   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+   "text": "213 points, 210 comments on Hacker News (https://news.ycombinator.com/item?id=50330456)",
+   "title_th": "นักเศรษฐศาสตร์จาก Apollo ชี้ AI ยังไม่สร้างผลตอบแทนทางการเงินให้บริษัทส่วนใหญ่",
+   "summary_th": "รายงานระบุว่าการนำ AI มาใช้ในองค์กรส่วนใหญ่ยังไม่สามารถสร้างผลตอบแทนทางการเงินที่ชัดเจนได้ในขณะนี้ ซึ่งสะท้อนถึงความท้าทายในการวัดความคุ้มค่าของการลงทุนด้าน AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Apollo"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0dbf0226aa90",
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-01T21:55:23+00:00",
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "text": "Data centers are deeply unpopular. But what if we called them something else?",
+   "title_th": "OpenAI อาจเปลี่ยนชื่อเรียกศูนย์ข้อมูลเป็น AI compute campuses",
+   "summary_th": "มีรายงานว่า OpenAI กำลังพิจารณาเปลี่ยนชื่อเรียกศูนย์ข้อมูลใหม่เพื่อปรับภาพลักษณ์ให้สอดคล้องกับบทบาทด้านการประมวลผล AI มากขึ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bb2642061f37",
+   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-01T20:57:58+00:00",
+   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+   "text": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+   "title_th": "มุมมองต่อบทบาทของ AI ในการทำงานของซีอีโอสายเทคโนโลยี",
+   "summary_th": "บทความวิเคราะห์ถึงผลกระทบของ AI ต่อการทำงานของซีอีโอและข้อสังเกตเกี่ยวกับท่าทีของผู้นำองค์กรต่อเทคโนโลยีนี้",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d149cb6bf7d8",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNczIyQkU5ZzFYU2RPU0dZODhTNzNFd3ZfNTV4eTlJYzR6akVTVmhUM21sbzFQQnNaOVZBd2RhUnlOZXA1UFJ0X0NUbnEwWnNjX3lzUFN5WDJueE44MkJodVZRRHlncHBrQ2E2cGl0bmQyMzhKRW1nb3lMaDRxUnNXYlA4LUw1RWlSbHNEZmxn?oc=5",
+   "source": "TestingCatalog AI News",
+   "published": "2026-11-01T20:49:32+00:00",
+   "title": "Anthropic prepares to release Claude Mythos 5.5 model",
+   "text": "",
+   "title_th": "Anthropic เตรียมปล่อยโมเดล Claude Mythos 5.5",
+   "summary_th": "มีรายงานว่า Anthropic กำลังเตรียมเปิดตัวโมเดลใหม่ในชื่อ Claude Mythos 5.5 เพื่อขยายขีดความสามารถของผลิตภัณฑ์ในกลุ่ม Claude",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "ab3d0dcb4d8a",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
@@ -613,10 +767,18 @@
    "title_th": "มัลแวร์ใช้ LLM จัดลำดับความสำคัญของเหยื่อเพื่อเรียกค่าไถ่",
    "summary_th": "พบการใช้ LLM ในมัลแวร์เพื่อวิเคราะห์และจัดลำดับเหยื่อตามมูลค่าความเสียหายที่อาจได้รับ ซึ่งแสดงถึงการนำ AI มาใช้ในทางที่ผิด",
    "category": "นโยบาย/กฎหมาย",
-   "companies": [],
+   "companies": [
+    "Claude"
+   ],
    "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Tom's Hardware",
+     "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQajlHZ0gxVlhoUUJEcWo0Ukh3aFNjYndRbDloS0liQlV2M3JPSVlrTnlqTG1VNkNPZW9MSUEwNUlONXdPWkFOdU56OVEyR0RsR2t0ZnJtWlRHZEhmSThlM09EdGd4Yi1QV2ROUHl4MVk0LTYzLVZqZTVFdVlub1ZnLUpxNXFTd3hHMXoxMVBJbjFlOHBxMjZJcG1zOUpfd2kzREZFNmJTenE4SmIwTkJKSVVaSGpvRnpGYmF1VVJ1dWxmZjlNWC14b1E2eUNyd2pOb1RKallwUm16ZmxzaGhKQ1A5eFlKTVRVVEtEckNDVlVXdGh2Y2xvSGNEX2tXaDg5OE5CeG44WTdoQ3FGZGd5UnFhZGZwZUNOamFOX0ZpYnd1Q0phVDJWdFpyN2ZpQVU0Vnk0SnY0RUZLV1VJeHRYVUQ4b0V5azV0YW9hNmhlQ1Uza2tkdDNtdFpHeG95clA2THRDcWFiYUlXWmw0WnJvaFRtdmRFSXJxNUgzZUdzcmxTLTg?oc=5"
+    }
+   ]
   },
   {
    "id": "66093f9c6102",
@@ -725,6 +887,21 @@
    "dedup": true
   },
   {
+   "id": "364799cf6f59",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xOTZ6ZWkzVjY3bElYY0FOV0lIMldxUlEzVkFIU2kyaUZ4clEtaElUQmhrNE1vYmxNYlI2ZjI2dGQ2Wm1aWklKWVE1RGQ5NnQ3N0hBN3JCRmlHY2xURTRnLU5tR3MyaWhBN1E?oc=5",
+   "source": "The Bangkok Insight",
+   "published": "2026-10-31T09:50:31+00:00",
+   "title": "จีนอ่วม! มูลค่าตลาดหุ้นวูบ 2.4 ล้านล้านดอลลาร์ กังวลฟองสบู่ AI-แข่งสหรัฐ",
+   "text": "",
+   "title_th": "ตลาดหุ้นจีนมูลค่าลดลงกว่า 2.4 ล้านล้านดอลลาร์ ท่ามกลางความกังวลเรื่องฟองสบู่ AI",
+   "summary_th": "มูลค่าตลาดหุ้นจีนปรับตัวลดลงอย่างรุนแรงจากความกังวลเรื่องภาวะฟองสบู่ในอุตสาหกรรม AI และการแข่งขันด้านเทคโนโลยีกับสหรัฐอเมริกา",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "d26d562373a8",
    "url": "https://www.blognone.com/node/152072",
    "source": "Blognone",
@@ -749,6 +926,36 @@
      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"
     }
    ],
+   "dedup": true
+  },
+  {
+   "id": "55b8c30b24fe",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TWndVMWg1TTgtamliaHh0bHdpdFM1UE56bnllT3lpRm5KbW9YcThwN1R1MDY3Q2gwQkVyeVhpSGFmRndnQnRhSndzZzZ3Q3J0MEx3bVVYVQ?oc=5",
+   "source": "Hfocus.org",
+   "published": "2026-10-31T09:01:36+00:00",
+   "title": "ประกาศผลการแข่งขัน DTAM Digital Hackathon 2026 ผสาน‘AI - ภูมิปัญญาไทย’",
+   "text": "",
+   "title_th": "ประกาศผลการแข่งขัน DTAM Digital Hackathon 2026 ผสาน AI กับภูมิปัญญาไทย",
+   "summary_th": "การแข่งขัน DTAM Digital Hackathon 2026 สิ้นสุดลงโดยเน้นการนำเทคโนโลยี AI มาประยุกต์ใช้ร่วมกับภูมิปัญญาไทยเพื่อสร้างนวัตกรรมใหม่",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "136660aa0edf",
+   "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxOUm83V3JvejF3X3otNkNDZnQwUWNVdFZtbXZ0bGtKVTMtOVYwM3RoWmRTQWk4eFFFd3dUbXRlMkVZX2lLZDZuSmdvTTBLdms5OVZhRHlNMWNSaEFuWXotYkY2ZEVjY1dJWjgybFQ5VjgtY3JLak5TYUNNazNhajQteW0tUDJaZUdjMVZjdXo0Q1BJbDJXNkg5THRUTm1TMW1EWUlvR2NmeHZHNUZCVzhOdXF4ZUFQelE5VmtiR0kwTlBHdXJpSlNOcEFuTjh5ekdOZi1FcEZsa1ZuRUpFVFVaZUc5Rm15OC1BckVoTXRJS1pldnlZMFlqTHVLUHNNbUlEb2tfaWgwQUFoR1JhN3ZVb3JuZGdGZ1VUWXlqY0FCelE1bnlzbHpiUjRBNW14M0pncjVKQ05rQzRSaV94aEtpUXlpM2t2MDdFczBpZkdEd1d2S3Jxa3VpNkZnZUVnTDAxa2I4Z2ZtZjBudEZvSjB5eHBVa1VTUVgyX3pJYTd2ZUVqbTZjWUQtXzJCeUxvTEt5c1FObTkwUF9wYXFyRjFYZVNYejNxOE41d2pFT3hvZklNd002cmhsN1lkRFIzYXduUFJ1WXRpVGRtemNvSXE2bkNjUEdZYkpoLTVZcFd0U3UxczRrOVh4NkVRWjV3cy1iMkE3ZXlZR24xeVdPOVhRYnZwOUEwbEYwM1ltRko3V3A4V1YxUDNvM25sWXZNR2tpdEttR2ppMmxRTlNjMTAwZEZuTEc4S1dUOUNweHBSQjR4a0lXS2NVZXIwZmxseGpjdkc3MGtYWl9FT2tFeGpnY1NTSjNSWGR5bVBvUW1xNDVTaGtkV05za056eXNWNEVrVkZuWVYyeGd1aXlGeDVGODhUTEN0VXhfZXdybTFDeVdjS043SHdMa3V6aUJkdXdmWmRDNl9QZFR4cFQ3RktlRktEZFcyTkZ1VS1oQWN5RW1QX3Z3dFBGc25KQVU0VHlZSXpWby1ucmxoR3o5ck03LUVMdlhDck5mcVk2VXc5TFNoVTlHUjI2WkJ5WldKSmM5M3dpVFFHM3NTV2l0LUFVc2x3SkFRU2ZDRnNrMFU3ejNrb1N0RHpWdFBuM0t6TWlma1B6c3hZdjQ5MFYyVGduUTZESUFmcGlwaHdVRHQ2WHRKUXRzb045X19CQkpMUWNGWk92UUNUeHJlTUFRTTFKa29CdUJpSnQ4emlSTFdDc1FzM1dFdnNKZUFiaVJrcTJtdGE0d3l4TWZObmxZZnZDS1RPOE44X3U0dERQbjBBaEx1MEpVY1VWTU9za3pGYzlvWjhpTHdfM25BalZHcU5SYjh0ekhsUFd6T25JS0pzc3Q5a09iRm5DM29n?oc=5",
+   "source": "Facebook",
+   "published": "2026-10-31T05:26:11+00:00",
+   "title": "ภูเก็ตจัดอบรมประยุกต์ใช้ AI เสริมทักษะดิจิทัล ยกระดับการทำงานเครือข่ายผู้บริหารงานช่างภาคใต้ วันที่ 31 ตุลาคม 2569 เวลา 09.30 น. ณ โรงแรม เดอะ พาโก้ ดีไซด์ ภูเก็ต นายพุทธา มากหลาย นายกสมาคมผู้บริหารงานช่างและพัฒนาฝีมือช่างภาคใต้ เป็นประธานในกิจกรรมสัมมนาและอบรมเชิง",
+   "text": "",
+   "title_th": "ภูเก็ตจัดอบรมการประยุกต์ใช้ AI เพื่อยกระดับทักษะดิจิทัลสำหรับผู้บริหารงานช่าง",
+   "summary_th": "สมาคมผู้บริหารงานช่างและพัฒนาฝีมือช่างภาคใต้จัดกิจกรรมสัมมนาและอบรมเชิงปฏิบัติการ เพื่อให้ความรู้ด้านการนำ AI มาใช้เพิ่มประสิทธิภาพในการทำงาน",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
    "dedup": true
   },
   {
@@ -881,6 +1088,10 @@
     {
      "source": "X",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlYmtMUVEwY1JRTzB5LXF1d1k5anJEWlpOR0djYVVJMDROeV9HRmRtYzVacm52UU9RV0EyT1FJSnZ4ck0xN0NXZU4tTTFfRE1qcXFPN2piWQ?oc=5"
+    },
+    {
+     "source": "Engadget",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWdaMk1uTzMzRnFaWXdrRVVBTWZHNGp0WDAxR010U0pxM0owYjNzeWd2dHRlLWdEOWZRRjh6YWhkWEtpYjg5cWt6SXBqSGtrU0VhUi1uZzY2eXZqVkpmT04wZXhjWHRBS1NDZDJhbTBrVTJLREoyREhfZXIycjhyUVNmOURIMmMxaXhSSXIyOWlwR0ctOW5oRzZjZEdTV3J0UW9CTUlhdW5UUQ?oc=5"
     }
    ]
   },
@@ -1355,7 +1566,17 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100/"
+    }
+   ]
   },
   {
    "id": "5cfbd02556ec",

@@ -1,47 +1,48 @@
 {
- "updated_at": "2026-11-03T11:59:36+00:00",
+ "updated_at": "2026-11-03T19:33:00+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-03T11:59:36+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านต้นทุนการประมวลผลที่พุ่งสูงขึ้น พร้อมการปรับตัวสู่โมเดลที่เน้นประสิทธิภาพและการใช้งานจริง",
+  "generated_at": "2026-11-03T19:33:00+00:00",
+  "headline": "ความก้าวหน้าของ AI ในการประยุกต์ใช้เชิงวิศวกรรมและงานวิจัยขยายตัวอย่างรวดเร็ว พร้อมการปรับตัวของบริษัทเทคโนโลยีรายใหญ่",
   "points": [
    {
-    "text": "บริษัท AI ชั้นนำอย่าง Anthropic, OpenAI และแพลตฟอร์มอย่าง Grok กำลังเผชิญกับแรงกดดันด้านต้นทุนการประมวลผลที่สูงลิ่ว จนต้องมีการจำกัดการใช้งานหรือหาแนวทางจัดการพลังงานและโครงสร้างพื้นฐานใหม่",
+    "text": "ความสามารถของ AI ในงานวิศวกรรมและวิทยาศาสตร์ก้าวหน้าขึ้นอย่างมาก ทั้งการออกแบบชิป การจำลองสถานการณ์จริง และการพัฒนายาใหม่",
     "ids": [
-     "62c83459ed05",
-     "272a05aa5da7",
-     "16194c055af9",
-     "19244c7aa206",
-     "7b9194a7007f"
+     "adafdd4764cb",
+     "469e1e1d98ee",
+     "3bafb7904533",
+     "26c6032e1d26",
+     "4d836f21a02f"
     ]
    },
    {
-    "text": "ความก้าวหน้าของโมเดล AI มุ่งเน้นไปที่ความสามารถในการพัฒนาตนเองและการจัดการน้ำหนักโมเดลโดยตรง รวมถึงการยืนยันแนวทาง Open Source ของ Qwen เพื่อการเข้าถึงที่กว้างขวาง",
+    "text": "การพัฒนาโมเดลภาษาขนาดใหญ่เน้นไปที่การขยายขีดความสามารถด้าน Context Window ความปลอดภัย และการตีความน้ำหนักโมเดล รวมถึงการเตรียมพร้อมสู่ยุค AI ที่พัฒนาตัวเองได้",
     "ids": [
+     "cf0fc65ba2f0",
      "855688c450b2",
-     "733cf565f7ff",
-     "49c5e82f092a",
-     "90c80c838160",
-     "d4486d6a6211"
+     "bedf47ae62a6",
+     "a19d731a67f8",
+     "a199fe9106db"
     ]
    },
    {
-    "text": "นักพัฒนาและองค์กรเริ่มปรับเปลี่ยนมุมมองจากการวัดปริมาณ Token มาเป็นการวัดผลลัพธ์ที่ใช้งานได้จริงจาก AI Agents พร้อมการลงทุนในเครื่องมือที่ช่วยให้การเทรนโมเดลเข้าถึงได้ง่ายขึ้น",
+    "text": "บริษัทเทคโนโลยีรายใหญ่ เช่น Apple, Google และ OpenAI ปรับกลยุทธ์การใช้งาน AI ในผลิตภัณฑ์ของตนอย่างเข้มข้น ทั้งการบังคับใช้ฟีเจอร์ AI และการหาโมเดลรายได้ใหม่",
     "ids": [
-     "f054e35351ae",
-     "793a736581dc",
-     "b2485c91dd17",
-     "1126d665d260"
+     "662bf89dbff2",
+     "ba273efe94ab",
+     "62af55115339",
+     "dde5f3bd6293",
+     "b20c657114df",
+     "968f14d53faf"
     ]
    },
    {
-    "text": "ประเด็นด้านความปลอดภัยและกฎหมายยังคงเป็นเรื่องสำคัญ ทั้งการฟ้องร้องเรื่องการดึงข้อมูลฝึก AI, การป้องกันการทำ Reverse Engineering และการยกระดับมาตรการรักษาความปลอดภัยของระบบ",
+    "text": "ประเด็นด้านธรรมาภิบาลและความปลอดภัยของ AI กลายเป็นเรื่องสำคัญ ทั้งการตรวจสอบการใช้งานในองค์กร การควบคุมความปลอดภัยของ Agent และการจัดการข้อมูลผู้ใช้",
     "ids": [
-     "dc6c7ef2ed74",
-     "07ad94749bf8",
-     "6fd6ad7938fa",
-     "262cfa35f430",
-     "b36f1f0713f6"
+     "631f7a4392b4",
+     "da9a5824109f",
+     "0e022216c2cb",
+     "20954e3ac0ff"
     ]
    }
   ]
@@ -287,9 +288,377 @@
   "3253f6cb0426",
   "1ad66cf690a9",
   "b9c9e01fec97",
-  "87908afc0bb1"
+  "87908afc0bb1",
+  "85827c831b0b",
+  "db1d0915e442",
+  "b5b460571a4b",
+  "994bc94aa467",
+  "aecb069b26a3",
+  "1c51e47ad850",
+  "da5544d85342",
+  "0947affcb4cc",
+  "36315b3cb5b6",
+  "0eaf3e3a7544",
+  "eadaa378c2b5",
+  "32791f69eb2c",
+  "2592912c26e9",
+  "80d7c1195eea",
+  "738b197f44cf"
  ],
  "items": [
+  {
+   "id": "62af55115339",
+   "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+   "source": "The Verge AI",
+   "published": "2026-11-03T18:52:30+00:00",
+   "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+   "text": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]",
+   "title_th": "Apple เปิดตัวฟีเจอร์ Audio Intelligence ใน watchOS beta",
+   "summary_th": "Apple เพิ่มฟีเจอร์ AI ใหม่ใน watchOS 27.3 ได้แก่ Siri Recap สำหรับสรุปบทสนทนา และ Live Rewind สำหรับถอดความเสียงย้อนหลัง ช่วยให้การใช้งาน Siri บน Apple Watch ฉลาดขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "662bf89dbff2",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+   "source": "The Verge AI",
+   "published": "2026-11-03T18:38:47+00:00",
+   "title": "OpenAI says ChatGPT is catching up to Google in search",
+   "text": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]",
+   "title_th": "OpenAI เผยปริมาณการค้นหาผ่าน ChatGPT คิดเป็น 20% ของ Google",
+   "summary_th": "OpenAI ประกาศว่าปริมาณการสืบค้นข้อมูลผ่าน ChatGPT เติบโตขึ้นจนมีสัดส่วนเทียบเท่ากับ 20 เปอร์เซ็นต์ของปริมาณการค้นหาบน Google สะท้อนถึงพฤติกรรมผู้ใช้ที่เปลี่ยนมาใช้ AI แทนการค้นหาแบบเดิม",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI",
+    "Google"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "631f7a4392b4",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMnpIVHMtWlhsVGNpRDQyRGZXYTFRZWJUSENxRklKcXR4SWdOLTBocmQteVdUQXN1RXBNcC00WDB3TFV3Sjdta1ZvV012amtMS3E4WWtoWU8tMnBQSWxiMFVEVS1Za21JYnBHVDhSb2lMTlh6ZjJkcTNucXdPZVkybHYtSGpUV3g2djNJaFh2ZDJ6UldIZHc?oc=5",
+   "source": "Futurism",
+   "published": "2026-11-03T18:03:00+00:00",
+   "title": "Anthropic Debuts Tool for Your Boss to Spy on Your Claude Chats",
+   "text": "",
+   "title_th": "Anthropic เปิดตัวเครื่องมือให้องค์กรตรวจสอบแชท Claude ของพนักงาน",
+   "summary_th": "Anthropic ออกฟีเจอร์ใหม่ที่ช่วยให้ผู้ดูแลระบบในองค์กรสามารถเข้าถึงและตรวจสอบประวัติการสนทนาของพนักงานที่ใช้งาน Claude ได้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bedf47ae62a6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-03T17:29:42+00:00",
+   "title": "Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights",
+   "text": "submitted by /u/tarruda [link] [comments]",
+   "title_th": "Qwen 3.8 27B สามารถตีความน้ำหนักโมเดลได้",
+   "summary_th": "มีการค้นพบว่าโมเดล Qwen 3.8 27B มีความสามารถในการตีความน้ำหนักของโมเดล (model weights) ได้คล้ายกับความสามารถของ GPT-6 Astra",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Alibaba"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c65f77dcf81d",
+   "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+   "source": "The Verge AI",
+   "published": "2026-11-03T17:28:14+00:00",
+   "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+   "text": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show […]",
+   "title_th": "Netflix เพิ่มแท็บ AI Discover แนะนำหนังตามธีม",
+   "summary_th": "Netflix ทดสอบฟีเจอร์ AI ใหม่ในแอปบนทีวี เพื่อแนะนำคอนเทนต์ตามธีมที่ผู้ใช้สนใจ เช่น หนังเบาสมองหรือหนังสำหรับครอบครัว",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Netflix"
+   ],
+   "importance": 2,
+   "ai": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "da9a5824109f",
+   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "source": "Hacker News",
+   "published": "2026-11-03T17:22:37+00:00",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "text": "530 points, 168 comments on Hacker News (https://news.ycombinator.com/item?id=50354960)",
+   "title_th": "Postman ถูกวิจารณ์เรื่องการติดตั้งปลั๊กอิน AI อัตโนมัติ",
+   "summary_th": "ผู้ใช้งานวิจารณ์ Postman กรณีมีการติดตั้งปลั๊กอิน AI โดยอัตโนมัติและพยายามเข้าถึงข้อมูล API ของผู้ใช้โดยไม่ได้รับความยินยอมที่ชัดเจน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Postman"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a55665cf4895",
+   "url": "https://huggingface.co/blog/allenai/statebench",
+   "source": "Hugging Face",
+   "published": "2026-11-03T17:15:21+00:00",
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "text": "",
+   "title_th": "เปิดตัว StateBench สำหรับทดสอบความเข้าใจเอกสารยาวของ LLM",
+   "summary_th": "StateBench เป็นเครื่องมือใหม่ที่ใช้ทดสอบความสามารถของโมเดลภาษาในการติดตามการเปลี่ยนแปลงของสถานะข้อมูลภายในเอกสารที่มีความยาว",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a4abd1e2a1c1",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-03T17:07:01+00:00",
+   "title": "Anthropic is still grappling with the economics of compute",
+   "text": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+   "title_th": "Anthropic เผชิญความท้าทายด้านต้นทุนการประมวลผล",
+   "summary_th": "รายงานระบุว่า Anthropic กำลังประสบปัญหาด้านเศรษฐศาสตร์ของการประมวลผล โดยต้นทุนการคำนวณไม่ได้ลดลงตามที่คาดการณ์ไว้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "adafdd4764cb",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "source": "Google DeepMind",
+   "published": "2026-11-03T17:01:49+00:00",
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "text": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+   "title_th": "Google DeepMind เปิดตัว Google Antigravity สำหรับงานวิจัยยา",
+   "summary_th": "Google DeepMind นำเสนอ Google Antigravity เครื่องมือ AI สำหรับงานเคมีสารสนเทศ เพื่อช่วยเร่งกระบวนการค้นคว้าและพัฒนายาใหม่",
+   "category": "งานวิจัย",
+   "companies": [
+    "Google",
+    "DeepMind"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bc4177032a04",
+   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "source": "Hugging Face",
+   "published": "2026-11-03T16:35:36+00:00",
+   "title": "Palette: teaching a small model to build decks in your design language",
+   "text": "",
+   "title_th": "Palette เครื่องมือ AI ช่วยสร้างสไลด์ตามดีไซน์เฉพาะตัว",
+   "summary_th": "Palette เป็นโมเดลขนาดเล็กที่ถูกฝึกมาเพื่อช่วยสร้างสไลด์นำเสนอโดยยึดตามรูปแบบดีไซน์และภาษาภาพเฉพาะตัวของผู้ใช้งาน",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ba273efe94ab",
+   "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-03T16:30:34+00:00",
+   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+   "text": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+   "title_th": "Google บังคับใช้ AI ใน Search หากโรงเรียนต้องการใช้งาน",
+   "summary_th": "Google ยืนยันว่าโรงเรียนที่ต้องการเข้าถึง Google Search จะต้องยอมรับการใช้งานฟีเจอร์ AI ที่ถูกรวมเข้าด้วยกัน หากปฏิเสธ AI จะไม่สามารถใช้งานระบบค้นหาได้",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Google"
+   ],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
+    },
+    {
+     "source": "Hacker News",
+     "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "3bafb7904533",
+   "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+   "source": "NVIDIA",
+   "published": "2026-11-03T16:00:45+00:00",
+   "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+   "text": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
+   "title_th": "NVIDIA เผย AI ช่วยเพิ่มประสิทธิภาพการผลิตชิปเซมิคอนดักเตอร์",
+   "summary_th": "วิศวกรใช้ AI เข้ามาช่วยจัดการความซับซ้อนในกระบวนการผลิตชิปที่เพิ่มมากขึ้น ช่วยให้วิเคราะห์ปัญหาและปรับปรุงขั้นตอนการผลิตได้รวดเร็วขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "dde5f3bd6293",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+   "source": "The Verge AI",
+   "published": "2026-11-03T15:52:53+00:00",
+   "title": "Apple is all in on AI — its own and everyone else’s",
+   "text": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a […]",
+   "title_th": "Apple เผยผลประกอบการแข็งแกร่งพร้อมกลยุทธ์ลงทุน AI แบบเน้นประสิทธิภาพ",
+   "summary_th": "Apple รายงานผลประกอบการไตรมาสล่าสุดที่เติบโตอย่างต่อเนื่อง โดยเน้นการใช้ประโยชน์จาก AI ทั้งของตนเองและผู้อื่นโดยไม่ทุ่มงบประมาณโครงสร้างพื้นฐานมากเกินไป",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b20c657114df",
+   "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-03T15:38:27+00:00",
+   "title": "Apple restricts dating apps and AI companions to users 18 and up",
+   "text": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+   "title_th": "Apple ออกกฎใหม่จำกัดอายุผู้ใช้แอปหาคู่และ AI เพื่อนคุย",
+   "summary_th": "Apple ปรับกฎ App Store ใหม่โดยกำหนดให้แอปหาคู่และ AI ที่มีเนื้อหาทางเพศหรือโรแมนติกต้องจำกัดอายุผู้ใช้งานที่ 18 ปีขึ้นไป",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "469e1e1d98ee",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnpwS0FzRk9KWUhPNC1rT3JnNWdLN1NhTWM0VU5zWHkyZEo5NVR1dXJhTWdVY2R0ZGEwcVhDTGZ3TkR5SGRIemoyenlCUU1TV2xMTzNBa0xtZDJSb1hGeUVqVlhBVmJNRVFkVS1qb21LdmtqOUxmWEtVOEgwd3JnRnNJMHJIQXdfYndBMUpjZWNPaGRwSW55ZWJsdEk?oc=5",
+   "source": "The Information",
+   "published": "2026-11-03T14:00:00+00:00",
+   "title": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors",
+   "text": "",
+   "title_th": "Anthropic นำเสนอความสามารถด้านการออกแบบชิปของ Claude แก่นักลงทุน",
+   "summary_th": "Anthropic ใช้ความสามารถของ Claude ในการออกแบบชิปเป็นจุดขายสำคัญในการดึงดูดนักลงทุนก่อนการทำ IPO",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGRldDd0Z05xZVFSNHMweWV3eXBubzRXRHB1dTNhSjVEUVJVS1UzQ1E1eklnZ1ZsY0poNlp1U291SmIyWGJHWjhqTzFkazd2cTJfeE1hYXRfLWlyYWZUNUE4V3gzMkszWHBab3Y1dUJPZ0x6NkE3YVBiRkNmN2twcE1NMDdsRGY1LXhxcHdTaWY5MGQ5U1FoZWtqYlZ0Smc?oc=5"
+    },
+    {
+     "source": "Breakingthenews.net",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmo4Snk1NnRwSjdlY1dDelk1aF9ibWprWXVVV3FiNTBCaUE1SG53dHNOREJKOGdyV0hRZndUV2xOMUk0VDNqdEp0VW5JUzZOUVN6WlFKcjdCSEF0NUtiSDVVdWRlUzlwVEhHSTZZTWdCbWZuUllPeElLS0E4M2hac3dadDBVYjdPOS1ITFFVLWxHZDktMEw4REYzNA?oc=5"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "8437d721a3cf",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00S0lXVE1UVDl2VnluQzE0Z1NVbDlBQmktT3NKRnVZaGFuSmlMdENzaUFKSGcwTjZQTGFNMjJlMmkyMExNQUp3OVdhbVJLR29jOE41Y3JzZlY0WWRpeG5oQzhOS0pWeXM?oc=5",
+   "source": "The New Stack",
+   "published": "2026-11-03T13:50:46+00:00",
+   "title": "Anthropic speeds up Claude Code with message threads. But your token bill stays the same.",
+   "text": "",
+   "title_th": "Anthropic อัปเดต Claude Code เพิ่มฟีเจอร์จัดการเธรดข้อความ",
+   "summary_th": "Anthropic เพิ่มความเร็วให้กับ Claude Code ผ่านการจัดการเธรดข้อความ โดยที่ค่าใช้จ่ายด้านโทเค็นยังคงเท่าเดิม",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "737f581b9d8a",
+   "url": "https://www.blognone.com/node/152090",
+   "source": "Blognone",
+   "published": "2026-11-03T12:02:05+00:00",
+   "title": "Palantir ไตรมาส 3/2026 รายได้จากภาคเอกชนสหรัฐสูงกว่าหน่วยงานรัฐเป็นครั้งแรก",
+   "text": "Body Palantir Technologies รายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้รวม 2.313 พันล้านดอลลาร์ เพิ่มขึ้น 96% หากเทียบกับปีก่อน และเพิ่มขึ้น 20% เมื่อเทียบกับไตรมาสก่อนหน้านี้ โดยแบ่งเป็นรายได้จากในสหรัฐอเมริกา 1.937 พันล้านดอลลาร์ เพิ่มขึ้น 119% เทียบกับปีก่อน ซึ่ง Palantir บอกว่าประเด็นน่าสนใจคือรายได้จากภาคเอกชนสหรัฐแซงรายได้จากหน่วยงานรัฐแล้ว โดยภาคเอกชนอยู่ที่ 984 ล้านดอลลาร์ และภาครัฐ 953 ล้านดอลลาร์ ส่วนกำไรสุทธิในไตรมาสอยู่ที่ 1.128 พันล้านดอลลาร์ ในไตรมาสที่ผ่านมา Palantir ปิดสัญญาโครงการระดับ 1 ล้านดอลลาร์",
+   "title_th": "Palantir รายงานรายได้ไตรมาส 3/2026 เติบโตสูง",
+   "summary_th": "Palantir รายงานผลประกอบการที่เติบโตอย่างมาก โดยรายได้จากภาคเอกชนในสหรัฐฯ แซงหน้ารายได้จากภาครัฐเป็นครั้งแรก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Palantir"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "26c6032e1d26",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "source": "OpenAI",
+   "published": "2026-11-03T12:00:00+00:00",
+   "title": "Accelerating engineering for the physical world",
+   "text": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+   "title_th": "OpenAI เผยการใช้ ChatGPT และ Codex เร่งงานวิศวกรรม",
+   "summary_th": "OpenAI แสดงให้เห็นว่า ChatGPT และ Codex ช่วยเพิ่มความเร็วในงานออกแบบ CAD, PCB และการจำลองสถานการณ์สำหรับงานวิศวกรรมในโลกจริงได้อย่างไร",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "81bd5929347d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-03T11:40:16+00:00",
+   "title": "RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech",
+   "text": "submitted by /u/MundanePercentage674 [link] [comments]",
+   "title_th": "ลือ RTX 5090 อาจมาพร้อม VRAM สูงสุด 96GB",
+   "summary_th": "มีข้อมูลจากช่างซ่อม GPU ระบุว่าการ์ดจอ RTX 5090 อาจมีรุ่นที่มาพร้อมหน่วยความจำ VRAM ขนาด 64GB และ 96GB",
+   "category": "อื่นๆ",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "0611338b13eb",
    "url": "https://www.blognone.com/node/152089",
@@ -297,26 +666,16 @@
    "published": "2026-11-03T11:24:35+00:00",
    "title": "Salesforce ซื้อกิจการ Cresta แพลตฟอร์ม Voice Agent สำหรับงานบริการลูกค้า",
    "text": "Body Salesforce ประกาศบรรลุข้อตกลงเพื่อซื้อกิจการ Cresta แพลตฟอร์มสำหรับงานให้บริการลูกค้าที่ทำงานด้วยเสียงเป็นหลัก (voice-first) มูลค่าดีลไม่มีการเปิดเผยอย่างเป็นทางการ แต่มีตัวเลขว่าอยู่ที่ราว 2.7 พันล้านดอลลาร์ Cresta เป็นผู้พัฒนาแพลตฟอร์มสำหรับงานบริการลูกค้า ด้วยจุดเด่นเรื่องความสามารถในการแก้ไขปัญหาให้ลูกค้าได้แบบจบที่ระดับ Agent แม้เป็นคำถามที่ซับซ้อน มีระบบทบทวนและถามกลับลูกค้าเพื่อให้วิเคราะห์สิ่งที่เกิดขึ้นได้แม่นยำขึ้น มีลูกค้ารายใหญ่เช่น Marriott, Comcast และ Alaska Airlines Salesforce มีแผนนำความสามารถของระบบ",
-   "title_th": "Salesforce ซื้อกิจการ Cresta แพลตฟอร์ม Voice Agent สำหรับงานบริการลูกค้า",
-   "summary_th": "Body Salesforce ประกาศบรรลุข้อตกลงเพื่อซื้อกิจการ Cresta แพลตฟอร์มสำหรับงานให้บริการลูกค้าที่ทำงานด้วยเสียงเป็นหลัก (voice-first) มูลค่าดีลไม่มีการเปิดเผยอย่างเป็นทางการ แต่มีตัวเลขว่าอยู่ที่ราว 2.7 พันล้านดอลลาร์ Cresta เป็นผู้พัฒนาแพลตฟอร",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "aecb069b26a3",
-   "url": "https://www.blognone.com/node/152088",
-   "source": "Blognone",
-   "published": "2026-11-03T11:21:40+00:00",
-   "title": "Apple รายงานผลประกอบการ รายได้โต 12% ยอมรับ iPhone Duo ผลิตไม่ทันความต้องการ และไม่รู้จะเป็นปกติเมื่อใด",
-   "text": "Body แอปเปิลรายงานผลประกอบการประจำไตรมาสเดือนกันยายน 2026 ซึ่งเป็นไตรมาสแรกภายใต้ ซีอีโอ John Ternus (รับตำแหน่ง 1 กันยายน) รายได้รวม 1.15 แสนล้านดอลลาร์ เพิ่มขึ้น 12% จากไตรมาสเดียวกันในปีก่อน ส่วนกำไรสุทธิอยู่ที่ 3.07 หมื่นล้านดอลลาร์ รายได้จาก iPhone เพิ่มขึ้น 17% เป็น 5.76 หมื่นล้านดอลลาร์, Mac เพิ่มขึ้น 24% เป็น 1.08 หมื่นล้านดอลลาร์, Services เพิ่มขึ้น 10% เป็น 3.16 หมื่นล้านดอลลาร์ ส่วน iPad และกลุ่ม Wearable รายได้ลดลง ซีอีโอ John Ternus ให้ข้อมูลเพิ่มเติมหลังแถลงผลประกอบการ มีประเด็",
-   "title_th": "Apple รายงานผลประกอบการ รายได้โต 12% ยอมรับ iPhone Duo ผลิตไม่ทันความต้องการ และไม่รู้จะเป็นปกติเมื่อใด",
-   "summary_th": "Body แอปเปิลรายงานผลประกอบการประจำไตรมาสเดือนกันยายน 2026 ซึ่งเป็นไตรมาสแรกภายใต้ ซีอีโอ John Ternus (รับตำแหน่ง 1 กันยายน) รายได้รวม 1.15 แสนล้านดอลลาร์ เพิ่มขึ้น 12% จากไตรมาสเดียวกันในปีก่อน ส่วนกำไรสุทธิอยู่ที่ 3.07 หมื่นล้านดอลลาร์ ราย",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Salesforce เข้าซื้อกิจการ Cresta แพลตฟอร์ม Voice Agent สำหรับงานบริการลูกค้า",
+   "summary_th": "Salesforce ประกาศเข้าซื้อกิจการ Cresta ซึ่งเป็นแพลตฟอร์มที่เน้นงานบริการลูกค้าด้วยเสียง เพื่อเสริมความสามารถในการแก้ไขปัญหาที่ซับซ้อนผ่านระบบ AI อัตโนมัติ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Salesforce",
+    "Cresta"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "0e022216c2cb",
@@ -325,26 +684,13 @@
    "published": "2026-11-03T10:43:41+00:00",
    "title": "How “reverse game theory” could keep AI agents in check",
    "text": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
-   "title_th": "How “reverse game theory” could keep AI agents in check",
-   "summary_th": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “a",
-   "category": "อื่นๆ",
+   "title_th": "แนวทาง Reverse Game Theory เพื่อควบคุมความปลอดภัยของ AI Agents",
+   "summary_th": "นักวิจัยนำเสนอแนวคิด Reverse Game Theory เพื่อสร้างแรงจูงใจให้โมเดล AI ปฏิบัติตามกฎเกณฑ์อย่างมีเหตุผล เพื่อป้องกันไม่ให้ AI Agents ทำงานนอกเหนือการควบคุมหรือผิดกฎหมาย",
+   "category": "งานวิจัย",
    "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "da5544d85342",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVUyb2p4WG15VmhsQmQ5NVM1S21wZWlHM185X2h3YnFHbEdWc05nbkZBQXdqbnBWY2hqYnVnTks2Z3lPd2lOa3F5aGdnZXhfVTlGLVJNS0xoeXE2YlBKRTZfTWNhSTdId0ZzWE5GejhYTzZWNTFSQkRMcmtFblJDeXh5N1dVM0l2R1NFcE01T0lUd0E5blgxdkNwMGxMamwxVmtXcXFqcWJUWnJXUWl3?oc=5",
-   "source": "The Decoder",
-   "published": "2026-11-03T09:52:08+00:00",
-   "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
-   "text": "",
-   "title_th": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "08b710f1e780",
@@ -353,26 +699,16 @@
    "published": "2026-11-03T08:00:00+00:00",
    "title": "Heimstaden is changing residential real estate management with AI",
    "text": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-   "title_th": "Heimstaden is changing residential real estate management with AI",
-   "summary_th": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "0947affcb4cc",
-   "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-03T07:20:00+00:00",
-   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-   "text": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-   "title_th": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-   "summary_th": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Heimstaden นำ ChatGPT Enterprise มาใช้บริหารจัดการอสังหาริมทรัพย์",
+   "summary_th": "Heimstaden บริษัทอสังหาริมทรัพย์ในยุโรปนำ ChatGPT Enterprise และ Codex มาใช้เพื่อเพิ่มประสิทธิภาพการทำงาน ลดต้นทุน และสนับสนุนการทำงานของพนักงาน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Heimstaden",
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "4d836f21a02f",
@@ -381,12 +717,15 @@
    "published": "2026-11-03T07:00:12+00:00",
    "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
    "text": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]",
-   "title_th": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-   "summary_th": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "NVIDIA ผลักดันการใช้ Physical และ Agentic AI เพื่อพัฒนาบริการในเมือง",
+   "summary_th": "NVIDIA นำเสนอการใช้ Physical และ Agentic AI เพื่อช่วยให้เมืองต่างๆ เปลี่ยนข้อมูลจากเซนเซอร์และกล้องให้เป็นข้อมูลเชิงลึกสำหรับการวางแผนโครงสร้างพื้นฐานและการบริการสาธารณะ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "a19d731a67f8",
@@ -395,12 +734,15 @@
    "published": "2026-11-03T04:43:45+00:00",
    "title": "Progress on provable inference for large language models",
    "text": "",
-   "title_th": "Progress on provable inference for large language models",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "ความคืบหน้าด้าน Provable Inference สำหรับโมเดลภาษาขนาดใหญ่",
+   "summary_th": "Anthropic เผยแพร่ความคืบหน้าเกี่ยวกับการพัฒนาวิธีการอนุมานที่สามารถพิสูจน์ได้ (provable inference) เพื่อเพิ่มความน่าเชื่อถือให้กับโมเดลภาษาขนาดใหญ่",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "a6e20d8d1eb1",
@@ -409,12 +751,13 @@
    "published": "2026-11-03T04:18:47+00:00",
    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
    "text": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
-   "title_th": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-   "summary_th": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ",
-   "category": "อื่นๆ",
+   "title_th": "คำสั่งพิเศษของ Trump ให้หน่วยงานรัฐเปลี่ยนชื่อเรียก AI เป็น Super Intelligence",
+   "summary_th": "ประธานาธิบดี Trump ลงนามคำสั่งพิเศษให้หน่วยงานรัฐบาลเปลี่ยนการเรียกชื่อเทคโนโลยี AI เป็น Super Intelligence แทน",
+   "category": "นโยบาย/กฎหมาย",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "a199fe9106db",
@@ -423,12 +766,15 @@
    "published": "2026-11-03T03:55:43+00:00",
    "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
    "text": "PRs: https://github.com/QwenLM/qwen-code/pull/15762: \"Measured on main at 79a9b753c60 , before this change: qwen4 , qwen4-max , qwen4-plus , qwen4.5-max , qwen4-coder-plus , qwen4-max-2026-10-01 , openai/qwen4-max and qwen4-omni-120b-think all resolved to 262,144. The last of those is already in use as the session model in the omni fixtures, so these ids are not hypothetical.\" https://github.com/QwenLM/qwen-code/pull/15987 Thank god, it looks like that we're getting successor of Q38FN! submitted by /u/feelspeaceman [link] [comments]",
-   "title_th": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
-   "summary_th": "PRs: https://github.com/QwenLM/qwen-code/pull/15762: \"Measured on main at 79a9b753c60 , before this change: qwen4 , qwen4-max , qwen4-plus , qwen4.5-max , qwen4-coder-plus , qwen4-max-2026-10-01 , openai/qwen4-max and qwen4-omni-120b-think ",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "พบข้อมูลหลุดโมเดลตระกูล Qwen4 จาก Alibaba ใน GitHub",
+   "summary_th": "มีการพบชื่อโมเดลใหม่ในตระกูล Qwen4 เช่น Qwen4-max และ Qwen4-omni-120b ปรากฏอยู่ในซอร์สโค้ดบน GitHub ของ Alibaba",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Alibaba"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "4ed35bdfdb65",
@@ -437,26 +783,15 @@
    "published": "2026-11-03T03:30:00+00:00",
    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
    "text": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-   "title_th": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-   "summary_th": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "1c51e47ad850",
-   "url": "https://www.blognone.com/node/152087",
-   "source": "Blognone",
-   "published": "2026-11-03T02:39:22+00:00",
-   "title": "Marvell ซื้อบริษัทผลิตชิปแสง Lumentum ในราคาสูงถึง 1.15 แสนล้านดอลลาร์",
-   "text": "Body Marvell Technology ประกาศซื้อกิจการ Lumentum ผู้ผลิตชิปสื่อสารด้วยแสง ในราคาสูงถึง 1.15 แสนล้านดอลลาร์ (3.9 ล้านล้านบาท) ถือเป็นดีลซื้อกิจการขนาดใหญ่อันดับต้นๆ ของวงการเทคโนโลยี เนื่องจากทั้งสองบริษัทอยู่ในตลาดหลักทรัพย์ทั้งคู่ Marvell จึงเลือกใช้วิธีจ่ายเงินด้วยการแลกหุ้นทั้งหมด ในอัตรา 1 หุ้น Lumentum ต่อ 4.5 หุ้น Marvell หรือตีเป็นมูลค่าหุ้น Lumentum ละ 1,132 ดอลลาร์ (แพงกว่าราคาตลาด 23.9%) โครงสร้างบริษัทใหม่หลังควบกิจการแล้ว จะเป็นผู้ถือหุ้น Marvell เดิม 67% และผู้ถือหุ้น Lumentum เดิม 33% Marvell อธิบายเหตุผลของก",
-   "title_th": "Marvell ซื้อบริษัทผลิตชิปแสง Lumentum ในราคาสูงถึง 1.15 แสนล้านดอลลาร์",
-   "summary_th": "Body Marvell Technology ประกาศซื้อกิจการ Lumentum ผู้ผลิตชิปสื่อสารด้วยแสง ในราคาสูงถึง 1.15 แสนล้านดอลลาร์ (3.9 ล้านล้านบาท) ถือเป็นดีลซื้อกิจการขนาดใหญ่อันดับต้นๆ ของวงการเทคโนโลยี เนื่องจากทั้งสองบริษัทอยู่ในตลาดหลักทรัพย์ทั้งคู่ Marvell",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Google ขยายการทดสอบ Dreambeans ในอินเดีย รองรับ 13 ภาษาท้องถิ่น",
+   "summary_th": "Google นำโปรเจกต์ทดลอง Dreambeans ซึ่งเป็น AI สร้างเรื่องราวส่วนบุคคลมาเปิดให้ใช้งานในอินเดีย โดยรองรับภาษาท้องถิ่นถึง 13 ภาษา",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "21494052cff5",
@@ -465,12 +800,21 @@
    "published": "2026-11-03T02:25:26+00:00",
    "title": "Anthropic ใส่มาตรการป้องกันการสั่ง Claude Code โคลนเกมของคนอื่น",
    "text": "Body ก่อนหน้านี้มีผู้ใช้ Claude บางรายค้นพบว่า Anthropic ฝังคำสั่งไว้ใน Claude เพื่อป้องกันไม่ให้โมเดลโคลนเกมของคนอื่น ดังที่เกิดปัญหาขึ้นกับวงการเกมในขณะนี้ สิ่งที่ค้นพบคือมีคอนฟิกชื่อ \"tengu_heron_brook\" แทรกเข้ามาในไบนารีของ Claude Code เขียนเข้ามาดังนี้ \"Do build original games, games in a genre, and games from the user's own designs and assets. Don't build a recreation of a specific existing game, even if it is renamed or called original.\" นอกจากนี้ เว็บไซต์ XDA ยังค้นพบคอนฟิกชื่อ original_games_guidance และ opus_5_5_prompt_b",
-   "title_th": "Anthropic ใส่มาตรการป้องกันการสั่ง Claude Code โคลนเกมของคนอื่น",
-   "summary_th": "Body ก่อนหน้านี้มีผู้ใช้ Claude บางรายค้นพบว่า Anthropic ฝังคำสั่งไว้ใน Claude เพื่อป้องกันไม่ให้โมเดลโคลนเกมของคนอื่น ดังที่เกิดปัญหาขึ้นกับวงการเกมในขณะนี้ สิ่งที่ค้นพบคือมีคอนฟิกชื่อ \"tengu_heron_brook\" แทรกเข้ามาในไบนารีของ Claude Code ",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Anthropic เพิ่มมาตรการป้องกัน Claude Code ไม่ให้โคลนเกมของผู้อื่น",
+   "summary_th": "มีการตรวจพบคำสั่งคอนฟิกใน Claude Code ที่ระบุให้โมเดลปฏิเสธการสร้างเกมเลียนแบบผลงานที่มีอยู่เดิม เพื่อป้องกันปัญหาการละเมิดลิขสิทธิ์",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "also": [
+    {
+     "source": "The Decoder",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVUyb2p4WG15VmhsQmQ5NVM1S21wZWlHM185X2h3YnFHbEdWc05nbkZBQXdqbnBWY2hqYnVnTks2Z3lPd2lOa3F5aGdnZXhfVTlGLVJNS0xoeXE2YlBKRTZfTWNhSTdId0ZzWE5GejhYTzZWNTFSQkRMcmtFblJDeXh5N1dVM0l2R1NFcE01T0lUd0E5blgxdkNwMGxMamwxVmtXcXFqcWJUWnJXUWl3?oc=5"
+    }
+   ],
+   "dedup": true
   },
   {
    "id": "968f14d53faf",
@@ -486,6 +830,23 @@
     "Apple"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c14c4794cc64",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-03T01:08:11+00:00",
+   "title": "I found another niche use case for local LLMs, but need some advice",
+   "text": "Kind of a random thing, but I've gotten to the age where I'm starting to care about what the city council is doing. So I downloaded all the available council meeting notes from the last 16 years and pointed Qwen 3.8 27B Q6 at them and started having it dig through notes. Namely I wanted to see who approved the purchase of Flock cameras for our town. Turns out the police chief got a $9,000 grant for them but i didn't find any mention of public comments about them in the minutes. The minutes are basically summaries, so they're not all encompassing, but they do live stream to YouTube all the meet",
+   "title_th": "การใช้ Local LLM วิเคราะห์บันทึกการประชุมสภาเมือง",
+   "summary_th": "ผู้ใช้รายหนึ่งนำโมเดล Qwen มาประมวลผลบันทึกการประชุมสภาเมืองย้อนหลัง 16 ปี เพื่อค้นหาข้อมูลการตัดสินใจของหน่วยงานรัฐในระดับท้องถิ่น",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Alibaba"
+   ],
+   "importance": 1,
    "ai": true,
    "dedup": true
   },
@@ -513,12 +874,32 @@
    "published": "2026-11-03T00:00:00+00:00",
    "title": "Transformers Model Integration Contracts",
    "text": "",
-   "title_th": "Transformers Model Integration Contracts",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Hugging Face เปิดตัวสัญญาการรวมโมเดลเข้ากับ Transformers",
+   "summary_th": "Hugging Face ประกาศแนวทางสัญญาสำหรับการรวมโมเดลเข้ากับไลบรารี Transformers เพื่อมาตรฐานการใช้งานที่ดียิ่งขึ้น",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Hugging Face"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "20954e3ac0ff",
+   "url": "https://huggingface.co/blog/cwe-bench",
+   "source": "Hugging Face",
+   "published": "2026-11-03T00:00:00+00:00",
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "text": "",
+   "title_th": "Hugging Face อัปเดต CWE-bench v2 เพิ่มความครอบคลุมและคุณภาพการทดสอบ",
+   "summary_th": "Hugging Face เปิดตัว CWE-bench v2 ซึ่งเป็นการปรับปรุงชุดทดสอบความปลอดภัยของซอฟต์แวร์ให้มีความครอบคลุมและโปร่งใสมากขึ้น ช่วยให้นักพัฒนาสามารถประเมินโมเดล AI ได้แม่นยำขึ้นในด้านความปลอดภัย",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Hugging Face"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "b2485c91dd17",
@@ -566,6 +947,21 @@
     "Alibaba"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cf0fc65ba2f0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbj0v/new_sparse_attention_method_for_ultralong_context/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-02T22:24:18+00:00",
+   "title": "New sparse attention method for ultra-long context",
+   "text": "I am on the team behind the attached open-source research on novel approaches to attention - specifically we show: • You can sparsify the attention of Qwen 3.8 27B without observed loss on accuracy • Extending context up to 10M tokens loses accuracy on some specific tasks - but most, like NIAH is still fine (interesting insights) • You can natively train sparse attention on next-token prediction loss alone and achieve the same validation loss as full attention - but faster Hope the community likes it - while we focus on H200/B300 GPUs and larger scale system - I wanted to share our research he",
+   "title_th": "นักวิจัยเผยวิธี Sparse Attention ใหม่ รองรับ Context ยาวถึง 10 ล้าน Token",
+   "summary_th": "ทีมวิจัยนำเสนอวิธีการทำ Sparse Attention แบบใหม่ที่ช่วยให้โมเดลอย่าง Qwen 27B รองรับบริบทได้ยาวขึ้นโดยไม่เสียความแม่นยำ วิธีนี้ช่วยให้การฝึกโมเดลเร็วขึ้นและมีประสิทธิภาพในการจัดการข้อมูลขนาดใหญ่",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -628,12 +1024,15 @@
    "published": "2026-11-02T19:27:37+00:00",
    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
    "text": "190 points, 168 comments on Hacker News (https://news.ycombinator.com/item?id=50342284)",
-   "title_th": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-   "summary_th": "190 points, 168 comments on Hacker News (https://news.ycombinator.com/item?id=50342284)",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Oracle เตรียมระดมทุน 2 หมื่นล้านดอลลาร์เพื่อขยายโครงสร้างพื้นฐาน AI",
+   "summary_th": "Oracle ยื่นเรื่องขายหุ้นและพันธบัตรใหม่เพื่อระดมทุนมูลค่ามหาศาลสำหรับการลงทุนในโครงสร้างพื้นฐานด้าน AI สะท้อนถึงความต้องการทรัพยากรประมวลผลที่เพิ่มสูงขึ้นอย่างต่อเนื่อง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Oracle"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "d4486d6a6211",
@@ -945,6 +1344,23 @@
    "dedup": true
   },
   {
+   "id": "09484dfee9e7",
+   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "source": "Hacker News",
+   "published": "2026-11-02T14:02:42+00:00",
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "text": "270 points, 110 comments on Hacker News (https://news.ycombinator.com/item?id=50336918)",
+   "title_th": "Fujifilm เร่งผลิตเทปแม่เหล็ก 5 เท่า รองรับความต้องการจัดเก็บข้อมูลจาก AI",
+   "summary_th": "Fujifilm ประกาศเพิ่มกำลังการผลิตเทปแม่เหล็กเพื่อรองรับความต้องการในการจัดเก็บข้อมูลระยะยาวที่พุ่งสูงขึ้นจากการใช้งาน AI ซึ่งเป็นโครงสร้างพื้นฐานสำคัญที่มักถูกมองข้าม",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Fujifilm"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "b36f1f0713f6",
    "url": "https://news.google.com/rss/articles/CBMi0gdBVV95cUxNVGp6aWxmSTVDMU5KdjQ5SVM0YmQxQlktMkE2NU01VllDbmMwMTZINUZ3M3NFRjluSXJQNkRWQmZOSWZNTkcyNDQyNUFnX3NBeTZHbWxxZ2ZiNnlKWFYyMTk1bktES2ZOSEFtOHl1QkM3NVNpMnJta0hHQTNXNVdNd255Vy1GRU41SFR6RlRkR0hMSFBnY0hNUkk3eHdhWG5kTk8yU2J2b25mM2stdjZsVWhabXR6cDMxTmRhMnliOHpJYjRBZ3RHM0JweTJ2SUZYZWNPQVFqcTBMMU5RMEdvQTdRd1FGV3MzcExadkk2by0yZzBPVnJpT1ZHanM3R0ZDeWRXR2hudzdITThSQUEtSVNldUhsNkNGY21mbGUtQllRN1ZsZTM1R3FWNi14Q0RNU0o1d3k4amJlcGpyQjZseUEtVFRtOWF1UnBVMGVsZEJwT242VFlEclZ1OE9sSjJNVVFqeHJRdlNsWW01eWstS3Y2dVRMOHJzcHRWcmY4Yl9hcDl3NDZ5M1FWQm9CeXJsbW1oMEZicUFSRlA1SVpSZEhYekVtZmxSTnFQX0RmRjBST2tldVpyZl96ZzFkbXdMY3l0VnZPLWVjN1hrbUNKbzdvX2hyei1feFFuWkctdlByTXc3MmkzRFVEMjJRWldxc0syX3VkeFhKUnpCR0FDeFNydEFhSldyRm5tWkZKZ2hJc2VLcDhKZlE1V2NGTTdlWXBuTFdrRm4wLXRFTmRjNXlKSEEySDZjMUxkR1cwczRJdGU4QWlNTzA2X2ZqamRZS01OZ1JSR1NQaVhJbk1yLXVJYjl6SEV5R2lQeldiZjZmZnN5eWNDYjZ0aEM3aUk1ZVFRakxxNjNlWW13anlfM182NHZmcW5MN0dwUTlmTVl2R1N3SlRCWmxMSWp0aXZCYTN1Z0RSMXlMaFBjOUxxOUI1UmtReG1rUWhtVDEyZV83d1p1Yy1NNml6amdxQm5VUUV0MEx6dUd1aUZ3aXJnTHFJYTJsZGhGYzMyc2prOG9DVTN0aGZTVHNvVVRSQ3ZFR1pCWVJ5NFJVUzEtWHpJMFdpX29pYW5fUTJQa2FDMW05NUpIcHBaMjBwR3pZdnU1REhmNnlYT045WmRoczdIQ1BoazNnaGc3R1FBQW5iU1EyQzludDFsZXVNN1YzQzlzcF9Qcm1DbldPbXd1S01lTEk5VU0ya2VGbEJEbFNJblJ5SE5UVnlvRm9tYl9LLXItNnRCUmpoYWZteU5aQWNKaF9KbG9vekdQclpYSDR6eDgzbVZnZmxNb01jaGtrdFVsZWc?oc=5",
    "source": "Facebook",
@@ -975,7 +1391,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Healthcare IT News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2E4a1FVbFVvRVV5V3hMbVNINGZHQkdqT1J0Slk1ZVZuU0NXYzdCS0lFZUszOHlSeGhHT1RwckVtdHFTWHNaSldUMjVuc3JfWXRlV3IwRUlxR05SYk5WUF9KUXZ6eVRwRl8yYUtCUGdhc0NkXzVRb3FoRTUxQzJRdFN2T21BV0lWX1NLRXM0cy1YNE14ZDJsYkhNZ0FxNDVCeGZWejRWbEJNMVZI?oc=5"
+    }
+   ]
   },
   {
    "id": "1ab8989706ea",
@@ -1332,7 +1754,13 @@
    ],
    "importance": 2,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses"
+    }
+   ]
   },
   {
    "id": "bb2642061f37",
@@ -1675,6 +2103,36 @@
    "category": "งานวิจัย",
    "companies": [],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a9e93a6c8692",
+   "url": "https://huggingface.co/papers/2611.02074",
+   "source": "HF Daily Papers",
+   "published": "2026-10-31T20:00:00+00:00",
+   "title": "SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training",
+   "text": "Coding agents solve repository issues through long sequences of exploration, editing, and validation. These trajectories are increasingly used as post-training data, so how they are collected shapes what the trained model learns. A common approach is to sample multiple trajectories independently for each issue and then select or curate them. However, as more trajectories are sampled independently, later trajectories become increasingly redundant, even though earlier trajectories could guide where subsequent collection effort should be spent. A natural way to use this history is to expose it to",
+   "title_th": "SWE-Trail นำเสนอแนวทางใหม่ในการเก็บข้อมูลเพื่อฝึก Coding Agent",
+   "summary_th": "งานวิจัยนำเสนอ SWE-Trail ซึ่งเป็นวิธีการเก็บข้อมูลการทำงานของ Coding Agent โดยใช้ประวัติการแก้ไขปัญหามาเป็นแนวทาง แทนการสุ่มเก็บข้อมูลแบบอิสระ เพื่อให้โมเดลเรียนรู้การแก้ปัญหาได้มีประสิทธิภาพยิ่งขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a3dce92c4693",
+   "url": "https://huggingface.co/papers/2611.02102",
+   "source": "HF Daily Papers",
+   "published": "2026-10-31T20:00:00+00:00",
+   "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
+   "text": "Scaling computer-use agents from individual actions to complex software work requires experience that connects decisions to complete outcomes. We present NorthCUA, an integrated system for turbocharging computer-use agents through experience at scale. Its Experience Flywheel supplies diverse executable tasks to the NorthCUA Harness, which sustains long interactions, records decisions, and checks task outcomes. The Flywheel uses these records to curate verified trajectories. For unsolved tasks, recursive self-improvement evolves reusable skills and preserves verified milestones so later attempt",
+   "title_th": "NorthCUA ระบบใหม่ช่วยเร่งประสิทธิภาพ Computer-Use Agents",
+   "summary_th": "NorthCUA เป็นระบบที่ออกแบบมาเพื่อเพิ่มขีดความสามารถของ Computer-Use Agents ผ่านการสร้างวงจรประสบการณ์ที่เชื่อมโยงการตัดสินใจเข้ากับผลลัพธ์ที่ชัดเจน ช่วยให้เอเจนต์สามารถทำงานซอฟต์แวร์ที่ซับซ้อนได้ดีขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },

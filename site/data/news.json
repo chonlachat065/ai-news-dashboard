@@ -1,48 +1,53 @@
 {
- "updated_at": "2026-11-02T18:29:19+00:00",
+ "updated_at": "2026-11-03T02:24:23+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-02T18:29:19+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านความคุ้มค่าและการกำกับดูแล ในขณะที่การพัฒนาโมเดลและ Agentic AI ยังคงก้าวหน้าอย่างต่อเนื่อง",
+  "generated_at": "2026-11-03T02:24:23+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านต้นทุนการประมวลผลมหาศาลและการปรับตัวสู่การใช้งานจริงที่เน้นผลลัพธ์มากกว่าปริมาณ",
   "points": [
    {
-    "text": "การพัฒนาโมเดล AI ยังคงคึกคักด้วยการเปิดตัวและอัปเดตใหม่ๆ เช่น Claude Mythos 5.5, การยืนยันสถานะ Open Source ของ Qwen, และการทดสอบเปรียบเทียบประสิทธิภาพระหว่างโมเดลต่างๆ เพื่อหาความคุ้มค่าด้านต้นทุน",
+    "text": "บริษัท AI ชั้นนำอย่าง Anthropic, OpenAI และแพลตฟอร์มอย่าง Grok กำลังเผชิญกับแรงกดดันด้านต้นทุนการดำเนินงานและค่าใช้จ่ายด้านคอมพิวเตอร์ที่พุ่งสูงขึ้น จนต้องมีการจำกัดการใช้งานหรือวางแผนรับมือความยั่งยืนทางการเงินก่อนเข้าสู่ตลาดหุ้น",
     "ids": [
-     "733cf565f7ff",
-     "c49325a7a61e",
-     "d149cb6bf7d8"
+     "62c83459ed05",
+     "b9c9e01fec97",
+     "07ad94749bf8",
+     "272a05aa5da7"
     ]
    },
    {
-    "text": "กระแสการใช้งาน AI Agent กำลังเปลี่ยนผ่านสู่ยุค Agentic Web โดยเน้นการวัดผลสำเร็จของงานจริงมากกว่าปริมาณ Token พร้อมความท้าทายในการจัดการคุณภาพข้อมูลเชิงลึก",
+    "text": "นักพัฒนาและองค์กรเริ่มเปลี่ยนโฟกัสจากการวัดปริมาณ Token ไปสู่การวัดความสำเร็จของงานจริงผ่าน AI Agents และการใช้โมเดลขนาดเล็ก (Local Models) ที่สามารถทำงานซับซ้อนได้โดยไม่ต้องพึ่งพาคลาวด์เพียงอย่างเดียว",
     "ids": [
-     "1126d665d260",
      "f054e35351ae",
-     "09bdd94f057e"
+     "4895115da769",
+     "49c5e82f092a",
+     "1126d665d260"
     ]
    },
    {
-    "text": "บริษัทเทคโนโลยีและสตาร์ทอัพเผชิญแรงกดดันด้านต้นทุนและการระดมทุน โดยมีการจำกัดการใช้งาน Grok เนื่องจากค่าใช้จ่ายสูง และกลุ่มผู้ให้บริการคลาวด์ที่เน้นเช่าจีพียูเริ่มประสบปัญหาทางการเงิน",
+    "text": "ความก้าวหน้าทางเทคนิคที่สำคัญ ได้แก่ การที่ LLM สามารถอ่านและเขียนน้ำหนักโครงข่ายประสาทได้โดยตรง รวมถึงการพัฒนาเกณฑ์วัดความสามารถ AI ใหม่ๆ เช่น LifeVal และการใช้เครื่องมืออัตโนมัติเพื่อเพิ่มประสิทธิภาพโมเดล",
     "ids": [
-     "272a05aa5da7",
-     "4366ddea3a3e",
-     "b094ae7dc8e1"
+     "d4486d6a6211",
+     "ed4b58253682",
+     "90c80c838160",
+     "de4cf53f9db9"
     ]
    },
    {
-    "text": "ประเด็นด้านกฎหมายและจริยธรรมยังคงเป็นเรื่องสำคัญ โดยมีการฟ้องร้องเบราว์เซอร์ Brave เรื่องการดึงข้อมูลฝึก AI รวมถึงความกังวลเรื่องผลตอบแทนทางการเงินจากการลงทุนใน AI ที่ยังไม่ชัดเจนในองค์กรส่วนใหญ่",
+    "text": "ประเด็นด้านกฎหมายและจริยธรรมยังคงเข้มข้น ทั้งการฟ้องร้องเรื่องการดึงข้อมูลฝึก AI โดยไม่ได้รับอนุญาต การใช้ AI ในทางที่ผิดโดยกลุ่มแฮกเกอร์ และความพยายามของ OpenAI ในการสร้างความร่วมมือด้านพลังงานกับชุมชน",
     "ids": [
      "dc6c7ef2ed74",
-     "b23877b88e69",
-     "bdc6c31ce1c9"
+     "b36f1f0713f6",
+     "16194c055af9",
+     "19244c7aa206"
     ]
    },
    {
-    "text": "ความร่วมมือระดับภาครัฐและอุตสาหกรรมขยายตัวอย่างต่อเนื่อง ทั้งการลงทุนมหาศาลของเกาหลีใต้, ความร่วมมือด้านรัฐบาลดิจิทัลระหว่างไทย-สหรัฐฯ และโครงการพัฒนาโครงสร้างพื้นฐานพลังงานสำหรับศูนย์ข้อมูลของ OpenAI",
+    "text": "การลงทุนในอุตสาหกรรม AI ยังคงคึกคักด้วยแผนสนับสนุนจากภาครัฐอย่างเกาหลีใต้ และการระดมทุนของสตาร์ทอัพที่มุ่งเน้นการทำให้ AI เข้าถึงง่ายขึ้น รวมถึงการขยายโอกาสทางธุรกิจของ Apple ผ่านแอปพลิเคชันบุคคลที่สาม",
     "ids": [
      "15bad593ab19",
-     "19244c7aa206",
-     "c97059e7e222"
+     "b2485c91dd17",
+     "133799eedc2b",
+     "968f14d53faf"
     ]
    }
   ]
@@ -135,7 +140,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": null
   }
  ],
@@ -275,9 +280,169 @@
   "534a3cae7808",
   "feacae6ffae7",
   "f284a1cf3225",
-  "8f7e0709d34e"
+  "8f7e0709d34e",
+  "045e76d52b28",
+  "60a2f0712c33",
+  "a31b3b7224a8",
+  "9c20c5e2542d",
+  "a437782712b7",
+  "31c85384866c",
+  "b997047b8551",
+  "dc1f1c183aac",
+  "e3f3f6c0c50f",
+  "3253f6cb0426"
  ],
  "items": [
+  {
+   "id": "968f14d53faf",
+   "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-03T01:49:52+00:00",
+   "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+   "text": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+   "title_th": "Apple เล็งสร้างรายได้เพิ่มจากแอป AI ของบุคคลที่สาม",
+   "summary_th": "Apple ส่งสัญญาณในการประชุมผลประกอบการว่าบริษัทอาจหาโอกาสสร้างรายได้ใหม่ๆ ผ่านแอปพลิเคชัน AI จากนักพัฒนาภายนอก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "793a736581dc",
+   "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-03T00:35:52+00:00",
+   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "text": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+   "title_th": "Garry Tan จาก Y Combinator ทุ่มงบกว่า 2 แสนดอลลาร์ต่อปีให้ AI Agents",
+   "summary_th": "Garry Tan เปิดเผยว่าเขาใช้งาน AI Agents อย่างหนักจนต้องจ่ายค่า Token สูงถึง 2 แสนดอลลาร์ต่อปี สะท้อนถึงการใช้งาน AI ในระดับเข้มข้นของผู้บริหารระดับสูง",
+   "category": "อื่นๆ",
+   "companies": [
+    "Y Combinator"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b2485c91dd17",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-02T23:13:53+00:00",
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "text": "The one-year-old startup is now valued at $300 million.",
+   "title_th": "Trajectory ระดมทุน 45 ล้านดอลลาร์ มุ่งทำให้การเทรน AI เข้าถึงง่ายขึ้น",
+   "summary_th": "สตาร์ทอัพ Trajectory ระดมทุนได้ 45 ล้านดอลลาร์ โดยมีมูลค่าบริษัทอยู่ที่ 300 ล้านดอลลาร์ เพื่อพัฒนาเครื่องมือช่วยให้ผู้ที่ไม่ใช่ผู้เชี่ยวชาญเทคนิคสามารถเทรนโมเดล AI ได้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Trajectory"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "862f6d9a38c7",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBld1BXY01vM3BVQzBCYlNRcG8xUF9OVnJoUkRsZm5FeXhiZjlaNG84dHNBbXl3bGdRTTJnUlNzdGtPQkZ0Ym5udm5XVzRaNUR1a0QwZlNERTk3RnJIY2wyZw?oc=5",
+   "source": "bangkokbiznews",
+   "published": "2026-11-02T22:51:00+00:00",
+   "title": "NASDAQ 100 ร่วงเข้าสู่ภาวะปรับฐาน ผลประกอบการ ปัญญาประดิษฐ์ AI ฉุด",
+   "text": "",
+   "title_th": "ดัชนี NASDAQ 100 ปรับฐาน ผลประกอบการบริษัท AI กดดันตลาด",
+   "summary_th": "ดัชนี NASDAQ 100 เข้าสู่ภาวะปรับฐาน โดยมีปัจจัยกดดันจากผลประกอบการของบริษัทในกลุ่มปัญญาประดิษฐ์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "49c5e82f092a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-02T22:42:11+00:00",
+   "title": "Qwen 3.8 27b is sometimes so smart it scares me...",
+   "text": "For fun, I gave Qwen 3.8 27b a physics problem involving some heavy math. A little bit into its reasoning, Qwen took a look at its tools, found that it had access to Blender via blender mcp - and that it could write and execute arbitrary python code through that. So it engaged Blender's python support to write itself bits of python code to do its math faster. You really have to tell this model what NOT to do sometimes... I've never seen anything like this from a local model before. submitted by /u/Balloon_Fan [link] [comments]",
+   "title_th": "Qwen 3.8 27b โชว์ความสามารถในการเขียนโค้ดและใช้เครื่องมือเอง",
+   "summary_th": "ผู้ใช้งานพบว่าโมเดล Qwen 3.8 27b สามารถตัดสินใจใช้เครื่องมือภายนอกอย่าง Blender และเขียนโค้ด Python เพื่อแก้โจทย์คณิตศาสตร์ที่ซับซ้อนได้เอง",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Alibaba"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "855688c450b2",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-02T22:14:50+00:00",
+   "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+   "text": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+   "title_th": "Anthropic เตือนใกล้ถึงจุด RSI หรือ AI ที่สร้างตัวเองได้",
+   "summary_th": "Anthropic ระบุว่าเทคโนโลยีเข้าใกล้จุด RSI ซึ่งเป็นสภาวะที่ AI สามารถพัฒนาและเทรนตัวเองได้จนนำไปสู่การเร่งตัวของขีดความสามารถอย่างก้าวกระโดด",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "90c80c838160",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-02T21:25:39+00:00",
+   "title": "GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1%",
+   "text": "submitted by /u/1-800-methdyke [link] [comments]",
+   "title_th": "การทดลองใช้ GPT-6 Astra ปรับแต่งน้ำหนักโมเดล Qwen",
+   "summary_th": "มีการรายงานผลการทดลองใช้ GPT-6 Astra ในการปรับแต่งน้ำหนัก (Weights) ของโมเดล Qwen ซึ่งช่วยเพิ่มคะแนนทดสอบ MATH-500 ได้อย่างมีนัยสำคัญ",
+   "category": "งานวิจัย",
+   "companies": [
+    "OpenAI",
+    "Alibaba"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7b9194a7007f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-02T20:33:48+00:00",
+   "title": "Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sweeney Also A Victim Of This Practice",
+   "text": "submitted by /u/chemist_slime [link] [comments]",
+   "title_th": "Amazon ถูกกล่าวหาว่ายกเลิกคำสั่งซื้อ GPU และปิดบัญชีผู้ซื้อฮาร์ดแวร์",
+   "summary_th": "มีรายงานว่า Amazon มีการยกเลิกคำสั่งซื้อ GPU และปิดบัญชีผู้ใช้งานบางรายที่ซื้อฮาร์ดแวร์ประมวลผล ซึ่งรวมถึงบุคคลที่มีชื่อเสียงในวงการ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Amazon"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d4486d6a6211",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-02T19:15:33+00:00",
+   "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+   "text": "submitted by /u/teakhop [link] [comments]",
+   "title_th": "งานวิจัยชี้ LLM สามารถอ่านและเขียนน้ำหนักโครงข่ายประสาทได้โดยตรง",
+   "summary_th": "มีการค้นพบความสามารถใหม่ของ LLM ที่สามารถอ่านและเขียนน้ำหนัก (Weights) ของโครงข่ายประสาทเทียมได้โดยตรง ซึ่งอาจนำไปสู่การเขียนโปรแกรมในระดับน้ำหนักโมเดล",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "b9c9e01fec97",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHl6bTlzTEs0Zkt0UkQ5NGhDUXozSEtSbHFhek0xRDlPZUZ5X2JwUmpMcDl2dk5BQVF3QVhOTDhTTTZaU0FRcGJOSWNja1VrOEFzdHZzb2c5WlFodU9sRHJhWmhudDlYRXM3YmkwcG5tbU16b3RVMW1IM1k5cko1dG9YTElTSUZ3MmEwX1lqb21VVXhXX3BOTXNpcEl2S2xvajY5REtQT3YtYnp3VDJuTTloTlg?oc=5",
@@ -296,6 +461,23 @@
    "dedup": true
   },
   {
+   "id": "16194c055af9",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+   "source": "The Verge AI",
+   "published": "2026-11-02T18:01:30+00:00",
+   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+   "text": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]",
+   "title_th": "OpenAI เสนอโครงการโรงไฟฟ้าสำหรับศูนย์ข้อมูลเพื่อช่วยชุมชน",
+   "summary_th": "OpenAI เปิดตัวโครงการ Grid Protectors Program โดยจะนำร่องที่ศูนย์ข้อมูลในรัฐจอร์เจีย เพื่อสำรองพลังงานไฟฟ้าไว้ใช้ในกรณีฉุกเฉินหรือช่วงสภาพอากาศสุดขั้ว",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "dc6c7ef2ed74",
    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
    "source": "The Verge AI",
@@ -307,11 +489,18 @@
    "category": "นโยบาย/กฎหมาย",
    "companies": [
     "The New York Times",
-    "Brave"
+    "Brave",
+    "Anthropic"
    ],
    "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+    }
+   ]
   },
   {
    "id": "1802721ebc5f",
@@ -327,6 +516,23 @@
     "Google"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "07ad94749bf8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-02T17:13:47+00:00",
+   "title": "Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools",
+   "text": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks Besides privacy and being in control of your data. Besides being able to control the quality of the inference compute. Besides being able to discuss things with the model and not have the cops called on you. Besides being able to run the models you want for as long as you want. Besides being able to run your own suite of security and network penetration tools. Besides not being at the mercy",
+   "title_th": "Anthropic จำกัดการใช้งาน Claude เพื่อป้องกันการทำ Reverse Engineering",
+   "summary_th": "Anthropic ได้เพิ่มข้อจำกัดใหม่ในการใช้งาน Claude เพื่อป้องกันการคัดลอกเกมและกิจกรรมการทำ Reverse Engineering ส่งผลให้ผู้ใช้งานที่ต้องการควบคุมโมเดลด้วยตนเองหันไปสนใจการทำ Self-hosting มากขึ้น",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -397,6 +603,46 @@
    "dedup": true
   },
   {
+   "id": "62c83459ed05",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzNaLUthT21aN2steDZmT2hKNkVOc2poQ3llTVdMMVdnRXk3b3h5Q1lBSzh4bVRFQnJwcWl1a1g2RlZTakVsdDZfZ2piVDJKRUVxd1lFNHZKUjh2N2h1Y0dkU25Sd2VmSGpEMHdDSnN5WnpjVzc5dkwzT1duVFlna0ZlR3Zmd2FHckZyTkN1b2YwYXhWMEhYU3c5WDdMTVljNWo0ZWJsNGtpZ3hBSWszM3lwU1pFb0dkWmpNX0h1TlM?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-02T15:43:59+00:00",
+   "title": "Anthropic’s new IPO filing puts its computing bill near $900 billion",
+   "text": "",
+   "title_th": "เอกสาร IPO ของ Anthropic เผยค่าใช้จ่ายด้านคอมพิวเตอร์ใกล้แตะ 9 แสนล้านดอลลาร์",
+   "summary_th": "เอกสารการยื่น IPO ของ Anthropic ระบุถึงภาระค่าใช้จ่ายด้านการประมวลผลที่สูงลิ่ว ซึ่งเป็นประเด็นสำคัญที่นักลงทุนให้ความสนใจเกี่ยวกับความยั่งยืนทางการเงินของบริษัท AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "also": [
+    {
+     "source": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHIxTTNxemhYRmRhV2dJOXlhc1ZBdW05MVp2MkFWdy02SVhIdzZqaWplcXl4SHQ0eGc4RFlaRlNwVWw2d2NQUjJucnFseEJ6ZUdpOUloSG9HOXczOGxmRGhuRk9XZ2VYTFNVUHJPQXltZ0d4S3pVTnZMOElUS0lXcGxBT3M?oc=5"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "de4cf53f9db9",
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "source": "OpenAI",
+   "published": "2026-11-02T15:30:00+00:00",
+   "title": "Scaling Git at OpenAI",
+   "text": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+   "title_th": "OpenAI พัฒนา Pando ระบบ Git-compatible เพื่อรองรับการพัฒนาขนาดใหญ่",
+   "summary_th": "OpenAI เปิดตัว Pando ซึ่งเป็นระบบ Backend ที่รองรับ Git เพื่อจัดการกับความต้องการด้านการพัฒนาซอฟต์แวร์ขนาดใหญ่ที่เกิดขึ้นจากการใช้ Codex",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "19244c7aa206",
    "url": "https://openai.com/index/grid-protectors-program",
    "source": "OpenAI",
@@ -443,6 +689,21 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b36f1f0713f6",
+   "url": "https://news.google.com/rss/articles/CBMi0gdBVV95cUxNVGp6aWxmSTVDMU5KdjQ5SVM0YmQxQlktMkE2NU01VllDbmMwMTZINUZ3M3NFRjluSXJQNkRWQmZOSWZNTkcyNDQyNUFnX3NBeTZHbWxxZ2ZiNnlKWFYyMTk1bktES2ZOSEFtOHl1QkM3NVNpMnJta0hHQTNXNVdNd255Vy1GRU41SFR6RlRkR0hMSFBnY0hNUkk3eHdhWG5kTk8yU2J2b25mM2stdjZsVWhabXR6cDMxTmRhMnliOHpJYjRBZ3RHM0JweTJ2SUZYZWNPQVFqcTBMMU5RMEdvQTdRd1FGV3MzcExadkk2by0yZzBPVnJpT1ZHanM3R0ZDeWRXR2hudzdITThSQUEtSVNldUhsNkNGY21mbGUtQllRN1ZsZTM1R3FWNi14Q0RNU0o1d3k4amJlcGpyQjZseUEtVFRtOWF1UnBVMGVsZEJwT242VFlEclZ1OE9sSjJNVVFqeHJRdlNsWW01eWstS3Y2dVRMOHJzcHRWcmY4Yl9hcDl3NDZ5M1FWQm9CeXJsbW1oMEZicUFSRlA1SVpSZEhYekVtZmxSTnFQX0RmRjBST2tldVpyZl96ZzFkbXdMY3l0VnZPLWVjN1hrbUNKbzdvX2hyei1feFFuWkctdlByTXc3MmkzRFVEMjJRWldxc0syX3VkeFhKUnpCR0FDeFNydEFhSldyRm5tWkZKZ2hJc2VLcDhKZlE1V2NGTTdlWXBuTFdrRm4wLXRFTmRjNXlKSEEySDZjMUxkR1cwczRJdGU4QWlNTzA2X2ZqamRZS01OZ1JSR1NQaVhJbk1yLXVJYjl6SEV5R2lQeldiZjZmZnN5eWNDYjZ0aEM3aUk1ZVFRakxxNjNlWW13anlfM182NHZmcW5MN0dwUTlmTVl2R1N3SlRCWmxMSWp0aXZCYTN1Z0RSMXlMaFBjOUxxOUI1UmtReG1rUWhtVDEyZV83d1p1Yy1NNml6amdxQm5VUUV0MEx6dUd1aUZ3aXJnTHFJYTJsZGhGYzMyc2prOG9DVTN0aGZTVHNvVVRSQ3ZFR1pCWVJ5NFJVUzEtWHpJMFdpX29pYW5fUTJQa2FDMW05NUpIcHBaMjBwR3pZdnU1REhmNnlYT045WmRoczdIQ1BoazNnaGc3R1FBQW5iU1EyQzludDFsZXVNN1YzQzlzcF9Qcm1DbldPbXd1S01lTEk5VU0ya2VGbEJEbFNJblJ5SE5UVnlvRm9tYl9LLXItNnRCUmpoYWZteU5aQWNKaF9KbG9vekdQclpYSDR6eDgzbVZnZmxNb01jaGtrdFVsZWc?oc=5",
+   "source": "Facebook",
+   "published": "2026-11-02T14:00:01+00:00",
+   "title": "เจาะลึกแฮกเกอร์ ‘เกาหลีเหนือ’ ใช้ AI ปล้นเงิน-คริปโทฯ หนุนสร้าง ‘นิวเคลียร์’ . บลูมเบิร์กรายงานว่า แฮกเกอร์ กลุ่ม “TraderTraitor” หรือ เทรดเดอร์-เทรดเตอร์ ของ เกาหลีเหนือ ซึ่งเป็นกลุ่มแฮกเกอร์ระดับแนวหน้าที่ได้รับการสนับสนุนจากรัฐบาล ได้นำปัญญาประดิษฐ์ หรือ AI มาใช้เป็นเครื่องมือสำคั",
+   "text": "",
+   "title_th": "แฮกเกอร์เกาหลีเหนือใช้ AI เป็นเครื่องมือในการโจมตีไซเบอร์",
+   "summary_th": "กลุ่มแฮกเกอร์ที่ได้รับการสนับสนุนจากรัฐบาลเกาหลีเหนือถูกตรวจพบว่านำ AI มาใช้เป็นเครื่องมือสำคัญในการก่ออาชญากรรมทางไซเบอร์เพื่อหาเงินทุนสนับสนุนโครงการนิวเคลียร์",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -613,6 +874,10 @@
     {
      "source": "The Bangkok Insight",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RTVp4U2pVY0hpN0NBU1RJaDRxUFpTOWY4bGJlNm93YlpaZzY0SDNZeHh6RkNFX2FJTEwxdDQ1UXVVR2tTMDNGRmJrdU1XNDAwcXJsaGc1WE1PekVXRDA2U19laTd2S1RsY1E?oc=5"
+    },
+    {
+     "source": "LINE TODAY",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kOVZfZFJIR3hJT1dtanlmMU5uM3FmRFpFb3BUUXVTRDUyWmNfM2xfV00zN0lvRk5ER3ZENGRmWFhHWjR1bHBxdVdUZzlzM0dlT1A3enBB?oc=5"
     }
    ],
    "dedup": true
@@ -700,6 +965,41 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "598c6194c0d3",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "source": "OpenAI",
+   "published": "2026-11-02T00:00:00+00:00",
+   "title": "Qodo builds context into AI code review with Codex",
+   "text": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+   "title_th": "Qodo นำ Codex มาช่วยเพิ่มบริบทในการตรวจสอบโค้ดด้วย AI",
+   "summary_th": "Qodo ผสานความรู้ขององค์กรและมาตรฐานการเขียนโค้ดเข้ากับ Codex เพื่อช่วยให้นักพัฒนาสามารถตรวจพบปัญหาสำคัญใน Repository ได้ก่อนการทำ Pull Request",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Qodo",
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ff138f709a7e",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "source": "OpenAI",
+   "published": "2026-11-02T00:00:00+00:00",
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "text": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+   "title_th": "OpenAI แต่งตั้ง Dan Driscoll เป็นที่ปรึกษาอาวุโสด้านความมั่นคงแห่งชาติ",
+   "summary_th": "OpenAI ดึงตัว Dan Driscoll เข้ามารับตำแหน่งที่ปรึกษาเพื่อดูแลด้านความมั่นคงปลอดภัยไซเบอร์และการทำงานร่วมกับพันธมิตรของสหรัฐฯ ในการพัฒนา AI อย่างมีความรับผิดชอบ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -854,7 +1154,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
+    }
+   ]
   },
   {
    "id": "1db6cd4a0750",
@@ -1494,6 +1800,14 @@
     {
      "source": "Polygon.com",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDcjBYeFZaVjB4SkVaSTVFSE10X2k2bV9GREJYbU1wMFFOR3d2NU1qOUFGTmE2aVRYV1dNYzZUbWJBVUQ1RVJkUDQzd25Ic2pNQl9HcWhDTUI4X25vZ01ldVFuYzRmbkV5VXc?oc=5"
+    },
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+    },
+    {
+     "source": "CNET",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObGl6Z1lPb2hocjU2aGRvdWx6aVhQWU9HdGlNQVdyaTB5WWlUSy1OX2loVkJ3Mnh0M3l2M3lWS1NMdXk2SHNYTDI5ZmFkNnBFM1ZBd1RLYmQ1aDB1d3ZudlRlWTJZQUFDZlA3d09pQ25oVTFuRUF6WFEyNk5nQ3JtYzlB?oc=5"
     }
    ]
   },

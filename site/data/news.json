@@ -1,53 +1,47 @@
 {
- "updated_at": "2026-11-03T02:24:23+00:00",
+ "updated_at": "2026-11-03T11:59:36+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-03T02:24:23+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านต้นทุนการประมวลผลมหาศาลและการปรับตัวสู่การใช้งานจริงที่เน้นผลลัพธ์มากกว่าปริมาณ",
+  "generated_at": "2026-11-03T11:59:36+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านต้นทุนการประมวลผลที่พุ่งสูงขึ้น พร้อมการปรับตัวสู่โมเดลที่เน้นประสิทธิภาพและการใช้งานจริง",
   "points": [
    {
-    "text": "บริษัท AI ชั้นนำอย่าง Anthropic, OpenAI และแพลตฟอร์มอย่าง Grok กำลังเผชิญกับแรงกดดันด้านต้นทุนการดำเนินงานและค่าใช้จ่ายด้านคอมพิวเตอร์ที่พุ่งสูงขึ้น จนต้องมีการจำกัดการใช้งานหรือวางแผนรับมือความยั่งยืนทางการเงินก่อนเข้าสู่ตลาดหุ้น",
+    "text": "บริษัท AI ชั้นนำอย่าง Anthropic, OpenAI และแพลตฟอร์มอย่าง Grok กำลังเผชิญกับแรงกดดันด้านต้นทุนการประมวลผลที่สูงลิ่ว จนต้องมีการจำกัดการใช้งานหรือหาแนวทางจัดการพลังงานและโครงสร้างพื้นฐานใหม่",
     "ids": [
      "62c83459ed05",
-     "b9c9e01fec97",
-     "07ad94749bf8",
-     "272a05aa5da7"
+     "272a05aa5da7",
+     "16194c055af9",
+     "19244c7aa206",
+     "7b9194a7007f"
     ]
    },
    {
-    "text": "นักพัฒนาและองค์กรเริ่มเปลี่ยนโฟกัสจากการวัดปริมาณ Token ไปสู่การวัดความสำเร็จของงานจริงผ่าน AI Agents และการใช้โมเดลขนาดเล็ก (Local Models) ที่สามารถทำงานซับซ้อนได้โดยไม่ต้องพึ่งพาคลาวด์เพียงอย่างเดียว",
+    "text": "ความก้าวหน้าของโมเดล AI มุ่งเน้นไปที่ความสามารถในการพัฒนาตนเองและการจัดการน้ำหนักโมเดลโดยตรง รวมถึงการยืนยันแนวทาง Open Source ของ Qwen เพื่อการเข้าถึงที่กว้างขวาง",
+    "ids": [
+     "855688c450b2",
+     "733cf565f7ff",
+     "49c5e82f092a",
+     "90c80c838160",
+     "d4486d6a6211"
+    ]
+   },
+   {
+    "text": "นักพัฒนาและองค์กรเริ่มปรับเปลี่ยนมุมมองจากการวัดปริมาณ Token มาเป็นการวัดผลลัพธ์ที่ใช้งานได้จริงจาก AI Agents พร้อมการลงทุนในเครื่องมือที่ช่วยให้การเทรนโมเดลเข้าถึงได้ง่ายขึ้น",
     "ids": [
      "f054e35351ae",
-     "4895115da769",
-     "49c5e82f092a",
+     "793a736581dc",
+     "b2485c91dd17",
      "1126d665d260"
     ]
    },
    {
-    "text": "ความก้าวหน้าทางเทคนิคที่สำคัญ ได้แก่ การที่ LLM สามารถอ่านและเขียนน้ำหนักโครงข่ายประสาทได้โดยตรง รวมถึงการพัฒนาเกณฑ์วัดความสามารถ AI ใหม่ๆ เช่น LifeVal และการใช้เครื่องมืออัตโนมัติเพื่อเพิ่มประสิทธิภาพโมเดล",
-    "ids": [
-     "d4486d6a6211",
-     "ed4b58253682",
-     "90c80c838160",
-     "de4cf53f9db9"
-    ]
-   },
-   {
-    "text": "ประเด็นด้านกฎหมายและจริยธรรมยังคงเข้มข้น ทั้งการฟ้องร้องเรื่องการดึงข้อมูลฝึก AI โดยไม่ได้รับอนุญาต การใช้ AI ในทางที่ผิดโดยกลุ่มแฮกเกอร์ และความพยายามของ OpenAI ในการสร้างความร่วมมือด้านพลังงานกับชุมชน",
+    "text": "ประเด็นด้านความปลอดภัยและกฎหมายยังคงเป็นเรื่องสำคัญ ทั้งการฟ้องร้องเรื่องการดึงข้อมูลฝึก AI, การป้องกันการทำ Reverse Engineering และการยกระดับมาตรการรักษาความปลอดภัยของระบบ",
     "ids": [
      "dc6c7ef2ed74",
-     "b36f1f0713f6",
-     "16194c055af9",
-     "19244c7aa206"
-    ]
-   },
-   {
-    "text": "การลงทุนในอุตสาหกรรม AI ยังคงคึกคักด้วยแผนสนับสนุนจากภาครัฐอย่างเกาหลีใต้ และการระดมทุนของสตาร์ทอัพที่มุ่งเน้นการทำให้ AI เข้าถึงง่ายขึ้น รวมถึงการขยายโอกาสทางธุรกิจของ Apple ผ่านแอปพลิเคชันบุคคลที่สาม",
-    "ids": [
-     "15bad593ab19",
-     "b2485c91dd17",
-     "133799eedc2b",
-     "968f14d53faf"
+     "07ad94749bf8",
+     "6fd6ad7938fa",
+     "262cfa35f430",
+     "b36f1f0713f6"
     ]
    }
   ]
@@ -140,7 +134,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 10,
+   "count": 5,
    "error": null
   }
  ],
@@ -290,9 +284,194 @@
   "b997047b8551",
   "dc1f1c183aac",
   "e3f3f6c0c50f",
-  "3253f6cb0426"
+  "3253f6cb0426",
+  "1ad66cf690a9",
+  "b9c9e01fec97",
+  "87908afc0bb1"
  ],
  "items": [
+  {
+   "id": "0611338b13eb",
+   "url": "https://www.blognone.com/node/152089",
+   "source": "Blognone",
+   "published": "2026-11-03T11:24:35+00:00",
+   "title": "Salesforce ซื้อกิจการ Cresta แพลตฟอร์ม Voice Agent สำหรับงานบริการลูกค้า",
+   "text": "Body Salesforce ประกาศบรรลุข้อตกลงเพื่อซื้อกิจการ Cresta แพลตฟอร์มสำหรับงานให้บริการลูกค้าที่ทำงานด้วยเสียงเป็นหลัก (voice-first) มูลค่าดีลไม่มีการเปิดเผยอย่างเป็นทางการ แต่มีตัวเลขว่าอยู่ที่ราว 2.7 พันล้านดอลลาร์ Cresta เป็นผู้พัฒนาแพลตฟอร์มสำหรับงานบริการลูกค้า ด้วยจุดเด่นเรื่องความสามารถในการแก้ไขปัญหาให้ลูกค้าได้แบบจบที่ระดับ Agent แม้เป็นคำถามที่ซับซ้อน มีระบบทบทวนและถามกลับลูกค้าเพื่อให้วิเคราะห์สิ่งที่เกิดขึ้นได้แม่นยำขึ้น มีลูกค้ารายใหญ่เช่น Marriott, Comcast และ Alaska Airlines Salesforce มีแผนนำความสามารถของระบบ",
+   "title_th": "Salesforce ซื้อกิจการ Cresta แพลตฟอร์ม Voice Agent สำหรับงานบริการลูกค้า",
+   "summary_th": "Body Salesforce ประกาศบรรลุข้อตกลงเพื่อซื้อกิจการ Cresta แพลตฟอร์มสำหรับงานให้บริการลูกค้าที่ทำงานด้วยเสียงเป็นหลัก (voice-first) มูลค่าดีลไม่มีการเปิดเผยอย่างเป็นทางการ แต่มีตัวเลขว่าอยู่ที่ราว 2.7 พันล้านดอลลาร์ Cresta เป็นผู้พัฒนาแพลตฟอร",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "aecb069b26a3",
+   "url": "https://www.blognone.com/node/152088",
+   "source": "Blognone",
+   "published": "2026-11-03T11:21:40+00:00",
+   "title": "Apple รายงานผลประกอบการ รายได้โต 12% ยอมรับ iPhone Duo ผลิตไม่ทันความต้องการ และไม่รู้จะเป็นปกติเมื่อใด",
+   "text": "Body แอปเปิลรายงานผลประกอบการประจำไตรมาสเดือนกันยายน 2026 ซึ่งเป็นไตรมาสแรกภายใต้ ซีอีโอ John Ternus (รับตำแหน่ง 1 กันยายน) รายได้รวม 1.15 แสนล้านดอลลาร์ เพิ่มขึ้น 12% จากไตรมาสเดียวกันในปีก่อน ส่วนกำไรสุทธิอยู่ที่ 3.07 หมื่นล้านดอลลาร์ รายได้จาก iPhone เพิ่มขึ้น 17% เป็น 5.76 หมื่นล้านดอลลาร์, Mac เพิ่มขึ้น 24% เป็น 1.08 หมื่นล้านดอลลาร์, Services เพิ่มขึ้น 10% เป็น 3.16 หมื่นล้านดอลลาร์ ส่วน iPad และกลุ่ม Wearable รายได้ลดลง ซีอีโอ John Ternus ให้ข้อมูลเพิ่มเติมหลังแถลงผลประกอบการ มีประเด็",
+   "title_th": "Apple รายงานผลประกอบการ รายได้โต 12% ยอมรับ iPhone Duo ผลิตไม่ทันความต้องการ และไม่รู้จะเป็นปกติเมื่อใด",
+   "summary_th": "Body แอปเปิลรายงานผลประกอบการประจำไตรมาสเดือนกันยายน 2026 ซึ่งเป็นไตรมาสแรกภายใต้ ซีอีโอ John Ternus (รับตำแหน่ง 1 กันยายน) รายได้รวม 1.15 แสนล้านดอลลาร์ เพิ่มขึ้น 12% จากไตรมาสเดียวกันในปีก่อน ส่วนกำไรสุทธิอยู่ที่ 3.07 หมื่นล้านดอลลาร์ ราย",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "0e022216c2cb",
+   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+   "source": "MIT Technology Review",
+   "published": "2026-11-03T10:43:41+00:00",
+   "title": "How “reverse game theory” could keep AI agents in check",
+   "text": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+   "title_th": "How “reverse game theory” could keep AI agents in check",
+   "summary_th": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “a",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "da5544d85342",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVUyb2p4WG15VmhsQmQ5NVM1S21wZWlHM185X2h3YnFHbEdWc05nbkZBQXdqbnBWY2hqYnVnTks2Z3lPd2lOa3F5aGdnZXhfVTlGLVJNS0xoeXE2YlBKRTZfTWNhSTdId0ZzWE5GejhYTzZWNTFSQkRMcmtFblJDeXh5N1dVM0l2R1NFcE01T0lUd0E5blgxdkNwMGxMamwxVmtXcXFqcWJUWnJXUWl3?oc=5",
+   "source": "The Decoder",
+   "published": "2026-11-03T09:52:08+00:00",
+   "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
+   "text": "",
+   "title_th": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "08b710f1e780",
+   "url": "https://openai.com/index/heimstaden",
+   "source": "OpenAI",
+   "published": "2026-11-03T08:00:00+00:00",
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "text": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+   "title_th": "Heimstaden is changing residential real estate management with AI",
+   "summary_th": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "0947affcb4cc",
+   "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-03T07:20:00+00:00",
+   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "text": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+   "title_th": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "summary_th": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "4d836f21a02f",
+   "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+   "source": "NVIDIA",
+   "published": "2026-11-03T07:00:12+00:00",
+   "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+   "text": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]",
+   "title_th": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+   "summary_th": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "a19d731a67f8",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
+   "source": "Anthropic",
+   "published": "2026-11-03T04:43:45+00:00",
+   "title": "Progress on provable inference for large language models",
+   "text": "",
+   "title_th": "Progress on provable inference for large language models",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "a6e20d8d1eb1",
+   "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+   "source": "MIT Technology Review",
+   "published": "2026-11-03T04:18:47+00:00",
+   "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+   "text": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
+   "title_th": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+   "summary_th": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "a199fe9106db",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-03T03:55:43+00:00",
+   "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+   "text": "PRs: https://github.com/QwenLM/qwen-code/pull/15762: \"Measured on main at 79a9b753c60 , before this change: qwen4 , qwen4-max , qwen4-plus , qwen4.5-max , qwen4-coder-plus , qwen4-max-2026-10-01 , openai/qwen4-max and qwen4-omni-120b-think all resolved to 262,144. The last of those is already in use as the session model in the omni fixtures, so these ids are not hypothetical.\" https://github.com/QwenLM/qwen-code/pull/15987 Thank god, it looks like that we're getting successor of Q38FN! submitted by /u/feelspeaceman [link] [comments]",
+   "title_th": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+   "summary_th": "PRs: https://github.com/QwenLM/qwen-code/pull/15762: \"Measured on main at 79a9b753c60 , before this change: qwen4 , qwen4-max , qwen4-plus , qwen4.5-max , qwen4-coder-plus , qwen4-max-2026-10-01 , openai/qwen4-max and qwen4-omni-120b-think ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "4ed35bdfdb65",
+   "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-03T03:30:00+00:00",
+   "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "text": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+   "title_th": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "summary_th": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "1c51e47ad850",
+   "url": "https://www.blognone.com/node/152087",
+   "source": "Blognone",
+   "published": "2026-11-03T02:39:22+00:00",
+   "title": "Marvell ซื้อบริษัทผลิตชิปแสง Lumentum ในราคาสูงถึง 1.15 แสนล้านดอลลาร์",
+   "text": "Body Marvell Technology ประกาศซื้อกิจการ Lumentum ผู้ผลิตชิปสื่อสารด้วยแสง ในราคาสูงถึง 1.15 แสนล้านดอลลาร์ (3.9 ล้านล้านบาท) ถือเป็นดีลซื้อกิจการขนาดใหญ่อันดับต้นๆ ของวงการเทคโนโลยี เนื่องจากทั้งสองบริษัทอยู่ในตลาดหลักทรัพย์ทั้งคู่ Marvell จึงเลือกใช้วิธีจ่ายเงินด้วยการแลกหุ้นทั้งหมด ในอัตรา 1 หุ้น Lumentum ต่อ 4.5 หุ้น Marvell หรือตีเป็นมูลค่าหุ้น Lumentum ละ 1,132 ดอลลาร์ (แพงกว่าราคาตลาด 23.9%) โครงสร้างบริษัทใหม่หลังควบกิจการแล้ว จะเป็นผู้ถือหุ้น Marvell เดิม 67% และผู้ถือหุ้น Lumentum เดิม 33% Marvell อธิบายเหตุผลของก",
+   "title_th": "Marvell ซื้อบริษัทผลิตชิปแสง Lumentum ในราคาสูงถึง 1.15 แสนล้านดอลลาร์",
+   "summary_th": "Body Marvell Technology ประกาศซื้อกิจการ Lumentum ผู้ผลิตชิปสื่อสารด้วยแสง ในราคาสูงถึง 1.15 แสนล้านดอลลาร์ (3.9 ล้านล้านบาท) ถือเป็นดีลซื้อกิจการขนาดใหญ่อันดับต้นๆ ของวงการเทคโนโลยี เนื่องจากทั้งสองบริษัทอยู่ในตลาดหลักทรัพย์ทั้งคู่ Marvell",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "21494052cff5",
+   "url": "https://www.blognone.com/node/152086",
+   "source": "Blognone",
+   "published": "2026-11-03T02:25:26+00:00",
+   "title": "Anthropic ใส่มาตรการป้องกันการสั่ง Claude Code โคลนเกมของคนอื่น",
+   "text": "Body ก่อนหน้านี้มีผู้ใช้ Claude บางรายค้นพบว่า Anthropic ฝังคำสั่งไว้ใน Claude เพื่อป้องกันไม่ให้โมเดลโคลนเกมของคนอื่น ดังที่เกิดปัญหาขึ้นกับวงการเกมในขณะนี้ สิ่งที่ค้นพบคือมีคอนฟิกชื่อ \"tengu_heron_brook\" แทรกเข้ามาในไบนารีของ Claude Code เขียนเข้ามาดังนี้ \"Do build original games, games in a genre, and games from the user's own designs and assets. Don't build a recreation of a specific existing game, even if it is renamed or called original.\" นอกจากนี้ เว็บไซต์ XDA ยังค้นพบคอนฟิกชื่อ original_games_guidance และ opus_5_5_prompt_b",
+   "title_th": "Anthropic ใส่มาตรการป้องกันการสั่ง Claude Code โคลนเกมของคนอื่น",
+   "summary_th": "Body ก่อนหน้านี้มีผู้ใช้ Claude บางรายค้นพบว่า Anthropic ฝังคำสั่งไว้ใน Claude เพื่อป้องกันไม่ให้โมเดลโคลนเกมของคนอื่น ดังที่เกิดปัญหาขึ้นกับวงการเกมในขณะนี้ สิ่งที่ค้นพบคือมีคอนฟิกชื่อ \"tengu_heron_brook\" แทรกเข้ามาในไบนารีของ Claude Code ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
   {
    "id": "968f14d53faf",
    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
@@ -326,6 +505,20 @@
    "importance": 2,
    "ai": true,
    "dedup": true
+  },
+  {
+   "id": "fec0e46ceba4",
+   "url": "https://huggingface.co/blog/transformers-mic",
+   "source": "Hugging Face",
+   "published": "2026-11-03T00:00:00+00:00",
+   "title": "Transformers Model Integration Contracts",
+   "text": "",
+   "title_th": "Transformers Model Integration Contracts",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
   },
   {
    "id": "b2485c91dd17",
@@ -429,6 +622,20 @@
    "dedup": true
   },
   {
+   "id": "885b04d7832e",
+   "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+   "source": "Hacker News",
+   "published": "2026-11-02T19:27:37+00:00",
+   "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+   "text": "190 points, 168 comments on Hacker News (https://news.ycombinator.com/item?id=50342284)",
+   "title_th": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+   "summary_th": "190 points, 168 comments on Hacker News (https://news.ycombinator.com/item?id=50342284)",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
    "id": "d4486d6a6211",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/",
    "source": "r/LocalLLaMA",
@@ -439,23 +646,6 @@
    "summary_th": "มีการค้นพบความสามารถใหม่ของ LLM ที่สามารถอ่านและเขียนน้ำหนัก (Weights) ของโครงข่ายประสาทเทียมได้โดยตรง ซึ่งอาจนำไปสู่การเขียนโปรแกรมในระดับน้ำหนักโมเดล",
    "category": "งานวิจัย",
    "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b9c9e01fec97",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHl6bTlzTEs0Zkt0UkQ5NGhDUXozSEtSbHFhek0xRDlPZUZ5X2JwUmpMcDl2dk5BQVF3QVhOTDhTTTZaU0FRcGJOSWNja1VrOEFzdHZzb2c5WlFodU9sRHJhWmhudDlYRXM3YmkwcG5tbU16b3RVMW1IM1k5cko1dG9YTElTSUZ3MmEwX1lqb21VVXhXX3BOTXNpcEl2S2xvajY5REtQT3YtYnp3VDJuTTloTlg?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-11-02T18:03:06+00:00",
-   "title": "Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages",
-   "text": "",
-   "title_th": "Anthropic เตรียมรับมือผลกระทบจากการเลือกตั้งก่อนเข้าตลาดหุ้น",
-   "summary_th": "Anthropic กำลังเตรียมความพร้อมสำหรับผลกระทบทางการเมืองที่อาจเกิดขึ้นในช่วงก่อนการเสนอขายหุ้นต่อสาธารณะครั้งแรก (IPO) ท่ามกลางการถกเถียงเรื่อง AI ในระดับนโยบาย",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
    "importance": 3,
    "ai": true,
    "dedup": true
@@ -501,6 +691,41 @@
      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
     }
    ]
+  },
+  {
+   "id": "6fd6ad7938fa",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "source": "OpenAI",
+   "published": "2026-11-02T18:00:00+00:00",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "text": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "title_th": "OpenAI เพิ่มเงินรางวัลโครงการ Bug Bounty สำหรับนักวิจัยความปลอดภัย",
+   "summary_th": "OpenAI ประกาศปรับเพิ่มเงินรางวัลสำหรับนักวิจัยอิสระที่พบช่องโหว่ พร้อมเพิ่มโบนัสพิเศษตามคุณภาพรายงานและความต่อเนื่องในการสนับสนุน เพื่อยกระดับความปลอดภัยของระบบ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "262cfa35f430",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "source": "OpenAI",
+   "published": "2026-11-02T18:00:00+00:00",
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "text": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "title_th": "OpenAI เตรียมทำ Security Sprint ร่วมกับ Cathedral Systems",
+   "summary_th": "OpenAI เตรียมจัดกิจกรรมเร่งรัดด้านความปลอดภัยภายในองค์กร โดยร่วมมือกับ Cathedral Systems เพื่อทดสอบและเสริมความแข็งแกร่งให้กับระบบป้องกันด้วยการใช้ AI",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI",
+    "Cathedral Systems"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "1802721ebc5f",
@@ -621,6 +846,18 @@
     {
      "source": "Financial Times",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHIxTTNxemhYRmRhV2dJOXlhc1ZBdW05MVp2MkFWdy02SVhIdzZqaWplcXl4SHQ0eGc4RFlaRlNwVWw2d2NQUjJucnFseEJ6ZUdpOUloSG9HOXczOGxmRGhuRk9XZ2VYTFNVUHJPQXltZ0d4S3pVTnZMOElUS0lXcGxBT3M?oc=5"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+    },
+    {
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHl6bTlzTEs0Zkt0UkQ5NGhDUXozSEtSbHFhek0xRDlPZUZ5X2JwUmpMcDl2dk5BQVF3QVhOTDhTTTZaU0FRcGJOSWNja1VrOEFzdHZzb2c5WlFodU9sRHJhWmhudDlYRXM3YmkwcG5tbU16b3RVMW1IM1k5cko1dG9YTElTSUZ3MmEwX1lqb21VVXhXX3BOTXNpcEl2S2xvajY5REtQT3YtYnp3VDJuTTloTlg?oc=5"
+    },
+    {
+     "source": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlc5a0lMc2prYk5VbWQ1bk5UMXc4RzdQcEZtaThpbVI2bFJ4VzNKNFNQT0FhLWJtb1BuR0ZKZXUwMFViMTVUWEJLRmcwdXNFVmFZQnpLUERjN0hGMmRUbWVDUFU4R1VfUUozMmxIQ3d1eVNnb1hVMFlLQWswVVlGb2ZzYy1iV1lrYUN5ZWFnNE9JY19ZeEFPX183WC1wLW1aYTNTYy1NUmt3VHhzUTBxWkZjc3Y?oc=5"
     }
    ],
    "dedup": true
@@ -673,6 +910,21 @@
     "Omen AI",
     "Aquatic Labs"
    ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6d29f3b89c67",
+   "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+   "source": "Hacker News",
+   "published": "2026-11-02T14:40:05+00:00",
+   "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+   "text": "177 points, 247 comments on Hacker News (https://news.ycombinator.com/item?id=50337454)",
+   "title_th": "คนทำงานสายเทคโนโลยีที่ตกงานกำลังถูกทิ้งไว้ข้างหลังในยุค AI ของซานฟรานซิสโก",
+   "summary_th": "บทวิเคราะห์จาก Hacker News สะท้อนปัญหาแรงงานในอุตสาหกรรมเทคโนโลยีที่ตกงานและไม่สามารถเข้าถึงโอกาสในยุคที่ AI กำลังเติบโตอย่างรวดเร็วในซานฟรานซิสโก",
+   "category": "อื่นๆ",
+   "companies": [],
    "importance": 2,
    "ai": true,
    "dedup": true
@@ -822,6 +1074,21 @@
    "dedup": true
   },
   {
+   "id": "9978900b6441",
+   "url": "https://huggingface.co/papers/2611.03178",
+   "source": "HF Daily Papers",
+   "published": "2026-11-02T09:15:11+00:00",
+   "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+   "text": "Rapid advances in cowork agents are shifting human-AI collaboration toward real-world automation, delivering software, designs, and other artifacts. However, such productivity work demands both high-quality delivery on complex productivity tasks and continued monitoring and decision-making over long horizons, a combination that remains an open challenge. We introduce CoworkOS, a general-purpose harness for long-horizon work that separates task strategy from execution management: the model decides actions, delegation, and acceptance, while the runtime maintains state and feedback. Its three-lay",
+   "title_th": "เปิดตัว CoworkOS ระบบจัดการ Agent สำหรับงานอัตโนมัติระยะยาว",
+   "summary_th": "นักวิจัยนำเสนอ CoworkOS ซึ่งเป็นระบบที่ออกแบบมาเพื่อจัดการงานที่ซับซ้อนและใช้เวลานาน โดยแยกกลยุทธ์การทำงานออกจากการจัดการการดำเนินการ เพื่อเพิ่มประสิทธิภาพในการทำงานร่วมกับมนุษย์",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "ed4b58253682",
    "url": "https://openai.com/index/lifeval",
    "source": "OpenAI",
@@ -835,6 +1102,21 @@
     "OpenAI"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "eed1f589970e",
+   "url": "https://huggingface.co/papers/2611.03126",
+   "source": "HF Daily Papers",
+   "published": "2026-11-02T08:41:14+00:00",
+   "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+   "text": "Despite recent advances in CUAs, their development remains constrained by the limited diversity, controllability, and reliability of interaction data. Moreover, conventional optimization pipelines lack iterative feedback, while existing recursive improvement approaches often rely on self-generated experiences, limiting ability expansion and yielding diminishing returns. To address these challenges, we introduce CUA-Master, a nested double-loop recursive improvement framework. At the system level, an outer world-data-model flywheel continuously incorporates open-world corpus and leverages evolv",
+   "title_th": "CUA-Master เฟรมเวิร์กใหม่เพื่อพัฒนา Computer-use Agents",
+   "summary_th": "นำเสนอ CUA-Master ซึ่งเป็นระบบปรับปรุงประสิทธิภาพแบบวนซ้ำสำหรับ Agent ที่ใช้งานคอมพิวเตอร์ เพื่อแก้ปัญหาข้อจำกัดด้านข้อมูลและการเรียนรู้ด้วยตนเองแบบเดิม",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -1365,6 +1647,38 @@
    "dedup": true
   },
   {
+   "id": "37f83cfc4111",
+   "url": "https://huggingface.co/papers/2611.01560",
+   "source": "HF Daily Papers",
+   "published": "2026-10-31T20:00:00+00:00",
+   "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+   "text": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, famili",
+   "title_th": "เปิดตัว uni-robot-agent แพลตฟอร์มโอเพนซอร์สสำหรับ Robot-use Agents",
+   "summary_th": "นักวิจัยเปิดตัว uni-robot-agent เพื่อสนับสนุนการวิจัยหุ่นยนต์ด้วยโมเดลแบบเปิด โดยใช้ Qwen3.8-Flash-Next ทำผลงานได้ดีกว่าโมเดลปิดในงานด้านการควบคุมหุ่นยนต์",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Alibaba Cloud"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2d52e97e8a16",
+   "url": "https://huggingface.co/papers/2611.01860",
+   "source": "HF Daily Papers",
+   "published": "2026-10-31T20:00:00+00:00",
+   "title": "Advances in Agentic Computer Graphics",
+   "text": "Computer graphics is built on code. Large language model (LLM) agents can now generate graphics code and iteratively refine it through various feedback. This capability opens the door to a potentially new paradigm of computer graphics, with graphics algorithms increasingly built around agentic systems to automate progressively complex tasks. Over the past years, research on agentic graphics has expanded rapidly across a diverse range of tasks. This rapid growth makes it increasingly difficult for manual literature reviews to keep pace with new developments. At the same time, similar ideas are ",
+   "title_th": "ความก้าวหน้าของ Agentic Computer Graphics ในการสร้างและปรับแต่งโค้ด",
+   "summary_th": "งานวิจัยสำรวจการใช้ LLM Agents ในการสร้างและปรับแต่งโค้ดสำหรับงานกราฟิกคอมพิวเตอร์ ซึ่งช่วยให้การทำงานที่ซับซ้อนเป็นไปโดยอัตโนมัติและมีประสิทธิภาพมากขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "b0ea1cf1f211",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWRRVDc2NW4xb3Vod21YR3hORTRGNjlONHFUc3ozSWx0SGZ2ZnpGd1NoUnRXSFlXcUoxOUZEcXJHVkhQVHc1ei01VHpaMWJXZUJZVEFjTXpoVm5oMnlaOW9KZ3BPQXBBMzVRaEVva3p3eFMteHFjdnltQmozZnZqNXFDTVVRME9ONXZ5YXdCRDV5U2FiTzFmRmtKa2c3ams?oc=5",
    "source": "the-decoder.com",
@@ -1823,23 +2137,6 @@
    "category": "ธุรกิจ/การลงทุน",
    "companies": [
     "Intel"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "1ad66cf690a9",
-   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-30T21:52:03+00:00",
-   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-   "text": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-   "title_th": "Anthropic อาจถูกจัดอันดับเครดิตในระดับ Junk หลัง IPO",
-   "summary_th": "รายงานระบุว่า Anthropic อาจได้รับอันดับเครดิตในระดับต่ำหลังการทำ IPO ซึ่งอาจส่งผลกระทบต่อต้นทุนในการระดมทุนเพื่อสนับสนุนการดำเนินงานที่ใช้เงินลงทุนสูง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
    ],
    "importance": 3,
    "ai": true,

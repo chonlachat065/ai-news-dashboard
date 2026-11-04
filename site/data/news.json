@@ -1,49 +1,48 @@
 {
- "updated_at": "2026-11-04T00:39:26+00:00",
+ "updated_at": "2026-11-04T12:14:06+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-04T00:39:26+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญในวงการ AI วันนี้ครอบคลุมตั้งแต่การขยายตัวของ ChatGPT การปรับกลยุทธ์ของ Apple ไปจนถึงนวัตกรรมด้านฮาร์ดแวร์และการประยุกต์ใช้ AI ในระดับองค์กร",
+  "generated_at": "2026-11-04T12:14:06+00:00",
+  "headline": "อุตสาหกรรม AI กำลังเผชิญความท้าทายด้านต้นทุนและการปรับตัวเชิงกลยุทธ์ ท่ามกลางการแข่งขันที่รุนแรงและการเติบโตของนวัตกรรมโมเดลภาษา",
   "points": [
    {
-    "text": "ChatGPT เติบโตอย่างรวดเร็วโดยมีปริมาณการค้นหาเทียบเท่า 20% ของ Google ในขณะที่ Apple เดินหน้าบูรณาการ AI เข้ากับระบบนิเวศผ่าน Siri และฟีเจอร์ใหม่ใน watchOS พร้อมกลยุทธ์ลงทุน AI ที่เน้นประสิทธิภาพ",
+    "text": "บริษัทเทคโนโลยีรายใหญ่เผชิญแรงกดดันด้านการเงิน โดยหนี้สินแฝงจากการลงทุน AI พุ่งสูงขึ้น 90% ขณะที่ Anthropic ประสบปัญหาต้นทุนการประมวลผลสูงและมีการลาออกของผู้บริหารระดับสูง ส่วน Google เผชิญความท้าทายในการเปลี่ยนผ่านรายได้จากโฆษณาไปสู่ AI",
     "ids": [
-     "662bf89dbff2",
-     "49792679d79f",
-     "62af55115339",
-     "dde5f3bd6293"
+     "f3900be82c6f",
+     "f11d9a22fb66",
+     "a4abd1e2a1c1",
+     "13f71de2c4d5"
     ]
    },
    {
-    "text": "ความก้าวหน้าด้านฮาร์ดแวร์และการประมวลผล AI มีความคึกคักอย่างมาก ทั้งการที่ DeepSeek เตรียมใช้ชิป Huawei Ascend, ข่าวลือสเปก RTX 5090, และการที่ NVIDIA ใช้ AI เพิ่มประสิทธิภาพการผลิตชิปเซมิคอนดักเตอร์",
+    "text": "Apple เดินหน้ากลยุทธ์ AI เน้นประสิทธิภาพโดยไม่ทุ่มงบโครงสร้างพื้นฐานเกินตัว พร้อมอัปเดต Siri ให้สั่งการแอปภายนอกได้และเพิ่มฟีเจอร์ Audio Intelligence ใน watchOS",
     "ids": [
-     "27b1d1875833",
-     "81bd5929347d",
+     "dde5f3bd6293",
+     "49792679d79f",
+     "62af55115339"
+    ]
+   },
+   {
+    "text": "การแข่งขันในตลาดโมเดล AI ยังคงดุเดือดด้วยการเปิดตัว Tencent Hy4 ที่เน้นราคาประหยัดและประสิทธิภาพสูง รวมถึงการเติบโตของ ChatGPT ที่มีปริมาณการค้นหาคิดเป็น 20% ของ Google",
+    "ids": [
+     "0432b707d653",
+     "662bf89dbff2"
+    ]
+   },
+   {
+    "text": "ความเคลื่อนไหวในฝั่งฮาร์ดแวร์และโครงสร้างพื้นฐาน AI ยังคงแข็งแกร่ง โดย AMD รายงานรายได้ทำสถิติใหม่จากกลุ่มเซิร์ฟเวอร์ AI และ NVIDIA ใช้ AI ช่วยเพิ่มประสิทธิภาพการผลิตชิปเซมิคอนดักเตอร์",
+    "ids": [
+     "acbcb015f562",
      "3bafb7904533"
     ]
    },
    {
-    "text": "การประยุกต์ใช้ AI ในองค์กรและงานวิจัยขยายตัวต่อเนื่อง เช่น การที่ Salesforce ซื้อกิจการ Cresta, Cisco ร่วมมือกับ OpenAI ด้านความปลอดภัย, และ Google DeepMind เปิดตัวเครื่องมือวิจัยยา",
+    "text": "มีการพัฒนาเทคนิคใหม่ๆ ในการจัดการโมเดลภาษา เช่น การปรับแต่ง llama.cpp, การวิเคราะห์น้ำหนักโมเดล Qwen, และการสร้างระบบยืนยันตัวตนโมเดลอย่าง FlashProve",
     "ids": [
-     "0611338b13eb",
-     "a2357e701f02",
-     "adafdd4764cb"
-    ]
-   },
-   {
-    "text": "Anthropic เผชิญความท้าทายด้านต้นทุนการประมวลผลและกำลังพัฒนาเครื่องมือตรวจสอบความปลอดภัยของโมเดล ในขณะที่บริษัทอย่าง Revolut เริ่มหันไปใช้ระบบ Self-hosted เพื่อลดค่าใช้จ่ายด้าน AI",
-    "ids": [
-     "a4abd1e2a1c1",
-     "993e48dc4504",
-     "fb3bd3c64d62"
-    ]
-   },
-   {
-    "text": "สตาร์ทอัพด้าน AI Inference อย่าง Fal มีมูลค่าบริษัทพุ่งสูงขึ้นท่ามกลางความต้องการใช้งานที่เพิ่มขึ้น ในขณะที่ประเด็นเรื่องจริยธรรมและความปลอดภัยของ AI ยังคงเป็นที่จับตามองผ่านกรณีของ Postman และแนวคิดการควบคุม AI Agents",
-    "ids": [
-     "42ec3b43220b",
-     "da9a5824109f",
-     "0e022216c2cb"
+     "5b0217e1a4d8",
+     "bedf47ae62a6",
+     "7a2d99808199",
+     "993e48dc4504"
     ]
    }
   ]
@@ -136,7 +135,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 9,
+   "count": 5,
    "error": null
   }
  ],
@@ -306,9 +305,91 @@
   "80d7c1195eea",
   "738b197f44cf",
   "f921040bc5e3",
-  "032b81f3baec"
+  "032b81f3baec",
+  "0172870acf63",
+  "f3af5d2d690b",
+  "fd321e7e739a",
+  "1c3720906879",
+  "83371c0ff052",
+  "e04701aa47e4"
  ],
  "items": [
+  {
+   "id": "acbcb015f562",
+   "url": "https://www.blognone.com/node/152096",
+   "source": "Blognone",
+   "published": "2026-11-04T11:52:36+00:00",
+   "title": "AMD ไตรมาส 3/2026 ทำสถิติสูงสุดอีกไตรมาส มองปีหน้ากลุ่มเซิร์ฟเวอร์ AI ยังโตได้อีกเท่าตัว",
+   "text": "Body AMD รายงานผลประกอบการประจำไตรมาสที่ 3 ปี 2026 ทำสถิติใหม่สูงสุดอีกครั้ง รายได้ 13,377 ล้เานดอลลาร์ เพิ่มขึ้น 45% จากไตรมาสเดียวกันในปีก่อน อัตรากำไรขั้นต้น 54% และมีกำไรสุทธิตามบัญชี GAAP เพิ่มขึ้น 95% เป็น 2,428 ล้านดอลลาร์ กลุ่มธุรกิจ Data Center มีรายได้เพิ่มขึ้นถึง 97% เป็น 8,546 ล้านดอลลาร์ จากความต้องการสินค้ากลุ่ม EPYC รวมทั้งจีพียูรุ่นใหม่ MI450 ส่วนกลุ่ม Client และ Gaming รายได้ลดลง 8% เป็น 3,722 ล้านดอลลาร์ ซึ่งเมื่อลงรายละเอียด Client มีรายได้เพิ่มขึ้น 7% แต่กลุ่ม Gaming ลดลงถึง 40% เนื่องจ",
+   "title_th": "AMD เผยรายได้ไตรมาส 3/2026 ทำสถิติใหม่ คาดการณ์กลุ่มเซิร์ฟเวอร์ AI โตต่อเนื่อง",
+   "summary_th": "AMD รายงานผลประกอบการไตรมาสที่ 3 ปี 2026 เติบโตอย่างก้าวกระโดด โดยเฉพาะกลุ่ม Data Center ที่ได้รับอานิสงส์จากความต้องการชิป EPYC และจีพียูรุ่นใหม่ MI450 บริษัทยังคงมองเห็นโอกาสเติบโตของตลาดเซิร์ฟเวอร์ AI ในปีหน้า",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "AMD"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4b0282fd240e",
+   "url": "https://www.blognone.com/node/152095",
+   "source": "Blognone",
+   "published": "2026-11-04T10:35:43+00:00",
+   "title": "Influencer Marketing ยุคนี้ ต้องมี AI มาช่วยงาน Data ด้าน AnotherDot เลยเปิดตัวแพลตฟอร์มใหม่ ใช้ AI ช่วยแคมเปญต้ั้งแต่นัดหมาย ถึงสรุปผล",
+   "text": "Body AnotherDot แพลตฟอร์มอินฟลูเอนเซอร์มาร์เก็ตติ้งครบวงจร ร่วมกับพันธมิตร 3 ราย ได้แก่ iAM บริษัทบริหารศิลปินและอินฟลูเอนเซอร์, Plan B Media ผู้นำสื่อโฆษณานอกบ้าน และ Wisesight ผู้ให้บริการด้านข้อมูลโซเชียลมีเดีย เปิดตัวบริการ ‘End-to-End Influencer Marketing Platform’ แพลตฟอร์ม AI ที่ช่วยคัดเลือกอินฟลูเอนเซอร์ วางแผนแคมเปญ ดึงอินไซต์ และติดตามผลลัพธ์ครบจบในที่เดียว ปัจจุบันตลาด Influencer Marketing ในประเทศไทยกำลังก้าวเข้าสู่ยุคเปลี่ยนผ่านครั้งสำคัญ จากข้อมู",
+   "title_th": "AnotherDot เปิดตัวแพลตฟอร์ม AI ช่วยบริหารจัดการ Influencer Marketing ครบวงจร",
+   "summary_th": "AnotherDot ร่วมมือกับพันธมิตรเปิดตัวแพลตฟอร์ม AI สำหรับ Influencer Marketing เพื่อช่วยตั้งแต่ขั้นตอนการคัดเลือกอินฟลูเอนเซอร์ วางแผนแคมเปญ ไปจนถึงการติดตามและสรุปผลลัพธ์",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "AnotherDot",
+    "iAM",
+    "Plan B Media"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0432b707d653",
+   "url": "https://www.blognone.com/node/152094",
+   "source": "Blognone",
+   "published": "2026-11-04T07:02:45+00:00",
+   "title": "Tencent เปิดตัว Hy4 โมเดลราคาประหยัด ความสามารถใกล้ Kimi K3.1 Pro แม้ราคาถูกกว่ามาก",
+   "text": "Body ทีมวิจัย Tencent Hy เปิดตัวโมเดล Hy4 หลังจาก ปล่อยรุ่นพรีวิวมาแล้วหลายเดือน โดยความสามารถเพิ่มขึ้นจนผลทดสอบหลายชุดนำหน้าแม้แต่ โมเดลชั้นนำอย่าง Kimi K3.1 Pro ขนาด 3T และค่าโทเค็นถูกกว่าหลายเท่าตัว ผลทดสอบหลายตัวพัฒนาขึ้นจากรุ่นพรีวิวชัดเจน เช่น ProgramBench, 3DArena, Terminal Bench 4.0 โดยทีมงานระบุว่าความสามารถในการดูภาพพัฒนาขึ้นมาก จากการฝึกเฉพาะทางเพิ่มเติม เช่น การใช้งานโปรแกรมสามมิติอย่าง Blender หรือ CAD ตลอดจนการทำเว็บและเกม ทาง Tencent ระบุว่าจงใจจำกัดการฝึกด้านความปลอดภัยไซเบอร์ลง โดยเฉพาะความสามา",
+   "title_th": "Tencent เปิดตัว Hy4 โมเดลราคาประหยัดประสิทธิภาพสูงเทียบชั้น Kimi K3.1 Pro",
+   "summary_th": "ทีมวิจัย Tencent Hy เปิดตัวโมเดล Hy4 ที่มีประสิทธิภาพสูงในราคาที่ถูกกว่าคู่แข่งอย่าง Kimi K3.1 Pro โดยโดดเด่นด้านการประมวลผลภาพและการใช้งานซอฟต์แวร์เฉพาะทาง เช่น Blender และ CAD",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Tencent"
+   ],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "5d47252e76d4",
+   "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+   "source": "The Verge AI",
+   "published": "2026-11-04T00:42:54+00:00",
+   "title": "The biggest modding site in PC gaming is taking a stance on AI",
+   "text": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent […]",
+   "title_th": "Nexus Mods ประกาศกฎใหม่ บังคับระบุการใช้ AI ในม็อดเกม",
+   "summary_th": "Nexus Mods แพลตฟอร์มม็อดเกมชื่อดังประกาศกฎใหม่ที่บังคับให้ผู้สร้างม็อดต้องระบุอย่างชัดเจนว่ามีการใช้เนื้อหาที่สร้างจาก AI ในผลงานของตนหรือไม่",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Nexus Mods"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "13f71de2c4d5",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5",
@@ -338,6 +419,39 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5b0217e1a4d8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-03T22:48:57+00:00",
+   "title": "[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]",
+   "text": "Upvote, now! submitted by /u/ParaboloidalCrest [link] [comments]",
+   "title_th": "การปรับแต่ง llama.cpp ด้วยเทคนิค QFN และฮาร์ดแวร์เฉพาะทาง",
+   "summary_th": "มีการพูดถึงเทคนิคการปรับแต่ง llama.cpp ผ่านการทำ Quantization รูปแบบ QFN ร่วมกับการตั้งค่าฮาร์ดแวร์เฉพาะ เพื่อเพิ่มประสิทธิภาพการประมวลผลโมเดลภาษาขนาดใหญ่",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f11d9a22fb66",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+   "source": "The Verge AI",
+   "published": "2026-11-03T22:41:23+00:00",
+   "title": "Google hasn’t figured out how to make AI pay like its search engine",
+   "text": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads […]",
+   "title_th": "Google เผชิญความท้าทายในการสร้างรายได้จาก AI ให้เทียบเท่าธุรกิจค้นหาเดิม",
+   "summary_th": "รายงานผลประกอบการของ Alphabet ชี้ให้เห็นว่าแม้การค้นหาจะเติบโต แต่รายได้จากโฆษณาในธุรกิจค้นหาเริ่มชะลอตัวลง สะท้อนถึงความยากลำบากในการเปลี่ยนผ่านโมเดลรายได้ไปสู่ยุค AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Google",
+    "Alphabet"
+   ],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -391,6 +505,36 @@
    "dedup": true
   },
   {
+   "id": "edbf4ed1a954",
+   "url": "https://arxiv.org/abs/2605.29713",
+   "source": "Hacker News",
+   "published": "2026-11-03T21:40:53+00:00",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "text": "354 points, 55 comments on Hacker News (https://news.ycombinator.com/item?id=50358582)",
+   "title_th": "แนะนำหนังสือ The Little Book of Generative AI Foundations สำหรับผู้สนใจคณิตศาสตร์เบื้องหลัง AI",
+   "summary_th": "หนังสือเล่มนี้สรุปพื้นฐานทางคณิตศาสตร์ที่จำเป็นสำหรับการทำความเข้าใจ Generative AI ในรูปแบบที่เข้าใจง่ายและเป็นระบบ",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f3900be82c6f",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+   "source": "Hacker News",
+   "published": "2026-11-03T21:26:44+00:00",
+   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "text": "365 points, 152 comments on Hacker News (https://news.ycombinator.com/item?id=50358422)",
+   "title_th": "หนี้สินแฝงด้าน AI ของบริษัทเทคโนโลยียักษ์ใหญ่ในสหรัฐฯ พุ่งสูงขึ้น 90%",
+   "summary_th": "รายงานระบุว่าบริษัทเทคโนโลยีรายใหญ่ในสหรัฐฯ มีภาระหนี้สินแฝงที่เกี่ยวข้องกับการลงทุนด้าน AI เพิ่มขึ้นอย่างรวดเร็วถึง 3.2 ล้านล้านดอลลาร์ภายในระยะเวลาเพียง 6 เดือน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "39cfcbde58ed",
    "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
    "source": "The Verge AI",
@@ -421,7 +565,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted/"
+    }
+   ]
   },
   {
    "id": "49792679d79f",
@@ -790,6 +940,24 @@
    "dedup": true
   },
   {
+   "id": "7a2d99808199",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-03T12:58:05+00:00",
+   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+   "text": "MIT CSAIL had GPT-6 Astra fix Qwen3.5-0.8B's reasoning loops by editing 0.016% of its weights (MATH-500 went from 7.9% to 48.1%). They released the diff, so the edit can be rebuilt exactly and run locally. I took it a step further and had Claude look at Qwen with Anthropic's Jacobian lens. At the token where the model decides to write \"Wait\" again, the lens reads \"Wrong\", \"Nope\" and \"Hmm\" from about 60% depth on, even though the answer is already written out. At real stopping points it reads \"</think>\", \"Answer\" and \"Output\". With the edit applied, the lens at the same token shows \"Verificatio",
+   "title_th": "วิเคราะห์สาเหตุที่โมเดล Qwen ติดลูปการตอบคำถามซ้ำๆ และแนวทางการแก้ไข",
+   "summary_th": "มีการวิเคราะห์ปัญหาการติดลูปคำตอบของโมเดล Qwen โดยใช้เทคนิคการแก้ไขน้ำหนักโมเดลและการตรวจสอบผ่าน Jacobian lens เพื่อทำความเข้าใจกระบวนการตัดสินใจของโมเดล",
+   "category": "งานวิจัย",
+   "companies": [
+    "MIT",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "737f581b9d8a",
    "url": "https://www.blognone.com/node/152090",
    "source": "Blognone",
@@ -1032,6 +1200,21 @@
    "dedup": true
   },
   {
+   "id": "8ecb8a2b303f",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUlCMUF1SGhFdWp4dkR6VXg0SUpKZkVrMTA1Y0FoQmkwQjB4MUxxRTMtMHdDQUxEYnBNVFVDTk84NGN6SVFqTVk0dkdnTGZTY3BjNVpLX1VoTzdGdmNwSGZva2wzMXlrd0RyeFcyeTBRUmFHWWhhdTB4V25SclBhY0ZCNkh5LXRtenNqWXR1M2FWWW1SWl81eXZnSkFfcVRBZWVTbW5wS3RCSjdOeUNySHpmOA?oc=5",
+   "source": "internationalfinance.com",
+   "published": "2026-11-03T03:00:29+00:00",
+   "title": "IF Insights: ฟองสบู่ปัญญาประดิษฐ์ของจีนแตกแล้ว ทิ้งบทเรียนไว้สำหรับวอลล์สตรีท",
+   "text": "",
+   "title_th": "วิเคราะห์ฟองสบู่ AI ในจีนและบทเรียนสำหรับตลาดทุนโลก",
+   "summary_th": "บทความวิเคราะห์สถานการณ์ฟองสบู่ของอุตสาหกรรมปัญญาประดิษฐ์ในประเทศจีน พร้อมถอดบทเรียนสำคัญที่นักลงทุนในวอลล์สตรีทควรนำไปปรับใช้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "21494052cff5",
    "url": "https://www.blognone.com/node/152086",
    "source": "Blognone",
@@ -1050,6 +1233,10 @@
     {
      "source": "The Decoder",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVUyb2p4WG15VmhsQmQ5NVM1S21wZWlHM185X2h3YnFHbEdWc05nbkZBQXdqbnBWY2hqYnVnTks2Z3lPd2lOa3F5aGdnZXhfVTlGLVJNS0xoeXE2YlBKRTZfTWNhSTdId0ZzWE5GejhYTzZWNTFSQkRMcmtFblJDeXh5N1dVM0l2R1NFcE01T0lUd0E5blgxdkNwMGxMamwxVmtXcXFqcWJUWnJXUWl3?oc=5"
+    },
+    {
+     "source": "Tech Edition",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLVBPTXJPSWZKQTMwTnNacVRLcmRlVXZCcXprUGZzSVhDYV9NV0E2OU0wUVUwcks5UjNRMk9ubk9lTEl3UmhEd2I4ZVZoZFViaXhEWlVnR3F5RndZbmFOQmZGQlRkMDRNWHY3eFQwWXhMVDVGSkxHclc3THoyU1l4WFJGS2dvd05nZjBZdnlQT0EzNHc?oc=5"
     }
    ],
    "dedup": true
@@ -1298,6 +1485,66 @@
    "text": "submitted by /u/teakhop [link] [comments]",
    "title_th": "งานวิจัยชี้ LLM สามารถอ่านและเขียนน้ำหนักโครงข่ายประสาทได้โดยตรง",
    "summary_th": "มีการค้นพบความสามารถใหม่ของ LLM ที่สามารถอ่านและเขียนน้ำหนัก (Weights) ของโครงข่ายประสาทเทียมได้โดยตรง ซึ่งอาจนำไปสู่การเขียนโปรแกรมในระดับน้ำหนักโมเดล",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "63973ddb0548",
+   "url": "https://huggingface.co/papers/2611.05275",
+   "source": "HF Daily Papers",
+   "published": "2026-11-02T19:00:00+00:00",
+   "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+   "text": "Artificial general intelligence (AGI) requires a method that can understand, generate, reason, and act across diverse domains and modalities. Rather than relying on a single model to master every capability, a promising path toward AGI now is to orchestrate a heterogeneous ecosystem of specialized models, tools, and policies (candidates) into a unified AI system. At the heart of this vision lies a fundamental question: how can an AI system dynamically select and coordinate the most capable candidate for each task while balancing performance and computational cost? In this work, we present Rout",
+   "title_th": "Route Anything: การศึกษาการจัดเส้นทางโมเดลและนโยบายสำหรับระบบ AI อเนกประสงค์",
+   "summary_th": "งานวิจัยเสนอแนวทางการสร้างระบบ AGI ผ่านการประสานงานระหว่างโมเดลเฉพาะทางและเครื่องมือต่างๆ เข้าด้วยกัน โดยเน้นที่วิธีการเลือกและจัดการโมเดลที่เหมาะสมที่สุดอย่างมีประสิทธิภาพ",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "685e8104a6fb",
+   "url": "https://huggingface.co/papers/2611.04916",
+   "source": "HF Daily Papers",
+   "published": "2026-11-02T19:00:00+00:00",
+   "title": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling",
+   "text": "Video generation has progressed from isolated clips to coherent short-form audiovisual sequences, and the bottleneck is shifting from rendering to semantic control. This report summarizes the observations and insights on multimodal understanding gained from successive generations of Kling. We argue that generation quality is the projection of multimodal understanding through the entire data--conditioning--alignment--evaluation chain, and we examine this chain module by module. Kling-MLLM, a shared multimodal foundation model that unifies image, video, audio, synchronized audio--video, and inte",
+   "title_th": "เจาะลึก Kling: ข้อมูลเชิงลึกด้านความเข้าใจแบบมัลติโมดัลในการสร้างวิดีโอ",
+   "summary_th": "รายงานสรุปข้อมูลเชิงลึกจากการพัฒนาโมเดล Kling โดยชี้ให้เห็นว่าคุณภาพของการสร้างวิดีโอขึ้นอยู่กับความเข้าใจแบบมัลติโมดัลตลอดทั้งกระบวนการ ตั้งแต่ข้อมูลไปจนถึงการประเมินผล",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "807d8e9928de",
+   "url": "https://huggingface.co/papers/2611.05377",
+   "source": "HF Daily Papers",
+   "published": "2026-11-02T19:00:00+00:00",
+   "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+   "text": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations often entangle the underlying action with irrelevant visual variations, limiting transfer across embodiments. We introduce DreamX, which repurposes a pretrained video diffusion model as a universal latent action learner. Our approach extracts compact latent actions from the video model's rich spatiote",
+   "title_th": "DreamX: โมเดล Video Diffusion สำหรับการเรียนรู้การกระทำในระดับ Latent",
+   "summary_th": "นักวิจัยนำเสนอ DreamX ซึ่งเป็นการปรับใช้โมเดล Video Diffusion เพื่อเรียนรู้การกระทำที่เป็นสากล ช่วยให้โมเดลสามารถถ่ายโอนความสามารถข้ามรูปแบบและลักษณะที่ปรากฏได้ดีขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c183e075f0bc",
+   "url": "https://huggingface.co/papers/2611.04814",
+   "source": "HF Daily Papers",
+   "published": "2026-11-02T19:00:00+00:00",
+   "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
+   "text": "Large reasoning models achieve strong performance on challenging tasks, but their long chain-of-thought often incurs substantial inference costs by continuing to deliberate after sufficient information has been obtained. Existing reasoning compression methods primarily operate on reasoning trajectories, paying less attention to the local decision of whether further reasoning is necessary given the current state. We propose LoCo, a local preference learning method for reasoning compression. LoCo detects candidate overthinking states from the model's own traces, freezes the corresponding reasoni",
+   "title_th": "LoCo: วิธีการเรียนรู้ความชอบในระดับท้องถิ่นเพื่อบีบอัดการใช้เหตุผลของโมเดล",
+   "summary_th": "นำเสนอ LoCo วิธีการเรียนรู้เพื่อช่วยให้โมเดลตัดสินใจได้ว่าเมื่อใดควรหยุดใช้เหตุผลเพิ่มเติม เพื่อลดต้นทุนในการประมวลผลโดยไม่เสียประสิทธิภาพในการทำงาน",
    "category": "งานวิจัย",
    "companies": [],
    "importance": 3,
@@ -2065,6 +2312,51 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7148f4c95139",
+   "url": "https://huggingface.co/papers/2611.02737",
+   "source": "HF Daily Papers",
+   "published": "2026-11-01T19:00:00+00:00",
+   "title": "MoviEdit: Long-form Multi-Shot Video Editing Made Easy",
+   "text": "Long-form multi-shot video editing requires an intended edit to remain coherent across abrupt changes in scene, viewpoint, and subject appearance, while processing substantially longer visual context than conventional single-shot editors. We introduce MoviEdit, an end-to-end framework for scalable long-form multi-shot video editing that jointly addresses the challenges of data, modeling, and evaluation. To provide cross-shot supervision data at scale, we develop automatic data-generation pipelines spanning synchronized multi-view footage, real-world multi-shot videos, and generated multi-shot ",
+   "title_th": "MoviEdit: เฟรมเวิร์กสำหรับการตัดต่อวิดีโอแบบหลายช็อตที่ยาวขึ้น",
+   "summary_th": "เปิดตัว MoviEdit ระบบที่ช่วยให้การตัดต่อวิดีโอแบบหลายช็อตมีความต่อเนื่องและคงความสอดคล้องของฉากและตัวละครได้ดีขึ้น แม้ในวิดีโอที่มีความยาวมาก",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "590000369c46",
+   "url": "https://huggingface.co/papers/2611.03424",
+   "source": "HF Daily Papers",
+   "published": "2026-11-01T19:00:00+00:00",
+   "title": "IdeaTaste: Do LLMs Share the Research Taste of Human Researchers?",
+   "text": "Research taste, the judgment of what to read, which problems to pursue, and which methods to try, increasingly shapes the work of AI scientists, yet it remains far less understood than their ability to execute research. We introduce IdeaTaste, a benchmark that scores an LLM by how closely the research proposals it writes from a literature snapshot frozen at 2025 match the work the same communities published in 2026. Our experiments span six contemporary language models and four research areas from established to emerging fields, covering more than 90{,}000 proposals in total. LLM agents fall w",
+   "title_th": "IdeaTaste: การทดสอบว่า LLMs มีรสนิยมในการวิจัยเหมือนนักวิจัยที่เป็นมนุษย์หรือไม่",
+   "summary_th": "งานวิจัยแนะนำ IdeaTaste ซึ่งเป็นเกณฑ์มาตรฐานสำหรับวัดความสามารถของ LLM ในการเสนอหัวข้อวิจัย โดยเปรียบเทียบกับผลงานวิจัยจริงที่ตีพิมพ์ในอนาคต",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b727f10c6404",
+   "url": "https://huggingface.co/papers/2611.03233",
+   "source": "HF Daily Papers",
+   "published": "2026-11-01T19:00:00+00:00",
+   "title": "Axion 1.0: Open Agent Foundation Models, Simplified",
+   "text": "We introduce Axion 1.0, a fully open agent foundation model that combines strong and broad agentic capabilities with a remarkably simple training recipe. Axion 1.0 is trained in only three stages: two lightweight supervised fine-tuning stages followed by reinforcement learning, without dedicated mid-training, direct preference optimization (DPO), or on-policy distillation (OPD). The first SFT stage develops strong self-contained reasoning through model-aware data construction, where we synthesize challenging problems and adversarially strengthen them based on the base model's own successful so",
+   "title_th": "Axion 1.0: โมเดลพื้นฐานสำหรับ Agent แบบโอเพนซอร์สที่เรียบง่าย",
+   "summary_th": "เปิดตัว Axion 1.0 โมเดลพื้นฐานสำหรับ Agent ที่เน้นความสามารถในการทำงานที่หลากหลายด้วยกระบวนการฝึกฝนที่เรียบง่ายโดยไม่ต้องใช้เทคนิคซับซ้อนอย่าง DPO",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },

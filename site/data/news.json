@@ -1,48 +1,49 @@
 {
- "updated_at": "2026-11-03T19:33:00+00:00",
+ "updated_at": "2026-11-04T00:39:26+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-03T19:33:00+00:00",
-  "headline": "ความก้าวหน้าของ AI ในการประยุกต์ใช้เชิงวิศวกรรมและงานวิจัยขยายตัวอย่างรวดเร็ว พร้อมการปรับตัวของบริษัทเทคโนโลยีรายใหญ่",
+  "generated_at": "2026-11-04T00:39:26+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญในวงการ AI วันนี้ครอบคลุมตั้งแต่การขยายตัวของ ChatGPT การปรับกลยุทธ์ของ Apple ไปจนถึงนวัตกรรมด้านฮาร์ดแวร์และการประยุกต์ใช้ AI ในระดับองค์กร",
   "points": [
    {
-    "text": "ความสามารถของ AI ในงานวิศวกรรมและวิทยาศาสตร์ก้าวหน้าขึ้นอย่างมาก ทั้งการออกแบบชิป การจำลองสถานการณ์จริง และการพัฒนายาใหม่",
-    "ids": [
-     "adafdd4764cb",
-     "469e1e1d98ee",
-     "3bafb7904533",
-     "26c6032e1d26",
-     "4d836f21a02f"
-    ]
-   },
-   {
-    "text": "การพัฒนาโมเดลภาษาขนาดใหญ่เน้นไปที่การขยายขีดความสามารถด้าน Context Window ความปลอดภัย และการตีความน้ำหนักโมเดล รวมถึงการเตรียมพร้อมสู่ยุค AI ที่พัฒนาตัวเองได้",
-    "ids": [
-     "cf0fc65ba2f0",
-     "855688c450b2",
-     "bedf47ae62a6",
-     "a19d731a67f8",
-     "a199fe9106db"
-    ]
-   },
-   {
-    "text": "บริษัทเทคโนโลยีรายใหญ่ เช่น Apple, Google และ OpenAI ปรับกลยุทธ์การใช้งาน AI ในผลิตภัณฑ์ของตนอย่างเข้มข้น ทั้งการบังคับใช้ฟีเจอร์ AI และการหาโมเดลรายได้ใหม่",
+    "text": "ChatGPT เติบโตอย่างรวดเร็วโดยมีปริมาณการค้นหาเทียบเท่า 20% ของ Google ในขณะที่ Apple เดินหน้าบูรณาการ AI เข้ากับระบบนิเวศผ่าน Siri และฟีเจอร์ใหม่ใน watchOS พร้อมกลยุทธ์ลงทุน AI ที่เน้นประสิทธิภาพ",
     "ids": [
      "662bf89dbff2",
-     "ba273efe94ab",
+     "49792679d79f",
      "62af55115339",
-     "dde5f3bd6293",
-     "b20c657114df",
-     "968f14d53faf"
+     "dde5f3bd6293"
     ]
    },
    {
-    "text": "ประเด็นด้านธรรมาภิบาลและความปลอดภัยของ AI กลายเป็นเรื่องสำคัญ ทั้งการตรวจสอบการใช้งานในองค์กร การควบคุมความปลอดภัยของ Agent และการจัดการข้อมูลผู้ใช้",
+    "text": "ความก้าวหน้าด้านฮาร์ดแวร์และการประมวลผล AI มีความคึกคักอย่างมาก ทั้งการที่ DeepSeek เตรียมใช้ชิป Huawei Ascend, ข่าวลือสเปก RTX 5090, และการที่ NVIDIA ใช้ AI เพิ่มประสิทธิภาพการผลิตชิปเซมิคอนดักเตอร์",
     "ids": [
-     "631f7a4392b4",
+     "27b1d1875833",
+     "81bd5929347d",
+     "3bafb7904533"
+    ]
+   },
+   {
+    "text": "การประยุกต์ใช้ AI ในองค์กรและงานวิจัยขยายตัวต่อเนื่อง เช่น การที่ Salesforce ซื้อกิจการ Cresta, Cisco ร่วมมือกับ OpenAI ด้านความปลอดภัย, และ Google DeepMind เปิดตัวเครื่องมือวิจัยยา",
+    "ids": [
+     "0611338b13eb",
+     "a2357e701f02",
+     "adafdd4764cb"
+    ]
+   },
+   {
+    "text": "Anthropic เผชิญความท้าทายด้านต้นทุนการประมวลผลและกำลังพัฒนาเครื่องมือตรวจสอบความปลอดภัยของโมเดล ในขณะที่บริษัทอย่าง Revolut เริ่มหันไปใช้ระบบ Self-hosted เพื่อลดค่าใช้จ่ายด้าน AI",
+    "ids": [
+     "a4abd1e2a1c1",
+     "993e48dc4504",
+     "fb3bd3c64d62"
+    ]
+   },
+   {
+    "text": "สตาร์ทอัพด้าน AI Inference อย่าง Fal มีมูลค่าบริษัทพุ่งสูงขึ้นท่ามกลางความต้องการใช้งานที่เพิ่มขึ้น ในขณะที่ประเด็นเรื่องจริยธรรมและความปลอดภัยของ AI ยังคงเป็นที่จับตามองผ่านกรณีของ Postman และแนวคิดการควบคุม AI Agents",
+    "ids": [
+     "42ec3b43220b",
      "da9a5824109f",
-     "0e022216c2cb",
-     "20954e3ac0ff"
+     "0e022216c2cb"
     ]
    }
   ]
@@ -135,7 +136,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 5,
+   "count": 9,
    "error": null
   }
  ],
@@ -303,9 +304,174 @@
   "32791f69eb2c",
   "2592912c26e9",
   "80d7c1195eea",
-  "738b197f44cf"
+  "738b197f44cf",
+  "f921040bc5e3",
+  "032b81f3baec"
  ],
  "items": [
+  {
+   "id": "13f71de2c4d5",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5",
+   "source": "Business Insider",
+   "published": "2026-11-03T23:55:00+00:00",
+   "title": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup",
+   "text": "",
+   "title_th": "Cat Wu ผู้นำผลิตภัณฑ์คนสำคัญของ Anthropic และหนึ่งในหน้าตาของ Claude Code ลาออกแล้ว",
+   "summary_th": "Cat Wu ผู้บริหารระดับสูงด้านผลิตภัณฑ์ของ Anthropic ซึ่งมีบทบาทสำคัญในการเปิดตัว Claude Code ได้ตัดสินใจลาออกจากบริษัท",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "64fbdbf83ed1",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+   "source": "The Verge AI",
+   "published": "2026-11-03T23:37:45+00:00",
+   "title": "Please stop asking me when the AI bubble will pop",
+   "text": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]",
+   "title_th": "มุมมองต่อคำถามเรื่องฟองสบู่ AI ที่ยังไม่มีใครให้คำตอบที่ชัดเจนได้",
+   "summary_th": "บทความสะท้อนถึงคำถามที่พบบ่อยเกี่ยวกับสถานะของตลาด AI ว่าจะเกิดฟองสบู่แตกเมื่อใด โดยชี้ให้เห็นว่าไม่มีใครสามารถคาดการณ์อนาคตของตลาดได้อย่างแม่นยำ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "993e48dc4504",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-03T22:41:03+00:00",
+   "title": "Anthropic is working on a system to prove AI models’ identity",
+   "text": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+   "title_th": "Anthropic กำลังพัฒนา FlashProve ระบบยืนยันตัวตนของโมเดล AI",
+   "summary_th": "Anthropic กำลังพัฒนา FlashProve ซึ่งเป็นระบบที่ช่วยให้ผู้ใช้งานสามารถตรวจสอบได้ว่าคำตอบที่ได้รับมาจากโมเดล AI ที่อ้างถึงจริงหรือไม่",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "97ea381abb97",
+   "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-03T22:19:53+00:00",
+   "title": "Data centers are turning to old jet engines as the wait for power grows",
+   "text": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+   "title_th": "ศูนย์ข้อมูลหันไปใช้เครื่องยนต์เจ็ทเก่าเพื่อแก้ปัญหาขาดแคลนพลังงาน",
+   "summary_th": "ผู้สร้างศูนย์ข้อมูลกำลังเผชิญกับปัญหาการรอคอยการเชื่อมต่อไฟฟ้าที่ยาวนาน จึงหันไปใช้เครื่องยนต์เจ็ทเก่าที่เลิกใช้งานแล้วมาเป็นแหล่งพลังงานสำรองแทน",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f7b02949050d",
+   "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-03T21:43:08+00:00",
+   "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "text": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+   "title_th": "Ballistic Ventures ระดมทุนกว่า 490 ล้านดอลลาร์ รับกระแสความต้องการไซเบอร์ซีเคียวริตี้",
+   "summary_th": "บริษัทลงทุน Ballistic Ventures กำลังระดมทุนก้อนใหม่เพื่อสนับสนุนสตาร์ทอัพด้านความปลอดภัยทางไซเบอร์ที่ขับเคลื่อนด้วย AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Ballistic Ventures"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "39cfcbde58ed",
+   "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+   "source": "The Verge AI",
+   "published": "2026-11-03T21:09:00+00:00",
+   "title": "Those Jeff Bezos hair transplant photos are very fake",
+   "text": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]",
+   "title_th": "ภาพ Jeff Bezos ปลูกผมที่แชร์กันในโซเชียลเป็นภาพปลอม",
+   "summary_th": "มีการตรวจสอบพบว่าภาพของ Jeff Bezos และ Jason Statham ที่มีผมดกดำซึ่งกำลังแพร่กระจายบนโซเชียลมีเดียนั้นเป็นภาพที่สร้างขึ้นโดย AI",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fb3bd3c64d62",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-03T21:05:30+00:00",
+   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+   "text": "submitted by /u/notheresnolight [link] [comments]",
+   "title_th": "Revolut ลดต้นทุน AI Coding ลง 10 เท่าด้วยการย้ายจาก Claude มาใช้ระบบ Self-hosted",
+   "summary_th": "Revolut บริษัทฟินเทคยักษ์ใหญ่ตัดสินใจเปลี่ยนจากการใช้บริการ Claude มาเป็นระบบที่โฮสต์เอง เพื่อลดค่าใช้จ่ายในการเขียนโค้ดด้วย AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Revolut",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "49792679d79f",
+   "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+   "source": "The Verge AI",
+   "published": "2026-11-03T20:19:55+00:00",
+   "title": "Apple starts giving Siri AI access to third-party apps",
+   "text": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to […]",
+   "title_th": "Apple เปิดให้ Siri เข้าถึงและสั่งการแอปพลิเคชันภายนอกได้แล้ว",
+   "summary_th": "Apple อัปเดต iOS ให้ Siri สามารถเชื่อมต่อและทำงานร่วมกับแอปพลิเคชันภายนอกได้ โดยใช้บริบทของผู้ใช้และการประมวลผลภาษาธรรมชาติในการสั่งการ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "42ec3b43220b",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-03T19:34:43+00:00",
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "text": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+   "title_th": "สตาร์ทอัพ AI Inference ชื่อ Fal มูลค่าพุ่งแตะ 1.6 หมื่นล้านดอลลาร์",
+   "summary_th": "Fal สตาร์ทอัพด้าน AI Inference ระดมทุนรอบใหม่ได้ 1.3 พันล้านดอลลาร์ ส่งผลให้มูลค่าบริษัทเพิ่มขึ้นเป็นสองเท่าท่ามกลางความต้องการที่สูงขึ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Fal"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4d5ff210a72f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn2jyz/what_do_people_with_normal_hardware_32gb_ram_16gb/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-03T19:28:09+00:00",
+   "title": "What do people with normal hardware : 32GB ram 16GB VRAM run?",
+   "text": "Just asking because i have been out of the loop for a while and kinda missed everything (strata etc...) a small recap would be appreciated. Everyone seems to own an RTX 6000 or insanely expensive rigs here. So just wanted to hear what model a normal pleb like me with 32GB ram and 16GB VRAM can even run and on what to run it for coding or a general assistant. submitted by /u/FormationHeaven [link] [comments]",
+   "title_th": "คำแนะนำการใช้งานโมเดล AI สำหรับผู้ที่มีฮาร์ดแวร์ระดับทั่วไป",
+   "summary_th": "บทสนทนาในชุมชนผู้ใช้งาน AI เกี่ยวกับการเลือกใช้โมเดลสำหรับผู้ที่มีทรัพยากรฮาร์ดแวร์จำกัด เช่น RAM 32GB และ VRAM 16GB เพื่อการเขียนโค้ดหรือเป็นผู้ช่วยส่วนตัว",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "62af55115339",
    "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
@@ -327,6 +493,21 @@
      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
     }
    ],
+   "dedup": true
+  },
+  {
+   "id": "1dd7630a424d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-03T18:48:57+00:00",
+   "title": "I tried MIT's \"weight-space programming\" on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it translates one Italian tense",
+   "text": "Yesterday MIT CSAIL showed GPT-6 Astra editing the weights of a small model by hand. It changed a few neurons of Qwen3.5-0.8B, the model stopped looping on math problems, and its scores jumped. No training at all. I wanted to try the same thing on something closer to what I actually do with local models, which is translating into Italian. Gemma 4 has a habit I don't love. For sentences like He had been hiding in the attic for months when the soldiers found him. it writes «Si era nascosto in soffitta per mesi…». That's correct, but I prefer «Si nascondeva in soffitta da mesi…», which says he wa",
+   "title_th": "ทดลองปรับแต่ง Weight ของโมเดล Gemma 4 เพื่อเปลี่ยนพฤติกรรมการแปลภาษา",
+   "summary_th": "ผู้ใช้งานทดลองใช้วิธี Weight-space programming เพื่อแก้ไขค่าในโมเดล Gemma 4 โดยตรงโดยไม่ต้องเทรนใหม่ เพื่อปรับเปลี่ยนวิธีการแปลภาษาให้ตรงกับความต้องการ",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
    "dedup": true
   },
   {
@@ -623,7 +804,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
+    }
+   ]
   },
   {
    "id": "26c6032e1d26",
@@ -711,6 +898,42 @@
    "dedup": true
   },
   {
+   "id": "a2357e701f02",
+   "url": "https://openai.com/index/cisco-cyber",
+   "source": "OpenAI",
+   "published": "2026-11-03T08:00:00+00:00",
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "text": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+   "title_th": "Cisco ผนึกกำลัง OpenAI ยกระดับระบบรักษาความปลอดภัยองค์กร",
+   "summary_th": "Cisco นำโมเดลของ OpenAI มาใช้ร่วมกับระบบ Network Intelligence เพื่อสร้างการป้องกันภัยคุกคามทางไซเบอร์ที่ปรับตัวได้รวดเร็วขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Cisco",
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "27b1d1875833",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-03T07:07:11+00:00",
+   "title": "DeepSeek V5 is planned to be pre-trained on Huawei Ascend chips.",
+   "text": "Source: https://mp.weixin.qq.com/s/R-1u2exLwZMOu7AITyU5kg A reporter from STAR Market Daily has learned from multiple sources within the industry supply chain that DeepSeek’s next-generation large model, DeepSeek V5, is planned to be pre-trained using Ascend chips. Previously, Huawei’s Ascend chips were primarily utilized for inference tasks for DeepSeek’s large models. According to publicly available information, the first large-scale deployment of DeepSeek models on the Ascend platform took place around the 2025 Spring Festival. In his book The Rise of Ascend , Fang Xingdong—Executive Dean o",
+   "title_th": "DeepSeek วางแผนใช้ชิป Huawei Ascend ในการเทรนโมเดลรุ่นถัดไป",
+   "summary_th": "มีรายงานว่า DeepSeek เตรียมใช้ชิปประมวลผล Ascend ของ Huawei ในการเทรนโมเดล DeepSeek V5 หลังจากที่เคยใช้ชิปดังกล่าวสำหรับการอนุมาน (Inference) มาก่อน",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "DeepSeek",
+    "Huawei"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "4d836f21a02f",
    "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
    "source": "NVIDIA",
@@ -723,6 +946,21 @@
    "companies": [
     "NVIDIA"
    ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0f27d8809d54",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TalJtQXR3Y0dVWUhVX3NhZVZ4OE1DNDU4SHcxNFZscmNrQ3VJdF9veE9rMHBjRTRwYXVwUGNMaUpqSjhocjR0aWtrOHl2RGx6MzhIQ00wWm5VeWVuVXhXT2JSNA?oc=5",
+   "source": "thestandard.co",
+   "published": "2026-11-03T06:08:40+00:00",
+   "title": "AI เขย่าตลาดแรงงานปี 2027 จับตาอนาคตวิศวกร Coding และทักษะอะไรที่ AI ยังแทนไม่ได้",
+   "text": "",
+   "title_th": "จับตาตลาดแรงงานปี 2027: อนาคตของวิศวกร Coding และทักษะที่ AI ยังแทนไม่ได้",
+   "summary_th": "รายงานวิเคราะห์ผลกระทบของ AI ต่อตลาดแรงงานในอนาคต โดยเน้นไปที่บทบาทของวิศวกรซอฟต์แวร์และการปรับตัวของทักษะแรงงานท่ามกลางการเปลี่ยนแปลงของเทคโนโลยี ข้อมูลนี้มีความสำคัญต่อการเตรียมความพร้อมของบุคลากรในสายงานเทคโนโลยี",
+   "category": "อื่นๆ",
+   "companies": [],
    "importance": 3,
    "ai": true,
    "dedup": true
@@ -898,6 +1136,23 @@
     "Hugging Face"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3d509e27bae2",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source": "OpenAI",
+   "published": "2026-11-03T00:00:00+00:00",
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "text": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+   "title_th": "OpenAI แต่งตั้ง Jill Hazelbaker ดำรงตำแหน่ง Chief Corporate Affairs Officer",
+   "summary_th": "OpenAI ประกาศแต่งตั้ง Jill Hazelbaker เข้ามารับตำแหน่งหัวหน้าฝ่ายกิจการองค์กร เพื่อดูแลด้านการสื่อสารและภาพลักษณ์ของบริษัทในระดับโลก การเปลี่ยนแปลงระดับบริหารนี้สะท้อนถึงการขยายตัวและการจัดการความสัมพันธ์เชิงกลยุทธ์ของบริษัท",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -1257,6 +1512,10 @@
     {
      "source": "Bloomberg",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlc5a0lMc2prYk5VbWQ1bk5UMXc4RzdQcEZtaThpbVI2bFJ4VzNKNFNQT0FhLWJtb1BuR0ZKZXUwMFViMTVUWEJLRmcwdXNFVmFZQnpLUERjN0hGMmRUbWVDUFU4R1VfUUozMmxIQ3d1eVNnb1hVMFlLQWswVVlGb2ZzYy1iV1lrYUN5ZWFnNE9JY19ZeEFPX183WC1wLW1aYTNTYy1NUmt3VHhzUTBxWkZjc3Y?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkN1VHFrREJneU9DdUV5UVBuT29PM1hOdXN5aU5udTZqc21yV1VMS0VySEJqa1NrLWlhcTdYdVM1Nmo3MDdJWWtEc2JRWDVrVXBKX2tJS0t4TTg0eG4zLVJqWFBNNUlCd1hDR3YxeHlvUmFqdks1cHFQUGk5U2RaX2JuYnl5REFlN0pRX25DdU9SX2s?oc=5"
     }
    ],
    "dedup": true

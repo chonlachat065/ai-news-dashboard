@@ -1,44 +1,58 @@
 {
- "updated_at": "2026-11-04T19:53:09+00:00",
+ "updated_at": "2026-11-05T12:27:49+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-04T19:53:09+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายรอบด้าน ทั้งความเสี่ยงด้านความปลอดภัย การบริหารจัดการต้นทุน และการปรับตัวของโมเดลธุรกิจในระดับองค์กร",
+  "generated_at": "2026-11-05T12:27:49+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญในอุตสาหกรรม AI ทั้งด้านการพัฒนาโมเดล การขยายตัวของโครงสร้างพื้นฐาน และการปรับกลยุทธ์ของบริษัทเทคโนโลยีชั้นนำ",
   "points": [
    {
-    "text": "ความปลอดภัยของ AI กลายเป็นประเด็นวิกฤต หลังพบว่าโมเดลสามารถแฮ็กองค์กรได้เอง มีช่องโหว่ในระบบลายน้ำ และความเสี่ยงจากการทำงานของ AI Agents โดยไม่มีมนุษย์ควบคุม",
+    "text": "OpenAI อัปเดตโมเดล GPT Images 2.6 รองรับการสร้างภาพเคลื่อนไหว GIF และเข้าซื้อกิจการ Pierre Computer Company เพื่อเสริมศักยภาพด้านการเขียนโค้ด พร้อมทั้งเดินหน้ากำหนดนโยบายสำหรับการเลือกตั้งปี 2028",
     "ids": [
-     "1bde5b404498",
-     "0384ac58ce97",
-     "b71b7365d7a0",
-     "993e48dc4504"
+     "af009059638d",
+     "026e4ebd4085",
+     "3a06f84c0f51",
+     "a1e153edc152",
+     "f93567576105"
     ]
    },
    {
-    "text": "บริษัทเทคโนโลยียักษ์ใหญ่เผชิญแรงกดดันด้านการเงินและโครงสร้างพื้นฐาน โดยมีหนี้สินแฝงจากการลงทุน AI พุ่งสูงขึ้น 90% ขณะที่การขยายศูนย์ข้อมูลเริ่มติดข้อจำกัดด้านนโยบายและการเมือง",
+    "text": "Anthropic ชนะคดีลิขสิทธิ์กับสำนักพิมพ์เพลง ขยายความร่วมมือกับ Addgene ในการนำข้อมูลพลาสมิดเข้าสู่ Claude และมีการย้ายทีมผู้บริหารระดับสูงไปร่วมงานกับ OpenAI",
     "ids": [
-     "f3900be82c6f",
+     "70eb9ddfcb77",
+     "3a9607df50a3",
+     "a06b03026c79",
+     "0384ac58ce97",
+     "4db192e7a60a"
+    ]
+   },
+   {
+    "text": "บริษัทเทคโนโลยีรายใหญ่ยังคงทุ่มงบลงทุนในศูนย์ข้อมูล AI อย่างต่อเนื่อง แม้จะเผชิญความท้าทายด้านนโยบายการเมืองในสหรัฐฯ และการปรับลดงบประมาณภายในของบางบริษัทอย่าง Apple",
+    "ids": [
+     "b8c0e66ba855",
+     "aa3b92b87c68",
      "dda2b2db6c67",
      "0c9cbd4df150",
-     "f11d9a22fb66"
+     "a331696f9782"
     ]
    },
    {
-    "text": "ตลาดโมเดล AI มีการแข่งขันสูงขึ้นด้วยโมเดลราคาประหยัดและ Open-weights จากฝั่งจีนและผู้เล่นรายใหม่ ขณะที่ Hugging Face ชี้ให้เห็นถึงความสำคัญของกลยุทธ์ Open Source ในการสร้างมูลค่าทางธุรกิจ",
+    "text": "โมเดล Open-weights และ Open Source ได้รับความนิยมสูงขึ้น โดย Deepseek ครองส่วนแบ่งการใช้งานบน OpenRouter กว่าครึ่ง และมีการเปิดตัวโมเดลใหม่ๆ เช่น Kimi-K3.1-Pro รวมถึงการพัฒนาโมเดลสำหรับรันบนอุปกรณ์ (On-device)",
     "ids": [
-     "0432b707d653",
-     "902e55dc5593",
+     "6ccc3ac20462",
      "49cf82dfae35",
-     "bb779f39a67b"
+     "bb779f39a67b",
+     "902e55dc5593",
+     "89209ab642b1",
+     "281e7092f209"
     ]
    },
    {
-    "text": "การพัฒนาผลิตภัณฑ์ AI ยังคงเดินหน้าอย่างต่อเนื่อง ทั้งการอัปเดตฟีเจอร์ใน ChatGPT และ Claude, การที่ Apple ให้ Siri สั่งการแอปภายนอกได้ รวมถึงการพัฒนาอุปกรณ์ AI ไร้หน้าจอโดย Nothing",
+    "text": "ความเคลื่อนไหวในตลาดฮาร์ดแวร์และซอฟต์แวร์ AI มีความคึกคัก ทั้งการที่ Qualcomm มุ่งเน้นธุรกิจศูนย์ข้อมูล AI, Meta เข้าซื้อกิจการสตาร์ทอัพด้าน AI coding และ Nothing เตรียมเปิดตัวอุปกรณ์ AI ใหม่",
     "ids": [
-     "026e4ebd4085",
-     "a06b03026c79",
-     "49792679d79f",
-     "d0178f35064d"
+     "48d8c1552d58",
+     "d23caa988630",
+     "d0178f35064d",
+     "3701202fe75e"
     ]
    }
   ]
@@ -131,7 +145,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 7,
+   "count": 3,
    "error": null
   }
  ],
@@ -317,9 +331,301 @@
   "6c35d4c93609",
   "98139d3fb586",
   "ac5380eefb5a",
-  "76342e728d27"
+  "76342e728d27",
+  "cc84c500ad21",
+  "4c9b76bc0bf9",
+  "858a2ce3283f",
+  "94c502abbc46",
+  "da5d280ed08f",
+  "7e8396c09c3e",
+  "0a437d67f2ef",
+  "0a4a9682fe98",
+  "0b77aa374565",
+  "60488cd9d291"
  ],
  "items": [
+  {
+   "id": "af009059638d",
+   "url": "https://www.blognone.com/node/152102",
+   "source": "Blognone",
+   "published": "2026-11-05T12:14:24+00:00",
+   "title": "OpenAI เปิดตัวโมเดล GPT Images 2.6 สร้างภาพแบบ GIF ได้แล้ว",
+   "text": "Body OpenAI เปิดตัวโมเดลสร้างรูปภาพ GPT Images 2.6 มีจุดเด่นคือสร้างรูปเร็วขึ้น 50% เทียบกับเวอร์ชัน 2.5 และสามารถสร้างภาพเคลื่อนไหวเป็น GIF ได้แล้ว GPT Images 2.6 แบ่งเป็น 2 โมเดลย่อย (เฉพาะการเรียกผ่าน API) คือ Flare เน้นทำงานเร็ว และ Sunburst เน้นคุณภาพสูง ฟีเจอร์อื่นที่น่าสนใจคือการกำหนดค่าที่ทำได้ละเอียดขึ้น และ API รองรับ image markup ที่ระบุเจาะจงได้ว่าให้ปรับแก้ตรงจุดไหน (ของเดิมทำได้เฉพาะผ่านแอพ ไม่รองรับ API) OpenAI ยังให้ข้อมูลว่า มีผู้ใช้งานสั่งสร้างรูปภาพบนแพลตฟอร์มตัวเอง (ChatGPT, Codex, API) รวมกันเกิน 4 พันล้านภาพต่อสัป",
+   "title_th": "OpenAI เปิดตัวโมเดล GPT Images 2.6 สร้างภาพเคลื่อนไหว GIF ได้แล้ว",
+   "summary_th": "OpenAI อัปเดตโมเดลสร้างรูปภาพเป็นเวอร์ชัน 2.6 โดยเพิ่มความเร็วขึ้น 50% และรองรับการสร้างภาพเคลื่อนไหวแบบ GIF พร้อมเปิดตัวโมเดลย่อย Flare และ Sunburst สำหรับการใช้งานผ่าน API ที่ปรับแต่งได้ละเอียดขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "OpenAI",
+     "url": "https://openai.com/index/introducing-images-2-6"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "3a9607df50a3",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUYtTno4SXVsVUZhWDFNOFBIOTh0N054TjhDbzRlM0pnSVE5dnF2SFJsQXc0NGw4aTIzaGNXZjdTX29IUGJEM0RlakxHLVBkUTItbHI0UEhGWDFYTUliMHN4Mm5YX2NNTXhORHNnS3doVm53a1NVOU53ZnBKbW1XS01QMFo?oc=5",
+   "source": "The Business Journals",
+   "published": "2026-11-05T11:00:00+00:00",
+   "title": "Addgene partners with Anthropic to integrate plasmid catalog into Claude",
+   "text": "",
+   "title_th": "Addgene จับมือ Anthropic นำฐานข้อมูลพลาสมิดเข้าสู่ Claude",
+   "summary_th": "Addgene ประกาศความร่วมมือกับ Anthropic เพื่อนำข้อมูลแคตตาล็อกพลาสมิดมาบูรณาการเข้ากับโมเดล Claude เพื่อช่วยให้นักวิจัยเข้าถึงข้อมูลทางชีวภาพได้สะดวกขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Addgene",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b8c0e66ba855",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+   "source": "The Verge AI",
+   "published": "2026-11-05T10:35:19+00:00",
+   "title": "Big Tech’s big AI buildout will not end until someone stops it",
+   "text": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also […]",
+   "title_th": "บริษัทเทคโนโลยีรายใหญ่ยังคงลงทุนในศูนย์ข้อมูล AI อย่างต่อเนื่อง",
+   "summary_th": "บริษัทเทคโนโลยีขนาดใหญ่ยังคงทุ่มงบประมาณมหาศาลในการสร้างศูนย์ข้อมูลสำหรับ AI แม้ว่าผลตอบแทนจากการลงทุนจะยังไม่ชัดเจนในขณะนี้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c81d555c8fa4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-05T09:31:10+00:00",
+   "title": "Qwen3.8-27B has become unuseable recently",
+   "text": "When it came out, I downloaded a Q4 quant of qwen3.8-27b and ran it using llama.cpp on my RTX 4090 and it was incredible. It could handle practically anything I threw at it, the most complex tasks and bugfixes. But lately it just keeps messing up and failing at the most basic of tasks or just straight up forgetting instructions. I'm telling you, they quantized it. They probably secretly nerfed it and made it worse so qwen4 looks better. And it got lazy too, now it doesn't want to finish the more complex tasks. I'm tired of companies doing this, I want my money back. submitted by /u/liright [li",
+   "title_th": "ผู้ใช้งานพบปัญหาประสิทธิภาพของ Qwen3.8-27B ลดลง",
+   "summary_th": "ผู้ใช้งานในชุมชน LocalLLaMA รายงานว่าโมเดล Qwen3.8-27B มีประสิทธิภาพลดลงอย่างเห็นได้ชัดในการทำงานพื้นฐานเมื่อเทียบกับช่วงที่เปิดตัวใหม่ๆ",
+   "category": "อื่นๆ",
+   "companies": [
+    "Alibaba"
+   ],
+   "importance": 2,
+   "ai": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xobzg3/qwen_be_like/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "f93567576105",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "source": "OpenAI",
+   "published": "2026-11-05T02:00:00+00:00",
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "text": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+   "title_th": "OpenAI เสนอแนวทางพัฒนาโครงสร้างพื้นฐาน AI อย่างรับผิดชอบ",
+   "summary_th": "OpenAI เปิดตัวนโยบายและแนวทางปฏิบัติสำหรับการพัฒนาโครงสร้างพื้นฐาน AI เพื่อปกป้องทรัพยากรท้องถิ่นและส่งเสริมการจ้างงาน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "aa3b92b87c68",
+   "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-05T01:26:22+00:00",
+   "title": "Apple is reportedly cutting budgets for its internal AI usage",
+   "text": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+   "title_th": "Apple ลดงบประมาณการใช้งาน AI ภายในองค์กร",
+   "summary_th": "มีรายงานว่า Apple ได้ปรับลดงบประมาณที่ใช้สำหรับโครงการ AI ภายในทีมวิศวกรของบริษัทลงอย่างมีนัยสำคัญ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d93ef6b85a78",
+   "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-05T01:02:14+00:00",
+   "title": "After the midterms, a bigger clash over data centers could be coming",
+   "text": "Data center opposition crossed party lines in Tuesday’s midterms.",
+   "title_th": "ความขัดแย้งเรื่องการสร้างศูนย์ข้อมูล AI มีแนวโน้มรุนแรงขึ้น",
+   "summary_th": "กระแสการต่อต้านการสร้างศูนย์ข้อมูล AI เริ่มขยายตัวและกลายเป็นประเด็นทางการเมืองที่ได้รับความสนใจจากหลายฝ่าย",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4db192e7a60a",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtsUnhTLUhSSnp4Q09CcWhMcS1lSGhSOUZKdUtWYUJxeW9YdHBRUTV6WW9LNUZ2RlRVWl9tUG02dkRMSzdtMk5NbENYVVhfczJMQ1lkV012RnFiTXRNUFhGdktjakpRcGlKWDRvQzFsNEZ1cnJDcTg2UlZpQWZ4WGpHVWdPejdlQ0E2QjZtNXRVLWRqdXBB?oc=5",
+   "source": "Business Insider",
+   "published": "2026-11-05T00:57:00+00:00",
+   "title": "A top Anthropic product leader has been poached by OpenAI",
+   "text": "",
+   "title_th": "ผู้นำด้านผลิตภัณฑ์ของ Anthropic ย้ายไปร่วมงานกับ OpenAI",
+   "summary_th": "ผู้บริหารระดับสูงด้านผลิตภัณฑ์ของ Anthropic ได้ลาออกเพื่อไปร่วมงานกับคู่แข่งอย่าง OpenAI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "89209ab642b1",
+   "url": "https://huggingface.co/blog/phonon-tts",
+   "source": "Hugging Face",
+   "published": "2026-11-05T00:00:00+00:00",
+   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "text": "",
+   "title_th": "เปิดตัว Phonon TTS โมเดลแปลงข้อความเป็นเสียงคุณภาพสูงบนอุปกรณ์",
+   "summary_th": "มีการเปิดตัว Phonon TTS ซึ่งเป็นโมเดลแปลงข้อความเป็นเสียงที่เน้นการทำงานบนอุปกรณ์ (On-device) โดยให้คุณภาพเสียงสูงและทำคะแนนได้ดีในเกณฑ์มาตรฐาน",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "70eb9ddfcb77",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTm41eXFubWtUby1QYU9PSGlhQjF6SnBoRWQtVTVTN2YzZGdaUjVway0yTi1FeEFCX1VlN1NxSFlUZ0dkbmpxR1ZjYTl4azZSY3ZUVkh5UkpselVyQWRta1JCaXNiMXpLbzh6aW9BR1kxLS11c3NkT284TGI0V2FuMXpUWElPUGJ0YmV2UXdjX3REbUlwWjc3M0I2M2puN2M?oc=5",
+   "source": "Courthouse News",
+   "published": "2026-11-04T22:56:45+00:00",
+   "title": "Music publishers suffer setback in copyright case against Anthropic",
+   "text": "",
+   "title_th": "สำนักพิมพ์เพลงพ่ายแพ้ในคดีลิขสิทธิ์กับ Anthropic",
+   "summary_th": "คดีความเรื่องลิขสิทธิ์ระหว่างกลุ่มสำนักพิมพ์เพลงและ Anthropic มีความคืบหน้าโดยฝ่ายสำนักพิมพ์ประสบความพ่ายแพ้ในชั้นศาล ซึ่งถือเป็นประเด็นสำคัญด้านกฎหมายสำหรับบริษัท AI ที่ใช้ข้อมูลในการฝึกโมเดล",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a331696f9782",
+   "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-04T22:45:09+00:00",
+   "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+   "text": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+   "title_th": "กลุ่มการเมืองสาย AI ทุ่มงบมหาศาลเพื่อมีอิทธิพลต่อสภาคองเกรส",
+   "summary_th": "กลุ่มการเมืองที่สนับสนุนอุตสาหกรรม AI ได้ใช้เงินจำนวนมากในการรณรงค์ช่วงการเลือกตั้งกลางเทอมที่ผ่านมาเพื่อกำหนดทิศทางนโยบาย โดยผลลัพธ์ที่ได้มีความหลากหลายและกำลังเตรียมพร้อมสำหรับรอบการเลือกตั้งถัดไป",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "48d8c1552d58",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+   "source": "The Verge AI",
+   "published": "2026-11-04T22:42:15+00:00",
+   "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+   "text": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]",
+   "title_th": "Qualcomm มุ่งเน้นธุรกิจศูนย์ข้อมูล AI หลังยอดขายสมาร์ทโฟนลดลง",
+   "summary_th": "Qualcomm ปรับกลยุทธ์ทางธุรกิจโดยหันมาให้ความสำคัญกับตลาดศูนย์ข้อมูล AI มากขึ้น เพื่อชดเชยยอดขายสมาร์ทโฟนที่ลดลง โดยมีความร่วมมือกับบริษัทเทคโนโลยีรายใหญ่อย่าง Amazon และ Meta",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Qualcomm",
+    "Amazon",
+    "Meta"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a1e153edc152",
+   "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-04T21:25:44+00:00",
+   "title": "OpenAI is already trying to shape the 2028 election",
+   "text": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+   "title_th": "OpenAI เดินหน้ากำหนดทิศทางนโยบายสำหรับการเลือกตั้งปี 2028",
+   "summary_th": "ผู้บริหารของ OpenAI เสนอแนวคิดสัญญาประชาคมใหม่เพื่อใช้ AI ในการขับเคลื่อนการเลือกตั้งปี 2028 ซึ่งมีเป้าหมายเพื่อประโยชน์ของประชาชนและผลประโยชน์ทางธุรกิจของบริษัท",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d23caa988630",
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-04T21:10:56+00:00",
+   "title": "Meta acquires AI coding startup Conductor",
+   "text": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+   "title_th": "Meta เข้าซื้อกิจการสตาร์ทอัพด้าน AI coding ชื่อ Conductor",
+   "summary_th": "Meta ประกาศเข้าซื้อกิจการ Conductor ซึ่งเป็นสตาร์ทอัพที่พัฒนาเครื่องมือให้วิศวกรซอฟต์แวร์สามารถใช้ทีม AI agents ทำงานร่วมกันในโปรเจกต์ต่างๆ ได้พร้อมกัน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Meta",
+    "Conductor"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6ccc3ac20462",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-04T20:39:28+00:00",
+   "title": "Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now",
+   "text": "Source: https://dirac.run/labs-market-share#daily-token-share-by-lab submitted by /u/Comfortable-Rock-498 [link] [comments]",
+   "title_th": "Deepseek ครองส่วนแบ่งการใช้งานโทเค็นกว่าครึ่งบน OpenRouter",
+   "summary_th": "ข้อมูลการใช้งานบน OpenRouter ระบุว่า Deepseek มีสัดส่วนการใช้งานโทเค็นสูงถึง 53% โดยโมเดลแบบเปิด (open-weights) ทั้งหมดรวมกันมีส่วนแบ่งการตลาดเกิน 75%",
+   "category": "อื่นๆ",
+   "companies": [
+    "Deepseek"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b6ceabf91c49",
+   "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+   "source": "The Verge AI",
+   "published": "2026-11-04T20:23:24+00:00",
+   "title": "Gemini for Home now plugs into AT&T’s smart security system",
+   "text": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide […]",
+   "title_th": "Gemini for Home เชื่อมต่อระบบรักษาความปลอดภัยอัจฉริยะของ AT&T",
+   "summary_th": "ระบบรักษาความปลอดภัยของ AT&T ผสานการทำงานกับ Gemini for Home เพื่อให้ผู้ใช้สามารถสรุปเหตุการณ์ภายในบ้านและค้นหาประวัติวิดีโอผ่านฟีเจอร์ AI ได้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google",
+    "AT&T"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "49cf82dfae35",
    "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
@@ -373,6 +679,21 @@
    "dedup": true
   },
   {
+   "id": "448d01b0289f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-04T19:16:16+00:00",
+   "title": "ricursiveAI/Ripple-65B-Preview · Hugging Face",
+   "text": "submitted by /u/coder543 [link] [comments]",
+   "title_th": "เปิดตัวโมเดล Ripple-65B-Preview บน Hugging Face",
+   "summary_th": "มีการเผยแพร่โมเดลภาษาขนาดใหญ่รุ่นใหม่ชื่อ Ripple-65B-Preview บนแพลตฟอร์ม Hugging Face สำหรับนักพัฒนาและผู้สนใจนำไปใช้งาน",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "0384ac58ce97",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON21xVHlTUEVsSW5hLTUyWkg4dmlDVmVBX3lQaXJTSVhYZUR5anhxVDBHbkpZUnV1SWFydi04S1pUSUQzMk9OSnJIQnJqalZiZ3M5Z3JLX2JROUVZUEsxZTNiZkNyRzgzRFFLZTg1ay1tY0RESk4xWmFVSU82Mk1iVFRvSzFXWUxiVkJJQnJhR3FGYVpaZ0RESVk0MTFNNEdU?oc=5",
    "source": "The Decoder",
@@ -421,7 +742,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+    }
+   ]
   },
   {
    "id": "dda2b2db6c67",
@@ -534,7 +861,13 @@
    ],
    "importance": 2,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+    }
+   ]
   },
   {
    "id": "902e55dc5593",
@@ -586,6 +919,21 @@
    "dedup": true
   },
   {
+   "id": "793baf0e5454",
+   "url": "https://news.ycombinator.com/item?id=50366117",
+   "source": "Hacker News",
+   "published": "2026-11-04T14:37:22+00:00",
+   "title": "Ask HN: What's your current AI agentic setup?",
+   "text": "377 points, 421 comments on Hacker News (https://news.ycombinator.com/item?id=50366117)",
+   "title_th": "การสนทนาบน Hacker News เกี่ยวกับการตั้งค่า AI agent",
+   "summary_th": "ชุมชนนักพัฒนาบน Hacker News ร่วมแลกเปลี่ยนความคิดเห็นและแบ่งปันวิธีการตั้งค่าการใช้งาน AI agent ในปัจจุบัน",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "3a06f84c0f51",
    "url": "https://openai.com/index/openai-to-acquire-pierre",
    "source": "OpenAI",
@@ -596,8 +944,30 @@
    "summary_th": "OpenAI ประกาศเข้าซื้อกิจการ Pierre Computer Company เพื่อเสริมศักยภาพเครื่องมือ Codex ในการเขียนและตรวจสอบโค้ด",
    "category": "ธุรกิจ/การลงทุน",
    "companies": [
-    "OpenAI"
+    "OpenAI",
+    "Pierre Computer"
    ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true,
+   "also": [
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152099"
+    }
+   ]
+  },
+  {
+   "id": "3701202fe75e",
+   "url": "https://huggingface.co/papers/2611.06918",
+   "source": "HF Daily Papers",
+   "published": "2026-11-04T13:59:58+00:00",
+   "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+   "text": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most vulnerable to this abstraction, e.g., local geometry, boundaries, depth, and subtle state changes. This raises a fundamental question: should action policies inherit a fixed visual endpoint, or directly access evolving visual computation? We introduce NEO-VLA, a structurally encoder-free vision-language-action framework. Images are tokenized by lightweight patch c",
+   "title_th": "งานวิจัย NEO-VLA นำเสนอโมเดล Vision-Language-Action แบบใหม่",
+   "summary_th": "งานวิจัยนำเสนอ NEO-VLA ซึ่งเป็นโมเดลที่ให้ความสำคัญกับการเข้าถึงข้อมูลภาพโดยตรงเพื่อการตัดสินใจที่แม่นยำขึ้น แทนการบีบอัดข้อมูลภาพแบบเดิม",
+   "category": "งานวิจัย",
+   "companies": [],
    "importance": 3,
    "ai": true,
    "dedup": true
@@ -769,6 +1139,38 @@
    "dedup": true
   },
   {
+   "id": "4c33fbdd0dc4",
+   "url": "https://huggingface.co/papers/2611.06483",
+   "source": "HF Daily Papers",
+   "published": "2026-11-04T08:24:54+00:00",
+   "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+   "text": "While multi-turn agentic reinforcement learning (RL) excels on long-horizon tasks, its performance gains remain highly sensitive to interaction constraints. Evaluating across sampling breadth K and interaction depth T via Pass@(K,T), we show that trajectory-level RL advantages depend on sufficient turn budgets, diminishing significantly when budgets tighten. Besides, agentic RL does not uniformly elevate single-step decision quality; rather, its strength concentrates in error recovery and long-horizon resilience. To mitigate the deployment risks caused by this budget dependence, we provide a p",
+   "title_th": "งานวิจัยวิเคราะห์ประสิทธิภาพของ Reinforcement Learning ใน AI Agents",
+   "summary_th": "งานวิจัยชี้ให้เห็นว่าการใช้ Reinforcement Learning ใน AI agents มีข้อจำกัดด้านงบประมาณการโต้ตอบ และไม่ได้ช่วยยกระดับคุณภาพการตัดสินใจในทุกขั้นตอน แต่เน้นไปที่การกู้คืนจากข้อผิดพลาด",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a4f4c423c542",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "source": "OpenAI",
+   "published": "2026-11-04T08:00:00+00:00",
+   "title": "A thousand fewer paths to root",
+   "text": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+   "title_th": "OpenAI ใช้ AI ค้นหาและแก้ไขช่องโหว่ใน Linux kernel",
+   "summary_th": "OpenAI พัฒนาระบบอัตโนมัติที่สามารถค้นหา ตรวจสอบ และสร้างแพตช์เพื่อแก้ไขช่องโหว่ด้านความปลอดภัยใน Linux kernel ได้เกือบหนึ่งพันรายการ",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "0432b707d653",
    "url": "https://www.blognone.com/node/152094",
    "source": "Blognone",
@@ -827,6 +1229,24 @@
    "dedup": true
   },
   {
+   "id": "bf25be8f8779",
+   "url": "https://openai.com/index/devrev-enterprise-self-service",
+   "source": "OpenAI",
+   "published": "2026-11-04T00:00:00+00:00",
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "text": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+   "title_th": "DevRev นำ GPT-6.1 Sol มาใช้ขับเคลื่อนระบบบริการตนเองอัตโนมัติ",
+   "summary_th": "DevRev ใช้โมเดล GPT-6.1 Sol เพื่อขับเคลื่อนระบบ Computer และ Operator สำหรับงานบริการระดับองค์กร โดยเน้นการสร้างสมดุลระหว่างการใช้เหตุผล ความเร็ว และต้นทุน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "DevRev",
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "13f71de2c4d5",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5",
    "source": "Business Insider",
@@ -839,9 +1259,15 @@
    "companies": [
     "Anthropic"
    ],
-   "importance": 2,
+   "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Vocal",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzFvSGdQNjFLbFRMSGtSZXc3V2kybGR1bXR6NWQyZ040TnhEc2VVck9ka04tcUJJVFdMTGtpSFF4QmtCa0s2VUJsUVE0OWFwNEc5S01nZnJwcllFOTRUU2NUZWV5QVhraUQ2TnROeW5OMzhRNUxtdldoMVZpQWtyYkU4MFBJMUxvcFdaMzFPcDMwcnpGLTlXTGVWUW53Zm11VUVuckNvVkNnZ0t5RDZfQWtxZTd4UQ?oc=5"
+    }
+   ]
   },
   {
    "id": "64fbdbf83ed1",
@@ -1055,6 +1481,36 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c997aee47d8b",
+   "url": "https://huggingface.co/papers/2611.06728",
+   "source": "HF Daily Papers",
+   "published": "2026-11-03T19:00:00+00:00",
+   "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+   "text": "Streaming video understanding requires models to repeatedly decide whether to respond or continue observing. Recently, Group Relative Policy Optimization (GRPO) has been applied to this setting, with existing approaches emphasizing reward design while retaining a single trajectory-level advantage across turns. Such shared credit can reinforce redundant replies after earlier successes and discourage useful follow-ups after earlier failures. We propose TurnWise, a turn-level GRPO framework that aligns learning with individual streaming decisions. TurnWise addresses the mismatch between trajector",
+   "title_th": "TurnWise เฟรมเวิร์กใหม่เพื่อเพิ่มประสิทธิภาพการทำ Streaming Video RL",
+   "summary_th": "งานวิจัยนำเสนอ TurnWise ซึ่งเป็นเฟรมเวิร์กแบบ turn-level GRPO เพื่อแก้ปัญหาการให้คะแนนแบบรวมในโมเดลทำความเข้าใจวิดีโอสตรีมมิ่ง ช่วยให้โมเดลตัดสินใจโต้ตอบหรือสังเกตการณ์ต่อได้อย่างแม่นยำขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9dbadbfd4502",
+   "url": "https://huggingface.co/papers/2611.06910",
+   "source": "HF Daily Papers",
+   "published": "2026-11-03T19:00:00+00:00",
+   "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+   "text": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-to-end benchmark with 56 tasks made by 42 physicists based on their own research, covering nine domains across theoretical, computational, and experimental physics. Each task requires agents to review the literature, develop a research plan, conduct research and experiments, and produce structured o",
+   "title_th": "เปิดตัว FrontierPhysics เกณฑ์มาตรฐานใหม่สำหรับประเมิน AI ในงานวิจัยฟิสิกส์",
+   "summary_th": "นักวิจัยนำเสนอ FrontierPhysics ซึ่งเป็นชุดทดสอบแบบ end-to-end ที่ครอบคลุมงานวิจัยฟิสิกส์ 9 สาขา เพื่อประเมินคุณภาพและความถูกต้องของ AI agents ในการทำงานวิจัยจริงแทนการแก้โจทย์เฉพาะทางเพียงอย่างเดียว",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -1677,6 +2133,14 @@
     {
      "source": "Tech Edition",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLVBPTXJPSWZKQTMwTnNacVRLcmRlVXZCcXprUGZzSVhDYV9NV0E2OU0wUVUwcks5UjNRMk9ubk9lTEl3UmhEd2I4ZVZoZFViaXhEWlVnR3F5RndZbmFOQmZGQlRkMDRNWHY3eFQwWXhMVDVGSkxHclc3THoyU1l4WFJGS2dvd05nZjBZdnlQT0EzNHc?oc=5"
+    },
+    {
+     "source": "Yahoo Tech",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOclk3b3AzcVZ0Y19SdEpWOFZrR3UyYU4weUs0cVZISTRTMWNnenc4c0RKdjNMcDJRTzE4dWtwRGhwcXVuMWV4bnh3bnlHUlU2Rjd0dFBZSWY4cWI5Vkl2WWFvTkx1VXFVVkVPTk1QRVZHR2M2Z1RpN0tRMTNfTHhKNy1xX3ZRV0dhS2pUa3BNRFlPNms?oc=5"
+    },
+    {
+     "source": "Tom's Hardware",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRjZtdTRhY2hIeDlfYkV1ZEFWQThWNUZBczNJYUdTd0xHSUM1aU5CZ2VkNGpfWU9Lb1hsOV9hM2VjNEtYdGZUZklkYWJZZkNsZmNWQUtsTnhzTERKTktMR1RfZzQ2RjJEVnl6ZFJObzVQVzNnRzVsM0w2N1Q2MEloM0xzTnJWcTRZc1BHRmpoZ0RIY2k4OWJOdlV2Zll3bm5oaXNtTUdpTExLWjcxSkpaTUNvYjNNRHJKQ000RzBfRk96bzJTZjROb1ZfcldCYjNoUk1GeGltVXFWdi0tbkVhd0pzcGRPUU1fUTFKYW1TMzJOQ2V4WmVjQ1RnSUVUMUtRNjNrLUtrZmZYZw?oc=5"
     }
    ],
    "dedup": true

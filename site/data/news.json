@@ -1,52 +1,52 @@
 {
- "updated_at": "2026-11-05T22:04:55+00:00",
+ "updated_at": "2026-11-06T06:56:18+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-05T22:04:55+00:00",
-  "headline": "ความเคลื่อนไหวครั้งใหญ่ในอุตสาหกรรม AI ทั้งการเปิดตัวโมเดลใหม่จากยักษ์ใหญ่ การขยายตัวของโครงสร้างพื้นฐาน และการเปลี่ยนแปลงเชิงกลยุทธ์ของบริษัทเทคโนโลยีชั้นนำ",
+  "generated_at": "2026-11-06T06:56:18+00:00",
+  "headline": "ความเคลื่อนไหวครั้งใหญ่ในวงการ AI ทั้งการเปิดตัวโมเดลและเครื่องมือ Agent ใหม่ ท่ามกลางความกังวลด้านกฎระเบียบและโครงสร้างพื้นฐาน",
   "points": [
    {
-    "text": "OpenAI และ Google เดินหน้าอัปเดตโมเดลอย่างต่อเนื่อง โดย OpenAI เปิดตัว GPT-6 Cyber, GPT Images 2.6 และโมเดลย่อยใหม่ ส่วน Google เปิดตัว Gemini Omni 1.2 Flash ที่เน้นความเร็วและประหยัดต้นทุน",
+    "text": "บริษัทเทคโนโลยีชั้นนำเร่งเปิดตัวโมเดลและ AI Agent ใหม่เพื่อเพิ่มประสิทธิภาพการทำงาน เช่น OpenAI กับ GPT-6 Cyber และ GPT Images 2.6, Perplexity กับ Teammates, Google กับ Gemini Omni 1.2 Flash, รวมถึงการเปิดตัว FireFlash และโมเดลจาก NVIDIA และ Z.ai",
     "ids": [
      "53c56afbaf05",
+     "8e75ec02fc50",
+     "d7e9e3e89ee7",
+     "d4f3e6b69f9a",
      "af009059638d",
-     "d7e9e3e89ee7"
-    ]
-   },
-   {
-    "text": "NVIDIA เสริมแกร่งโครงสร้างพื้นฐาน AI ด้วยการเปิดตัว Vera CPU สำหรับ AI Agents, โมเดลโอเพนซอร์ส Cosmos 3 และกลยุทธ์ Full-Stack Codesign เพื่อแก้ปัญหาหน่วยความจำ",
-    "ids": [
+     "acbe6f399f61",
      "7eab5dddcfa7",
      "e8690f74b67f",
-     "3df4d68063a5"
+     "c6134d61030c"
     ]
    },
    {
-    "text": "Anthropic ขยายขีดความสามารถของ Claude ในการวิเคราะห์การเงินและงานวิจัยทางวิทยาศาสตร์ พร้อมรับมือคดีความด้านลิขสิทธิ์และมีการปรับเปลี่ยนผู้บริหารระดับสูง",
-    "ids": [
-     "f49d817c3fd3",
-     "70eb9ddfcb77",
-     "4fc4625abcfc",
-     "3a9607df50a3",
-     "4db192e7a60a"
-    ]
-   },
-   {
-    "text": "การลงทุนในโครงสร้างพื้นฐาน AI ยังคงเข้มข้นผ่านการควบรวมกิจการของ Dropbox และการสร้างศูนย์ข้อมูลขนาดใหญ่ แม้จะเริ่มมีความกังวลเรื่องผลกระทบต่อชุมชนและงบประมาณภายในของบางบริษัท",
+    "text": "การขยายตัวของระบบนิเวศ AI ผ่านการเข้าซื้อกิจการและการลงทุนเชิงกลยุทธ์ เช่น Dropbox ซื้อ Tigris Data, Palo Alto Networks เจรจาซื้อ Clutch และความก้าวหน้าของ AI Agent ในภาคธุรกิจและวิทยาศาสตร์โดย Airbnb, Anthropic และ Axiom Math",
     "ids": [
      "aecc9a23fd3c",
-     "b8c0e66ba855",
-     "2e06a7a163b7",
-     "f93567576105",
-     "aa3b92b87c68"
+     "904574e3ce24",
+     "1eac7fe42e87",
+     "f49d817c3fd3",
+     "2846e03446f4",
+     "4fc4625abcfc"
     ]
    },
    {
-    "text": "นวัตกรรม AI ในด้านหุ่นยนต์และการประยุกต์ใช้งานเฉพาะทางเติบโตอย่างรวดเร็ว ทั้งการเข้าตลาดหุ้นของ Agility Robotics และการใช้ AI Agent ในงานวิจัยคณิตศาสตร์และวัสดุศาสตร์",
+    "text": "ความท้าทายด้านกฎระเบียบและโครงสร้างพื้นฐานเริ่มส่งผลกระทบต่อตลาดหุ้นและแผนการดำเนินงานของบริษัท AI โดยมีการเรียกร้องให้ชะลอการพัฒนาและตั้งกระทรวงกำกับดูแล รวมถึงปัญหาการต่อต้านศูนย์ข้อมูลในชุมชน",
     "ids": [
+     "2a4d68646668",
+     "07d8be2258f4",
+     "85f398082dad",
+     "2e06a7a163b7",
+     "818f38db2719"
+    ]
+   },
+   {
+    "text": "ความเคลื่อนไหวในตลาดทุนและเทคโนโลยีระดับล่าง ได้แก่ แผน IPO ของ OpenAI ในปี 2027, การเข้าจดทะเบียนใน Nasdaq ของ Agility Robotics และการอัปเดตเทคโนโลยีฮาร์ดแวร์จาก NVIDIA และ Delta Inference Engine",
+    "ids": [
+     "cfd1704d56b5",
      "d94f47b36633",
-     "2846e03446f4",
-     "fd04855a6f41"
+     "3df4d68063a5",
+     "dc08f45f6de8"
     ]
    }
   ]
@@ -120,9 +120,9 @@
   },
   {
    "name": "r/LocalLLaMA",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "count": 8,
+   "error": null
   },
   {
    "name": "HF Daily Papers",
@@ -139,7 +139,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 5,
+   "count": 7,
    "error": null
   }
  ],
@@ -349,9 +349,174 @@
   "7b187a5bdc28",
   "0573fddea441",
   "0deb2813e40a",
-  "dbb3453e34b3"
+  "dbb3453e34b3",
+  "8191794b1100",
+  "7f4f7d62ab00",
+  "2e43cf471461",
+  "5d993c955834",
+  "c0ab0888e5e7",
+  "babff87fa684",
+  "2cc2507cff70",
+  "221da6cead1c",
+  "cc48f8093c5b"
  ],
  "items": [
+  {
+   "id": "904574e3ce24",
+   "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-06T06:28:32+00:00",
+   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "text": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+   "title_th": "Palo Alto Networks เจรจาเข้าซื้อกิจการ Clutch สตาร์ทอัพด้านความปลอดภัย AI Agent",
+   "summary_th": "Palo Alto Networks กำลังอยู่ในระหว่างการเจรจาเพื่อเข้าซื้อกิจการ Clutch ซึ่งเป็นสตาร์ทอัพด้านความปลอดภัยสำหรับ AI Agent โดยมีมูลค่าการซื้อขายที่คาดการณ์ไว้สูงถึง 500 ล้านดอลลาร์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Palo Alto Networks",
+    "Clutch"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2a4d68646668",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Vc05OaUZMWkNQWUhodFp3dXllUDlCbjFmSlB5Sy1oUmszTGxWbnpnNFVrdzk1Rk5LU1pjZnNUVDI3dXFVWXljVkhnMm5ueGg0QlNFYVpIbDlzeElTc0YyQjJsYnA?oc=5",
+   "source": "bangkokbiznews",
+   "published": "2026-11-06T05:00:00+00:00",
+   "title": "สส.เดโมแครตจี้รัฐบาล หยุดพัฒนา AI ชั่วคราว! ชงตั้ง ‘กระทรวง AI’",
+   "text": "",
+   "title_th": "สส.เดโมแครตเสนอให้รัฐบาลหยุดพัฒนา AI ชั่วคราว พร้อมผลักดันตั้งกระทรวง AI",
+   "summary_th": "สมาชิกสภาผู้แทนราษฎรจากพรรคเดโมแครตเรียกร้องให้รัฐบาลชะลอการพัฒนา AI ลงชั่วคราว พร้อมเสนอแนวคิดในการจัดตั้งกระทรวง AI เพื่อกำกับดูแลเทคโนโลยีอย่างเป็นระบบ",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "07d8be2258f4",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12NXJCUGxfclRPOFFtYUh5WXBxZ0tjVmZsUzJaN3ZBRUlWMDN6NFc4dm51X3FodlJiSUR0UGhKLV8tRGxJS3lPNm13Z2VHUQ?oc=5",
+   "source": "Hoonsmart",
+   "published": "2026-11-06T01:50:52+00:00",
+   "title": "ดาวโจนส์ปิดดิ่งแรง 1,833 จุด ขายหุ้นชิป-AI กังวลเจอกฎเกณฑ์เข้ม",
+   "text": "",
+   "title_th": "ตลาดหุ้นดาวโจนส์ร่วงหนัก หลังนักลงทุนกังวลกฎเกณฑ์คุมเข้ม AI",
+   "summary_th": "ดัชนีหุ้นดาวโจนส์ปรับตัวลดลงอย่างรุนแรงจากการเทขายหุ้นกลุ่มชิปและ AI เนื่องจากความกังวลเกี่ยวกับกฎระเบียบและข้อบังคับที่เข้มงวดขึ้นในอนาคต",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "85f398082dad",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "source": "The Verge AI",
+   "published": "2026-11-06T00:37:56+00:00",
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "text": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]",
+   "title_th": "OpenAI ประกาศเลิกใช้ข้อตกลงรักษาความลับ (NDA) ในโครงการศูนย์ข้อมูล",
+   "summary_th": "OpenAI ประกาศนโยบายใหม่โดยจะไม่ใช้ข้อตกลงรักษาความลับกับเจ้าหน้าที่รัฐในโครงการศูนย์ข้อมูล เพื่อตอบสนองต่อกระแสคัดค้านจากชุมชนในพื้นที่",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1eac7fe42e87",
+   "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-05T22:40:55+00:00",
+   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+   "text": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+   "title_th": "Airbnb ยืนยันเตรียมเปิดตัว AI Travel Agent ในช่วงครึ่งแรกของปี 2027",
+   "summary_th": "Airbnb เตรียมเปิดตัวเครื่องมือ AI Agent ที่ช่วยอำนวยความสะดวกให้นักเดินทางตั้งแต่การวางแผน เปรียบเทียบตัวเลือก ไปจนถึงการจัดการการจองและการดูแลตลอดการเข้าพัก",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Airbnb"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "8e75ec02fc50",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "source": "The Verge AI",
+   "published": "2026-11-05T22:26:50+00:00",
+   "title": "Perplexity launches its own take on AI agents for work",
+   "text": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]",
+   "title_th": "Perplexity เปิดตัว AI Agent สำหรับการทำงานแข่งกับ OpenAI และ Anthropic",
+   "summary_th": "Perplexity เปิดตัว Teammates ซึ่งเป็น AI Agent ที่ทำงานได้ตลอดเวลาและสามารถรับบทบาทต่างๆ ในพื้นที่ทำงาน พร้อมเชื่อมต่อกับเครื่องมือและข้อมูลเดิมของผู้ใช้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Perplexity",
+    "OpenAI",
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "818f38db2719",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU5MeHUxWDhnY0d4UE9OUFVjSWpLVnd1UEw4a1ZiY2EzaU85b2Q0NHFlRkFGMk9OakM1VjVVTzB1NnktZ3RKaW9MQ3ZlOTItV21ZcUd6WU9zQVRyZmRvN0FPYXRFbEZ6aDBCdENjZHRoV3pFWUJoelZEN2xaNkFKZUYxVXFhUWtjTjEtbTdKMnBxRVBUMFUwMmo3Q0ZhZw?oc=5",
+   "source": "AP News",
+   "published": "2026-11-05T21:50:00+00:00",
+   "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
+   "text": "",
+   "title_th": "กลุ่มวิจัยชี้ Anthropic เร่งพัฒนา AI อย่างรวดเร็วท่ามกลางกระแสเรียกร้องให้ชะลอตัว",
+   "summary_th": "รายงานจากกลุ่มวิจัยภายนอกระบุว่า Anthropic กำลังเร่งความเร็วในการพัฒนา AI อย่างต่อเนื่อง แม้จะมีเสียงเรียกร้องจากหลายฝ่ายให้ชะลอการพัฒนาลงก็ตาม",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e7c62756ba5f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-05T20:09:52+00:00",
+   "title": "Appreciation post for OrcaCyber-Nano-1.0",
+   "text": "I haven't see anyone post about this gem of a finetune. So I wanted to appreciate the team and bring some attention to it. OrcaCyber-Nano-1.0 for me is the best finetune I have used so far. I have tried quite a few like AREX or Swift or Peculiar Ragdoll's Spark chat template etc. But this model is on par with my experience with frontiers. (I may not be doing complicated stuff). Here are my experiences with this: It almost always one shots the bash command chains. Same resilience as base Qwen 3.8 27B but this gets to the answer faster. I have used it to plan and implement stuff. I uploaded the ",
+   "title_th": "ผู้ใช้งานชื่นชมโมเดล OrcaCyber-Nano-1.0 ว่ามีประสิทธิภาพสูง",
+   "summary_th": "ผู้ใช้งานในชุมชน AI แบ่งปันประสบการณ์การใช้โมเดล OrcaCyber-Nano-1.0 โดยระบุว่ามีประสิทธิภาพเทียบเท่ากับโมเดลระดับแนวหน้าในงานบางประเภท",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "acbe6f399f61",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-05T20:06:15+00:00",
+   "title": "Z.ai chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B)",
+   "text": "Smaller GLM models are coming! GLM 5.5 will have a 32B model! submitted by /u/wapswaps [link] [comments]",
+   "title_th": "เผยรายละเอียดการฝึกโมเดล GLM-5.5 รุ่นใหม่จาก Z.ai",
+   "summary_th": "Z.ai เตรียมเปิดตัวโมเดล GLM-5.5 โดยมีขนาดให้เลือกตั้งแต่ 32B, 122B ไปจนถึง 256B ซึ่งถือเป็นการขยายไลน์อัปโมเดลขนาดเล็กให้มีประสิทธิภาพมากขึ้น",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Z.ai"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "7eab5dddcfa7",
    "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
@@ -366,6 +531,24 @@
     "NVIDIA"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c88b52d0b210",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
+   "source": "OpenAI",
+   "published": "2026-11-05T20:00:00+00:00",
+   "title": "Cult.fit builds operational muscle with Codex",
+   "text": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+   "title_th": "Cult.fit นำ Codex มาช่วยเพิ่มประสิทธิภาพการทำงานในองค์กร",
+   "summary_th": "Cult.fit เลือกใช้ Codex ของ OpenAI เพื่อช่วยทีมงานสร้างเครื่องมือภายในและเร่งความเร็วในการทำงานให้มีประสิทธิภาพยิ่งขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Cult.fit",
+    "OpenAI"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -427,6 +610,21 @@
    "dedup": true
   },
   {
+   "id": "dc08f45f6de8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-05T18:23:22+00:00",
+   "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
+   "text": "Big update to the Delta Inference Engine, you guys asked for more features, more benchmarks and less clickbait. I'm here to deliver The short version: I've added almost everything requested and more. Delta Inference Engine now supports 64/96/128 GB of RAM and fully supports the new Unsloth quants. Unsloth IQ2 runs at the same 41 tok/s (192 GB RAM) using a new native reader for the Engram tables and some clever CPU kernel work. Compared to the old default model on my 99-question benchmark it went from 52 to 57 correct, against 59 for the full model. It's no full deepseek model quant, but they'r",
+   "title_th": "อัปเดต Delta Inference Engine v0.93 รองรับ Unsloth quants เต็มรูปแบบ",
+   "summary_th": "Delta Inference Engine ปล่อยอัปเดตใหญ่เพิ่มประสิทธิภาพการรันโมเดลบนฮาร์ดแวร์ทั่วไป รองรับ RAM สูงสุด 128GB และปรับปรุงความเร็วในการประมวลผลโทเค็นแรกให้เร็วขึ้น",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "cfd1704d56b5",
    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
    "source": "TechCrunch AI",
@@ -475,6 +673,10 @@
     {
      "source": "Seeking Alpha",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObms2NENGYk51UEVIWVJ3WEZTVU5CR0dIVjM1TElIYUhlTFVoWmJCNkRiZXdjUVB0cG45MTg0Q0pIMUpiVXd1U2ZXVURCMXBrcDNheUxuM3JkcG5VY1d2QlV2bUYyODZZN0hERnctT3k1V3JHS245NkRoTEJDOWNZMm44Z21ZMHVPcERJT3I4M1JEMjNfS1h5dzln?oc=5"
+    },
+    {
+     "source": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEtFZTdKVm5NbllXbVdGcTRrU3ZuZ3p4Q0VvS2hPRjJQWmJGUWlIRmlpaC1kV1l0WUJTbmRQSm5mVVhrYV9oRUE2c2xPZWpoRDRnWkJwQzFmVmg1REtTN0k4WkRVYjUyaUExOXUyaXlWZU9yei1Bd0ZqYWpGLTNlOXJubi1DQmZxekZWbG9Cd1Q1NE1rTnMzbm15bEw2TnJMNFZnMm9rOWxVdw?oc=5"
     }
    ],
    "dedup": true
@@ -494,6 +696,29 @@
    ],
    "importance": 4,
    "ai": true,
+   "dedup": true,
+   "also": [
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152112"
+    }
+   ]
+  },
+  {
+   "id": "b58fee4edbbb",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "source": "OpenAI",
+   "published": "2026-11-05T17:00:00+00:00",
+   "title": "Australian universities are creating AI-native graduates",
+   "text": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+   "title_th": "มหาวิทยาลัยในออสเตรเลียเร่งสร้างบัณฑิตที่เชี่ยวชาญด้าน AI",
+   "summary_th": "สถาบันการศึกษาในออสเตรเลียขยายการเข้าถึง ChatGPT และนำ AI เข้าสู่กระบวนการเรียนการสอน เพื่อเตรียมความพร้อมให้นักศึกษาเข้าสู่ตลาดแรงงานยุค AI",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
    "dedup": true
   },
   {
@@ -508,6 +733,21 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d4f3e6b69f9a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-05T16:17:42+00:00",
+   "title": "[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier",
+   "text": "We introduce FireFlash , a 300B-scale model tailored for long-horizon agentic tasks. FireFlash excels as a terminal and coding agent, achieving 46.2% on Terminal-Bench 4.0 1 , putting it on par with Fable 5 and GPT-6 Sol, while costing over 30× less per task than Fable 5 at maximum effort (Figure 1). These gains also transfer to software engineering benchmarks, including DeepSWE v1.1 2 and SWE-Bench Pro Verified 3 (Table 1). While frontier labs scale reinforcement learning across thousands of GPUs, we reach the performance-cost Pareto frontier under 5 days using 64 NVIDIA B300 GPUs . Three key",
+   "title_th": "เปิดตัว FireFlash โมเดล 300B สำหรับงาน Agentic ที่เน้นความคุ้มค่า",
+   "summary_th": "FireFlash เป็นโมเดลขนาด 300B ที่ออกแบบมาเพื่อทำงานซับซ้อนและงานเขียนโปรแกรม โดยให้ประสิทธิภาพเทียบเท่าโมเดลระดับแนวหน้าแต่มีต้นทุนการใช้งานที่ต่ำกว่ามาก",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -557,6 +797,24 @@
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [
     "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4bad3535d40f",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3JXMmhWdWpKOXBXd3IzMFl3akZud1NzUjU4dzZqYVlKaWEtalNWYWdaU3ZpSTh5V09GZGtGQ1FoZXlaQzJCS1d2LTVwUGQzX2hocDNxdElTUTFFUWpFeHRUTUFubjl4M3ZwYWNiUldvZ3RpeHdxNk5jT1d2UGh3MFNyTjRlTGRqa2JvXzc2SThsNkNyYmdkaXpzRGtVc2oyeFVUU2xEalRTMWFheDh1bzBkbWNFcGdxeVQwVGp1c3RlRWhl?oc=5",
+   "source": "Microsoft",
+   "published": "2026-11-05T16:00:00+00:00",
+   "title": "Bringing Claude models in Microsoft Copilot into the EU Data Boundary",
+   "text": "",
+   "title_th": "Microsoft นำโมเดล Claude เข้าสู่ EU Data Boundary",
+   "summary_th": "Microsoft ขยายขอบเขตการใช้งานโมเดล Claude ใน Copilot ให้สอดคล้องกับข้อกำหนดด้านข้อมูลของสหภาพยุโรป",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Microsoft",
+    "Anthropic"
    ],
    "importance": 3,
    "ai": true,
@@ -644,6 +902,23 @@
    "category": "งานวิจัย",
    "companies": [],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7c602b8d39c1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-05T14:17:46+00:00",
+   "title": "NVIDIA RTX PRO 5500 Blackwell appears at $17,999 MSRP, higher than RTX PRO 6000 at $16,000 MSRP set some months ago by NVIDIA - VideoCardz",
+   "text": "submitted by /u/panchovix [link] [comments]",
+   "title_th": "NVIDIA เปิดตัว RTX PRO 5500 Blackwell ในราคา 17,999 ดอลลาร์",
+   "summary_th": "NVIDIA ประกาศราคาการ์ดจอ RTX PRO 5500 สถาปัตยกรรม Blackwell ซึ่งมีราคาสูงกว่ารุ่นก่อนหน้าอย่าง RTX PRO 6000",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -789,6 +1064,24 @@
    "dedup": true
   },
   {
+   "id": "1c44f2822479",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-05T11:46:10+00:00",
+   "title": "Quantization livestream with goats of inference",
+   "text": "Hey folks, it's Merve from Hugging Face. Title of this post is super self explanatory, we are doing a quantization workshop livestream with Michael Goin (lead maintainer of vLLM at RedHat), Colin Kealty (aka bartowski at RedHat), Maxime Labonne and Aditya Tadimeti. I will shortly teach you how quantization works, modern ideas (double quantization, calibration) and llama.cpp quants (k-quants, i-quants) so even if you don't have an idea, feel free to chime in. Everything is on Hugging Face YT, X, LI where you can set reminders. Looking forward to see y'all! submitted by /u/unofficialmerve [link]",
+   "title_th": "Hugging Face จัดไลฟ์สดสอนเทคนิค Quantization สำหรับโมเดล AI",
+   "summary_th": "ผู้เชี่ยวชาญจาก Hugging Face และ RedHat ร่วมจัดเวิร์กชอปออนไลน์สอนเทคนิคการทำ Quantization เพื่อเพิ่มประสิทธิภาพการรันโมเดลภาษาขนาดใหญ่",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Hugging Face",
+    "RedHat"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "3a9607df50a3",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUYtTno4SXVsVUZhWDFNOFBIOTh0N054TjhDbzRlM0pnSVE5dnF2SFJsQXc0NGw4aTIzaGNXZjdTX29IUGJEM0RlakxHLVBkUTItbHI0UEhGWDFYTUliMHN4Mm5YX2NNTXhORHNnS3doVm53a1NVOU53ZnBKbW1XS01QMFo?oc=5",
    "source": "The Business Journals",
@@ -872,6 +1165,24 @@
    "dedup": true
   },
   {
+   "id": "300d91101f21",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "source": "OpenAI",
+   "published": "2026-11-05T08:00:00+00:00",
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "text": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+   "title_th": "Merge นำเทคโนโลยี OpenAI มาใช้เพิ่มประสิทธิภาพธุรกิจ",
+   "summary_th": "บริษัท Merge ใช้เครื่องมืออย่าง GPT-6 Astra และ Codex ในการตรวจสอบโค้ดผลิตภัณฑ์และสนับสนุนงานด้านการตลาดและการบริหารจัดการภายใน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Merge",
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "f93567576105",
    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
    "source": "OpenAI",
@@ -939,6 +1250,24 @@
    "dedup": true
   },
   {
+   "id": "1f9981de5700",
+   "url": "https://openai.com/ads/customers/flipsnack",
+   "source": "OpenAI",
+   "published": "2026-11-05T00:45:15+00:00",
+   "title": "Flipsnack grows product signups with conversion optimization",
+   "text": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+   "title_th": "Flipsnack ใช้ ChatGPT Ads เพิ่มอัตราการสมัครใช้งาน",
+   "summary_th": "Flipsnack ประสบความสำเร็จในการใช้แคมเปญโฆษณาผ่าน ChatGPT เพื่อดึงดูดผู้ใช้ใหม่และลดต้นทุนต่อการสมัครสมาชิก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Flipsnack",
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "89209ab642b1",
    "url": "https://huggingface.co/blog/phonon-tts",
    "source": "Hugging Face",
@@ -949,6 +1278,24 @@
    "summary_th": "มีการเปิดตัว Phonon TTS ซึ่งเป็นโมเดลแปลงข้อความเป็นเสียงที่เน้นการทำงานบนอุปกรณ์ (On-device) โดยให้คุณภาพเสียงสูงและทำคะแนนได้ดีในเกณฑ์มาตรฐาน",
    "category": "โมเดลใหม่",
    "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c0d7b0808284",
+   "url": "https://openai.com/index/franklin-templeton",
+   "source": "OpenAI",
+   "published": "2026-11-05T00:00:00+00:00",
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "text": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+   "title_th": "Franklin Templeton ใช้ AI ช่วยงานวิจัยด้านการลงทุน",
+   "summary_th": "Franklin Templeton พัฒนาเวิร์กโฟลว์ AI เพื่อช่วยผู้จัดการกองทุนในการเปรียบเทียบข้อมูลวิจัยและประเมินความเสี่ยงในการลงทุน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Franklin Templeton",
+    "OpenAI"
+   ],
    "importance": 3,
    "ai": true,
    "dedup": true
@@ -1171,6 +1518,21 @@
    "companies": [
     "OpenAI"
    ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "608e1d97ab46",
+   "url": "https://huggingface.co/papers/2611.08449",
+   "source": "HF Daily Papers",
+   "published": "2026-11-04T19:00:00+00:00",
+   "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+   "text": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions increasingly costly. We introduce VFlash, a method for fast, accurate visual planning through Flash Primitive Decoding. VFlash exploits the known structure of visual primitives to predict their coordinates jointly, using a lightweight drafter that ",
+   "title_th": "เปิดตัว VFlash วิธีการวางแผนเชิงภาพที่รวดเร็วและแม่นยำ",
+   "summary_th": "VFlash เป็นวิธีการใหม่สำหรับการวางแผนงานทางกายภาพ เช่น หุ่นยนต์และรถยนต์ไร้คนขับ โดยใช้ Flash Primitive Decoding เพื่อสร้างแผนภาพที่รวดเร็วและมีประสิทธิภาพสูง",
+   "category": "งานวิจัย",
+   "companies": [],
    "importance": 3,
    "ai": true,
    "dedup": true
@@ -1888,13 +2250,17 @@
     "Revolut",
     "Anthropic"
    ],
-   "importance": 3,
+   "importance": 4,
    "ai": true,
    "dedup": true,
    "also": [
     {
      "source": "r/LocalLLaMA",
      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted/"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152110"
     }
    ]
   },

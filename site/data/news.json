@@ -1,54 +1,50 @@
 {
- "updated_at": "2026-11-06T15:58:32+00:00",
+ "updated_at": "2026-11-06T21:34:04+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-06T15:58:32+00:00",
-  "headline": "ตลาดหุ้นผันผวนจากความกังวลด้านกฎระเบียบ AI ขณะที่บริษัทเทคโนโลยีเร่งพัฒนา AI Agent และโมเดลประสิทธิภาพสูงอย่างต่อเนื่อง",
+  "generated_at": "2026-11-06T21:34:04+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญแรงกดดันด้านกฎระเบียบและการเงินที่เข้มงวดขึ้น ในขณะที่การพัฒนา AI Agent และโมเดลขนาดเล็กยังคงก้าวหน้าอย่างรวดเร็ว",
   "points": [
    {
-    "text": "ตลาดหุ้นดาวโจนส์ปรับตัวลดลงจากความกังวลเรื่องกฎระเบียบ AI ที่เข้มงวดขึ้น ประกอบกับนักวิเคราะห์เตือนถึงความเสี่ยงของ Anthropic และกระแสเรียกร้องจากภาครัฐให้ชะลอการพัฒนา AI หรือจัดตั้งกระทรวงกำกับดูแลเฉพาะทาง",
+    "text": "ตลาดหุ้นและนักลงทุนเริ่มแสดงความกังวลต่อกฎระเบียบที่เข้มงวดขึ้นและการชะลอตัวของการใช้จ่ายด้าน AI ส่งผลกระทบต่อมูลค่าบริษัทอย่าง Anthropic และหุ้นกลุ่มชิป",
     "ids": [
+     "ef57b5d47585",
+     "abdf877d5298",
      "07d8be2258f4",
+     "7c70b636a2cf",
      "0a3e389a2fa3",
      "2a4d68646668"
     ]
    },
    {
-    "text": "การแข่งขันในตลาด AI Agent ร้อนแรงขึ้นด้วยการเปิดตัวจาก Perplexity และ Airbnb รวมถึงการที่ Palo Alto Networks เตรียมเข้าซื้อกิจการสตาร์ทอัพด้านความปลอดภัยสำหรับ AI Agent",
+    "text": "การพัฒนา AI Agent มีความคืบหน้าอย่างมาก ทั้งการเปิดตัวเครื่องมือใหม่จาก Perplexity และ Meta รวมถึงความพยายามของ OpenAI และ Palo Alto Networks ในการยกระดับความปลอดภัยของระบบ",
     "ids": [
      "8e75ec02fc50",
-     "1eac7fe42e87",
-     "904574e3ce24"
+     "016e849ea3ab",
+     "bc8f9eac1966",
+     "904574e3ce24",
+     "1eac7fe42e87"
     ]
    },
    {
-    "text": "บริษัทเทคโนโลยีเปิดตัวโมเดลใหม่เน้นประสิทธิภาพและความคุ้มค่า เช่น Google Gemini Omni 1.2 Flash, FireFlash 300B, Inkling 2 Small และโมเดลขนาดเล็กจาก Underdog รวมถึงความเคลื่อนไหวของ NVIDIA ในด้านฮาร์ดแวร์และโมเดลจำลองโลกเสมือน",
+    "text": "นวัตกรรมโมเดลขนาดเล็กและโมเดลเฉพาะทางกำลังเติบโต โดยมีการเปิดตัวโมเดลประสิทธิภาพสูงสำหรับงาน Embedding และงานวิทยาศาสตร์ รวมถึงการนำ AI มาใช้ในงานวิจัยชีวภาพและเครือข่าย 6G",
     "ids": [
-     "d7e9e3e89ee7",
-     "d4f3e6b69f9a",
-     "5ac7e93aa1cf",
-     "a394d9aad7a2",
-     "7eab5dddcfa7",
-     "e8690f74b67f"
-    ]
-   },
-   {
-    "text": "ความกังวลเรื่องโครงสร้างพื้นฐานและจริยธรรม AI เพิ่มสูงขึ้น โดย Meta เตือนเรื่องการต่อต้านศูนย์ข้อมูลจากชุมชน และมีรายงานข้อกล่าวหาการใช้โฆษณา Deepfake บน Facebook รวมถึงการจำกัดความสามารถด้าน Cybersecurity ของโมเดล Open-source จากจีน",
-    "ids": [
-     "2e06a7a163b7",
-     "85f398082dad",
-     "6f78e24cdb5b",
-     "6bf81abbe03a"
-    ]
-   },
-   {
-    "text": "ความคืบหน้าทางธุรกิจและนวัตกรรมของผู้นำตลาด ได้แก่ OpenAI ที่วางแผน IPO ในปี 2027, Anthropic ที่ขยายความสามารถของ Claude ในด้านวิทยาศาสตร์และการเงิน และการชะลอตัวของการใช้จ่ายด้าน AI ในภาพรวม",
-    "ids": [
-     "cfd1704d56b5",
+     "ed3f21fe69ef",
+     "2b3eb4eb79de",
      "fae1d8bd060e",
-     "f49d817c3fd3",
-     "7c70b636a2cf",
-     "818f38db2719"
+     "6d7fb611e8cd",
+     "08519556b90d",
+     "a394d9aad7a2",
+     "5ac7e93aa1cf",
+     "cfd4354afa14"
+    ]
+   },
+   {
+    "text": "ประเด็นด้านความปลอดภัยและจริยธรรมยังคงเป็นเรื่องสำคัญ ทั้งการตรวจพบเครื่องมือแฮ็กหลุดสู่สาธารณะ ข้อกล่าวหาโฆษณา Deepfake บน Facebook และการจำกัดความสามารถด้าน Cybersecurity ของโมเดลจากจีน",
+    "ids": [
+     "6f78e24cdb5b",
+     "29c568495a81",
+     "6bf81abbe03a"
     ]
    }
   ]
@@ -141,7 +137,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": null
   }
  ],
@@ -368,9 +364,127 @@
   "3b8adb44a44d",
   "eecad7e104cd",
   "f6c57ac8022e",
-  "067e9c6c56e8"
+  "067e9c6c56e8",
+  "7486a9a8c5df",
+  "4fb993952ca1",
+  "6080e6bd592a",
+  "21fb01314a8c",
+  "fc8f30aee8f3"
  ],
  "items": [
+  {
+   "id": "ed3f21fe69ef",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T20:12:07+00:00",
+   "title": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
+   "text": "Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI 0.13.0 and it just said “hold my beer” and started drawing with the friggin’ mouse coordinates inside a VM. I’m going to print this and hang it on my wall like a proud parent. Seriously tho, this is all possible because of the new Open WebUI 0.13.0 features that let you control a virtual desktop VM that is running in 0.17.2 version of their Open Terminal repo. I’ve been following their projects for years and they just keep adding cool new shit about every c",
+   "title_th": "Open WebUI อัปเดตใหม่ให้ LLM ควบคุมเมาส์วาดรูปใน VM ได้",
+   "summary_th": "การอัปเดต Open WebUI ช่วยให้โมเดลภาษาขนาดเล็กสามารถควบคุมเมาส์ภายในสภาพแวดล้อมเสมือนจริง (VM) เพื่อวาดรูปได้โดยตรง ถือเป็นก้าวสำคัญของการใช้งาน AI ในการควบคุมคอมพิวเตอร์",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "29c568495a81",
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-06T18:44:38+00:00",
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "text": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+   "title_th": "พบเครื่องมือเจาะระบบ Artex AI จำนวนมากถูกเปิดเผยสู่สาธารณะบนอินเทอร์เน็ต",
+   "summary_th": "นักวิจัยด้านความปลอดภัยตรวจพบเซิร์ฟเวอร์ที่โฮสต์เครื่องมือทดสอบการเจาะระบบ Artex จำนวนหลายร้อยเครื่องถูกเปิดเผยต่อสาธารณะ ทำให้บุคคลทั่วไปสามารถเข้าถึงเครื่องมือแฮ็กดังกล่าวได้",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "016e849ea3ab",
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-06T18:44:20+00:00",
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "text": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+   "title_th": "Meta เปิดตัว Spaces ฟีเจอร์ใหม่สำหรับการทำงานร่วมกับ Muse agent",
+   "summary_th": "Meta ได้แนะนำ Spaces ซึ่งเป็นรูปแบบใหม่ในการโต้ตอบและทำงานร่วมกับ Muse agent เพื่อเพิ่มประสิทธิภาพในการใช้งาน AI ผู้ช่วย",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ef57b5d47585",
+   "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-06T17:23:52+00:00",
+   "title": "After the midterms, is the AI industry in for a rough two years?",
+   "text": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+   "title_th": "อุตสาหกรรม AI กำลังเผชิญความท้าทายในช่วงสองปีข้างหน้าหลังการเลือกตั้ง",
+   "summary_th": "การเลือกตั้งกลางเทอมของสหรัฐฯ นำไปสู่การลงมติจำกัดการพัฒนาศูนย์ข้อมูล ซึ่งอาจกลายเป็นอุปสรรคสำคัญต่อการขยายตัวของอุตสาหกรรม AI ในระยะสั้น",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1894b8f52bef",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zQUNVYk03WEg1anJqMFdVd0hwa2E4MTNzTDdTQmM1Y2NQanplejhaRERoWGxNemgyNjNJREVwaEt6RFJiM2hfQjdBdkFRZ3ZZUFZHbm1yRWcwV0xUSmo5b29QZzd2Rmt3QUNfaUdLUXpQbEhpTFE?oc=5",
+   "source": "Anthropic",
+   "published": "2026-11-06T17:08:59+00:00",
+   "title": "Project EVE: Claude plays MMORPGs",
+   "text": "",
+   "title_th": "Project EVE: เมื่อ Claude สามารถเล่นเกม MMORPG ได้",
+   "summary_th": "Anthropic เปิดตัว Project EVE ซึ่งเป็นการทดลองให้โมเดล Claude สามารถเล่นเกมแนว MMORPG ได้ แสดงให้เห็นถึงความสามารถในการโต้ตอบกับสภาพแวดล้อมเกมที่ซับซ้อน",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "abdf877d5298",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NS1ZKZWVnV2xSUUVac1lMOTFXM0FGV3Italp4c2FPM0tLYkNsRUNFSm1KelE5REljckhRVTlHbjVQOVBOWS1Wa2U5dHppTkJ2NEt2cmx3OHZkSTN0ZGZUbzNJZElkYXB0SG03YQ?oc=5",
+   "source": "The Jerusalem Post",
+   "published": "2026-11-06T16:31:19+00:00",
+   "title": "Anthropic IPO faces valuation cut after $2.5 trillion rout",
+   "text": "",
+   "title_th": "มูลค่า IPO ของ Anthropic อาจถูกปรับลดลงจากสภาวะตลาด",
+   "summary_th": "Anthropic เผชิญกับความท้าทายในการประเมินมูลค่าหุ้น IPO หลังจากตลาดเผชิญกับภาวะมูลค่าลดลงอย่างหนัก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2b3eb4eb79de",
+   "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+   "source": "NVIDIA",
+   "published": "2026-11-06T16:00:35+00:00",
+   "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+   "text": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
+   "title_th": "NVIDIA เปิดซอร์สเครื่องมือช่วยวิจัยพัฒนาเครือข่าย 6G",
+   "summary_th": "NVIDIA เปิดซอร์สซอฟต์แวร์ Aerial และเครื่องมืออื่นๆ เพื่อช่วยให้นักวิจัยสามารถจำลองและฝึกฝน AI สำหรับการพัฒนาเครือข่ายไร้สายยุคถัดไปอย่าง 6G ได้อย่างมีประสิทธิภาพ",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "7c70b636a2cf",
    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
@@ -402,6 +516,54 @@
    "companies": [
     "Anthropic"
    ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1352cdf64864",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T15:23:37+00:00",
+   "title": "Oc-e-Non-v1: A language model that gets to the f*cking point",
+   "text": "Richard I of England was called \"Oc-e-Non\" ( Yes and No in Occitan) by some of contemporaries, supposedly because he used few words. Wouldn't it be nice if LLMs followed his shining example? Oc-e-Non-v1 is a tersified version of Qwen3-4B-Instruct-2507. It reduces Qwen's mean response length by 50%. Output examples \"What is 1+1?\" GPT-5.6 Terra (reasoning off): 1 + 1 = 2 😊️ Oc-e-Non-v1: 2 \"Are dogs mammals?\" GPT-5.6 Terra (reasoning off): Yes. Dogs are mammals: they have hair, are warm-blooded, and mothers nurse their young with milk. Oc-e-Non-v1: Yes \"Write a Python function that checks if a st",
+   "title_th": "เปิดตัว Oc-e-Non-v1 โมเดลภาษาที่เน้นการตอบแบบกระชับ",
+   "summary_th": "Oc-e-Non-v1 เป็นโมเดลที่พัฒนาต่อยอดจาก Qwen3-4B โดยเน้นการลดความยาวของคำตอบลงครึ่งหนึ่ง เพื่อให้ได้คำตอบที่ตรงประเด็นและรวดเร็ว",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6d7fb611e8cd",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1V5eTlOcFp2WTMzTmxDVlJrVEN3NkxtclJ0WWd1ZmNCOEFoeGlxSlY4aE96QWJlUmZtV0FZa1R2X1Q1MTJ4M0d0Zl9KSXRiT0tnMmluc01mVmN5NmhJbXlRWnB1bm1mbkF4dThtTVFsWjN1UkM0ZURzR3VqTUdrRXNKLXlSanhzNnFKYUNDc1FMTVBjWUNISDJwcExPNmRPVlhXOTBB?oc=5",
+   "source": "Fierce Biotech",
+   "published": "2026-11-06T15:02:00+00:00",
+   "title": "Generate CEO sees ‘huge opportunity’ from using Claude to shorten CAR-T cell engines",
+   "text": "",
+   "title_th": "Generate CEO มองเห็นโอกาสใช้ Claude ช่วยย่นระยะเวลาวิจัย CAR-T cell",
+   "summary_th": "ผู้บริหารของ Generate ระบุว่าการใช้ Claude มีศักยภาพสูงในการช่วยลดขั้นตอนและระยะเวลาในการวิจัยพัฒนาเทคโนโลยี CAR-T cell",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Generate"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "08519556b90d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T14:02:37+00:00",
+   "title": "A 0.1B model just killed 8B embedding models... I tried it out.",
+   "text": "I bet you guys are familiar with embedding models such as Qwen3-Embedding or Gemini Embedding. They are dense embedding models used to search text across a large corpus. I am developing a RAG agent, and my biggest concern was local computing power. RAG largely depends on retrieval quality, which depends on model power. Plus, many use cases can't use an external internet connection or API models, so the embedding models have to run locally. But even 0.6B models are pretty heavy for small PCs. I don't mean your brand-new Mac Studio or DGX Spark. I'm talking about an 8GB RAM Windows PC at a borin",
+   "title_th": "โมเดลขนาด 0.1B ประสิทธิภาพสูงสำหรับงาน Embedding",
+   "summary_th": "มีการพัฒนาโมเดลขนาดเล็กเพียง 0.1B ที่สามารถทำงานด้าน Embedding ได้ดีเทียบเท่ากับโมเดลขนาดใหญ่ ช่วยให้การทำ RAG บนอุปกรณ์ที่มีทรัพยากรจำกัดทำได้ง่ายขึ้น",
+   "category": "โมเดลใหม่",
+   "companies": [],
    "importance": 3,
    "ai": true,
    "dedup": true
@@ -442,6 +604,23 @@
      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
     }
    ],
+   "dedup": true
+  },
+  {
+   "id": "effceee662bd",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjJYdWZDWUJvTG5aZElOMS1yU25aZW56Tll5cFk2ZUJBZTJpeFVYbUYtd0JXSHROek5MUTh4eTFCRTNWd3g0MmJXbVA0LTNEbGpmQlY3Vktmc2FaZzRIQjdUelh5MlNXeVk5Vm91bEV2QjhRcmlWQW84VGU4cWFwdXg4T0ZjNlJoQ0JkcmRWLS1Xa2dTc0JReTJnUEVnUzFackE?oc=5",
+   "source": "Rowan Today",
+   "published": "2026-11-06T13:50:03+00:00",
+   "title": "CEO of South Jersey’s largest data center and Anthropic’s Claude to headline Rowan’s artificial intelligence conference, Nov. 10",
+   "text": "",
+   "title_th": "Anthropic เตรียมร่วมงานประชุม AI ที่ Rowan University",
+   "summary_th": "ผู้บริหารจากศูนย์ข้อมูลชั้นนำและ Anthropic จะเข้าร่วมเป็นวิทยากรหลักในงานประชุมด้านปัญญาประดิษฐ์ที่จัดขึ้นโดย Rowan University",
+   "category": "อื่นๆ",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 1,
+   "ai": true,
    "dedup": true
   },
   {
@@ -579,6 +758,24 @@
    "dedup": true
   },
   {
+   "id": "bc8f9eac1966",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "source": "OpenAI",
+   "published": "2026-11-06T08:00:00+00:00",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "text": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+   "title_th": "OpenAI จับมือ Hacktron ยกระดับความปลอดภัยระบบ AI",
+   "summary_th": "OpenAI ประกาศความร่วมมือกับ Hacktron เพื่อค้นหาช่องโหว่และทดสอบการเชื่อมต่อกับบริการภายนอก ความร่วมมือนี้มุ่งเน้นการเสริมสร้างความปลอดภัยให้กับระบบ AI ระดับแนวหน้าให้แข็งแกร่งยิ่งขึ้น",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI",
+    "Hacktron"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "904574e3ce24",
    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
    "source": "TechCrunch AI",
@@ -696,6 +893,23 @@
     "Hugging Face"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cfd4354afa14",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "source": "OpenAI",
+   "published": "2026-11-06T00:00:00+00:00",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "text": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+   "title_th": "OpenAI เปิดตัว BioBasicsBench วัดความสามารถ AI ในงานห้องปฏิบัติการ",
+   "summary_th": "OpenAI นำเสนอ BioBasicsBench ซึ่งเป็นชุดทดสอบ 100 งาน เพื่อวัดประสิทธิภาพของ AI agents ในการตีความข้อมูลการทดลองดิบและจัดการงานในห้องปฏิบัติการวิทยาศาสตร์ทั่วไป",
+   "category": "งานวิจัย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -945,7 +1159,7 @@
    "companies": [
     "Anthropic"
    ],
-   "importance": 3,
+   "importance": 4,
    "ai": true,
    "also": [
     {
@@ -975,6 +1189,18 @@
     {
      "source": "Yahoo Tech",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1l6bGwybDVpaTA3dE5NNnVtVGEwT3NTYkZ1RXAySjFWWDRhRU54aS1TajM1MGxhWk9SQ0ZnTVhhQWxDSGQ5QjRtZENyTF85UmVXTmI1RmktMGY4M1Bwak04bGtBTlRPWURYS1hKUGM0ZUttLTdYRHlKRjZGbVlBdkFqOW9kc2l2VmtXWi03dFVKXzdX?oc=5"
+    },
+    {
+     "source": "PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTGVPOGo1UDd1TUxtU3AybjA3MXhXeWJmU0lkNndvc29oeTBpTWFJTnJJR3ZWSXlPak9rQUVSM2ZsbEFVUGlEdjMxMm5VbEtSdWprb3liSkp3dFFSdnJXMVBoM1dyQTJZNDZMMTc3UmgxVTFiUHpEcEJubVNUYTZlOGVFMkRNdGh1b3VuX3F5ekJwSGdFV21GNWFHVFRlZDIzdkRUZnhfdVhRa25ZZXRPWG02S0FXSURhbjBYMUZTekRVZw?oc=5"
+    },
+    {
+     "source": "The Mac Observer",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGEwdjl4QTY5N183SWZ4eUJJMzhyUWtUS24yU2syVDBvUkZNUklsUE9pb1RpMnZGUWtxNEkyNEJySWRvQkc4YkhJaDZDRzlxZ2lxU1NpWG55b1FYbWtQZ2wyeXAwTDFHVG9PTDBxVktqdmdtbVI2OXBHa0lCTjZ0X1phWHpYaVVJTFVSOFVzY25BMzhRRjhORzlxMWhNczRlNlE?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgyS0t1LW4xMndzblFOYmpYb2tmM0l3SUpfV1poZWV5VF9DQU5hcHk0NmpCWk5MdEZqWDFSVnlQMk1WcExKWWR2M05sa3lnYmMyWUVtLUJjcHR5TFdBampXTHEtU29OSWhVZklOblpqR3l5dHhJRzNITlUyeEVlZkh3anV4TGtsWTFzc1U2Q3hLY3ZqaU9WdUNn?oc=5"
     }
    ],
    "dedup": true
@@ -1858,6 +2084,21 @@
    "dedup": true
   },
   {
+   "id": "e7b124c3848d",
+   "url": "https://huggingface.co/papers/2611.08373",
+   "source": "HF Daily Papers",
+   "published": "2026-11-04T19:00:00+00:00",
+   "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+   "text": "Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representations from 2D vision-language pre-training, while spatial supervision is often introduced only during task-specific adaptation. Developing spatial understanding as a transferable foundation-model capability therefore calls for learning from broader robot experience. We present SLA, a Spatial-Language-Action Model that scales implicit spatial alignment to continual pre-training and maintains it durin",
+   "title_th": "แนะนำ SLA โมเดลใหม่เพื่อการควบคุมหุ่นยนต์ผ่านภาษาและพื้นที่",
+   "summary_th": "งานวิจัยนำเสนอ SLA ซึ่งเป็นโมเดลที่เน้นการเรียนรู้ความเข้าใจเชิงพื้นที่เพื่อใช้ในงานหุ่นยนต์ โดยมุ่งแก้ปัญหาข้อจำกัดของโมเดล VLA แบบเดิมที่ขาดการรับรู้เชิงพื้นที่ที่แม่นยำ",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "d0178f35064d",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
    "source": "The Verge AI",
@@ -1987,9 +2228,15 @@
    "summary_th": "การเลือกตั้งในหลายพื้นที่ของสหรัฐฯ นำไปสู่การสนับสนุนมาตรการจำกัดการสร้างศูนย์ข้อมูล ซึ่งเป็นโครงสร้างพื้นฐานสำคัญของอุตสาหกรรม AI",
    "category": "นโยบาย/กฎหมาย",
    "companies": [],
-   "importance": 3,
+   "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+    }
+   ]
   },
   {
    "id": "e818c1486ecf",

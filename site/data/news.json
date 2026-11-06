@@ -1,52 +1,54 @@
 {
- "updated_at": "2026-11-06T06:56:18+00:00",
+ "updated_at": "2026-11-06T15:58:32+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-06T06:56:18+00:00",
-  "headline": "ความเคลื่อนไหวครั้งใหญ่ในวงการ AI ทั้งการเปิดตัวโมเดลและเครื่องมือ Agent ใหม่ ท่ามกลางความกังวลด้านกฎระเบียบและโครงสร้างพื้นฐาน",
+  "generated_at": "2026-11-06T15:58:32+00:00",
+  "headline": "ตลาดหุ้นผันผวนจากความกังวลด้านกฎระเบียบ AI ขณะที่บริษัทเทคโนโลยีเร่งพัฒนา AI Agent และโมเดลประสิทธิภาพสูงอย่างต่อเนื่อง",
   "points": [
    {
-    "text": "บริษัทเทคโนโลยีชั้นนำเร่งเปิดตัวโมเดลและ AI Agent ใหม่เพื่อเพิ่มประสิทธิภาพการทำงาน เช่น OpenAI กับ GPT-6 Cyber และ GPT Images 2.6, Perplexity กับ Teammates, Google กับ Gemini Omni 1.2 Flash, รวมถึงการเปิดตัว FireFlash และโมเดลจาก NVIDIA และ Z.ai",
+    "text": "ตลาดหุ้นดาวโจนส์ปรับตัวลดลงจากความกังวลเรื่องกฎระเบียบ AI ที่เข้มงวดขึ้น ประกอบกับนักวิเคราะห์เตือนถึงความเสี่ยงของ Anthropic และกระแสเรียกร้องจากภาครัฐให้ชะลอการพัฒนา AI หรือจัดตั้งกระทรวงกำกับดูแลเฉพาะทาง",
     "ids": [
-     "53c56afbaf05",
+     "07d8be2258f4",
+     "0a3e389a2fa3",
+     "2a4d68646668"
+    ]
+   },
+   {
+    "text": "การแข่งขันในตลาด AI Agent ร้อนแรงขึ้นด้วยการเปิดตัวจาก Perplexity และ Airbnb รวมถึงการที่ Palo Alto Networks เตรียมเข้าซื้อกิจการสตาร์ทอัพด้านความปลอดภัยสำหรับ AI Agent",
+    "ids": [
      "8e75ec02fc50",
+     "1eac7fe42e87",
+     "904574e3ce24"
+    ]
+   },
+   {
+    "text": "บริษัทเทคโนโลยีเปิดตัวโมเดลใหม่เน้นประสิทธิภาพและความคุ้มค่า เช่น Google Gemini Omni 1.2 Flash, FireFlash 300B, Inkling 2 Small และโมเดลขนาดเล็กจาก Underdog รวมถึงความเคลื่อนไหวของ NVIDIA ในด้านฮาร์ดแวร์และโมเดลจำลองโลกเสมือน",
+    "ids": [
      "d7e9e3e89ee7",
      "d4f3e6b69f9a",
-     "af009059638d",
-     "acbe6f399f61",
+     "5ac7e93aa1cf",
+     "a394d9aad7a2",
      "7eab5dddcfa7",
-     "e8690f74b67f",
-     "c6134d61030c"
+     "e8690f74b67f"
     ]
    },
    {
-    "text": "การขยายตัวของระบบนิเวศ AI ผ่านการเข้าซื้อกิจการและการลงทุนเชิงกลยุทธ์ เช่น Dropbox ซื้อ Tigris Data, Palo Alto Networks เจรจาซื้อ Clutch และความก้าวหน้าของ AI Agent ในภาคธุรกิจและวิทยาศาสตร์โดย Airbnb, Anthropic และ Axiom Math",
+    "text": "ความกังวลเรื่องโครงสร้างพื้นฐานและจริยธรรม AI เพิ่มสูงขึ้น โดย Meta เตือนเรื่องการต่อต้านศูนย์ข้อมูลจากชุมชน และมีรายงานข้อกล่าวหาการใช้โฆษณา Deepfake บน Facebook รวมถึงการจำกัดความสามารถด้าน Cybersecurity ของโมเดล Open-source จากจีน",
     "ids": [
-     "aecc9a23fd3c",
-     "904574e3ce24",
-     "1eac7fe42e87",
-     "f49d817c3fd3",
-     "2846e03446f4",
-     "4fc4625abcfc"
-    ]
-   },
-   {
-    "text": "ความท้าทายด้านกฎระเบียบและโครงสร้างพื้นฐานเริ่มส่งผลกระทบต่อตลาดหุ้นและแผนการดำเนินงานของบริษัท AI โดยมีการเรียกร้องให้ชะลอการพัฒนาและตั้งกระทรวงกำกับดูแล รวมถึงปัญหาการต่อต้านศูนย์ข้อมูลในชุมชน",
-    "ids": [
-     "2a4d68646668",
-     "07d8be2258f4",
-     "85f398082dad",
      "2e06a7a163b7",
-     "818f38db2719"
+     "85f398082dad",
+     "6f78e24cdb5b",
+     "6bf81abbe03a"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวในตลาดทุนและเทคโนโลยีระดับล่าง ได้แก่ แผน IPO ของ OpenAI ในปี 2027, การเข้าจดทะเบียนใน Nasdaq ของ Agility Robotics และการอัปเดตเทคโนโลยีฮาร์ดแวร์จาก NVIDIA และ Delta Inference Engine",
+    "text": "ความคืบหน้าทางธุรกิจและนวัตกรรมของผู้นำตลาด ได้แก่ OpenAI ที่วางแผน IPO ในปี 2027, Anthropic ที่ขยายความสามารถของ Claude ในด้านวิทยาศาสตร์และการเงิน และการชะลอตัวของการใช้จ่ายด้าน AI ในภาพรวม",
     "ids": [
      "cfd1704d56b5",
-     "d94f47b36633",
-     "3df4d68063a5",
-     "dc08f45f6de8"
+     "fae1d8bd060e",
+     "f49d817c3fd3",
+     "7c70b636a2cf",
+     "818f38db2719"
     ]
    }
   ]
@@ -139,7 +141,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": null
   }
  ],
@@ -358,9 +360,224 @@
   "babff87fa684",
   "2cc2507cff70",
   "221da6cead1c",
-  "cc48f8093c5b"
+  "cc48f8093c5b",
+  "308d18fdffd9",
+  "11481dbf5605",
+  "4a6109d50595",
+  "a4a11f8d86eb",
+  "3b8adb44a44d",
+  "eecad7e104cd",
+  "f6c57ac8022e",
+  "067e9c6c56e8"
  ],
  "items": [
+  {
+   "id": "7c70b636a2cf",
+   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-06T15:54:47+00:00",
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "text": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+   "title_th": "ข้อมูลจาก Ramp ชี้การใช้จ่ายด้าน AI เริ่มชะลอตัว แม้ Anthropic ใกล้เข้าตลาดหุ้น",
+   "summary_th": "แม้การใช้งาน AI จะเพิ่มขึ้นอย่างต่อเนื่อง แต่การใช้จ่ายกลับเริ่มชะลอตัวลงเนื่องจากการลดราคาและมาตรการควบคุมต้นทุนของผู้ใช้งานรายใหญ่ ซึ่งอาจส่งผลต่อความคาดหวังของนักลงทุนเกี่ยวกับการเติบโตแบบก้าวกระโดดของ AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Ramp",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fae1d8bd060e",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmhValNmeE5jVWJhTTVON2RoclFGR29UMDR3WE1pMnRZeDBtRlNiRlNsTmoyMHU1bTdHT2o0N3pwMUJGT3YtUDM2eDdpLXdKS0diNF81eDR5VGI0QzBMN1Y0RlhOWnFJM1VBd3RVYTBSU1BMYjhlT2N6UTNjLVBnSWdMUU9ObUo4Z3VFeldfN0RmdnB0TGlsWWVLS1E2WWVLRV9Pc2VTeFpRdDB5bWhwMTduZlY2VU5PMGhWZjRJbkZILTQwMEFxWlVPVnBrQk9y?oc=5",
+   "source": "Benzinga",
+   "published": "2026-11-06T15:50:00+00:00",
+   "title": "Anthropic Says Claude Helped Scientists Map a Mysterious Cell Structure",
+   "text": "",
+   "title_th": "Anthropic เผย Claude ช่วยนักวิทยาศาสตร์ทำแผนผังโครงสร้างเซลล์ปริศนา",
+   "summary_th": "Anthropic ระบุว่าโมเดล Claude มีส่วนช่วยนักวิทยาศาสตร์ในการวิเคราะห์และทำแผนผังโครงสร้างของเซลล์ที่มีความซับซ้อนและลึกลับได้สำเร็จ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "be1ba71e55b7",
+   "url": "https://huggingface.co/blog/allenai/toyblocks",
+   "source": "Hugging Face",
+   "published": "2026-11-06T14:00:48+00:00",
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "text": "",
+   "title_th": "ToyBlocks: โลกจำลองสำหรับการเรียนรู้และประเมินผลหุ่นยนต์",
+   "summary_th": "เปิดตัว ToyBlocks ซึ่งเป็นสภาพแวดล้อมจำลองที่ถูกออกแบบมาเพื่อใช้ในการฝึกฝนและประเมินประสิทธิภาพการทำงานของหุ่นยนต์ในสภาวะควบคุม",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "35ab47bbc76c",
+   "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+   "source": "The Verge AI",
+   "published": "2026-11-06T13:56:32+00:00",
+   "title": "Amazon will let you text Alexa your shopping list",
+   "text": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and […]",
+   "title_th": "Amazon เพิ่มฟีเจอร์ให้ Alexa ช่วยซื้อของผ่านการส่งข้อความ",
+   "summary_th": "ผู้ใช้สามารถส่งข้อความหรือรูปภาพสินค้าให้ Alexa เพื่อค้นหาและแนะนำรายการสินค้าที่ตรงกับความต้องการบน Amazon ได้โดยตรง",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Amazon"
+   ],
+   "importance": 2,
+   "ai": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "0a3e389a2fa3",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHIycEZRSkJsN281eURCTG5nSGdPaXAzZzhfWHNLRU5pb2Z5MzZBRlNtMFVyRkVJa0RuMk9SeExIdndfZkxuQ1BSbG01UnlGbDdpVjdiVmJEM3U1cHJ2V285dkhHanNEczJ4QVJqUk1sVXdXZXJObFFSMjNxYXNySWpYZVNNQXU4dmhzNXk1dW5FaHU2WXJyak82emlxdWh3RTd6UlU2NDhhclJEMkpINk5UWmg?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-06T13:11:30+00:00",
+   "title": "Strategist Who Warned Before Rout Sees Anthropic as Bigger Risk",
+   "text": "",
+   "title_th": "นักวิเคราะห์เตือน Anthropic อาจเป็นความเสี่ยงใหญ่กว่าที่คิด",
+   "summary_th": "นักวิเคราะห์ที่เคยเตือนเรื่องความผันผวนของตลาดก่อนหน้านี้ ได้ออกมาแสดงความกังวลว่า Anthropic อาจเป็นปัจจัยเสี่ยงที่สำคัญในอนาคต",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a394d9aad7a2",
+   "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-06T13:02:16+00:00",
+   "title": "Underdog shows off a 32MB speech model in new demo",
+   "text": "Despite its small size, Underdog's new model can generate both speech and music.",
+   "title_th": "Underdog โชว์เดโมโมเดลประมวลผลเสียงขนาดเล็กเพียง 32MB",
+   "summary_th": "Underdog เปิดตัวโมเดลขนาดเล็กพิเศษเพียง 32MB ที่สามารถสร้างได้ทั้งเสียงพูดและดนตรี ซึ่งแสดงให้เห็นถึงประสิทธิภาพของโมเดลขนาดเล็ก",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Underdog"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1f3694f5e3c9",
+   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-06T13:00:00+00:00",
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "text": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+   "title_th": "Physicl ระดมทุน 10 ล้านดอลลาร์ พัฒนาเทคโนโลยีเชื่อมโลกดิจิทัลสู่หุ่นยนต์",
+   "summary_th": "Physicl ระดมทุนเพื่อแก้ปัญหาช่องว่างระหว่างการจำลองและการใช้งานจริง (sim-to-real) สำหรับหุ่นยนต์ โดยใช้เทคโนโลยีที่เดิมพัฒนาขึ้นเพื่อการตลาดสินค้าออนไลน์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Physicl"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "38558640ee45",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpbjzi/qwen_the_becoming_begins/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T12:26:54+00:00",
+   "title": "Qwen - the becoming begins",
+   "text": "https://x.com/Alibaba_Qwen/status/2118674834632978755 submitted by /u/jacek2023 [link] [comments]",
+   "title_th": "Qwen เริ่มต้นยุคสมัยใหม่",
+   "summary_th": "มีการเคลื่อนไหวที่น่าสนใจเกี่ยวกับโมเดล Qwen จาก Alibaba ซึ่งเป็นที่จับตามองในชุมชนผู้ใช้งานโมเดลภาษาขนาดใหญ่",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Alibaba"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "44766e97c429",
+   "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+   "source": "The Verge AI",
+   "published": "2026-11-06T12:01:25+00:00",
+   "title": "Protesters break into Microsoft data center site in Amsterdam",
+   "text": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some […]",
+   "title_th": "ผู้ประท้วงบุกไซต์ก่อสร้างศูนย์ข้อมูล Microsoft ในอัมสเตอร์ดัม",
+   "summary_th": "กลุ่มผู้ประท้วงบุกเข้าไปในพื้นที่ก่อสร้างศูนย์ข้อมูลแห่งใหม่ของ Microsoft ในอัมสเตอร์ดัม เพื่อคัดค้านการสร้างอาคารศูนย์ข้อมูลขนาดใหญ่ในพื้นที่ดังกล่าว",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Microsoft"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6bf81abbe03a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T10:28:37+00:00",
+   "title": "Latest Open-Source Labs are gutting away cybersecurity and reverse-engineering capabilities",
+   "text": "Kimi K3.1 and Tencent’s Hy4 are both gutting out cybersecurity, reverse engineering, and vulnerability-patching capabilities from their open-source models. This is becoming a really bad pattern across these latest Chinese open-weight models. If local models are stripped on their security data, we won't be able to properly audit our own code vulnerabilities, reverse engineer binaries, or patch other vulnerabilities in general on our own hardware. It would essentially force us to use closed-source APIs and their false-positive shutdowns; that'd be terrible for everyone. During the Hugging Face i",
+   "title_th": "โมเดล Open-source จากจีนเริ่มจำกัดความสามารถด้าน Cybersecurity",
+   "summary_th": "มีการตั้งข้อสังเกตว่าโมเดล Open-source จากจีนอย่าง Kimi K3.1 และ Hy4 กำลังลดทอนความสามารถด้านการเจาะระบบและการตรวจสอบช่องโหว่ ซึ่งอาจส่งผลกระทบต่อการใช้งานในระดับท้องถิ่นและบีบให้ผู้ใช้ต้องหันไปพึ่งพาโมเดลแบบปิดแทน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Tencent"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "93fc4c1ba090",
+   "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+   "source": "MIT Technology Review",
+   "published": "2026-11-06T10:00:00+00:00",
+   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "text": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+   "title_th": "สัมผัสอนาคตกับหุ่นยนต์ฮิวแมนนอยด์บริการทำความสะอาดบ้าน",
+   "summary_th": "บทความรีวิวประสบการณ์การใช้บริการหุ่นยนต์ฮิวแมนนอยด์เพื่อทำความสะอาดบ้านในซานฟรานซิสโก ซึ่งสะท้อนให้เห็นถึงความก้าวหน้าของเทคโนโลยีหุ่นยนต์ที่เริ่มเข้ามามีบทบาทในชีวิตประจำวันมากขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "32dd5727ff9c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T09:07:37+00:00",
+   "title": "Asking questions to a 0.5b model is hillarious",
+   "text": "Yes IK it's supposed to be this dumb, but it's still funny (Qwen2 0.5b Q4_K_M) submitted by /u/Pro-editor-1105 [link] [comments]",
+   "title_th": "ทดสอบการใช้งานโมเดลขนาดเล็ก Qwen2 0.5b",
+   "summary_th": "การทดสอบใช้งานโมเดลภาษาขนาดเล็ก Qwen2 0.5b ซึ่งแสดงให้เห็นถึงข้อจำกัดและความตลกขบขันในการตอบคำถามของโมเดลที่มีขนาดพารามิเตอร์น้อย",
+   "category": "อื่นๆ",
+   "companies": [
+    "Alibaba Cloud"
+   ],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "904574e3ce24",
    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
@@ -395,6 +612,21 @@
    "dedup": true
   },
   {
+   "id": "5ac7e93aa1cf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T03:50:26+00:00",
+   "title": "Introducing Inkling 2 Small",
+   "text": "Today we are introducing our second model generation with Inkling 2 Small. It is a Mixture-of-Experts model with 594B total parameters, 17B active , and supports image inputs and variable effort. Inkling 2 Small far surpasses our previous models’ scores on the Artificial Analysis Intelligence Index with a score of 31, reflecting gains in performance on agentic coding, vision, knowledge work, and reasoning. The increase in capabilities comes from improvements made at every step of our training process, including more efficient pre-training and a large, unified RL run. Inkling 2 Small will initi",
+   "title_th": "เปิดตัว Inkling 2 Small โมเดล Mixture-of-Experts รุ่นใหม่",
+   "summary_th": "Inkling 2 Small เป็นโมเดล Mixture-of-Experts ขนาด 594B พารามิเตอร์ที่รองรับอินพุตภาพและงานที่ซับซ้อน โดยมีการปรับปรุงประสิทธิภาพด้านการเขียนโค้ดและการใช้เหตุผลให้ดียิ่งขึ้น",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "07d8be2258f4",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12NXJCUGxfclRPOFFtYUh5WXBxZ0tjVmZsUzJaN3ZBRUlWMDN6NFc4dm51X3FodlJiSUR0UGhKLV8tRGxJS3lPNm13Z2VHUQ?oc=5",
    "source": "Hoonsmart",
@@ -404,8 +636,32 @@
    "title_th": "ตลาดหุ้นดาวโจนส์ร่วงหนัก หลังนักลงทุนกังวลกฎเกณฑ์คุมเข้ม AI",
    "summary_th": "ดัชนีหุ้นดาวโจนส์ปรับตัวลดลงอย่างรุนแรงจากการเทขายหุ้นกลุ่มชิปและ AI เนื่องจากความกังวลเกี่ยวกับกฎระเบียบและข้อบังคับที่เข้มงวดขึ้นในอนาคต",
    "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA",
+    "Amazon"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true,
+   "also": [
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152114"
+    }
+   ]
+  },
+  {
+   "id": "8a865cdcf78c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T00:43:25+00:00",
+   "title": "CCORE GLB-3D-Coder dataset is here: 3,918 rendered and tested examples across 40 domains",
+   "text": "As promised in my previous posts, I’m releasing the dataset used to train CCORE GLB-3D-Coder , my small 4B model for creating 3D assets with Three.js and GLB export. The dataset contains 3,918 examples across 40 domains , including characters, creatures, vehicles, laboratory equipment, musical instruments, architecture, machinery, nature, and everyday props. The grid shows 256 examples. Every example was tested and rendered, and its exported GLB was validated before inclusion. What’s included: Complete con",
+   "title_th": "ปล่อยชุดข้อมูล CCORE GLB-3D-Coder สำหรับสร้างโมเดล 3D",
+   "summary_th": "มีการเปิดตัวชุดข้อมูลสำหรับการฝึกสอนโมเดลขนาดเล็ก 4B เพื่อสร้างโมเดล 3D ในรูปแบบ GLB โดยประกอบด้วยตัวอย่างที่ผ่านการทดสอบและตรวจสอบแล้วกว่า 3,918 รายการ",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
-   "importance": 3,
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -423,6 +679,40 @@
     "OpenAI"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "82196d4ece0a",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "source": "Hugging Face",
+   "published": "2026-11-06T00:00:00+00:00",
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "text": "",
+   "title_th": "เพิ่มภาษาอังกฤษสำเนียงอียิปต์และไนจีเรียบน Open ASR Leaderboard",
+   "summary_th": "มีการอัปเดตกระดานผู้นำ Open ASR Leaderboard โดยเพิ่มการรองรับภาษาอังกฤษสำเนียงอียิปต์และไนจีเรีย เพื่อขยายขีดความสามารถในการจดจำเสียงให้ครอบคลุมมากขึ้น",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Hugging Face"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6f78e24cdb5b",
+   "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+   "source": "Hacker News",
+   "published": "2026-11-05T23:09:57+00:00",
+   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "text": "457 points, 212 comments on Hacker News (https://news.ycombinator.com/item?id=50385870)",
+   "title_th": "ข้อกล่าวหา Facebook ปล่อยโฆษณา Deepfake หลอกลวง",
+   "summary_th": "มีรายงานข้อกล่าวหาว่า Facebook ปล่อยให้มีการรันโฆษณา Deepfake หลอกลวงบนแพลตฟอร์ม ซึ่งสร้างรายได้จากการฉ้อโกงจำนวนมหาศาล",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -677,6 +967,14 @@
     {
      "source": "TechCrunch",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEtFZTdKVm5NbllXbVdGcTRrU3ZuZ3p4Q0VvS2hPRjJQWmJGUWlIRmlpaC1kV1l0WUJTbmRQSm5mVVhrYV9oRUE2c2xPZWpoRDRnWkJwQzFmVmg1REtTN0k4WkRVYjUyaUExOXUyaXlWZU9yei1Bd0ZqYWpGLTNlOXJubi1DQmZxekZWbG9Cd1Q1NE1rTnMzbm15bEw2TnJMNFZnMm9rOWxVdw?oc=5"
+    },
+    {
+     "source": "The Decoder",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUtlQnZCZm9uS3lENk8xWlVQMVFKdVozNFhIekVNZTJtd0IxeFFvM0hXLXAtaWpKVk5ocjN4RDJqYk52a3BkZFRSMzlXYk4zRGo4WGZwS1RnZEx0alI3U21aQ1FyaWo1YlJ6STBxU0c0aXFreGI5MEhYTndBbDdqZ2dxUzNiVGVELUdYZ1FmNnIyczFuSjREaEdCVDJ4Zzc5SlZfaDRB?oc=5"
+    },
+    {
+     "source": "Yahoo Tech",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1l6bGwybDVpaTA3dE5NNnVtVGEwT3NTYkZ1RXAySjFWWDRhRU54aS1TajM1MGxhWk9SQ0ZnTVhhQWxDSGQ5QjRtZENyTF85UmVXTmI1RmktMGY4M1Bwak04bGtBTlRPWURYS1hKUGM0ZUttLTdYRHlKRjZGbVlBdkFqOW9kc2l2VmtXWi03dFVKXzdX?oc=5"
     }
    ],
    "dedup": true
@@ -1148,7 +1446,8 @@
    "summary_th": "OpenAI แนะนำโมเดล GPT-6 Cyber ที่ออกแบบมาเพื่อตรวจหาช่องโหว่และพัฒนาการแก้ไขปัญหาด้านความปลอดภัยทางไซเบอร์ โดยเน้นการทำงานภายใต้ขอบเขตที่ได้รับอนุญาต",
    "category": "โมเดลใหม่",
    "companies": [
-    "OpenAI"
+    "OpenAI",
+    "Mozilla"
    ],
    "importance": 5,
    "ai": true,
@@ -1160,6 +1459,10 @@
     {
      "source": "TechCrunch AI",
      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152115"
     }
    ],
    "dedup": true
@@ -1538,6 +1841,23 @@
    "dedup": true
   },
   {
+   "id": "21a9eeb186cd",
+   "url": "https://huggingface.co/papers/2611.07392",
+   "source": "HF Daily Papers",
+   "published": "2026-11-04T19:00:00+00:00",
+   "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+   "text": "We present WeLM-Image, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for single-GPU deployment in WeChat's large-scale consumer applications, the model processes text, reference images, and target latents as one interleaved sequence. A Mixture-of-Transformers (MoT) backbone combines shared attention with independent understanding and generation parameters to limit optimization interference. Equipping each path with Mixture-of-Experts (MoE) modules provides sparse capac",
+   "title_th": "WeLM-Image โมเดลรวมงานสร้างภาพและเข้าใจภาพในหนึ่งเดียว",
+   "summary_th": "WeLM-Image เป็นโมเดลพื้นฐานที่รวมความสามารถด้านมัลติโมดัลเข้ากับการสร้างภาพและการแก้ไขภาพตามคำสั่ง ออกแบบมาเพื่อการใช้งานบน GPU เดี่ยวในแอปพลิเคชันขนาดใหญ่",
+   "category": "งานวิจัย",
+   "companies": [
+    "Tencent"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "d0178f35064d",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
    "source": "The Verge AI",
@@ -1638,6 +1958,21 @@
     "Apple"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "764fc197d7eb",
+   "url": "https://www.linum.ai/field-notes/pjit-21k",
+   "source": "Hacker News",
+   "published": "2026-11-04T16:45:11+00:00",
+   "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+   "text": "264 points, 28 comments on Hacker News (https://news.ycombinator.com/item?id=50368208)",
+   "title_th": "เปิดตัวโมเดล Text-to-Image ที่ใช้ต้นทุนฝึกสอนเพียง 2 หมื่นดอลลาร์",
+   "summary_th": "มีการเผยแพร่โมเดล Text-to-Image ที่ผ่านการฝึกสอนด้วยงบประมาณประมาณ 2 หมื่นดอลลาร์ โดยเปิดให้ใช้งานภายใต้สัญญาอนุญาต Apache 2.0",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -2950,7 +3285,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpbjku/qwen_4_is_stealth_announced/"
+    }
+   ]
   },
   {
    "id": "4ed35bdfdb65",

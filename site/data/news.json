@@ -1,58 +1,47 @@
 {
- "updated_at": "2026-11-07T06:07:51+00:00",
+ "updated_at": "2026-11-07T14:56:08+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-07T06:07:51+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายรอบด้าน ทั้งด้านนโยบาย การเงิน และความปลอดภัย ในขณะที่การพัฒนาโมเดลขนาดเล็กและนวัตกรรมใหม่ยังคงเดินหน้าอย่างต่อเนื่อง",
+  "generated_at": "2026-11-07T14:56:08+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญความท้าทายรอบด้านทั้งด้านการเมือง โครงสร้างพื้นฐาน และความปลอดภัย ในขณะที่บริษัทชั้นนำยังคงเร่งพัฒนาโมเดลและระดมทุนต่อเนื่อง",
   "points": [
    {
-    "text": "อุตสาหกรรม AI กำลังเผชิญแรงกดดันจากนโยบายการเมืองและกระแสต่อต้านในสหรัฐฯ ซึ่งส่งผลกระทบต่อการขยายตัวของศูนย์ข้อมูลและสร้างความท้าทายด้านพลังงานและชุมชน",
-    "ids": [
-     "ef57b5d47585",
-     "c0641eb0de56",
-     "22815b4f725e",
-     "c2107a5a7cf6"
-    ]
-   },
-   {
-    "text": "สถานะทางการเงินของบริษัท AI ชั้นนำมีความเคลื่อนไหวสำคัญ โดย OpenAI เตรียมระดมทุนครั้งใหญ่ ในขณะที่ Anthropic เผชิญความท้าทายเรื่องมูลค่า IPO ข้อกล่าวหาเรื่องการโฆษณา และความกังวลจากนักวิเคราะห์",
+    "text": "บริษัท AI ยักษ์ใหญ่มีความเคลื่อนไหวสำคัญ โดย OpenAI กำลังระดมทุนเพิ่ม 1.1 หมื่นล้านดอลลาร์ ในขณะที่ Anthropic เผชิญความท้าทายด้านมูลค่า IPO คดีความเรื่องการโฆษณา และการปรับตัวของธุรกิจ",
     "ids": [
      "118369de89f0",
      "abdf877d5298",
      "5c088739db84",
-     "7c70b636a2cf",
-     "0a3e389a2fa3"
+     "929b8650bc40"
     ]
    },
    {
-    "text": "ความปลอดภัยของ AI กลายเป็นประเด็นสำคัญระดับโลก ตั้งแต่การสอดแนมผู้บริหาร NVIDIA โดยจีน การรั่วไหลของเครื่องมือเจาะระบบ ไปจนถึงการที่บริษัทต่างๆ เร่งจับมือหรือเข้าซื้อกิจการด้านความปลอดภัย",
+    "text": "การขยายตัวของศูนย์ข้อมูล AI ทั่วโลกกำลังเผชิญอุปสรรคจากนโยบายการเมือง กระแสต่อต้านจากชุมชน และปัญหาด้านพลังงาน รวมถึงการปรับเปลี่ยนกลยุทธ์การเช่าคลาวด์ของบริษัทเทคโนโลยี",
+    "ids": [
+     "ef57b5d47585",
+     "c0641eb0de56",
+     "22815b4f725e",
+     "04a6938cd03a",
+     "c2107a5a7cf6"
+    ]
+   },
+   {
+    "text": "ความปลอดภัยและจริยธรรม AI เป็นประเด็นร้อน ทั้งกรณีการจารกรรมข้อมูลชิป NVIDIA โดยจีน การรั่วไหลของเครื่องมือเจาะระบบ Artex และการขโมยฮาร์ดแวร์ระหว่างขนส่ง",
     "ids": [
      "1bc7ba2a28c4",
      "29c568495a81",
-     "bc8f9eac1966",
-     "904574e3ce24",
-     "6bf81abbe03a"
+     "d5aa8b511552"
     ]
    },
    {
-    "text": "นวัตกรรมโมเดลขนาดเล็ก (Small Language Models) และโมเดลเฉพาะทางกำลังเติบโตอย่างรวดเร็ว เพื่อรองรับการใช้งานบนอุปกรณ์พกพา หุ่นยนต์ และงานวิจัยทางวิทยาศาสตร์",
+    "text": "ความก้าวหน้าทางเทคนิคมีให้เห็นอย่างต่อเนื่อง ตั้งแต่โมเดลขนาดเล็กอย่าง Mirage และ Oc-e-Non-v1 ไปจนถึงความสามารถใหม่ของ Claude ในการเล่นเกมและวิจัยทางวิทยาศาสตร์ รวมถึงการเปิดซอร์สเครื่องมือ 6G ของ NVIDIA",
     "ids": [
      "c8e19817a2b6",
-     "08519556b90d",
-     "a394d9aad7a2",
-     "fae1d8bd060e",
-     "6d7fb611e8cd"
-    ]
-   },
-   {
-    "text": "ความก้าวหน้าด้านเทคนิคของ AI มีการอัปเดตที่น่าสนใจ ทั้งการควบคุมคอมพิวเตอร์ผ่าน Open WebUI, การพัฒนาหน่วยความจำใน Claude, การเปิดซอร์สเครื่องมือ 6G ของ NVIDIA และการปรับจูนโมเดล Qwen",
-    "ids": [
-     "ed3f21fe69ef",
+     "1352cdf64864",
      "d89cfb91348f",
-     "2b3eb4eb79de",
-     "ced211b58923",
-     "38558640ee45",
-     "016e849ea3ab"
+     "fae1d8bd060e",
+     "6d7fb611e8cd",
+     "1894b8f52bef",
+     "2b3eb4eb79de"
     ]
    }
   ]
@@ -145,7 +134,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": null
   }
  ],
@@ -386,9 +375,66 @@
   "52e0623fab79",
   "6813d62fd925",
   "f1c0f71426d8",
-  "92b266296142"
+  "92b266296142",
+  "302e11be9ebf",
+  "38f72ba9c5b3",
+  "ad6a98652e06",
+  "f441801c064c",
+  "1955590be05d",
+  "1a1e82258ca3",
+  "b49103717383",
+  "0c49172734d3",
+  "8879475e62b3",
+  "5072f0d6af00",
+  "3abd24bfc9c6",
+  "0a3e389a2fa3",
+  "7c70b636a2cf",
+  "1797fd902d39",
+  "28c2d038c17b",
+  "1c0b0e1eff87",
+  "ced211b58923",
+  "c81d555c8fa4",
+  "32dd5727ff9c",
+  "7ced839b16cb",
+  "7fe9597cf482"
  ],
  "items": [
+  {
+   "id": "5ec03af4da1d",
+   "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+   "source": "Hacker News",
+   "published": "2026-11-07T09:46:03+00:00",
+   "title": "Every Mac comes with an (undocumented) family member classifier",
+   "text": "297 points, 146 comments on Hacker News (https://news.ycombinator.com/item?id=50403097)",
+   "title_th": "พบโมเดลจำแนกสมาชิกในครอบครัวที่ไม่ได้ระบุไว้ใน macOS",
+   "summary_th": "มีการค้นพบโมเดลสำหรับจำแนกสมาชิกในครอบครัวที่ซ่อนอยู่ในระบบปฏิบัติการ macOS ซึ่งเป็นฟีเจอร์ที่ไม่ได้มีการประกาศหรือระบุไว้ในเอกสารอย่างเป็นทางการ",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "04a6938cd03a",
+   "url": "https://www.blognone.com/node/152122",
+   "source": "Blognone",
+   "published": "2026-11-07T08:55:00+00:00",
+   "title": "[ไม่ยืนยัน] Microsoft ยกเลิกสัญญาเช่าคลาวด์ของ Oracle บางส่วน เหตุเป็นจีพียูรุ่นเก่า",
+   "text": "Body Bloomberg อ้างแหล่งข่าวที่เกี่ยวข้องระบุว่าไมโครซอฟท์ได้แจ้ง Oracle เพื่อยกเลิกการเช่าใช้งานคลาวด์สำหรับการประมวลผล AI โดยเหตุการณ์นี้เกิดขึ้นช่วงไม่กี่เดือนที่ผ่านมา หลังจากสัญญาเดิมครบกำหนดและอยู่ในการเจรจาต่อสัญญาใหม่ แหล่งข่าวบอกว่ากำลังประมวลผล AI ส่วนนี้ ไมโครซอฟท์ประเมินว่าตอนนี้ไม่จำเป็นสำหรับความต้องการปัจจุบัน สาเหตุหนึ่งเพราะเป็นฮาร์ดแวร์ NVIDIA รุ่นเก่าด้วย ทั้งนี้ข้อตกลงที่ไมโครซอฟท์ทำร่วมกับ Oracle เริ่มมา ตั้งแต่ปี 2023 ด้านตัวแทนของ Oracle ชี้แจงข่าวนี้ว่าความต้องการ OCI หรือ Oracle Cloud",
+   "title_th": "Microsoft อาจยกเลิกสัญญาเช่าคลาวด์บางส่วนกับ Oracle",
+   "summary_th": "มีรายงานว่า Microsoft ตัดสินใจไม่ต่อสัญญาเช่าคลาวด์กับ Oracle สำหรับการประมวลผล AI บางส่วน เนื่องจากประเมินว่าฮาร์ดแวร์ NVIDIA รุ่นเก่าไม่ตอบโจทย์ความต้องการในปัจจุบัน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Microsoft",
+    "Oracle",
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "5c088739db84",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWR3NlcyeHpIU2dCd1ozQnNFTmxGVFVFZG1hRzhIQzZhbWM2YUwzSzhPdmRTZDZ0RjJCZk5NUDQ5ZjJpdTBWQ29qUUgtN1NJV3BBdHUtWWo4SWxtTUZDeDJCbEI3YWlUdGVPblUwbXpDdlB2SFFBWlBpYUQ3c0hLMk9ZNjhUUFJONTZxbktNYXFBTUVTbXhN?oc=5",
@@ -404,7 +450,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT2JjVUszSWJzbm1NMS1jSHh0SXNCZW81bGFfVE8xajJzcnl4MWFyd2k3SXRhTk8tM01yY2dSVlJLQXNYSU43a29FRUdnM3hYY0EyLXJVenNsNVZJdm5IZjdKRkJMaHh5dnZXVjNjdzlkQW5LWTVyQ0hUWVg1eUhpaDJ3?oc=5"
+    }
+   ]
   },
   {
    "id": "d89cfb91348f",
@@ -420,6 +472,23 @@
     "Anthropic"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "929b8650bc40",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RWXl0T0lpR1J0WE1VZ050anMwUlhTeUEzVGtGcDhYUTNKUnpsMDlkZHV2ZEpGanBNc0Vxb3VueVBYQ19pc2xlWTVvdw?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-07T02:03:13+00:00",
+   "title": "Anthropic News: Latest Updates on the AI Company Behind Claude - Bloomberg",
+   "text": "",
+   "title_th": "สรุปความเคลื่อนไหวล่าสุดของ Anthropic ผู้สร้าง Claude",
+   "summary_th": "รายงานสรุปสถานการณ์และอัปเดตล่าสุดของบริษัท Anthropic ซึ่งเป็นผู้พัฒนาโมเดลภาษาขนาดใหญ่ Claude ในแวดวงอุตสาหกรรม AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -568,24 +637,6 @@
    "dedup": true
   },
   {
-   "id": "ced211b58923",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-06T19:58:47+00:00",
-   "title": "NousResearch/Arete-27B · Hugging Face (Qwen finetune)",
-   "text": "https://huggingface.co/bartowski/NousResearch_Arete-27B-GGUF from NousResearch: Arete-27B We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B. Open source models give labs the raw tools to mold intelligence to varied preferences. The values a model ships with should not be the only values its users get to choose from. We observed firsthand refusals, deflections, and CCP-framed answers on politically sensitive topics in Qwen3.8-27B, and post-trained to alter those biases. On our evaluation, Arete-27B raised its fact",
-   "title_th": "NousResearch เปิดตัว Arete-27B โมเดล Qwen ที่ปรับจูนใหม่เพื่อเน้นค่านิยมตะวันตก",
-   "summary_th": "NousResearch นำโมเดล Qwen3.8-27B มาปรับจูนใหม่ในชื่อ Arete-27B เพื่อแก้ไขปัญหาการตอบคำถามที่อิงตามค่านิยมของจีน โดยมุ่งเน้นให้โมเดลมีความเป็นกลางและสอดคล้องกับค่านิยมตะวันตกมากขึ้น",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "NousResearch",
-    "Alibaba"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "c8e19817a2b6",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/",
    "source": "r/LocalLLaMA",
@@ -698,11 +749,34 @@
    "summary_th": "Anthropic เผชิญกับความท้าทายในการประเมินมูลค่าหุ้น IPO หลังจากตลาดเผชิญกับภาวะมูลค่าลดลงอย่างหนัก",
    "category": "ธุรกิจ/การลงทุน",
    "companies": [
-    "Anthropic"
+    "Anthropic",
+    "Ramp"
    ],
    "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHIycEZRSkJsN281eURCTG5nSGdPaXAzZzhfWHNLRU5pb2Z5MzZBRlNtMFVyRkVJa0RuMk9SeExIdndfZkxuQ1BSbG01UnlGbDdpVjdiVmJEM3U1cHJ2V285dkhHanNEczJ4QVJqUk1sVXdXZXJObFFSMjNxYXNySWpYZVNNQXU4dmhzNXk1dW5FaHU2WXJyak82emlxdWh3RTd6UlU2NDhhclJEMkpINk5UWmg?oc=5"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    },
+    {
+     "source": "The Motley Fool",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ3FneUk4d0xoOXpvakI3c1FONlEwZ0RhVVNDc1pCUDFpczJyWEFjb2JJMjZsUjBvUUhkd1dSQmM2M1cxVmpOdjlxZ01iWk4wUm0wM2Vpb2ZyeHl3OXdlOTFacFZrbEFCYmtQNjItX2xhTmxIVmRMaE44bnJFR3JXX181TERKLXpoTUx3OFZB?oc=5"
+    },
+    {
+     "source": "Hacker News",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
+    },
+    {
+     "source": "Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSG44NXNtN3I0alUwQkRkVnRiTW1kYVVsOVh6NlJTTkVuUFROWV92c250eW44NnpyYjgydmVpS2pOOGtKVy1rVnRPazA1RVRBWEtwODhVWHQ0NWVOeEU3eXdEamFyYzFqR3VSUzdOcXc1WlJMeUZXbU1xSnpPUzJNcGNaUU02Y2c?oc=5"
+    }
+   ]
   },
   {
    "id": "2b3eb4eb79de",
@@ -716,24 +790,6 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [
     "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7c70b636a2cf",
-   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-06T15:54:47+00:00",
-   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-   "text": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-   "title_th": "ข้อมูลจาก Ramp ชี้การใช้จ่ายด้าน AI เริ่มชะลอตัว แม้ Anthropic ใกล้เข้าตลาดหุ้น",
-   "summary_th": "แม้การใช้งาน AI จะเพิ่มขึ้นอย่างต่อเนื่อง แต่การใช้จ่ายกลับเริ่มชะลอตัวลงเนื่องจากการลดราคาและมาตรการควบคุมต้นทุนของผู้ใช้งานรายใหญ่ ซึ่งอาจส่งผลต่อความคาดหวังของนักลงทุนเกี่ยวกับการเติบโตแบบก้าวกระโดดของ AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Ramp",
-    "Anthropic"
    ],
    "importance": 3,
    "ai": true,
@@ -860,40 +916,6 @@
    "dedup": true
   },
   {
-   "id": "1797fd902d39",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ3FneUk4d0xoOXpvakI3c1FONlEwZ0RhVVNDc1pCUDFpczJyWEFjb2JJMjZsUjBvUUhkd1dSQmM2M1cxVmpOdjlxZ01iWk4wUm0wM2Vpb2ZyeHl3OXdlOTFacFZrbEFCYmtQNjItX2xhTmxIVmRMaE44bnJFR3JXX181TERKLXpoTUx3OFZB?oc=5",
-   "source": "The Motley Fool",
-   "published": "2026-11-06T13:45:00+00:00",
-   "title": "Can You Invest in Anthropic in 2026? Details & Alternatives",
-   "text": "",
-   "title_th": "สรุปแนวทางการลงทุนใน Anthropic สำหรับปี 2026",
-   "summary_th": "บทความวิเคราะห์โอกาสและทางเลือกในการลงทุนในบริษัท Anthropic ซึ่งเป็นผู้พัฒนา AI ชั้นนำ โดยให้ข้อมูลเกี่ยวกับสถานะปัจจุบันและทางเลือกอื่นสำหรับนักลงทุน",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0a3e389a2fa3",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHIycEZRSkJsN281eURCTG5nSGdPaXAzZzhfWHNLRU5pb2Z5MzZBRlNtMFVyRkVJa0RuMk9SeExIdndfZkxuQ1BSbG01UnlGbDdpVjdiVmJEM3U1cHJ2V285dkhHanNEczJ4QVJqUk1sVXdXZXJObFFSMjNxYXNySWpYZVNNQXU4dmhzNXk1dW5FaHU2WXJyak82emlxdWh3RTd6UlU2NDhhclJEMkpINk5UWmg?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-11-06T13:11:30+00:00",
-   "title": "Strategist Who Warned Before Rout Sees Anthropic as Bigger Risk",
-   "text": "",
-   "title_th": "นักวิเคราะห์เตือน Anthropic อาจเป็นความเสี่ยงใหญ่กว่าที่คิด",
-   "summary_th": "นักวิเคราะห์ที่เคยเตือนเรื่องความผันผวนของตลาดก่อนหน้านี้ ได้ออกมาแสดงความกังวลว่า Anthropic อาจเป็นปัจจัยเสี่ยงที่สำคัญในอนาคต",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "a394d9aad7a2",
    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
    "source": "TechCrunch AI",
@@ -938,11 +960,35 @@
    "summary_th": "มีการเคลื่อนไหวที่น่าสนใจเกี่ยวกับโมเดล Qwen จาก Alibaba ซึ่งเป็นที่จับตามองในชุมชนผู้ใช้งานโมเดลภาษาขนาดใหญ่",
    "category": "โมเดลใหม่",
    "companies": [
-    "Alibaba"
+    "Alibaba",
+    "NousResearch",
+    "Alibaba Cloud"
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xobzg3/qwen_be_like/"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbht/we_are_in_the_golden_age_of_local_llm/"
+    }
+   ]
   },
   {
    "id": "44766e97c429",
@@ -990,23 +1036,6 @@
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [],
    "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "32dd5727ff9c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-06T09:07:37+00:00",
-   "title": "Asking questions to a 0.5b model is hillarious",
-   "text": "Yes IK it's supposed to be this dumb, but it's still funny (Qwen2 0.5b Q4_K_M) submitted by /u/Pro-editor-1105 [link] [comments]",
-   "title_th": "ทดสอบการใช้งานโมเดลขนาดเล็ก Qwen2 0.5b",
-   "summary_th": "การทดสอบใช้งานโมเดลภาษาขนาดเล็ก Qwen2 0.5b ซึ่งแสดงให้เห็นถึงข้อจำกัดและความตลกขบขันในการตอบคำถามของโมเดลที่มีขนาดพารามิเตอร์น้อย",
-   "category": "อื่นๆ",
-   "companies": [
-    "Alibaba Cloud"
-   ],
-   "importance": 1,
    "ai": true,
    "dedup": true
   },
@@ -1238,9 +1267,23 @@
    "companies": [
     "Anthropic"
    ],
-   "importance": 3,
+   "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+    },
+    {
+     "source": "Hacker News",
+     "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+    },
+    {
+     "source": "Hacker News",
+     "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
+    }
+   ]
   },
   {
    "id": "e7c62756ba5f",
@@ -1410,7 +1453,8 @@
    "summary_th": "Anthropic เปิดตัวฟีเจอร์ใหม่ที่ให้ Claude เชื่อมต่อกับบัญชีธนาคารผ่าน Plaid เพื่อช่วยผู้ใช้สรุปและวิเคราะห์ข้อมูลการเงินส่วนบุคคล",
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [
-    "Anthropic"
+    "Anthropic",
+    "Plaid"
    ],
    "importance": 4,
    "ai": true,
@@ -1458,6 +1502,14 @@
     {
      "source": "24/7 Wall St.",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOUxGQ2NoVWotWTd3Qk93Z0d6aFlBOTkwSWlYLWRDS0syTEFTc29CcURDdDJVcGkwcW8xTWRWeEcwaW4yWm54Y1pCUmlDNXBrRnV2YVRYaGdYeVRiblNRYUl0Zm15dm1wUHVTVllzNS1HZUltMEF6c0llenp3T0VENjdWMTU4WUZZRWpPOWl1Tk94WldEV2ZvVA?oc=5"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152124"
+    },
+    {
+     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWtHTk1YYll3THp6bDdfZHRickJwTWtPcGpmZ0I2c3hhZ0g3MVFMbGxCaUxIYlp2Y2FMN0FfNWI0bXRPelZmX2l4dWUxRUR5cmV6eU44SWVuTG5xRlVlc2ZkbmNDRHU2VVhWNnhLRWZlQWJ4WUYwc0ttYmxmU2NwSjZFZ01rcVViak9iQXNWLTd3ZGlxZndiNEFrZGhvc25j?oc=5"
     }
    ],
    "dedup": true
@@ -1896,29 +1948,6 @@
    "dedup": true
   },
   {
-   "id": "c81d555c8fa4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-05T09:31:10+00:00",
-   "title": "Qwen3.8-27B has become unuseable recently",
-   "text": "When it came out, I downloaded a Q4 quant of qwen3.8-27b and ran it using llama.cpp on my RTX 4090 and it was incredible. It could handle practically anything I threw at it, the most complex tasks and bugfixes. But lately it just keeps messing up and failing at the most basic of tasks or just straight up forgetting instructions. I'm telling you, they quantized it. They probably secretly nerfed it and made it worse so qwen4 looks better. And it got lazy too, now it doesn't want to finish the more complex tasks. I'm tired of companies doing this, I want my money back. submitted by /u/liright [li",
-   "title_th": "ผู้ใช้งานพบปัญหาประสิทธิภาพของ Qwen3.8-27B ลดลง",
-   "summary_th": "ผู้ใช้งานในชุมชน LocalLLaMA รายงานว่าโมเดล Qwen3.8-27B มีประสิทธิภาพลดลงอย่างเห็นได้ชัดในการทำงานพื้นฐานเมื่อเทียบกับช่วงที่เปิดตัวใหม่ๆ",
-   "category": "อื่นๆ",
-   "companies": [
-    "Alibaba"
-   ],
-   "importance": 2,
-   "ai": true,
-   "also": [
-    {
-     "source": "r/LocalLLaMA",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xobzg3/qwen_be_like/"
-    }
-   ],
-   "dedup": true
-  },
-  {
    "id": "53c56afbaf05",
    "url": "https://openai.com/index/introducing-gpt-6-cyber",
    "source": "OpenAI",
@@ -2131,11 +2160,18 @@
    "companies": [
     "Qualcomm",
     "Amazon",
-    "Meta"
+    "Meta",
+    "AMD"
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/"
+    }
+   ]
   },
   {
    "id": "a1e153edc152",

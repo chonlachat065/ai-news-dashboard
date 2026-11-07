@@ -1,26 +1,12 @@
 {
- "updated_at": "2026-11-07T20:16:28+00:00",
+ "updated_at": "2026-11-07T23:42:44+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-07T20:16:28+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญในอุตสาหกรรม AI ตั้งแต่การระดมทุนครั้งใหญ่ของ OpenAI ไปจนถึงความท้าทายด้านห่วงโซ่อุปทานชิป NVIDIA และการพัฒนาโมเดลของ Anthropic",
+  "generated_at": "2026-11-07T23:42:44+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญในอุตสาหกรรม AI ทั้งด้านการพัฒนาโมเดล การปรับโครงสร้างองค์กร และประเด็นความปลอดภัยในการส่งออกเทคโนโลยี",
   "points": [
    {
-    "text": "OpenAI กำลังระดมทุนรอบใหม่มูลค่า 1.1 หมื่นล้านดอลลาร์ โดยมีมูลค่าบริษัทประเมินไว้ที่ 1.25 ล้านล้านดอลลาร์",
-    "ids": [
-     "118369de89f0"
-    ]
-   },
-   {
-    "text": "NVIDIA เผชิญความท้าทายด้านความปลอดภัยและห่วงโซ่อุปทาน ทั้งการถูกตรวจสอบการส่งออกชิปไปยังจีน การถูกสอดแนมผู้บริหารระดับสูง และเหตุการณ์โจรกรรมฮาร์ดแวร์ระหว่างขนส่ง",
-    "ids": [
-     "73be1ddc7ff2",
-     "1bc7ba2a28c4",
-     "d5aa8b511552"
-    ]
-   },
-   {
-    "text": "Anthropic เดินหน้าพัฒนา Claude อย่างต่อเนื่องด้วยการเปิดตัวเอเจนต์เชิงรุก Claude Duet และการวิจัยหน่วยความจำเลียนแบบมนุษย์ แม้จะเผชิญข้อกล่าวหาเรื่องการโฆษณาที่อาจทำให้เข้าใจผิดก็ตาม",
+    "text": "ความเคลื่อนไหวของ Anthropic ในการพัฒนา Claude ทั้งการเปิดตัวเอเจนต์เชิงรุก Claude Duet การวิจัยหน่วยความจำเลียนแบบมนุษย์ และประเด็นข้อพิพาทด้านการโฆษณาที่อาจทำให้ผู้ใช้เข้าใจผิด",
     "ids": [
      "86c8ed73f2e6",
      "d89cfb91348f",
@@ -29,19 +15,34 @@
     ]
    },
    {
-    "text": "Microsoft ปรับโครงสร้างภายในด้วยการยุบกลุ่มวิจัย AI Frontiers และอาจยกเลิกสัญญาเช่าคลาวด์กับ Oracle เนื่องจากฮาร์ดแวร์รุ่นเก่าไม่ตอบโจทย์การใช้งาน",
+    "text": "การปรับโครงสร้างภายในของ Microsoft ที่ยุบกลุ่มวิจัย AI Frontiers และการพิจารณายกเลิกสัญญาเช่าคลาวด์กับ Oracle เนื่องจากข้อจำกัดด้านฮาร์ดแวร์",
     "ids": [
      "9f1ff32d0cab",
      "04a6938cd03a"
     ]
    },
    {
-    "text": "การพัฒนาเทคนิคและเครื่องมือ AI มีความคืบหน้าอย่างมาก ทั้งการอัปเดต llama.cpp เพื่อเร่งความเร็ว MoE บน CPU และความพยายามพัฒนา Coding Agent ประสิทธิภาพสูงจากโมเดลขนาดเล็ก",
+    "text": "ความก้าวหน้าด้านเทคนิคและการเพิ่มประสิทธิภาพโมเดล เช่น การอัปเดต llama.cpp เพื่อเร่งความเร็ว MoE บน CPU, การทำ KV Cache Quantization ใน Qwen3.8, และการเปิดตัวโมเดลขนาดเล็กอย่าง Obsessive-1.7B",
     "ids": [
      "caef732d512c",
-     "0c8e014184b1",
+     "04001b2fd007",
+     "0d1989a6fe21"
+    ]
+   },
+   {
+    "text": "ประเด็นความปลอดภัยและการตรวจสอบการส่งออกชิป AI ของ Nvidia ไปยังบริษัทในจีนที่มีความน่าสงสัย รวมถึงความท้าทายในการพัฒนาโครงสร้างพื้นฐานศูนย์ข้อมูลขนาดใหญ่",
+    "ids": [
+     "73be1ddc7ff2",
+     "c2107a5a7cf6"
+    ]
+   },
+   {
+    "text": "การนำ AI ไปประยุกต์ใช้ในด้านต่างๆ ตั้งแต่เครื่องมือเฝ้าระวังบนมือถือ (Observer), ติวเตอร์การศึกษา (ABDUL Uni), ไปจนถึงการทดสอบประสิทธิภาพโมเดลด้านการเขียนโค้ดและงานสร้างสรรค์",
+    "ids": [
+     "00abf5945202",
+     "0bffdeebdde5",
      "e8c0296c7565",
-     "83110874cdec"
+     "fce077bd3009"
     ]
    }
   ]
@@ -396,9 +397,44 @@
   "c81d555c8fa4",
   "32dd5727ff9c",
   "7ced839b16cb",
-  "7fe9597cf482"
+  "7fe9597cf482",
+  "d44fec61ccb7",
+  "2c93e9013ac1"
  ],
  "items": [
+  {
+   "id": "321962b77cda",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORGNUWG9XV2JUWGNmcFAxa2V1VWp1TVVnVnd5SUh2cFFZMjg4YUFZT0NtNUh3WlR2dXVYeFpuTHlsWVpDdjN5LVVxdkpIVjl5dXppOFl3MEhXdnprdkF2YzdVTWtvX1NZdzRLWUpSSXZpTGxuejlxNjF5TDJsUHh4bmtzYkdTQQ?oc=5",
+   "source": "Engadget",
+   "published": "2026-11-07T23:10:20+00:00",
+   "title": "Claude Personal Finance Vs. ChatGPT Finances: What Sets Them Apart?",
+   "text": "",
+   "title_th": "เปรียบเทียบการใช้งาน Claude และ ChatGPT ในด้านการจัดการการเงินส่วนบุคคล",
+   "summary_th": "บทความเปรียบเทียบความสามารถของ Claude และ ChatGPT ในการช่วยจัดการการเงินส่วนบุคคล โดยเน้นให้เห็นถึงความแตกต่างในการใช้งานจริงสำหรับผู้ใช้ทั่วไป",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic",
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "00abf5945202",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-07T18:16:41+00:00",
+   "title": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
+   "text": "Hey r/LocalLLaMA ! I made this quick demo of how Observer can run local models to monitor anything with your phone! These are some crazy things I've monitored: When someone that's not me, approaches my car, send me a picture. When a bird is on the bird's nest, send me a telegram with the picture. When my washing machine is on the rinse cycle, call me. When my dog finishes eating their food, notify me. When a machine at the gym is available, call me. So pretty much anything! I love seeing what you guys monitor. What would you use it for? (So I can make the agent better) Which models run on the ",
+   "title_th": "เปิดตัว Observer เครื่องมือโอเพนซอร์สสำหรับรันโมเดล AI บนมือถือเพื่อเฝ้าระวังเหตุการณ์",
+   "summary_th": "นักพัฒนาเปิดตัว Observer เครื่องมือโอเพนซอร์สที่ช่วยให้ผู้ใช้สามารถรันโมเดล AI บนสมาร์ทโฟนเพื่อตรวจจับและแจ้งเตือนเหตุการณ์ต่างๆ ในชีวิตประจำวันได้โดยตรง",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "9f1ff32d0cab",
    "url": "https://hunch.net/?p=13764006",
@@ -426,6 +462,36 @@
    "title_th": "เปิดตัว ABDUL Uni นวัตกรรม AI ติวเตอร์เพื่อการศึกษาไทย",
    "summary_th": "ABDUL Uni เป็นนวัตกรรม AI ที่ถูกพัฒนาขึ้นเพื่อเป็นติวเตอร์ส่วนตัวสำหรับนักเรียนไทย โดยเน้นความสามารถในการตอบคำถามและช่วยเสริมการเรียนรู้",
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "04001b2fd007",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-07T17:09:51+00:00",
+   "title": "Effects of KV Cache Quantization on Qwen3.8 27B",
+   "text": "KV cache quantization has been a hotly-debated topic for this community for some time, with opinions ranging from \"never quantize\" to \"4 bit is fine\". Since the anecdotal evidence is rather inconsistent, I decided to quantify how much KV cache quantization affects the model through KLD, which is a good measure of how the model's output distribution is changed. I tested 35 weight quants across llama.cpp, exllamav3, and vLLM, each with 16-bit, 8-bit, and (where supported) 4-bit KV cache. I also reworked my KLD dataset and measurement methodology this time, to include a mix of agentic tool-use (g",
+   "title_th": "การศึกษาผลกระทบของการทำ KV Cache Quantization ต่อโมเดล Qwen3.8 27B",
+   "summary_th": "มีการทดสอบวัดผลกระทบของการทำ KV Cache Quantization ในระดับต่างๆ ต่อโมเดล Qwen3.8 27B เพื่อหาความสมดุลระหว่างประสิทธิภาพและการรักษาคุณภาพของผลลัพธ์",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fce077bd3009",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-07T16:28:52+00:00",
+   "title": "testing Qoduck (Maybe qwen4) on Qoder",
+   "text": "I noticed that it has native image and video generation. submitted by /u/Consistent_Berry_324 [link] [comments]",
+   "title_th": "ทดสอบประสิทธิภาพ Qoduck โมเดลใหม่ที่มีความสามารถสร้างภาพและวิดีโอ",
+   "summary_th": "มีการทดสอบโมเดล Qoduck บนแพลตฟอร์ม Qoder ซึ่งโดดเด่นด้วยความสามารถในการสร้างภาพและวิดีโอได้โดยตรง",
+   "category": "โมเดลใหม่",
    "companies": [],
    "importance": 2,
    "ai": true,
@@ -477,6 +543,21 @@
     "Nvidia"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0d1989a6fe21",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-07T12:13:29+00:00",
+   "title": "Obsessive-1.7B: a 1.1 GB web-search subagent",
+   "text": "I fine-tuned LFM3-1.7B to do one job: take a factual question, call web_search once, and answer with a short value, a word-for-word quote and the URL. If the results don’t contain the answer, it says “Not found in the search results.” It’s meant to run as a subagent under a bigger model, not as a chat model. I have to say the base lfm really surprised me at its capability to run tool calls and extract information. Answer: Barbara Liskov Evidence: \"Liskov ... the second woman to receive the Turing Award.\" Source: https://en.wikipedia.org/wiki/Barbara_Liskov Fixed-results benchmark (131 held-out",
+   "title_th": "เปิดตัว Obsessive-1.7B โมเดลขนาดเล็กสำหรับงานค้นหาข้อมูลบนเว็บ",
+   "summary_th": "Obsessive-1.7B เป็นโมเดลขนาดเล็กที่ถูกปรับแต่งมาเพื่อทำหน้าที่เป็นซับเอเจนต์ในการค้นหาข้อมูลบนเว็บและตอบคำถามเชิงข้อเท็จจริงโดยเฉพาะ",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -702,11 +783,18 @@
    "summary_th": "มีรายงานว่าหน่วยงานข่าวกรองของจีนพยายามจ้างผู้บริหารระดับสูงเพื่อสอดแนมซีอีโอของ NVIDIA หวังเข้าถึงข้อมูลชิป AI ขั้นสูงและอิทธิพลต่อการส่งออกชิป",
    "category": "นโยบาย/กฎหมาย",
    "companies": [
-    "NVIDIA"
+    "NVIDIA",
+    "Nvidia"
    ],
    "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+    }
+   ]
   },
   {
    "id": "118369de89f0",

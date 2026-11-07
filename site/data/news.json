@@ -1,50 +1,58 @@
 {
- "updated_at": "2026-11-06T21:34:04+00:00",
+ "updated_at": "2026-11-07T06:07:51+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-06T21:34:04+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญแรงกดดันด้านกฎระเบียบและการเงินที่เข้มงวดขึ้น ในขณะที่การพัฒนา AI Agent และโมเดลขนาดเล็กยังคงก้าวหน้าอย่างรวดเร็ว",
+  "generated_at": "2026-11-07T06:07:51+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญความท้าทายรอบด้าน ทั้งด้านนโยบาย การเงิน และความปลอดภัย ในขณะที่การพัฒนาโมเดลขนาดเล็กและนวัตกรรมใหม่ยังคงเดินหน้าอย่างต่อเนื่อง",
   "points": [
    {
-    "text": "ตลาดหุ้นและนักลงทุนเริ่มแสดงความกังวลต่อกฎระเบียบที่เข้มงวดขึ้นและการชะลอตัวของการใช้จ่ายด้าน AI ส่งผลกระทบต่อมูลค่าบริษัทอย่าง Anthropic และหุ้นกลุ่มชิป",
+    "text": "อุตสาหกรรม AI กำลังเผชิญแรงกดดันจากนโยบายการเมืองและกระแสต่อต้านในสหรัฐฯ ซึ่งส่งผลกระทบต่อการขยายตัวของศูนย์ข้อมูลและสร้างความท้าทายด้านพลังงานและชุมชน",
     "ids": [
      "ef57b5d47585",
-     "abdf877d5298",
-     "07d8be2258f4",
-     "7c70b636a2cf",
-     "0a3e389a2fa3",
-     "2a4d68646668"
+     "c0641eb0de56",
+     "22815b4f725e",
+     "c2107a5a7cf6"
     ]
    },
    {
-    "text": "การพัฒนา AI Agent มีความคืบหน้าอย่างมาก ทั้งการเปิดตัวเครื่องมือใหม่จาก Perplexity และ Meta รวมถึงความพยายามของ OpenAI และ Palo Alto Networks ในการยกระดับความปลอดภัยของระบบ",
+    "text": "สถานะทางการเงินของบริษัท AI ชั้นนำมีความเคลื่อนไหวสำคัญ โดย OpenAI เตรียมระดมทุนครั้งใหญ่ ในขณะที่ Anthropic เผชิญความท้าทายเรื่องมูลค่า IPO ข้อกล่าวหาเรื่องการโฆษณา และความกังวลจากนักวิเคราะห์",
     "ids": [
-     "8e75ec02fc50",
-     "016e849ea3ab",
+     "118369de89f0",
+     "abdf877d5298",
+     "5c088739db84",
+     "7c70b636a2cf",
+     "0a3e389a2fa3"
+    ]
+   },
+   {
+    "text": "ความปลอดภัยของ AI กลายเป็นประเด็นสำคัญระดับโลก ตั้งแต่การสอดแนมผู้บริหาร NVIDIA โดยจีน การรั่วไหลของเครื่องมือเจาะระบบ ไปจนถึงการที่บริษัทต่างๆ เร่งจับมือหรือเข้าซื้อกิจการด้านความปลอดภัย",
+    "ids": [
+     "1bc7ba2a28c4",
+     "29c568495a81",
      "bc8f9eac1966",
      "904574e3ce24",
-     "1eac7fe42e87"
+     "6bf81abbe03a"
     ]
    },
    {
-    "text": "นวัตกรรมโมเดลขนาดเล็กและโมเดลเฉพาะทางกำลังเติบโต โดยมีการเปิดตัวโมเดลประสิทธิภาพสูงสำหรับงาน Embedding และงานวิทยาศาสตร์ รวมถึงการนำ AI มาใช้ในงานวิจัยชีวภาพและเครือข่าย 6G",
+    "text": "นวัตกรรมโมเดลขนาดเล็ก (Small Language Models) และโมเดลเฉพาะทางกำลังเติบโตอย่างรวดเร็ว เพื่อรองรับการใช้งานบนอุปกรณ์พกพา หุ่นยนต์ และงานวิจัยทางวิทยาศาสตร์",
     "ids": [
-     "ed3f21fe69ef",
-     "2b3eb4eb79de",
-     "fae1d8bd060e",
-     "6d7fb611e8cd",
+     "c8e19817a2b6",
      "08519556b90d",
      "a394d9aad7a2",
-     "5ac7e93aa1cf",
-     "cfd4354afa14"
+     "fae1d8bd060e",
+     "6d7fb611e8cd"
     ]
    },
    {
-    "text": "ประเด็นด้านความปลอดภัยและจริยธรรมยังคงเป็นเรื่องสำคัญ ทั้งการตรวจพบเครื่องมือแฮ็กหลุดสู่สาธารณะ ข้อกล่าวหาโฆษณา Deepfake บน Facebook และการจำกัดความสามารถด้าน Cybersecurity ของโมเดลจากจีน",
+    "text": "ความก้าวหน้าด้านเทคนิคของ AI มีการอัปเดตที่น่าสนใจ ทั้งการควบคุมคอมพิวเตอร์ผ่าน Open WebUI, การพัฒนาหน่วยความจำใน Claude, การเปิดซอร์สเครื่องมือ 6G ของ NVIDIA และการปรับจูนโมเดล Qwen",
     "ids": [
-     "6f78e24cdb5b",
-     "29c568495a81",
-     "6bf81abbe03a"
+     "ed3f21fe69ef",
+     "d89cfb91348f",
+     "2b3eb4eb79de",
+     "ced211b58923",
+     "38558640ee45",
+     "016e849ea3ab"
     ]
    }
   ]
@@ -369,9 +377,166 @@
   "4fb993952ca1",
   "6080e6bd592a",
   "21fb01314a8c",
-  "fc8f30aee8f3"
+  "fc8f30aee8f3",
+  "94cf90289e81",
+  "863be6105034",
+  "91f8d419f4fc",
+  "c821c11af1c2",
+  "82db5536ec36",
+  "52e0623fab79",
+  "6813d62fd925",
+  "f1c0f71426d8",
+  "92b266296142"
  ],
  "items": [
+  {
+   "id": "5c088739db84",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWR3NlcyeHpIU2dCd1ozQnNFTmxGVFVFZG1hRzhIQzZhbWM2YUwzSzhPdmRTZDZ0RjJCZk5NUDQ5ZjJpdTBWQ29qUUgtN1NJV3BBdHUtWWo4SWxtTUZDeDJCbEI3YWlUdGVPblUwbXpDdlB2SFFBWlBpYUQ3c0hLMk9ZNjhUUFJONTZxbktNYXFBTUVTbXhN?oc=5",
+   "source": "Courthouse News",
+   "published": "2026-11-07T04:11:33+00:00",
+   "title": "Anthropic must face claims its Claude Max pitch misled users",
+   "text": "",
+   "title_th": "Anthropic เผชิญข้อกล่าวหาเรื่องการโฆษณา Claude Max ที่อาจทำให้ผู้ใช้เข้าใจผิด",
+   "summary_th": "Anthropic กำลังเผชิญกับคดีความที่เกี่ยวข้องกับการโฆษณาฟีเจอร์ Claude Max ซึ่งถูกกล่าวหาว่าให้ข้อมูลที่อาจทำให้ผู้ใช้งานเข้าใจผิด ประเด็นนี้สะท้อนถึงความสำคัญของการสื่อสารที่โปร่งใสในผลิตภัณฑ์ AI",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d89cfb91348f",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLW9QUXo1Zktyc2dQVzZmUlo0aUxnUTJiRWpsSm1fMkptWkJpdXVjNkk3U3VTMnRXQ2RrOGtJSmY4RlF5TWRvRVBjTDE4TTUzQk1iTXBBUEpsVGx0bk90LVNVazJhcExwYXJmMmtES0x6RktDeHRmOTRuWkxPVHlfWnYtQUc5UHBZazVic2hVYnhKUQ?oc=5",
+   "source": "Interesting Engineering",
+   "published": "2026-11-07T03:21:00+00:00",
+   "title": "Can Claude dream now? Anthropic explores human-like machine memory",
+   "text": "",
+   "title_th": "Anthropic ศึกษาการสร้างหน่วยความจำเครื่องจักรที่เลียนแบบมนุษย์ใน Claude",
+   "summary_th": "Anthropic กำลังสำรวจแนวทางการพัฒนาหน่วยความจำสำหรับ AI ที่มีความคล้ายคลึงกับมนุษย์ เพื่อเพิ่มขีดความสามารถในการจดจำและประมวลผลข้อมูลของ Claude",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c2107a5a7cf6",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-07T01:40:28+00:00",
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "text": "The deal highlights the challenges of developing massive AI data centers.",
+   "title_th": "Crusoe ขายโครงการศูนย์ข้อมูลใน Wyoming ให้กับ Google",
+   "summary_th": "Crusoe ตัดสินใจขายโครงการศูนย์ข้อมูลที่ประสบปัญหาให้กับ Google ซึ่งสะท้อนให้เห็นถึงความท้าทายในการพัฒนาโครงสร้างพื้นฐานขนาดใหญ่เพื่อรองรับ AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Crusoe",
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2552a343058d",
+   "url": "https://www.blognone.com/node/152118",
+   "source": "Blognone",
+   "published": "2026-11-07T00:32:55+00:00",
+   "title": "Discord เขียนไคลเอนต์ใหม่ด้วย Rust แทน Electron กินแรมเพียง 290MB",
+   "text": "Body Stanislav Vishnevskiy ผู้ร่วมก่อตั้งและซีทีโอของ Discord โชว์ไคลเอนต์ Discord for PC เวอร์ชันใหม่ โค้ดเนม Discord Phoenix เขียนใหม่ด้วย Rust และ เฟรมเวิร์ค GPUI สำหรับสร้าง UI ความน่าตกตะลึงคือใช้แรมเพียง 290MB ไคลเอนต์ Discord for PC เวอร์ชันปัจจุบันเขียนอยู่บน Electron ที่แปลว่ากินแรมมหาศาล เพราะอยู่บนเทคโนโลยีเว็บ ปกติแล้วกินแรมประมาณ 1-2GB หรือบางครั้งอาจพุ่งขึ้นไปถึง 4GB เลยก็เคยเกิดขึ้นมาแล้ว Vishnevskiy โพสต์ว่า Discord เริ่มใช้ Rust มาตั้งแต่ปี 2018 แต่ที่ผ่านมาใช้กับงานฝั่งหลังบ้านเป็นหลัก ตอนนี้ขยับมาใช้ Rust กับฝ",
+   "title_th": "Discord เขียนไคลเอนต์ใหม่ด้วย Rust ลดการใช้แรมเหลือเพียง 290MB",
+   "summary_th": "Discord พัฒนาไคลเอนต์เวอร์ชันใหม่ด้วยภาษา Rust และเฟรมเวิร์ค GPUI เพื่อแก้ปัญหาการกินทรัพยากรเครื่องที่สูงเกินไปจากเทคโนโลยี Electron เดิม",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Discord"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d5aa8b511552",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T23:03:21+00:00",
+   "title": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
+   "text": "submitted by /u/chemist_slime [link] [comments]",
+   "title_th": "ฮาร์ดแวร์ NVIDIA มูลค่า 11.4 ล้านดอลลาร์ถูกขโมยระหว่างขนส่งไปเท็กซัส",
+   "summary_th": "เกิดเหตุโจรกรรมฮาร์ดแวร์ประมวลผลของ NVIDIA จำนวนมากระหว่างการขนส่ง ซึ่งส่งผลกระทบต่อห่วงโซ่อุปทานของอุปกรณ์ที่จำเป็นสำหรับการทำ AI",
+   "category": "อื่นๆ",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1bc7ba2a28c4",
+   "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+   "source": "The Verge AI",
+   "published": "2026-11-06T23:00:44+00:00",
+   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+   "text": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+   "title_th": "จีนถูกกล่าวหาว่าจ้างผู้บริหาร AI เพื่อสอดแนม Jensen Huang แห่ง NVIDIA",
+   "summary_th": "มีรายงานว่าหน่วยงานข่าวกรองของจีนพยายามจ้างผู้บริหารระดับสูงเพื่อสอดแนมซีอีโอของ NVIDIA หวังเข้าถึงข้อมูลชิป AI ขั้นสูงและอิทธิพลต่อการส่งออกชิป",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "118369de89f0",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-06T22:53:46+00:00",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "text": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+   "title_th": "OpenAI ระดมทุนเพิ่ม 1.1 หมื่นล้านดอลลาร์ที่มูลค่า 1.25 ล้านล้านดอลลาร์",
+   "summary_th": "OpenAI อยู่ในระหว่างการระดมทุนรอบใหม่มูลค่า 1.1 หมื่นล้านดอลลาร์ ซึ่งคาดว่าจะสรุปผลได้ในเร็วๆ นี้ โดยมีมูลค่าบริษัทประเมินไว้ที่ 1.25 ล้านล้านดอลลาร์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI",
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152119"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "05816831eabf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbrr/some_gpu_prices_are_dropping/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T21:54:19+00:00",
+   "title": "Some GPU prices are dropping",
+   "text": "Some context: RTX 6000 cards hit a peak price of 18k and were sold out in many places even at that price. The MaxQ and Workstation are different versions of the card (usually priced the same, but now their prices are diverging) RTX 6000 MaxQ has been 14k for a month at microcenter. Today, they cut prices of the workstation card to 16.5k (from a high of 18k). We all saw the dell discount as well (some people got cards for 11.5k). I think the RTX 6000 is seeing increased supply as they routed all 5090 production to it and the 5500 for chips that didnt make the cut. I have a contact that works fo",
+   "title_th": "ราคา GPU ระดับเวิร์กสเตชันเริ่มปรับตัวลดลง",
+   "summary_th": "ราคาของ GPU รุ่น RTX 6000 เริ่มมีการปรับตัวลดลงหลังจากที่เคยพุ่งสูงขึ้นอย่างมากเนื่องจากปัญหาขาดแคลนอุปทานในตลาด",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "ed3f21fe69ef",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
@@ -384,6 +549,56 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c0641eb0de56",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+   "source": "The Verge AI",
+   "published": "2026-11-06T20:03:32+00:00",
+   "title": "All the latest updates on AI data centers",
+   "text": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]",
+   "title_th": "อัปเดตสถานการณ์ศูนย์ข้อมูล AI ทั่วโลก",
+   "summary_th": "การขยายตัวของศูนย์ข้อมูล AI ขนาดใหญ่กำลังเผชิญกับความท้าทายด้านพลังงานและผลกระทบต่อชุมชน ซึ่งกลายเป็นประเด็นถกเถียงสำคัญในระดับนโยบาย",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ced211b58923",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T19:58:47+00:00",
+   "title": "NousResearch/Arete-27B · Hugging Face (Qwen finetune)",
+   "text": "https://huggingface.co/bartowski/NousResearch_Arete-27B-GGUF from NousResearch: Arete-27B We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B. Open source models give labs the raw tools to mold intelligence to varied preferences. The values a model ships with should not be the only values its users get to choose from. We observed firsthand refusals, deflections, and CCP-framed answers on politically sensitive topics in Qwen3.8-27B, and post-trained to alter those biases. On our evaluation, Arete-27B raised its fact",
+   "title_th": "NousResearch เปิดตัว Arete-27B โมเดล Qwen ที่ปรับจูนใหม่เพื่อเน้นค่านิยมตะวันตก",
+   "summary_th": "NousResearch นำโมเดล Qwen3.8-27B มาปรับจูนใหม่ในชื่อ Arete-27B เพื่อแก้ไขปัญหาการตอบคำถามที่อิงตามค่านิยมของจีน โดยมุ่งเน้นให้โมเดลมีความเป็นกลางและสอดคล้องกับค่านิยมตะวันตกมากขึ้น",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "NousResearch",
+    "Alibaba"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c8e19817a2b6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T19:46:41+00:00",
+   "title": "Mirage: A 22 MB visual-language model that runs scene descriptions + object detection + OCR + segmentation + spatial relations analysis + extractions + decisions, in a single pass.",
+   "text": "Hey all, Henry from Cactus Compute here. We released Mirage, a small vision model for phones, wearables, robots and other consumer devices. Mirage runs scene descriptions, object detection, OCR, segmentation, spatial relations and decisions, with a 22 MB weights file. Our end-to-end measurements on a Samsung Galaxy S26 are 74 ms on the NPU and 107 ms on its CPU, and descriptions support English, German, French, Spanish, Italian, Dutch and Polish. For the architecture, Mirage has 51.3M parameters, including a 7.8M image encoder, a 40.8M language decoder and 2.6M in the OCR and spatial heads. Th",
+   "title_th": "Cactus Compute เปิดตัว Mirage โมเดลวิชันขนาดจิ๋ว 22 MB สำหรับอุปกรณ์พกพา",
+   "summary_th": "Mirage เป็นโมเดลวิชันขนาดเล็กที่มีพารามิเตอร์เพียง 51.3 ล้านตัว สามารถประมวลผลงานด้านภาพได้หลากหลาย เช่น การตรวจจับวัตถุและการทำ OCR โดยออกแบบมาให้ทำงานได้รวดเร็วบนอุปกรณ์พกพาและหุ่นยนต์",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Cactus Compute"
+   ],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -415,9 +630,15 @@
    "companies": [
     "Meta"
    ],
-   "importance": 2,
+   "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+    }
+   ]
   },
   {
    "id": "ef57b5d47585",
@@ -431,6 +652,21 @@
    "category": "นโยบาย/กฎหมาย",
    "companies": [],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "22815b4f725e",
+   "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+   "source": "The Verge AI",
+   "published": "2026-11-06T17:09:01+00:00",
+   "title": "Big Tech lost big in the 2026 election",
+   "text": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]",
+   "title_th": "ผลการเลือกตั้งสหรัฐฯ ปี 2026 สะท้อนกระแสต่อต้าน AI และ Big Tech",
+   "summary_th": "ผลการเลือกตั้งในสหรัฐฯ แสดงให้เห็นถึงกระแสความไม่พอใจต่อบริษัทเทคโนโลยีขนาดใหญ่และ AI ซึ่งอาจส่งผลกระทบต่อการขยายตัวของศูนย์ข้อมูลในอนาคต",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -620,6 +856,23 @@
     "Anthropic"
    ],
    "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1797fd902d39",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ3FneUk4d0xoOXpvakI3c1FONlEwZ0RhVVNDc1pCUDFpczJyWEFjb2JJMjZsUjBvUUhkd1dSQmM2M1cxVmpOdjlxZ01iWk4wUm0wM2Vpb2ZyeHl3OXdlOTFacFZrbEFCYmtQNjItX2xhTmxIVmRMaE44bnJFR3JXX181TERKLXpoTUx3OFZB?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-06T13:45:00+00:00",
+   "title": "Can You Invest in Anthropic in 2026? Details & Alternatives",
+   "text": "",
+   "title_th": "สรุปแนวทางการลงทุนใน Anthropic สำหรับปี 2026",
+   "summary_th": "บทความวิเคราะห์โอกาสและทางเลือกในการลงทุนในบริษัท Anthropic ซึ่งเป็นผู้พัฒนา AI ชั้นนำ โดยให้ข้อมูลเกี่ยวกับสถานะปัจจุบันและทางเลือกอื่นสำหรับนักลงทุน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -1201,6 +1454,10 @@
     {
      "source": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgyS0t1LW4xMndzblFOYmpYb2tmM0l3SUpfV1poZWV5VF9DQU5hcHk0NmpCWk5MdEZqWDFSVnlQMk1WcExKWWR2M05sa3lnYmMyWUVtLUJjcHR5TFdBampXTHEtU29OSWhVZklOblpqR3l5dHhJRzNITlUyeEVlZkh3anV4TGtsWTFzc1U2Q3hLY3ZqaU9WdUNn?oc=5"
+    },
+    {
+     "source": "24/7 Wall St.",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOUxGQ2NoVWotWTd3Qk93Z0d6aFlBOTkwSWlYLWRDS0syTEFTc29CcURDdDJVcGkwcW8xTWRWeEcwaW4yWm54Y1pCUmlDNXBrRnV2YVRYaGdYeVRiblNRYUl0Zm15dm1wUHVTVllzNS1HZUltMEF6c0llenp3T0VENjdWMTU4WUZZRWpPOWl1Tk94WldEV2ZvVA?oc=5"
     }
    ],
    "dedup": true

@@ -1,47 +1,47 @@
 {
- "updated_at": "2026-11-07T14:56:08+00:00",
+ "updated_at": "2026-11-07T20:16:28+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-07T14:56:08+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายรอบด้านทั้งด้านการเมือง โครงสร้างพื้นฐาน และความปลอดภัย ในขณะที่บริษัทชั้นนำยังคงเร่งพัฒนาโมเดลและระดมทุนต่อเนื่อง",
+  "generated_at": "2026-11-07T20:16:28+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญในอุตสาหกรรม AI ตั้งแต่การระดมทุนครั้งใหญ่ของ OpenAI ไปจนถึงความท้าทายด้านห่วงโซ่อุปทานชิป NVIDIA และการพัฒนาโมเดลของ Anthropic",
   "points": [
    {
-    "text": "บริษัท AI ยักษ์ใหญ่มีความเคลื่อนไหวสำคัญ โดย OpenAI กำลังระดมทุนเพิ่ม 1.1 หมื่นล้านดอลลาร์ ในขณะที่ Anthropic เผชิญความท้าทายด้านมูลค่า IPO คดีความเรื่องการโฆษณา และการปรับตัวของธุรกิจ",
+    "text": "OpenAI กำลังระดมทุนรอบใหม่มูลค่า 1.1 หมื่นล้านดอลลาร์ โดยมีมูลค่าบริษัทประเมินไว้ที่ 1.25 ล้านล้านดอลลาร์",
     "ids": [
-     "118369de89f0",
-     "abdf877d5298",
+     "118369de89f0"
+    ]
+   },
+   {
+    "text": "NVIDIA เผชิญความท้าทายด้านความปลอดภัยและห่วงโซ่อุปทาน ทั้งการถูกตรวจสอบการส่งออกชิปไปยังจีน การถูกสอดแนมผู้บริหารระดับสูง และเหตุการณ์โจรกรรมฮาร์ดแวร์ระหว่างขนส่ง",
+    "ids": [
+     "73be1ddc7ff2",
+     "1bc7ba2a28c4",
+     "d5aa8b511552"
+    ]
+   },
+   {
+    "text": "Anthropic เดินหน้าพัฒนา Claude อย่างต่อเนื่องด้วยการเปิดตัวเอเจนต์เชิงรุก Claude Duet และการวิจัยหน่วยความจำเลียนแบบมนุษย์ แม้จะเผชิญข้อกล่าวหาเรื่องการโฆษณาที่อาจทำให้เข้าใจผิดก็ตาม",
+    "ids": [
+     "86c8ed73f2e6",
+     "d89cfb91348f",
      "5c088739db84",
      "929b8650bc40"
     ]
    },
    {
-    "text": "การขยายตัวของศูนย์ข้อมูล AI ทั่วโลกกำลังเผชิญอุปสรรคจากนโยบายการเมือง กระแสต่อต้านจากชุมชน และปัญหาด้านพลังงาน รวมถึงการปรับเปลี่ยนกลยุทธ์การเช่าคลาวด์ของบริษัทเทคโนโลยี",
+    "text": "Microsoft ปรับโครงสร้างภายในด้วยการยุบกลุ่มวิจัย AI Frontiers และอาจยกเลิกสัญญาเช่าคลาวด์กับ Oracle เนื่องจากฮาร์ดแวร์รุ่นเก่าไม่ตอบโจทย์การใช้งาน",
     "ids": [
-     "ef57b5d47585",
-     "c0641eb0de56",
-     "22815b4f725e",
-     "04a6938cd03a",
-     "c2107a5a7cf6"
+     "9f1ff32d0cab",
+     "04a6938cd03a"
     ]
    },
    {
-    "text": "ความปลอดภัยและจริยธรรม AI เป็นประเด็นร้อน ทั้งกรณีการจารกรรมข้อมูลชิป NVIDIA โดยจีน การรั่วไหลของเครื่องมือเจาะระบบ Artex และการขโมยฮาร์ดแวร์ระหว่างขนส่ง",
+    "text": "การพัฒนาเทคนิคและเครื่องมือ AI มีความคืบหน้าอย่างมาก ทั้งการอัปเดต llama.cpp เพื่อเร่งความเร็ว MoE บน CPU และความพยายามพัฒนา Coding Agent ประสิทธิภาพสูงจากโมเดลขนาดเล็ก",
     "ids": [
-     "1bc7ba2a28c4",
-     "29c568495a81",
-     "d5aa8b511552"
-    ]
-   },
-   {
-    "text": "ความก้าวหน้าทางเทคนิคมีให้เห็นอย่างต่อเนื่อง ตั้งแต่โมเดลขนาดเล็กอย่าง Mirage และ Oc-e-Non-v1 ไปจนถึงความสามารถใหม่ของ Claude ในการเล่นเกมและวิจัยทางวิทยาศาสตร์ รวมถึงการเปิดซอร์สเครื่องมือ 6G ของ NVIDIA",
-    "ids": [
-     "c8e19817a2b6",
-     "1352cdf64864",
-     "d89cfb91348f",
-     "fae1d8bd060e",
-     "6d7fb611e8cd",
-     "1894b8f52bef",
-     "2b3eb4eb79de"
+     "caef732d512c",
+     "0c8e014184b1",
+     "e8c0296c7565",
+     "83110874cdec"
     ]
    }
   ]
@@ -400,6 +400,87 @@
  ],
  "items": [
   {
+   "id": "9f1ff32d0cab",
+   "url": "https://hunch.net/?p=13764006",
+   "source": "Hacker News",
+   "published": "2026-11-07T18:02:17+00:00",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "text": "169 points, 82 comments on Hacker News (https://news.ycombinator.com/item?id=50406563)",
+   "title_th": "Microsoft ยุบกลุ่มวิจัย AI Frontiers",
+   "summary_th": "Microsoft ได้ยุบกลุ่มวิจัย AI Frontiers ลงแล้ว ซึ่งเป็นส่วนหนึ่งของการปรับโครงสร้างภายในองค์กร การเปลี่ยนแปลงนี้สะท้อนถึงการปรับทิศทางของ Microsoft ในการพัฒนาเทคโนโลยี AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Microsoft"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0bffdeebdde5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WN3VZby1hTWVMS1ZqTDhaWWNIZnNhVWM5YzZBSlgwb0thVVNsZGcwQWdDdmZWVnlwTTVTNkxYTG0yal9OTHd5VGVUcVllaTR6LUM1c0RqTDNxU1FZRlJxSkcxRHBWdmFl?oc=5",
+   "source": "Thai PBS",
+   "published": "2026-11-07T17:28:37+00:00",
+   "title": "ABDUL Uni \"ติวเตอร์ชวนคิด\" ถามอะไรตอบได้ นวัตกรรม AI เพื่อการศึกษาไทย",
+   "text": "",
+   "title_th": "เปิดตัว ABDUL Uni นวัตกรรม AI ติวเตอร์เพื่อการศึกษาไทย",
+   "summary_th": "ABDUL Uni เป็นนวัตกรรม AI ที่ถูกพัฒนาขึ้นเพื่อเป็นติวเตอร์ส่วนตัวสำหรับนักเรียนไทย โดยเน้นความสามารถในการตอบคำถามและช่วยเสริมการเรียนรู้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "caef732d512c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-07T16:25:06+00:00",
+   "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
+   "text": "This is a significant speedup for MoE offloading (low VRAM people). I tried Strata once, and it had some tuning mechanism, so probably this is a similar idea. submitted by /u/jacek2023 [link] [comments]",
+   "title_th": "llama.cpp เพิ่มฟีเจอร์ใหม่ช่วยเร่งความเร็ว MoE บน CPU",
+   "summary_th": "มีการอัปเดต llama.cpp ด้วยการเพิ่มฟีเจอร์สำหรับรันโมเดล MoE บน CPU ช่วยให้ผู้ที่มี VRAM จำกัดสามารถใช้งานโมเดลได้เร็วขึ้นอย่างมีนัยสำคัญ",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fa06ff8fdc83",
+   "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+   "source": "The Verge AI",
+   "published": "2026-11-07T15:47:15+00:00",
+   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+   "text": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+   "title_th": "ประสบการณ์การใช้งาน AI Assistant ของ NYT Cooking",
+   "summary_th": "ผู้ใช้งานทดลองใช้ AI ช่วยแนะนำเมนูอาหารของ NYT Cooking ซึ่งช่วยแก้ปัญหาการทำอาหารในวันธรรมดาได้ดี แต่ยังมีความผิดพลาดในการทำขนม",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "The New York Times"
+   ],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "73be1ddc7ff2",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "source": "The Verge AI",
+   "published": "2026-11-07T15:43:45+00:00",
+   "title": "The US let Nvidia sell chips to an empty office in China",
+   "text": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+   "title_th": "สหรัฐฯ ตรวจสอบกรณี Nvidia ส่งออกชิป AI ให้บริษัทในจีนที่มีความน่าสงสัย",
+   "summary_th": "เกิดข้อกังวลเรื่องการตรวจสอบการส่งออกชิป H200 ของ Nvidia ไปยังบริษัทในจีนที่พบว่ามีสำนักงานว่างเปล่า ซึ่งอาจสะท้อนถึงช่องโหว่ในการควบคุมการส่งออกเทคโนโลยี",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Nvidia"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "5ec03af4da1d",
    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
    "source": "Hacker News",
@@ -413,6 +494,23 @@
     "Apple"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "86c8ed73f2e6",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MZXlKaDNYallidHAwMWlrcVBLVV9vLUlBV3dHTDhFWUNPOVU4WVV4bl9CNmFCeFA5WktDRTN4aGRpeklUWC0w?oc=5",
+   "source": "Fello AI",
+   "published": "2026-11-07T09:22:00+00:00",
+   "title": "Claude Duet: What Anthropic’s Proactive Agent Does, Who Can Get It, and What It Costs",
+   "text": "",
+   "title_th": "ทำความรู้จัก Claude Duet เอเจนต์เชิงรุกจาก Anthropic",
+   "summary_th": "Anthropic เปิดตัว Claude Duet ซึ่งเป็นเอเจนต์ที่เน้นการทำงานเชิงรุก โดยบทความอธิบายถึงความสามารถ กลุ่มผู้ใช้งาน และรายละเอียดด้านราคา",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -432,6 +530,38 @@
     "NVIDIA"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "055e03fe8fc4",
+   "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+   "source": "The Verge AI",
+   "published": "2026-11-07T05:43:11+00:00",
+   "title": "AI broke the cybersecurity world. What’s next?",
+   "text": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+   "title_th": "ผลกระทบของ AI ต่อโลกความปลอดภัยทางไซเบอร์",
+   "summary_th": "บทสัมภาษณ์ผู้เชี่ยวชาญด้านความปลอดภัยทางไซเบอร์เกี่ยวกับความท้าทายใหม่ๆ ที่เกิดขึ้นจากการนำ AI มาใช้ในโลกปัจจุบัน",
+   "category": "อื่นๆ",
+   "companies": [
+    "Cognition"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "83110874cdec",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-07T04:28:19+00:00",
+   "title": "Another benchmark has hit the quant war",
+   "text": "If you have not been following ISTA-DASLab the creators of the gsq-rco quants have received some criticism from unsloth regarding the inabilty to reproduce the benchmark numbers that ISTA-DASLab have quoted. The methodology used to produce their benchmark numbers has not been posted and their has been difficulty reproducing their numbers with unsloth finding in there testing unsloth quants outperforming the gsq-rco quants. The numbers in this post here are from another creator the creator of basalt (a inference engine) previously his qwen-flash-next quants (his inference engine uses specially ",
+   "title_th": "ข้อถกเถียงเรื่องความน่าเชื่อถือของ Benchmark ในการทดสอบ Quantized Models",
+   "summary_th": "เกิดข้อโต้แย้งระหว่างนักพัฒนาเกี่ยวกับความสามารถในการทำซ้ำผลลัพธ์ของ Benchmark สำหรับโมเดล Quantized ซึ่งส่งผลต่อความเชื่อมั่นในมาตรฐานการวัดผลปัจจุบัน",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -467,6 +597,23 @@
    "text": "",
    "title_th": "Anthropic ศึกษาการสร้างหน่วยความจำเครื่องจักรที่เลียนแบบมนุษย์ใน Claude",
    "summary_th": "Anthropic กำลังสำรวจแนวทางการพัฒนาหน่วยความจำสำหรับ AI ที่มีความคล้ายคลึงกับมนุษย์ เพื่อเพิ่มขีดความสามารถในการจดจำและประมวลผลข้อมูลของ Claude",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e8c0296c7565",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-07T02:41:59+00:00",
+   "title": "Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1 & Deep SWE 1.1",
+   "text": "submitted by /u/Izento [link] [comments]",
+   "title_th": "Harness Leaderboard เผยผลทดสอบโมเดลภาษาขนาดใหญ่ด้านการเขียนโค้ด",
+   "summary_th": "มีการนำโมเดลชื่อดังหลายตัวมาทดสอบประสิทธิภาพผ่าน Terminal Bench 2.1 และ Deep SWE 1.1 เพื่อเปรียบเทียบความสามารถในการเขียนโปรแกรม",
    "category": "งานวิจัย",
    "companies": [
     "Anthropic"
@@ -587,6 +734,21 @@
      "url": "https://www.blognone.com/node/152119"
     }
    ],
+   "dedup": true
+  },
+  {
+   "id": "0c8e014184b1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppw37/im_going_to_try_to_turn_a_4b_model_into_a/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-06T22:17:58+00:00",
+   "title": "I'm going to try to turn a 4B model into a genuinely useful coding agent that can compete with much larger models",
+   "text": "After releasing 3D Coder and GLB 3D Coder , I realized I should have involved the community earlier. Your feedback directly influenced the second model and could have saved me some additional training runs. This time, I'd like to discuss the idea with the community before starting. Why I believe this is possible When I started training 3D Coder, my original plan was to use full supervised fine-tuning (SFT) to develop basic capabilities, followed by DPO or GRPO to further improve the model's performance and robustness. I already believed high-quality SFT could work, based on experiments I'd don",
+   "title_th": "ความพยายามพัฒนาโมเดล 4B ให้เป็น Coding Agent ประสิทธิภาพสูง",
+   "summary_th": "นักพัฒนาวางแผนสร้าง Coding Agent จากโมเดลขนาดเล็ก 4B โดยเน้นการมีส่วนร่วมของชุมชนเพื่อเพิ่มประสิทธิภาพให้สามารถแข่งขันกับโมเดลขนาดใหญ่ได้",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
    "dedup": true
   },
   {

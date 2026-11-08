@@ -1,39 +1,39 @@
 {
- "updated_at": "2026-11-08T15:19:06+00:00",
+ "updated_at": "2026-11-08T20:31:54+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-08T15:19:06+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญของ Anthropic ในด้านการเงินและโครงสร้างพื้นฐาน พร้อมการอัปเดตเทคโนโลยี AI ทั้งในระดับองค์กรและชุมชนนักพัฒนา",
+  "generated_at": "2026-11-08T20:31:54+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญของ Anthropic ในด้านโครงสร้างพื้นฐานและประสิทธิภาพโมเดล พร้อมความคืบหน้าของ Apple ในตลาด AI Agent",
   "points": [
    {
-    "text": "Anthropic เร่งขยายโครงสร้างพื้นฐานด้วยข้อตกลงพลังงานมูลค่า 3.4 พันล้านดอลลาร์ พร้อมรายงานผลประกอบการที่ขาดทุนลดลงและประสิทธิภาพโมเดล Claude ที่ดีขึ้น",
+    "text": "Anthropic เดินหน้าขยายโครงสร้างพื้นฐานด้วยข้อตกลงพลังงานมูลค่า 3.4 พันล้านดอลลาร์ พร้อมรายงานผลประกอบการที่ขาดทุนลดลง และความสำเร็จในการพัฒนาฟีเจอร์ Claude 'Dreams' รวมถึงการชี้แจงระบบคำสั่ง CLAUDE.md และ Hooks",
     "ids": [
      "ae788edd91e8",
      "fbaf5ca0ad58",
-     "b9538dd8883d"
+     "b9538dd8883d",
+     "2fbff683355d"
     ]
    },
    {
-    "text": "ความกังวลด้านความปลอดภัยและกฎระเบียบเพิ่มขึ้น หลังสหรัฐฯ ตรวจสอบการส่งออกชิป Nvidia ไปจีน และพบพฤติกรรมน่าสงสัยของโมเดล Qwen3.8-Flash-Next",
+    "text": "Apple เร่งพัฒนา Siri ให้เป็น AI Agent เต็มรูปแบบเพื่อแข่งขันในตลาด ขณะที่ Suno เผชิญการฟ้องร้องจากเจ้าของลิขสิทธิ์เพลงชื่อดังฐานนำผลงานไปฝึกโมเดลโดยไม่ได้รับอนุญาต",
     "ids": [
-     "73be1ddc7ff2",
-     "e33dc641ce19"
+     "53044e44b3aa",
+     "ae06ecf71872"
     ]
    },
    {
-    "text": "ชุมชน AI ให้ความสนใจกับการรันโมเดลบนฮาร์ดแวร์ส่วนตัว โดยมีการอัปเดต llama.cpp เพื่อรองรับ MoE บน CPU และความนิยมในการใช้การ์ดจอ 16GB VRAM",
+    "text": "ความก้าวหน้าด้านเทคนิคการประมวลผล AI ได้แก่ Tencent ที่เปิดตัววิธี Speculative Decoding ใหม่เพื่อเร่งความเร็วโมเดล 27B และการทดลองเชื่อมต่อ GPU หลายตัวผ่าน PCIe switch เพื่อเพิ่มประสิทธิภาพการรัน AI ในระดับท้องถิ่น",
     "ids": [
-     "caef732d512c",
+     "8330c956749a",
+     "bf417e17fc5a"
+    ]
+   },
+   {
+    "text": "ชุมชน AI ให้ความสนใจกับการรันโมเดลบนฮาร์ดแวร์ส่วนตัว โดยมีการเลือกใช้การ์ดจอที่มี VRAM 16GB และการทดลองโปรเจกต์พัฒนาโมเดลแบบร่วมมือกันโดยไม่พึ่งพาคลัสเตอร์ GPU ราคาแพง",
+    "ids": [
      "7051637201eb",
-     "fb8873a1c7cb"
-    ]
-   },
-   {
-    "text": "การปรับโครงสร้างองค์กรและนวัตกรรมใหม่ๆ เกิดขึ้นอย่างต่อเนื่อง ทั้งการยุบกลุ่มวิจัย AI Frontiers ของ Microsoft และการเปิดตัวเครื่องมือ AI ใหม่ๆ เช่น Observer และ ABDUL Uni",
-    "ids": [
-     "9f1ff32d0cab",
-     "00abf5945202",
-     "0bffdeebdde5"
+     "fb8873a1c7cb",
+     "477682d0eb3b"
     ]
    }
   ]
@@ -396,9 +396,114 @@
   "db58b2c5230d",
   "63e4d0f43dcf",
   "07d47f639585",
-  "76389eb42661"
+  "76389eb42661",
+  "89de05a6d004",
+  "bdd662c031e4",
+  "7832723071bb",
+  "86654c371c87"
  ],
  "items": [
+  {
+   "id": "53044e44b3aa",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "source": "The Verge AI",
+   "published": "2026-11-08T19:18:19+00:00",
+   "title": "Apple is racing to make Siri more agentic",
+   "text": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+   "title_th": "Apple เร่งพัฒนา Siri ให้เป็น AI Agent เต็มรูปแบบเพื่อแข่งขันในตลาด",
+   "summary_th": "Apple กำลังเร่งแผนพัฒนา Siri ให้มีความสามารถแบบ Agent มากขึ้น เพื่อให้สามารถแข่งขันกับคู่แข่งในตลาดได้ โดยผู้บริหารระดับสูงกำลังกดดันให้ทีมเร่งพัฒนาฟีเจอร์ใหม่ให้ทันตามกำหนดการที่ท้าทาย",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple",
+    "OpenAI",
+    "Meta"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1b455684ad26",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-08T17:32:48+00:00",
+   "title": "GPT-5.5 dataset across my used 25 billion tokens!",
+   "text": "Cheers for u/New_Comfortable7240 for santitisation! 12,121 tool calls here! submitted by /u/-MaskNinja- [link] [comments]",
+   "title_th": "เผยแพร่ชุดข้อมูลสำหรับฝึกฝนโมเดล GPT-5.5 ขนาด 2.5 หมื่นล้านโทเค็น",
+   "summary_th": "มีการแบ่งปันชุดข้อมูลขนาดใหญ่ที่ผ่านการทำความสะอาดแล้วเพื่อใช้ในการฝึกฝนโมเดลภาษาขนาดใหญ่ โดยเน้นไปที่การเพิ่มประสิทธิภาพในการเรียกใช้งานเครื่องมือต่างๆ",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ae06ecf71872",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+   "source": "The Verge AI",
+   "published": "2026-11-08T17:23:19+00:00",
+   "title": "Elvis and Eminem rights holders are suing Suno",
+   "text": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
+   "title_th": "เจ้าของลิขสิทธิ์เพลง Elvis และ Eminem ยื่นฟ้อง Suno ฐานละเมิดลิขสิทธิ์",
+   "summary_th": "Suno บริษัท AI ด้านดนตรีเผชิญกับการฟ้องร้องจากกลุ่มเจ้าของลิขสิทธิ์เพลงชื่อดัง โดยกล่าวหาว่าบริษัทใช้ผลงานเพลงและเนื้อร้องของศิลปินไปฝึกฝนโมเดลเพื่อสร้างเพลงเลียนแบบโดยไม่ได้รับอนุญาต",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Suno"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8330c956749a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-08T16:23:48+00:00",
+   "title": "tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face",
+   "text": "Apparently Tencent has developed a new speculative decoding method. 3x faster decoding for 27B models? submitted by /u/emdeka87 [link] [comments]",
+   "title_th": "Tencent เปิดตัววิธี Speculative Decoding ใหม่ ช่วยเร่งความเร็วโมเดล 27B",
+   "summary_th": "Tencent พัฒนาเทคนิคการถอดรหัสแบบใหม่ที่ช่วยเพิ่มความเร็วในการประมวลผลให้กับโมเดลขนาด 27B ได้อย่างมีนัยสำคัญ ถือเป็นความก้าวหน้าในการเพิ่มประสิทธิภาพการทำงานของโมเดลขนาดใหญ่",
+   "category": "งานวิจัย",
+   "companies": [
+    "Tencent"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bf417e17fc5a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-08T16:23:42+00:00",
+   "title": "4x Radeon AI PRO R9700 + 2x RTX 3090 on one x16 slot, using a PCIe switch",
+   "text": "submitted by /u/bolts98 [link] [comments]",
+   "title_th": "การทดลองเชื่อมต่อ GPU หลายตัวผ่าน PCIe switch สำหรับงาน AI",
+   "summary_th": "มีการทดลองทางเทคนิคในการเชื่อมต่อการ์ดจอ Radeon AI PRO และ RTX 3090 จำนวนหลายตัวเข้ากับสล็อต PCIe เดียวกัน เพื่อเพิ่มขีดความสามารถในการประมวลผล AI ในระดับท้องถิ่น",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "AMD",
+    "NVIDIA"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4425c00b6e66",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-08T14:56:07+00:00",
+   "title": "\"Does censorship exist in [country]?\", according to various LLMs",
+   "text": "I wrote a small program that asks the same Yes/No question about every country to a language model, and generates an SVG world map that visualizes the model's responses: https://github.com/p-e-w/llm-beliefs I'm rather surprised by the results... submitted by /u/-p-e-w- [link] [comments]",
+   "title_th": "โปรเจกต์ทดสอบการตอบคำถามเรื่องการเซ็นเซอร์ของ LLM ในแต่ละประเทศ",
+   "summary_th": "นักพัฒนาสร้างเครื่องมือทดสอบเพื่อถามคำถามเกี่ยวกับสถานะการเซ็นเซอร์ในแต่ละประเทศกับโมเดลภาษาต่างๆ และแสดงผลลัพธ์ออกมาเป็นแผนที่โลก เพื่อเปรียบเทียบมุมมองของแต่ละโมเดล",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "7051637201eb",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
@@ -442,6 +547,23 @@
    "text": "",
    "title_th": "Anthropic เผย Claude 'Dreams' ช่วยเพิ่มคะแนน Wiki จาก 13% เป็น 48%",
    "summary_th": "Anthropic รายงานความสำเร็จของฟีเจอร์ Claude 'Dreams' ที่ช่วยยกระดับประสิทธิภาพการประมวลผลข้อมูลวิกิพีเดียได้อย่างก้าวกระโดด",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2fbff683355d",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGh3bGExVzQ0NDE2eG11QXBNT3E4ZjI0NEVWd1RWVWdUbnZwM3hQeG1meWJJeENJYkpzbEx5N2NObmF2dnlIUnRlMmh0OTNDOEpkNF96X3FnTmF5TlpPbXRZclRJckdfRDhXVndtTi1CTWZkZXZFai1jWjZtN1lQY1ZMekhHMkFWRWx0OTJB?oc=5",
+   "source": "FourWeekMBA",
+   "published": "2026-11-08T10:12:49+00:00",
+   "title": "Anthropic: CLAUDE.md Rules Are Requests; Hooks Are Enforced",
+   "text": "",
+   "title_th": "Anthropic อธิบายความแตกต่างระหว่างกฎ CLAUDE.md และ Hooks",
+   "summary_th": "Anthropic ชี้แจงการทำงานของระบบคำสั่งในโมเดล โดยระบุว่ากฎในไฟล์ CLAUDE.md เป็นเพียงคำขอที่โมเดลอาจปฏิบัติตาม ในขณะที่ Hooks เป็นคำสั่งที่ถูกบังคับใช้จริงในระบบ",
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [
     "Anthropic"
@@ -520,6 +642,21 @@
     "Google"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "477682d0eb3b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-07T21:19:40+00:00",
+   "title": "Crowd-v1 - The collaborative LLM",
+   "text": "Processing img 0ybf7gn4c90i1... Hello r/LocalLLaMA :D This is yet another follow-up post on the project CrowdGPT , which aims at creating the first collaboratively trained 1 billion parameters transformer, Crowd-v1 , without any datacenters, and for 0$. The project's goal is to show we don't need huge Nvidia GPU clusters nor millions of dollars to train a competitive Large Language Model. The goal of the project is to create a 1B parameters model, that would match or exceed Qwen3-0.6B's performance on benchmarks as a proof-of-concept , we could then scale with a 7B A1B MoE or even a 30B A3B Mo",
+   "title_th": "Crowd-v1 โปรเจกต์พัฒนาโมเดลภาษาแบบร่วมมือกันโดยไม่ใช้ศูนย์ข้อมูล",
+   "summary_th": "โปรเจกต์ Crowd-v1 มุ่งเน้นการฝึกฝนโมเดลภาษาขนาด 1 พันล้านพารามิเตอร์ผ่านความร่วมมือของผู้ใช้โดยไม่พึ่งพาคลัสเตอร์ GPU ราคาแพง เพื่อพิสูจน์ว่าสามารถสร้างโมเดลที่มีประสิทธิภาพได้ด้วยต้นทุนต่ำ",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -1263,6 +1400,21 @@
    "dedup": true
   },
   {
+   "id": "c63019ae7846",
+   "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+   "source": "Hacker News",
+   "published": "2026-11-06T14:13:09+00:00",
+   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+   "text": "136 points, 61 comments on Hacker News (https://news.ycombinator.com/item?id=50392499)",
+   "title_th": "ห้องสมุดมหาวิทยาลัยเผชิญปัญหาบอท AI รุมดึงข้อมูลจนกระทบการเข้าถึงของประชาชน",
+   "summary_th": "การใช้งานบอท AI จำนวนมากเพื่อดึงข้อมูลจากห้องสมุดมหาวิทยาลัยกำลังกลายเป็นปัญหาใหญ่ ซึ่งอาจส่งผลกระทบต่อการเข้าถึงข้อมูลสาธารณะและทรัพยากรทางวิชาการ",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "08519556b90d",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/",
    "source": "r/LocalLLaMA",
@@ -1944,6 +2096,10 @@
     {
      "source": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWtHTk1YYll3THp6bDdfZHRickJwTWtPcGpmZ0I2c3hhZ0g3MVFMbGxCaUxIYlp2Y2FMN0FfNWI0bXRPelZmX2l4dWUxRUR5cmV6eU44SWVuTG5xRlVlc2ZkbmNDRHU2VVhWNnhLRWZlQWJ4WUYwc0ttYmxmU2NwSjZFZ01rcVViak9iQXNWLTd3ZGlxZndiNEFrZGhvc25j?oc=5"
+    },
+    {
+     "source": "MIXED News",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVpvRndaYkhCVGtzMHlmUUs3WUlaWGFWdHFaOE5hWlRiM0N6Q3hPZzV2RU5DUmdUc3AzbzVuZWIzaV9jeDZzWE9UMTFwczAwa0pnM2cwVmNEeWUxeWthY1owMzhEMXJGY1R6dWktUW40Zm8xUktPTVA2YmpkN3dWYWVpYUVPQmlW?oc=5"
     }
    ],
    "dedup": true
@@ -10142,81 +10298,6 @@
      "url": "https://www.blognone.com/node/152030"
     }
    ],
-   "dedup": true
-  },
-  {
-   "id": "8733896d18f2",
-   "url": "https://huggingface.co/papers/2610.36068",
-   "source": "HF Daily Papers",
-   "published": "2026-10-25T20:00:00+00:00",
-   "title": "Rollback: Experience Backtracking in World Models for Policy Improvement",
-   "text": "Action-conditioned world models offer a scalable alternative to costly real-world interaction for improving robot policies. However, existing world-model-based methods largely treat world models as forward-only surrogates of the physical environment, leaving untapped a capability no physical environment affords: rewinding to past decision points to explore counterfactual futures. We introduce Rollback, a policy improvement paradigm that turns world models from passive simulators into counterfactual engines: it rolls back to critical decision points, branches into alternative actions, and contr",
-   "title_th": "งานวิจัยนำเสนอ Rollback เทคนิคย้อนกลับเพื่อพัฒนาโมเดลโลกสำหรับหุ่นยนต์",
-   "summary_th": "งานวิจัยนำเสนอ Rollback ซึ่งเป็นกระบวนการปรับปรุงนโยบายที่ช่วยให้โมเดลโลกสามารถย้อนกลับไปยังจุดตัดสินใจในอดีตเพื่อสำรวจผลลัพธ์ทางเลือก แทนที่จะเป็นเพียงการจำลองไปข้างหน้า",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "04681d267a78",
-   "url": "https://huggingface.co/papers/2610.22543",
-   "source": "HF Daily Papers",
-   "published": "2026-10-25T20:00:00+00:00",
-   "title": "On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction",
-   "text": "Diffusion language models (DLMs) promise parallel text generation, but in practice face an unresolved speed-quality trade-off. Exact decoding fills in only one masked position per model pass, while faster multi-token decoding schemes are lossy. Speculative decoding is the standard lossless acceleration for autoregressive models. However, it does not transfer directly to DLMs, which must choose both what to generate and where. We show that this order is the missing piece: the model's own predictions from the previous pass already give the right token at over 90% of positions, but not which posi",
-   "title_th": "งานวิจัยนำเสนอ SPOT เพิ่มประสิทธิภาพการถอดรหัสสำหรับ Diffusion Language Models",
-   "summary_th": "งานวิจัยนำเสนอเทคนิค SPOT เพื่อแก้ปัญหาความเร็วและคุณภาพในการสร้างข้อความของ Diffusion Language Models โดยใช้การทำนายลำดับการคอมมิตเพื่อเพิ่มประสิทธิภาพการถอดรหัส",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "14c308a32a9e",
-   "url": "https://huggingface.co/papers/2610.36077",
-   "source": "HF Daily Papers",
-   "published": "2026-10-25T20:00:00+00:00",
-   "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-   "text": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-improvement framework coupling world generation with Harness evolution through three roles: Creator,",
-   "title_th": "The Trinity แนวทางการพัฒนาตนเองของ Multimodal Agents",
-   "summary_th": "นำเสนอแนวคิด The Trinity ซึ่งเป็นกระบวนการพัฒนาตนเองแบบเรียกซ้ำสำหรับ Multimodal Agents เพื่อแก้ปัญหาความหลากหลายของงานและข้อจำกัดในการสร้างสภาพแวดล้อมทดสอบ",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "f16bea4d1af6",
-   "url": "https://huggingface.co/papers/2610.35013",
-   "source": "HF Daily Papers",
-   "published": "2026-10-25T20:00:00+00:00",
-   "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
-   "text": "Long-horizon LLM agents interact with their environments through complete assistant turns while generating each action token by token. We observe that critic values vary primarily across turns, motivating optimization anchored at turns with finer credit allocation among tokens. We propose Multiscale Policy Optimization (MPO), combining Multiscale Advantage Estimation (MAE) and turn-level importance sampling to align credit assignment and policy updates at the turn scale. Extensive experiments across search, tool-use, and automation tasks with 4B and 30B-A3B models demonstrate consistent gains ",
-   "title_th": "นำเสนอ Multiscale Policy Optimization สำหรับ LLM Agents ระยะยาว",
-   "summary_th": "ผู้วิจัยเสนอเทคนิค Multiscale Policy Optimization (MPO) เพื่อปรับปรุงการจัดสรรเครดิตและการอัปเดตนโยบายสำหรับ LLM Agents ที่ต้องทำงานในระยะยาวและมีหลายขั้นตอน",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2af7003f0e2f",
-   "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-   "source": "Hacker News",
-   "published": "2026-10-25T16:28:26+00:00",
-   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-   "text": "238 points, 331 comments on Hacker News (https://news.ycombinator.com/item?id=50233304)",
-   "title_th": "อาจารย์คณิตศาสตร์ UC Berkeley ตั้งคำถามถึงความจำเป็นในการตรวจการบ้านหลังใช้ AI",
-   "summary_th": "การใช้ AI ในการเรียนการสอนทำให้อาจารย์มหาวิทยาลัยตั้งคำถามถึงความคุ้มค่าและจุดประสงค์ของการตรวจการบ้านแบบเดิมในยุคที่ AI สามารถช่วยงานได้",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
    "dedup": true
   }
  ]

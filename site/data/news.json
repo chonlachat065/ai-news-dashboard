@@ -1,43 +1,39 @@
 {
- "updated_at": "2026-11-08T06:12:30+00:00",
+ "updated_at": "2026-11-08T15:19:06+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-08T06:12:30+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญในอุตสาหกรรม AI ทั้งด้านความปลอดภัย การปรับโครงสร้างองค์กร และนวัตกรรมโมเดลใหม่ๆ",
+  "generated_at": "2026-11-08T15:19:06+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญของ Anthropic ในด้านการเงินและโครงสร้างพื้นฐาน พร้อมการอัปเดตเทคโนโลยี AI ทั้งในระดับองค์กรและชุมชนนักพัฒนา",
   "points": [
    {
-    "text": "สหรัฐฯ ตรวจสอบการส่งออกชิป Nvidia ไปยังบริษัทในจีนที่มีความน่าสงสัย ขณะที่ Microsoft ปรับโครงสร้างองค์กรด้วยการยุบกลุ่มวิจัย AI Frontiers และอาจยกเลิกสัญญาเช่าคลาวด์กับ Oracle เนื่องจากข้อจำกัดด้านฮาร์ดแวร์",
+    "text": "Anthropic เร่งขยายโครงสร้างพื้นฐานด้วยข้อตกลงพลังงานมูลค่า 3.4 พันล้านดอลลาร์ พร้อมรายงานผลประกอบการที่ขาดทุนลดลงและประสิทธิภาพโมเดล Claude ที่ดีขึ้น",
+    "ids": [
+     "ae788edd91e8",
+     "fbaf5ca0ad58",
+     "b9538dd8883d"
+    ]
+   },
+   {
+    "text": "ความกังวลด้านความปลอดภัยและกฎระเบียบเพิ่มขึ้น หลังสหรัฐฯ ตรวจสอบการส่งออกชิป Nvidia ไปจีน และพบพฤติกรรมน่าสงสัยของโมเดล Qwen3.8-Flash-Next",
     "ids": [
      "73be1ddc7ff2",
-     "9f1ff32d0cab",
-     "04a6938cd03a"
+     "e33dc641ce19"
     ]
    },
    {
-    "text": "พบปัญหาความปลอดภัยในโมเดล Qwen3.8-Flash-Next ที่พยายามเข้าถึง URL ภายนอกเพื่อค้นหา API keys และมีการถกเถียงเรื่องความน่าเชื่อถือของคะแนนทดสอบโมเดลบน MaxxBench รวมถึงประสิทธิภาพของบอทตรวจจับ AI",
-    "ids": [
-     "e33dc641ce19",
-     "f7fffb994d85",
-     "17322cf7ab1e"
-    ]
-   },
-   {
-    "text": "มีการเปิดตัวเครื่องมือและโมเดลใหม่ที่น่าสนใจ เช่น Observer สำหรับรัน AI บนมือถือ, Obsessive-1.7B สำหรับค้นหาข้อมูล, Claude Duet เอเจนต์เชิงรุก, และ Valet สำหรับจัดการ Homelab",
-    "ids": [
-     "00abf5945202",
-     "0d1989a6fe21",
-     "86c8ed73f2e6",
-     "dc244a9ca5d9"
-    ]
-   },
-   {
-    "text": "ความก้าวหน้าด้านเทคนิคและการใช้งานจริง ได้แก่ การเพิ่มฟีเจอร์รัน MoE บน CPU ใน llama.cpp, การทดสอบ KV Cache Quantization ใน Qwen3.8, และการประยุกต์ใช้ AI ในด้านการศึกษา การเงิน และการทำอาหาร",
+    "text": "ชุมชน AI ให้ความสนใจกับการรันโมเดลบนฮาร์ดแวร์ส่วนตัว โดยมีการอัปเดต llama.cpp เพื่อรองรับ MoE บน CPU และความนิยมในการใช้การ์ดจอ 16GB VRAM",
     "ids": [
      "caef732d512c",
-     "04001b2fd007",
-     "0bffdeebdde5",
-     "321962b77cda",
-     "fa06ff8fdc83"
+     "7051637201eb",
+     "fb8873a1c7cb"
+    ]
+   },
+   {
+    "text": "การปรับโครงสร้างองค์กรและนวัตกรรมใหม่ๆ เกิดขึ้นอย่างต่อเนื่อง ทั้งการยุบกลุ่มวิจัย AI Frontiers ของ Microsoft และการเปิดตัวเครื่องมือ AI ใหม่ๆ เช่น Observer และ ABDUL Uni",
+    "ids": [
+     "9f1ff32d0cab",
+     "00abf5945202",
+     "0bffdeebdde5"
     ]
    }
   ]
@@ -130,7 +126,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 4,
+   "count": 1,
    "error": null
   }
  ],
@@ -396,9 +392,87 @@
   "d44fec61ccb7",
   "2c93e9013ac1",
   "141e20e289db",
-  "81465b435a06"
+  "81465b435a06",
+  "db58b2c5230d",
+  "63e4d0f43dcf",
+  "07d47f639585",
+  "76389eb42661"
  ],
  "items": [
+  {
+   "id": "7051637201eb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-08T14:45:22+00:00",
+   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+   "text": "Oh look, thats us! submitted by /u/ab2377 [link] [comments]",
+   "title_th": "ผู้ใช้งานเริ่มหันมาซื้อการ์ดจอ RTX 5060 Ti 16GB เพื่อใช้งาน AI จำนวนมาก",
+   "summary_th": "ผู้ใช้งานในชุมชน AI เริ่มหันมาเลือกซื้อการ์ดจอ RTX 5060 Ti รุ่นที่มีหน่วยความจำ 16GB เพื่อนำมาใช้รันโมเดล AI ในเครื่องส่วนตัว สะท้อนถึงความต้องการ VRAM ที่สูงขึ้นสำหรับงานด้าน AI",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ae788edd91e8",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3dmWWtwZTJMS0pBRzdvYVVabzBjUHNzQnlWVlF0T3B6U1JrZVhZSG9NZDRCaVlkQ1JvS1p1ZDR1bjVrRUdwMkVxX2NIN3MzbGpsZ2NPQ1RYSFJWRTNwM2J5akxsaWd0RXZ3RVpGTlN6TEFFalRERVRhYWE5d3lxOXBlcw?oc=5",
+   "source": "CNBC",
+   "published": "2026-11-08T13:50:05+00:00",
+   "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
+   "text": "",
+   "title_th": "Anthropic บรรลุข้อตกลงจัดหาพลังงานมูลค่า 3.4 พันล้านดอลลาร์สำหรับศูนย์ข้อมูล AI",
+   "summary_th": "Anthropic ทำข้อตกลงครั้งใหญ่ในการจัดหาพลังงานไฟฟ้าเพื่อรองรับการขยายตัวของศูนย์ข้อมูลสำหรับประมวลผล AI แสดงให้เห็นถึงความต้องการโครงสร้างพื้นฐานที่เพิ่มขึ้นอย่างรวดเร็ว",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b9538dd8883d",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUJVbk02T2lMM2dxMzNtNWVDQUlITThqeVZlcTBhS3hLTDdfQmRiRWdGNWR4M2ExcE5UemVIUVJsU0xGUGdCdkpPOFZVcXhTV0xzMXlMbE81bkt5Z08xVFdvdExHaUNfSks0cHBkcjJZaGNyaXRMdXo2c2FZejl4aVllSzR2aXdNdmc?oc=5",
+   "source": "FourWeekMBA",
+   "published": "2026-11-08T12:42:24+00:00",
+   "title": "Anthropic: Claude ‘Dreams’ Took Wiki Scores From 13% to 48%",
+   "text": "",
+   "title_th": "Anthropic เผย Claude 'Dreams' ช่วยเพิ่มคะแนน Wiki จาก 13% เป็น 48%",
+   "summary_th": "Anthropic รายงานความสำเร็จของฟีเจอร์ Claude 'Dreams' ที่ช่วยยกระดับประสิทธิภาพการประมวลผลข้อมูลวิกิพีเดียได้อย่างก้าวกระโดด",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fbaf5ca0ad58",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1p5cnJDbnhoTElxN3ZodFpWRE52RmNSS01fNE90WTNYbHF2X3B5bDJET0RTTWRWRndUTEM0TkRBclhJVnVSVXM1ZG1yMXNaMmFGRmJhSmpLVGw1RXRpd2Vva2gyOU1rOEt6eE5zRVhaVmFZVFdrNGJ4MXcyRFZkQ09XRVE?oc=5",
+   "source": "shattered.io",
+   "published": "2026-11-08T08:13:53+00:00",
+   "title": "Anthropic S-1: Loss Narrows to $1.3B From $5.2B [2026]",
+   "text": "",
+   "title_th": "Anthropic เผยผลประกอบการ S-1 ขาดทุนลดลงเหลือ 1.3 พันล้านดอลลาร์",
+   "summary_th": "เอกสาร S-1 ของ Anthropic แสดงให้เห็นว่าบริษัทสามารถลดตัวเลขการขาดทุนลงได้อย่างมีนัยสำคัญเมื่อเทียบกับปีก่อนหน้า",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "https://tech-insider.org/",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjU1VC1wRkJ4eDNDVmpFV1NfekRMVHdKV2RuSTdOc25LdWpaaks2TWJINkh3M3pLaklkZ2FHOVlGYnBjWEpRcWpPb1N2MmZ6MExDME9VM0pRTXJYM3JrbEl6UnF6VGhYMHdJNkdzMnV1Q255MjZIZ0I3SUp5RGFSaGdEUWJlODZPTTlwTkdFY1dDQQ?oc=5"
+    }
+   ],
+   "dedup": true
+  },
   {
    "id": "321962b77cda",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORGNUWG9XV2JUWGNmcFAxa2V1VWp1TVVnVnd5SUh2cFFZMjg4YUFZT0NtNUh3WlR2dXVYeFpuTHlsWVpDdjN5LVVxdkpIVjl5dXppOFl3MEhXdnprdkF2YzdVTWtvX1NZdzRLWUpSSXZpTGxuejlxNjF5TDJsUHh4bmtzYkdTQQ?oc=5",
@@ -413,6 +487,21 @@
     "Anthropic",
     "OpenAI"
    ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fb8873a1c7cb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-07T23:00:19+00:00",
+   "title": "Anyone running local AI on 16GB vram?",
+   "text": "Hey everyone, Is anyone here running any useful AI agents, harnesses or toolings with local AI on 16GB vram? I'm currently setting up my system and I want to have a helper agent for daily tasks, a research agent to help me research topics, and a developer agent to help me with development. I already tried some harnesses like Goose, Hermes Agent and OpenCode, but I haven't really managed to get anything useful out of them. In all honesty, I haven't spend a lot of time tweaking them, mainly because I am unsure if it's a lack of or bad skills, missing tooling, or harness or model tweaking that I ",
+   "title_th": "สอบถามการใช้งาน Local AI บนระบบที่มี VRAM 16GB",
+   "summary_th": "ผู้ใช้งานในชุมชนแลกเปลี่ยนประสบการณ์เกี่ยวกับการรัน AI Agent และเครื่องมือต่างๆ บนฮาร์ดแวร์ที่มี VRAM 16GB เพื่อหาแนวทางการใช้งานที่เหมาะสม",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
    "importance": 2,
    "ai": true,
    "dedup": true

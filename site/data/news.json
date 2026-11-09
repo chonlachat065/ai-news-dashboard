@@ -1,39 +1,53 @@
 {
- "updated_at": "2026-11-08T20:31:54+00:00",
+ "updated_at": "2026-11-09T06:46:11+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-08T20:31:54+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญของ Anthropic ในด้านโครงสร้างพื้นฐานและประสิทธิภาพโมเดล พร้อมความคืบหน้าของ Apple ในตลาด AI Agent",
+  "generated_at": "2026-11-09T06:46:11+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญในอุตสาหกรรม AI ตั้งแต่ประเด็นการสอบสวนผู้บริหาร NVIDIA ไปจนถึงความก้าวหน้าด้านโครงสร้างพื้นฐานและเทคนิคการเพิ่มประสิทธิภาพโมเดล",
   "points": [
    {
-    "text": "Anthropic เดินหน้าขยายโครงสร้างพื้นฐานด้วยข้อตกลงพลังงานมูลค่า 3.4 พันล้านดอลลาร์ พร้อมรายงานผลประกอบการที่ขาดทุนลดลง และความสำเร็จในการพัฒนาฟีเจอร์ Claude 'Dreams' รวมถึงการชี้แจงระบบคำสั่ง CLAUDE.md และ Hooks",
+    "text": "บอร์ดบริหาร NVIDIA เริ่มสอบสวน Jensen Huang กรณีความสัมพันธ์กับบุคคลที่อาจเป็นสายลับต่างชาติ โดยซีอีโอยอมรับเรื่องดังกล่าวและพร้อมให้ความร่วมมือในการตรวจสอบ",
     "ids": [
-     "ae788edd91e8",
-     "fbaf5ca0ad58",
-     "b9538dd8883d",
-     "2fbff683355d"
+     "90766e1f9654",
+     "67abd93f196f"
     ]
    },
    {
-    "text": "Apple เร่งพัฒนา Siri ให้เป็น AI Agent เต็มรูปแบบเพื่อแข่งขันในตลาด ขณะที่ Suno เผชิญการฟ้องร้องจากเจ้าของลิขสิทธิ์เพลงชื่อดังฐานนำผลงานไปฝึกโมเดลโดยไม่ได้รับอนุญาต",
+    "text": "Anthropic เร่งขยายโครงสร้างพื้นฐานด้วยข้อตกลงพลังงานมูลค่า 3.4 พันล้านดอลลาร์ พร้อมรายงานผลประกอบการที่ขาดทุนลดลงและเปิดตัวฟีเจอร์ใหม่เพื่อเพิ่มประสิทธิภาพโมเดล Claude",
+    "ids": [
+     "ae788edd91e8",
+     "fbaf5ca0ad58",
+     "250be7c9b4c2",
+     "b9538dd8883d",
+     "2fbff683355d",
+     "300f149a0249"
+    ]
+   },
+   {
+    "text": "นักพัฒนาและบริษัท AI ต่างเร่งพัฒนาเทคนิคเพิ่มประสิทธิภาพการรันโมเดล ทั้งการใช้ Speculative Decoding, เทคนิค Coarse-to-Fine และการปรับแต่งฮาร์ดแวร์เพื่อรองรับโมเดลขนาดใหญ่",
+    "ids": [
+     "c5536f6e1237",
+     "004b2c689f83",
+     "8330c956749a",
+     "c0fd1a7a8e5f",
+     "302900397f30",
+     "bf417e17fc5a",
+     "7051637201eb"
+    ]
+   },
+   {
+    "text": "Apple เร่งพัฒนา Siri ให้เป็น AI Agent เต็มรูปแบบ ในขณะที่บริษัท AI อย่าง Suno กำลังเผชิญกับการฟ้องร้องด้านลิขสิทธิ์เพลงจากศิลปินชื่อดัง",
     "ids": [
      "53044e44b3aa",
      "ae06ecf71872"
     ]
    },
    {
-    "text": "ความก้าวหน้าด้านเทคนิคการประมวลผล AI ได้แก่ Tencent ที่เปิดตัววิธี Speculative Decoding ใหม่เพื่อเร่งความเร็วโมเดล 27B และการทดลองเชื่อมต่อ GPU หลายตัวผ่าน PCIe switch เพื่อเพิ่มประสิทธิภาพการรัน AI ในระดับท้องถิ่น",
+    "text": "มีการเผยแพร่ชุดข้อมูลฝึกฝนโมเดลขนาดใหญ่และเครื่องมือทดสอบการเซ็นเซอร์ของ LLM ท่ามกลางความกังวลเกี่ยวกับความเสี่ยงของฟองสบู่ในตลาด AI",
     "ids": [
-     "8330c956749a",
-     "bf417e17fc5a"
-    ]
-   },
-   {
-    "text": "ชุมชน AI ให้ความสนใจกับการรันโมเดลบนฮาร์ดแวร์ส่วนตัว โดยมีการเลือกใช้การ์ดจอที่มี VRAM 16GB และการทดลองโปรเจกต์พัฒนาโมเดลแบบร่วมมือกันโดยไม่พึ่งพาคลัสเตอร์ GPU ราคาแพง",
-    "ids": [
-     "7051637201eb",
-     "fb8873a1c7cb",
-     "477682d0eb3b"
+     "1b455684ad26",
+     "4425c00b6e66",
+     "54d9810f0583"
     ]
    }
   ]
@@ -126,7 +140,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": null
   }
  ],
@@ -400,9 +414,203 @@
   "89de05a6d004",
   "bdd662c031e4",
   "7832723071bb",
-  "86654c371c87"
+  "86654c371c87",
+  "8e0a482abc2d",
+  "5c2eacb34fb7",
+  "45da7994669e",
+  "45fb196cb1bb",
+  "41a5428cc5a2",
+  "60900222ede9",
+  "51bc8200bfc7",
+  "38995d3fca35",
+  "ecd65815b585",
+  "b10abbc74a23",
+  "614b221353b6",
+  "b4717b7762b7"
  ],
  "items": [
+  {
+   "id": "c5536f6e1237",
+   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+   "source": "NVIDIA",
+   "published": "2026-11-09T05:00:00+00:00",
+   "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+   "text": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
+   "title_th": "NVIDIA เปิดตัว Dynamo Recipes รองรับโมเดลภาษาชั้นนำของเกาหลีใต้",
+   "summary_th": "NVIDIA ปล่อยโซลูชัน Dynamo-optimized สำหรับการปรับใช้โมเดลภาษาขนาดใหญ่จากเกาหลีใต้ เช่น A.X K2, K-EXAONE 2.0, Solar Open 2 และ Motif-3 เพื่อช่วยให้การรันโมเดลข้ามหลาย GPU มีประสิทธิภาพมากขึ้น",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "NVIDIA",
+    "SK Telecom",
+    "LG AI Research",
+    "Hyundai Motor Group"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "NVIDIA",
+     "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/"
+    },
+    {
+     "source": "NVIDIA",
+     "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/"
+    },
+    {
+     "source": "NVIDIA",
+     "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "250be7c9b4c2",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXJWcnctdVVTTzhZc2ZBNndtZ3lPR3A3UTFndWhkSWQ1cmZMTnJTaTN3ZmxjdHBHMHkzS0ZvelROWEViaWZmTmlSUk1SV1lXZlFfOFdGY2ViRkg0cWE3cGtkQWE5TndZRzFfdzREc2lIM1RFUGJXYW11V1dvNk03ZEVlYlZOWmFpUG5vRVgxSmNCc0E3?oc=5",
+   "source": "The New York Sun",
+   "published": "2026-11-09T03:31:00+00:00",
+   "title": "Anthropic Bets Its Smartest Model Will Set Claude Duet Apart",
+   "text": "",
+   "title_th": "Anthropic มั่นใจโมเดลใหม่จะสร้างความแตกต่างให้ Claude Duet",
+   "summary_th": "Anthropic มุ่งเน้นการใช้โมเดลที่ฉลาดที่สุดของบริษัทเพื่อสร้างความโดดเด่นให้กับผลิตภัณฑ์ Claude Duet ในตลาด",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "90766e1f9654",
+   "url": "https://www.blognone.com/node/152134",
+   "source": "Blognone",
+   "published": "2026-11-09T00:24:43+00:00",
+   "title": "NVIDIA ประกาศสอบสวน Jensen Huang ประเด็นคบหากับคนที่อาจเป็นสายลับ - Jensen ขอโทษต่อเรื่องที่เกิดขึ้น",
+   "text": "Body บอร์ด NVIDIA ออกแถลงการณ์ว่าบริษัทได้เริ่มดำเนินการสอบสวนผ่านคณะกรรมการอิสระ หลังจากมีข่าวว่า Jensen Huang ซีอีโอและผู้ก่อตั้งบริษัทอาจเป็น เป้าหมายติดตามโดยสายลับต่างชาติ บอร์ด NVIDIA บอกว่าการสอบสวนนี้มีขึ้นเนื่องจากบริษัทให้ความสำคัญกับความมั่นคงของสหรัฐ ซึ่งถือเป็นประโยชน์สูงสุดต่อทุกฝ่าย ทั้งนี้ข้อมูลที่บอร์ดมีปัจจุุบันยังไม่มีการบ่งชี้ว่าข้อมูลความมั่นคง หรือความลับของ NVIDIA มีความเสียหายหรือรั่วไหล แต่กระบวนการสอบสวนจะทำให้ครอบคลุมมากที่สุด และ Jensen Huang ก็พร้อมให้ความร่วมมือในก",
+   "title_th": "NVIDIA ยืนยันสอบสวน Jensen Huang กรณีความสัมพันธ์กับบุคคลที่อาจเป็นสายลับ",
+   "summary_th": "บอร์ดบริหาร NVIDIA ตั้งคณะกรรมการอิสระสอบสวน Jensen Huang หลังมีข่าวความสัมพันธ์กับบุคคลที่อาจเป็นสายลับต่างชาติ โดยบริษัทยืนยันว่ายังไม่พบข้อมูลความลับรั่วไหลและซีอีโอพร้อมให้ความร่วมมือ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 5,
+   "ai": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "54d9810f0583",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pQlBpTkgzYmYtdk5nSjYzZHF0N2g0ZzRpb0ppR0ZmUGVRY3VmMjJNVWg5QmNMUW1Fa2lHd1RwV3JTbHBuQ29STzRIM1pKdw?oc=5",
+   "source": "ข่าวหุ้นธุรกิจออนไลน์",
+   "published": "2026-11-08T23:40:21+00:00",
+   "title": "จับตาฟองสบู่ AI สะเทือนเศรษฐกิจโลก",
+   "text": "",
+   "title_th": "จับตาความเสี่ยงฟองสบู่ AI ต่อเศรษฐกิจโลก",
+   "summary_th": "มีการตั้งข้อสังเกตถึงความเสี่ยงที่อาจเกิดขึ้นจากกระแสการลงทุนใน AI ว่าอาจส่งผลกระทบต่อเศรษฐกิจโลกในลักษณะของฟองสบู่",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "c0fd1a7a8e5f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrcia4/joined_the_4x_r9700_club_initial_benchmarks_for/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-08T23:36:45+00:00",
+   "title": "Joined the 4x R9700 Club | Initial Benchmarks for QFN 3.8 Below",
+   "text": "Posted this on the r/R9700 subreddit as well, but figured I'd share my initial findings here. tl;dr - One user writes at about 190 tok/s. Prefill runs at about 6,800 tok/s total no matter how many users there are. Agent follow-ups start in 0.2 to 2.5 s and write at 80 to 225 tok/s per user, even with 8 users at 128K context each. The worst case, 8 users each sending a fresh 128K prompt at the same moment, waits about 2.5 minutes for the first token. Yes yes I know the cards aren't all matching (the perfectionist in me is annoyed but they'll be in a case so who cares). PC Specs: CPU - EPYC 7402",
+   "title_th": "ผลทดสอบประสิทธิภาพการรันโมเดลบนฮาร์ดแวร์ R9700",
+   "summary_th": "ผู้ใช้งานแชร์ผลการทดสอบการรันโมเดลภาษาบนฮาร์ดแวร์ R9700 จำนวน 4 ตัว โดยระบุถึงความเร็วในการประมวลผลโทเค็นและการรองรับผู้ใช้งานหลายคนพร้อมกัน",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "300f149a0249",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3lOd0JmTjZSUjdzc0lqVnpmTVJzMkxMa2J2RHhUMXZZOEpiNUxTY1UwTnF1NDhVT09NWTFQbEVycVNQWXpPak45TEpFTElTN2RQUTlwRV83alllMW52VEk5YkxwSGU0MDVLT2RqR2gxclExemxxblh1bHFCT01tSkx0cGFEZmd5RGc?oc=5",
+   "source": "tech-insider.org",
+   "published": "2026-11-08T22:59:49+00:00",
+   "title": "Claude Code Don't Ask Again: 1,379 Secrets [2026]",
+   "text": "",
+   "title_th": "Claude Code เผยข้อมูลความลับจำนวนมาก",
+   "summary_th": "มีการรายงานเกี่ยวกับข้อมูลความลับที่เกี่ยวข้องกับ Claude Code ในปี 2026",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "67abd93f196f",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "source": "The Verge AI",
+   "published": "2026-11-08T22:54:50+00:00",
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "text": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
+   "title_th": "เปิดเนื้อหาบันทึกข้อความ Jensen Huang ถึงพนักงาน NVIDIA",
+   "summary_th": "Jensen Huang ส่งบันทึกข้อความถึงพนักงาน NVIDIA เพื่อยอมรับเรื่องความสัมพันธ์กับผู้บริหารที่เป็นสายลับจีน หลังจากที่บอร์ดบริหารประกาศเริ่มการสอบสวนอย่างเป็นทางการ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "302900397f30",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr78s5/intel_arc_pro_b70_32gb_1299_vs_nvidia_rtx_5090/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-08T19:46:49+00:00",
+   "title": "Intel Arc Pro B70 32GB ($1,299) vs NVIDIA RTX 5090 ($6,500+) on Qwen3.8-27B: about 1/2 speed gen (1/3 speed prefill) for 1/5 price, after best setup",
+   "text": "I got an Arc Pro B70 (32GB) last week for $1,299 direct from ASRock official store on Amazon (B65 is also 32GB but slower, and was only $100 cheaper at $1,199, so I \"splurged\"). Obviously I'd have wanted a 5090 for the same VRAM and best speeds, but 5090s are going for $6,500+ on Newegg right now (and I personally have too much fear to buy used hardware), so I wanted to see how close a 32GB Intel card gets. Out of the box it it was really bad, but after a few changes I got it to about half a 5090, which feels like a great trade off for 1/5th price (~$41/GB vs $200+/GB). And of course it's grea",
+   "title_th": "เปรียบเทียบประสิทธิภาพ Intel Arc Pro B70 กับ NVIDIA RTX 5090 ในการรันโมเดล Qwen3.8-27B",
+   "summary_th": "ผู้ใช้งานทดสอบประสิทธิภาพการ์ดจอ Intel Arc Pro B70 เทียบกับ NVIDIA RTX 5090 ในการรันโมเดลภาษาขนาดใหญ่ พบว่า Intel ให้ความเร็วประมาณครึ่งหนึ่งของ 5090 ในราคาที่ถูกกว่ามาก",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Intel",
+    "Nvidia",
+    "ASRock"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "004b2c689f83",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-08T19:19:39+00:00",
+   "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation: This will completely change everything!",
+   "text": "Essentially we could very soon run opus 5.5 level of intelligence on 32gb Vram. Its many folds more efficient in terms of memory bandwidth making compute the real bottleneck. What do you think? submitted by /u/Lorian0x7 [link] [comments]",
+   "title_th": "Next-Concept Modeling เทคนิคใหม่เพื่อการสร้างข้อความที่รวดเร็วและมีประสิทธิภาพ",
+   "summary_th": "มีการนำเสนอแนวคิดการสร้างข้อความแบบ Coarse-to-Fine ที่ช่วยให้รันโมเดลระดับสูงบน VRAM ขนาด 32GB ได้อย่างมีประสิทธิภาพมากขึ้น โดยเน้นไปที่การลดข้อจำกัดด้านหน่วยความจำ",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "53044e44b3aa",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
@@ -899,7 +1107,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
+    }
+   ]
   },
   {
    "id": "055e03fe8fc4",
@@ -1638,6 +1852,23 @@
    "companies": [
     "OpenAI",
     "Hacktron"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8516ce2e0810",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnBlUGZndjlWcGY5T0tOQzJISDRPUEJVTFdJZW92bnBYZWo0anJobngwOXAtY1R5Q0FudTlRNmxuT3V0NnYtYkNMREdHYktGOHNSLUJqUm5Eeks3MHU4Q203YUxsWU12YzF1a2JLaWtRVEE0czVaNDQxVVpMOFdvZUt1bFNkVUY4RDlHbmZn?oc=5",
+   "source": "Channel Insider",
+   "published": "2026-11-06T08:00:00+00:00",
+   "title": "Anthropic Gives Startups Free Claude to Seed Its Next Wave of Customers",
+   "text": "",
+   "title_th": "Anthropic แจกสิทธิ์ใช้งาน Claude ฟรีให้สตาร์ทอัพ",
+   "summary_th": "Anthropic เปิดตัวโครงการมอบสิทธิ์การใช้งานโมเดล Claude ฟรีให้กับสตาร์ทอัพ เพื่อสร้างฐานผู้ใช้งานและดึงดูดลูกค้ากลุ่มใหม่เข้าสู่ระบบนิเวศของบริษัท",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
    ],
    "importance": 3,
    "ai": true,
@@ -10275,29 +10506,6 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "1758535ac6be",
-   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-   "source": "OpenAI",
-   "published": "2026-10-26T00:00:00+00:00",
-   "title": "Introducing GPT-6.1 Terra",
-   "text": "Bringing fast and capable computer use to everyone",
-   "title_th": "เปิดตัว GPT-6.1 Terra มุ่งเน้นการใช้งานคอมพิวเตอร์ที่รวดเร็วและมีประสิทธิภาพ",
-   "summary_th": "OpenAI ประกาศเปิดตัวโมเดล GPT-6.1 Terra ซึ่งออกแบบมาเพื่อเพิ่มความสามารถในการใช้งานคอมพิวเตอร์ให้รวดเร็วและเข้าถึงได้ง่ายสำหรับทุกคน",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 5,
-   "ai": true,
-   "also": [
-    {
-     "source": "Blognone",
-     "url": "https://www.blognone.com/node/152030"
-    }
-   ],
    "dedup": true
   }
  ]

@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-11-10T12:43:44+00:00",
+ "updated_at": "2026-11-10T21:49:44+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-10T12:43:44+00:00",
-  "headline": "ความเคลื่อนไหวครั้งใหญ่ในวงการ AI ทั้งด้านการพัฒนาโมเดลประสิทธิภาพสูง โครงสร้างพื้นฐานฮาร์ดแวร์ และกลยุทธ์ทางธุรกิจของบริษัทชั้นนำ",
+  "generated_at": "2026-11-10T21:49:44+00:00",
+  "headline": "ความก้าวหน้าของโมเดล AI ระดับสูงและการขยายตัวสู่เครื่องมือสำนักงานและอุตสาหกรรมเฉพาะทาง",
   "points": [
    {
-    "text": "Anthropic เร่งเครื่องพัฒนาโมเดลใหม่และเตรียมตัวทำ IPO ท่ามกลางการประเมินมูลค่าบริษัทที่สูงถึง 1.7 ล้านล้านดอลลาร์ แม้จะมีต้นทุนการวิจัยและพัฒนาที่สูงกว่ารายได้หลายเท่าตัว",
+    "text": "Google และ Anthropic เปิดตัวโมเดลและฟีเจอร์ใหม่ที่เน้นการทำงานร่วมกันและประสิทธิภาพในองค์กร เช่น Gemini 4 Carbon, Claude Meetings และ Claude Sheets เพื่อแข่งขันในตลาดซอฟต์แวร์สำนักงาน",
     "ids": [
-     "9abef4201139",
-     "2b41a6e455fc",
-     "52de60bb603f",
-     "e63082570fcf"
+     "a14681e2ddce",
+     "b73105fe4ec5",
+     "af7403b45639",
+     "11cf09881a3b",
+     "ec3f910d2a18"
     ]
    },
    {
-    "text": "ความก้าวหน้าด้านโมเดลและเครื่องมือ AI มีการเปิดตัว Claude Fable 5.2 ที่โดดเด่นด้านความปลอดภัยไซเบอร์, AlphaProof Code สำหรับตรวจสอบซอฟต์แวร์, และ Muse Ember จาก Meta ที่เน้นความคุ้มค่าสำหรับงาน Agent",
+    "text": "ความก้าวหน้าด้านความปลอดภัยและการวิจัย AI มีความสำคัญมากขึ้น ทั้งการใช้ AI ตรวจสอบโค้ดซอฟต์แวร์ การทดสอบความปลอดภัยไซเบอร์ และเทคนิคใหม่ในการปรับแต่งโมเดลโดยไม่ต้องเทรนใหม่",
     "ids": [
      "f8c1a7370c13",
      "f61f8a7895fa",
-     "99d632aaa416"
+     "7bcb98eb0c6b",
+     "38f4d0b20f1d",
+     "7d448a8186e9"
     ]
    },
    {
-    "text": "การขยายตัวของโครงสร้างพื้นฐาน AI เห็นได้จากการเปิดตัวชิป TPU รุ่นใหม่ของ Google และการที่ ChatGPT Enterprise เข้าสู่ AWS Marketplace เพื่อรองรับการใช้งานในระดับองค์กร",
+    "text": "การประยุกต์ใช้ AI ในอุตสาหกรรมเฉพาะทางและโครงสร้างพื้นฐานมีการเติบโตอย่างต่อเนื่อง ทั้งในด้านสาธารณสุข การวิจัยควอนตัม และการสนับสนุนโครงสร้างพื้นฐานผ่าน NVIDIA และฮาร์ดแวร์ใหม่",
     "ids": [
-     "4d4111d16658",
-     "ed213adeba37",
-     "9c331579e229"
-    ]
-   },
-   {
-    "text": "การนำ AI ไปประยุกต์ใช้ในอุตสาหกรรมต่างๆ มีความคืบหน้าอย่างต่อเนื่อง ทั้งในด้านการผลิตสื่อของ Disney, การฝึกหุ่นยนต์ของ NVIDIA, และการเปิดตัวคลาวด์กลางด้านสาธารณสุขของไทย",
-    "ids": [
-     "7cd5e1029071",
+     "02e4a20d191a",
      "2b6590545dac",
-     "86961a9937fd"
+     "6fcd75d626dd",
+     "405fdcad1ce1",
+     "ed213adeba37",
+     "285987eab731"
     ]
    },
    {
-    "text": "ประเด็นด้านการกำกับดูแลและความท้าทายในการใช้งาน AI ยังคงเป็นเรื่องสำคัญ ทั้งการเตรียมผลักดันนโยบายระดับรัฐสภาสหรัฐฯ และปัญหาการบำรุงรักษาโค้ดที่เขียนโดย AI ในระยะยาว",
+    "text": "ความเคลื่อนไหวทางธุรกิจและกฎหมายที่สำคัญ ได้แก่ การบังคับใช้กฎหมายความปลอดภัย AI ในนิวยอร์ก, การเข้าซื้อกิจการของ OpenAI, การทดสอบโมเดลรายได้ของ Samsung และความเสี่ยงด้านความปลอดภัยที่ Fireworks AI",
     "ids": [
-     "7f47f4f4451c",
-     "7d448a8186e9",
-     "cc49c1ae6860"
+     "c012fc7ecd62",
+     "571fb0494bf3",
+     "0e315bb90a64",
+     "a7266a93fa89",
+     "9c5da62bab37"
     ]
    }
   ]
@@ -136,7 +136,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "error": null
   }
  ],
@@ -455,9 +455,400 @@
   "01c610abf06d",
   "db84f0be1fbd",
   "e7a5ea5c33d9",
-  "2c2d90c29910"
+  "2c2d90c29910",
+  "9922bcaa36cd",
+  "707c973eeceb",
+  "dd4ce519b606",
+  "9abef4201139",
+  "9871791e1b1f",
+  "0cd5e191c405",
+  "e180cb7882df",
+  "e4a8e1b3bf29",
+  "e18f58ec7dc7",
+  "ae7cc0296262",
+  "384567f596f8",
+  "a525fa830b85",
+  "f9ddc69f8317",
+  "015cb2c6872b",
+  "196c0edf93f9",
+  "29beb030c167",
+  "5ca4dc7b6d88",
+  "7396b577c725"
  ],
  "items": [
+  {
+   "id": "571fb0494bf3",
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-10T21:08:52+00:00",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "text": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+   "title_th": "OpenAI เข้าซื้อกิจการ Odessia สตาร์ทอัพด้านการท่องเที่ยว",
+   "summary_th": "OpenAI ประกาศเข้าซื้อกิจการ Odessia สตาร์ทอัพด้านการท่องเที่ยวที่ก่อตั้งโดยผู้ก่อตั้ง Sonder แม้บริษัทยังไม่ได้เปิดเผยแผนการที่ชัดเจนเกี่ยวกับอนาคตของอุตสาหกรรมท่องเที่ยว",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI",
+    "Odessia",
+    "Sonder"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c012fc7ecd62",
+   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-10T20:52:13+00:00",
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "text": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+   "title_th": "OpenAI และ Anthropic เผชิญกฎหมายความปลอดภัย AI ฉบับใหม่ในนิวยอร์ก",
+   "summary_th": "รัฐนิวยอร์กเตรียมบังคับใช้กฎหมายความปลอดภัย AI ที่เข้มงวด โดยกำหนดให้ผู้พัฒนา AI รายใหญ่ต้องลงทะเบียน เปิดเผยแนวทางปฏิบัติ และรายงานเหตุการณ์สำคัญ มิฉะนั้นจะถูกปรับ",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI",
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7bcb98eb0c6b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-10T19:44:57+00:00",
+   "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+   "text": "How little of a pretrained large language model (LLM) has to change for it to acquire new capabilities? We find that zeroing fewer than 0.05% of its weights, with no other modification, matches full fine-tuning (FFT) at scale across three LLM post-training regimes: reinforcement learning with verifiable rewards, supervised fine-tuning, and on-policy distillation. Our method, Deletion Tuning, learns a binary mask over the gate projection of transformer blocks. Two practical advantages follow: the trained mask is hundreds to thousands of times smaller than the corresponding FFT checkpoint, and D",
+   "title_th": "งานวิจัยเผยประสิทธิภาพของการลบน้ำหนัก (Weights) ในการทำ LLM Post-Training",
+   "summary_th": "งานวิจัยนำเสนอเทคนิค Deletion Tuning ซึ่งใช้วิธีลบน้ำหนักโมเดลเพียงเล็กน้อยเพื่อเพิ่มขีดความสามารถใหม่ๆ โดยให้ผลลัพธ์เทียบเท่ากับการทำ Fine-tuning แบบเต็มรูปแบบ",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "34a6071342ff",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+   "source": "The Verge AI",
+   "published": "2026-11-10T19:31:58+00:00",
+   "title": "The US is winning the AI race. Jensen Huang could have blown it",
+   "text": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
+   "title_th": "บทวิเคราะห์บทบาทของ Jensen Huang ในการแข่งขันด้าน AI ของสหรัฐฯ",
+   "summary_th": "บทวิเคราะห์ถึงอิทธิพลของ Jensen Huang ซีอีโอของ Nvidia ในฐานะผู้ควบคุมเทคโนโลยีสำคัญที่ขับเคลื่อนการเติบโตของ AI และความสัมพันธ์ของเขากับบุคคลสำคัญระดับโลก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Nvidia"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7739f93bab44",
+   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-10T19:23:34+00:00",
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "text": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+   "title_th": "Oura เข้าซื้อกิจการสตาร์ทอัพด้านสุขภาพ Counsel Health มูลค่า 625 ล้านดอลลาร์",
+   "summary_th": "Oura ประกาศเข้าซื้อกิจการ Counsel Health สตาร์ทอัพด้านการดูแลสุขภาพที่ใช้ AI หลังจากที่บริษัทได้เลื่อนการทำ IPO ออกไปอย่างไม่มีกำหนดเนื่องจากความไม่แน่นอนของตลาด",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Oura",
+    "Counsel Health"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7ac1a3b2939b",
+   "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+   "source": "The Verge AI",
+   "published": "2026-11-10T19:06:22+00:00",
+   "title": "The indie game community is in disarray over AI and Big Walk",
+   "text": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
+   "title_th": "ชุมชนนักพัฒนาเกมอินดี้ถกเถียงเรื่องการใช้ AI ในเกม Big Walk",
+   "summary_th": "เกิดความขัดแย้งในกลุ่มนักพัฒนาเกมอินดี้หลังจากมีการใช้ AI ในการพัฒนาเกม Big Walk ส่งผลให้คณะกรรมการตัดสินรางวัลบางส่วนประกาศไม่โหวตให้กับเกมที่ใช้ Generative AI",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6fcd75d626dd",
+   "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-10T19:03:52+00:00",
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "text": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+   "title_th": "PSI ใช้ AI ของ Anthropic ค้นพบคำตอบด้านควอนตัมคอมพิวติ้ง",
+   "summary_th": "บริษัท PSI ได้ใช้โมเดล AI ของ Anthropic ที่ยังไม่เปิดตัวเพื่อไขคำตอบพื้นฐานเกี่ยวกับควอนตัมคอมพิวติ้งที่นักวิทยาศาสตร์พยายามหาคำตอบมานานเกือบสองทศวรรษ",
+   "category": "งานวิจัย",
+   "companies": [
+    "PSI",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b73105fe4ec5",
+   "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "source": "Google AI Blog",
+   "published": "2026-11-10T19:00:00+00:00",
+   "title": "Gemini Intelligence: New features, on more devices",
+   "text": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+   "title_th": "Google เปิดตัวฟีเจอร์ใหม่สำหรับ Gemini Intelligence",
+   "summary_th": "Google อัปเดตฟีเจอร์ใหม่สำหรับ Gemini Intelligence เพื่อขยายขีดความสามารถและรองรับการใช้งานบนอุปกรณ์ต่างๆ มากขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "445fc6287a33",
+   "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-10T18:49:52+00:00",
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "text": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+   "title_th": "OpenAI เปิดตัวโปรไฟล์ธุรกิจใหม่ใน ChatGPT",
+   "summary_th": "OpenAI เพิ่มฟีเจอร์โปรไฟล์ธุรกิจใน ChatGPT เพื่อเปลี่ยนให้เป็นเครื่องมือค้นหาและค้นพบข้อมูลสำหรับผู้บริโภคที่แข็งแกร่งขึ้น คล้ายกับรูปแบบของ Google",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI",
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "OpenAI",
+     "url": "https://openai.com/index/introducing-businesses-chatgpt"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "5175b6a2b765",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "source": "Hacker News",
+   "published": "2026-11-10T18:01:15+00:00",
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "text": "179 points, 51 comments on Hacker News (https://news.ycombinator.com/item?id=50443812)",
+   "title_th": "แนะนำเครื่องมืออัปเกรด Coding Agent ให้รองรับ Web Primitives สมัยใหม่",
+   "summary_th": "มีการแชร์เครื่องมือสำหรับนักพัฒนาเพื่อช่วยอัปเกรด Coding Agent จากการเขียนโค้ด JavaScript แบบเก่าให้รองรับมาตรฐานเว็บสมัยใหม่",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "af7403b45639",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-10T17:30:00+00:00",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "text": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+   "title_th": "Anthropic เปิดตัว Claude Meetings ช่วยสรุปการประชุมและจัดการงานในที่ทำงาน",
+   "summary_th": "Claude สามารถร่างแผนงาน สรุปไทม์ไลน์บนไวท์บอร์ด และตอบคำถามระหว่างการประชุมได้ โดยเชื่อมต่อกับแอปพลิเคชันการทำงานเพื่อดึงข้อมูลสำคัญมาใช้งาน ช่วยเพิ่มประสิทธิภาพในการทำงานร่วมกัน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic",
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1lkekszdzZzWXNDOXRjbGg1SWhiaFR5NXZrWVNuSjluX0xOX1BQcm9YZDlneHJJU3dEOXA4Z0pvY09pbXhua1pGWlJKWU51OVNmVFdTNzY1QWN2cjl0b0ttTHR1b0cyQW9RX0habzJ3MVp1dHc2YXh6RGZLNHJGY3hCMlhsakFsOEUtSWJXUWVpb3I5eHpmcGNhVm5JTlo2VVE?oc=5"
+    },
+    {
+     "source": "Axios",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43RzRod0FibUhPX1ZYX09KMHdodFZMQWNOcFR1dGh5Q2dsaDJ1QjhjWjIzbWhJamI4SGtJUHQ1S3V0YUZWYnp3bWowbXhUMWhpMUxObFNpakVHNm9yZ1VKbzJqTUNwekNUNG15ZGhTdkxJVWdicktQOFNMVHJFZw?oc=5"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "11cf09881a3b",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXRWOExBd2xhc1VhNmZQY1lLQ2R6b3VhZ2kzVm1nMUJfb1RLbnNiaW5LcW1UVUdiQXRqRGlXZHFwODZMSHhsZC1JdXViZTNtUFh3a2JJWWNzdHFCYXlQMWFXeGNIbDVHOFJ3Ni1pRVRwZ0N4Njc0M2ZrVUxBR2FCaHFSMWZ1UFNPMzdKbnEzcUZwaE5BMXU0?oc=5",
+   "source": "Engadget",
+   "published": "2026-11-10T17:30:00+00:00",
+   "title": "Anthropic Takes On Google And Microsoft With Claude Sheets",
+   "text": "",
+   "title_th": "Anthropic ท้าชน Google และ Microsoft ด้วย Claude Sheets",
+   "summary_th": "Anthropic ขยายขีดความสามารถเข้าสู่ตลาดซอฟต์แวร์สำนักงานด้วยการเปิดตัว Claude Sheets เพื่อแข่งขันกับผู้เล่นรายใหญ่ในตลาด",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic",
+    "Google",
+    "Microsoft"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3e50515c6d1f",
+   "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+   "source": "The Verge AI",
+   "published": "2026-11-10T16:20:30+00:00",
+   "title": "eBay appears to have shut the door on third-party AI agents",
+   "text": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]",
+   "title_th": "eBay ปิดกั้นการเข้าถึงของ AI Agents จากภายนอก",
+   "summary_th": "eBay เริ่มบล็อกการเข้าถึงแพลตฟอร์มของ AI Agents ต่างๆ รวมถึง Muse ของ Meta ซึ่งส่งผลกระทบต่อการใช้งานเครื่องมือช่วยคัดกรองและติดตามสินค้าบนแพลตฟอร์ม",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "eBay",
+    "Meta"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "405fdcad1ce1",
+   "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "source": "NVIDIA",
+   "published": "2026-11-10T16:00:03+00:00",
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+   "text": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
+   "title_th": "NVIDIA สนับสนุน Open Source ผ่านการบริจาค OpenShell และโครงสร้างพื้นฐาน AI",
+   "summary_th": "NVIDIA ขยายความร่วมมือด้านโอเพนซอร์สโดยมุ่งเน้นที่ Kubernetes เพื่อรองรับความต้องการที่เพิ่มขึ้นของโครงสร้างพื้นฐาน AI ในงาน KubeCon + CloudNativeCon",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a14681e2ddce",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "source": "The Verge AI",
+   "published": "2026-11-10T15:30:28+00:00",
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "text": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes […]",
+   "title_th": "Google ปล่อย Gemini 4 Carbon พร้อมฟีเจอร์ Agent Swarm",
+   "summary_th": "Google เปิดให้สาธารณชนใช้งาน Gemini 4 Carbon ซึ่งเป็นโมเดลที่ทรงพลังที่สุดของบริษัท โดยมาพร้อมกับความสามารถในการทำงานร่วมกันแบบกลุ่มหรือ Swarm",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Google"
+   ],
+   "importance": 5,
+   "ai": true,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "a92c103556a0",
+   "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-10T15:29:30+00:00",
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "text": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+   "title_th": "Meta นำ AI Agent Muse ลงสู่อุปกรณ์สวมใส่ Apple Watch และ Android",
+   "summary_th": "ผู้ใช้งานสามารถโต้ตอบกับ AI ผู้ช่วยของ Meta ผ่านการโทรด้วยเสียง ข้อความ หรือการสั่งงานด้วยเสียงบนอุปกรณ์สวมใส่ได้แล้ว",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ec3f910d2a18",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+   "source": "The Verge AI",
+   "published": "2026-11-10T15:13:38+00:00",
+   "title": "Anthropic has its own AI-powered office suite now",
+   "text": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]",
+   "title_th": "Anthropic เปิดตัวชุดเครื่องมือสำนักงานที่ขับเคลื่อนด้วย AI",
+   "summary_th": "Anthropic ขยายขอบเขตผลิตภัณฑ์เข้าสู่ตลาดซอฟต์แวร์สำนักงานเพื่อตอบโจทย์ลูกค้าองค์กร โดยมุ่งเน้นการแข่งขันกับผู้เล่นรายใหญ่ในตลาด",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5d032b845107",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-10T14:18:08+00:00",
+   "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
+   "text": "submitted by /u/MagicZhang [link] [comments]",
+   "title_th": "MiniMax เปิดตัว H3-Image โมเดลรูปภาพแบบ Open-Weight ที่สร้างบนสถาปัตยกรรม H3",
+   "summary_th": "MiniMax ได้ปล่อยโมเดลสร้างรูปภาพ H3-Image ออกมาให้ใช้งานแบบ Open-Weight โดยพัฒนาต่อยอดมาจากสถาปัตยกรรม H3 ของบริษัทเอง",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "MiniMax"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "66ed14c6418f",
+   "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "source": "Google AI Blog",
+   "published": "2026-11-10T14:00:00+00:00",
+   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "text": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+   "title_th": "Google จับมือ Adobe ผสานเครื่องมือสร้างสรรค์เข้ากับแอปพลิเคชันของ Google",
+   "summary_th": "Google และ Adobe ร่วมมือกันเชื่อมต่อเครื่องมือทำงานและงานสร้างสรรค์ โดยผู้ใช้สามารถแก้ไข PDF ใน Drive และใช้งาน Adobe AI ผ่าน Gemini ได้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google",
+    "Adobe"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "02e4a20d191a",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "source": "Google AI Blog",
+   "published": "2026-11-10T13:00:00+00:00",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "text": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+   "title_th": "Google Cloud เปิดตัว Gemini สำหรับงานด้านสาธารณสุข",
+   "summary_th": "Google Cloud นำ Gemini มาใช้ในภาคการแพทย์เพื่อรวมข้อมูลทางคลินิกและช่วยทำเวิร์กโฟลว์ให้เป็นอัตโนมัติ เพื่อลดภาระงานด้านเอกสารของบุคลากร",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "f8c1a7370c13",
    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
@@ -489,6 +880,63 @@
    "companies": [
     "OpenAI"
    ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "38f4d0b20f1d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-10T11:27:44+00:00",
+   "title": "Decision model to edit LLM weight directly - No training",
+   "text": "On September 18, I launched Laya at you guys request, the first system 1 open-source decision model in this subreddit, and you guys gave immense support. I saw the MIT post on direct weight edits and thought about doing the same with a decision model. Now, after two months, I just worked on a way to edit the weights of an LLM using a decision model. More like distillation from an energy-based decision engine to teach the Qwen 3.5 0.8B a new skill. Like tool calling at the appropriate time. Its decisions are like valleys in a landscape, and every answer rolls downhill into one, with honest conf",
+   "title_th": "นักพัฒนาทดลองใช้ Decision Model แก้ไขน้ำหนัก LLM โดยตรงโดยไม่ต้องเทรนใหม่",
+   "summary_th": "มีการนำเสนอวิธีการแก้ไขน้ำหนักของโมเดล Qwen 3.5 0.8B โดยใช้ Decision Model เพื่อสอนทักษะใหม่ เช่น การเรียกใช้เครื่องมือ (Tool calling) โดยไม่ต้องผ่านกระบวนการเทรนโมเดลใหม่",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "04566ece2f1b",
+   "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+   "source": "The Verge AI",
+   "published": "2026-11-10T11:24:56+00:00",
+   "title": "Adobe is going all in on agentic AI",
+   "text": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change […]",
+   "title_th": "Adobe มุ่งเน้นเต็มตัวกับ Agentic AI เพื่อเป็นผู้ช่วยส่วนตัว",
+   "summary_th": "Adobe ประกาศวิสัยทัศน์ในการใช้ AI agents เข้ามาเป็นผู้ช่วยด้านการออกแบบและทำงานซ้ำๆ แทนผู้ใช้ โดยเปิดให้ AI ภายนอกเข้าถึงและปรับแต่งงานในเครื่องมือของ Adobe ได้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Adobe"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+    },
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "534e23320d33",
+   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "source": "Hacker News",
+   "published": "2026-11-10T10:25:58+00:00",
+   "title": "AI usage generates a fragile codebase",
+   "text": "286 points, 351 comments on Hacker News (https://news.ycombinator.com/item?id=50438318)",
+   "title_th": "การใช้งาน AI อาจทำให้ฐานโค้ดมีความเปราะบาง",
+   "summary_th": "มีการอภิปรายในชุมชนนักพัฒนาเกี่ยวกับความเสี่ยงที่การพึ่งพา AI ในการเขียนโค้ดอาจส่งผลให้ซอฟต์แวร์ที่ได้มีความเปราะบางและจัดการได้ยาก",
+   "category": "อื่นๆ",
+   "companies": [],
    "importance": 2,
    "ai": true,
    "dedup": true
@@ -539,6 +987,24 @@
    "dedup": true
   },
   {
+   "id": "a7266a93fa89",
+   "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "source": "Hacker News",
+   "published": "2026-11-10T07:19:38+00:00",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "text": "157 points, 59 comments on Hacker News (https://news.ycombinator.com/item?id=50437106)",
+   "title_th": "เหตุการณ์ข้อมูลรั่วไหลที่ Fireworks AI ส่งผลกระทบต่อ Notion และลูกค้า",
+   "summary_th": "เกิดเหตุการณ์ความปลอดภัยที่ Fireworks AI ซึ่งส่งผลกระทบโดยตรงต่อบริษัท Notion และผู้ใช้งานของบริษัท",
+   "category": "อื่นๆ",
+   "companies": [
+    "Fireworks AI",
+    "Notion"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "0cb7ad579ad8",
    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
    "source": "TechCrunch AI",
@@ -550,6 +1016,24 @@
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [
     "Otter AI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3588ceed4155",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "OpenAI",
+   "published": "2026-11-10T07:00:00+00:00",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "text": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "title_th": "งานวิจัย OpenAI และ Upwork ชี้ AI เปลี่ยนแปลงความต้องการงานฟรีแลนซ์",
+   "summary_th": "ผลการศึกษาพบว่าความต้องการจ้างงานฟรีแลนซ์มีการเปลี่ยนแปลง โดยเน้นทักษะใหม่ที่เกี่ยวข้องกับ AI มากขึ้น รวมถึงงบประมาณและเวลาที่ใช้ในโครงการ AI เพิ่มสูงขึ้น",
+   "category": "งานวิจัย",
+   "companies": [
+    "OpenAI",
+    "Upwork"
    ],
    "importance": 2,
    "ai": true,
@@ -640,6 +1124,41 @@
    "dedup": true
   },
   {
+   "id": "724fae925148",
+   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+   "source": "Hugging Face",
+   "published": "2026-11-10T00:00:00+00:00",
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "text": "",
+   "title_th": "Hugging Face รองรับการชำระเงินผ่านบัญชี Google Cloud",
+   "summary_th": "ผู้ใช้งานสามารถชำระค่าบริการบน Hugging Face Hub ได้โดยตรงผ่านบัญชี Google Cloud เพื่อความสะดวกในการจัดการค่าใช้จ่าย",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Hugging Face",
+    "Google"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3229de0d9192",
+   "url": "https://huggingface.co/blog/decision",
+   "source": "Hugging Face",
+   "published": "2026-11-10T00:00:00+00:00",
+   "title": "Decision Models in Hugging Face",
+   "text": "",
+   "title_th": "Hugging Face เพิ่มการรองรับ Decision Models",
+   "summary_th": "Hugging Face ได้ขยายขีดความสามารถในการรองรับโมเดลประเภท Decision Models บนแพลตฟอร์ม",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Hugging Face"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "28d8b7cf72a0",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94/",
    "source": "r/LocalLLaMA",
@@ -717,26 +1236,21 @@
    "dedup": true
   },
   {
-   "id": "9abef4201139",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlNNX2c5SGV4WXdpZ2Utb2NzU0NhVlpUM3MwWEZ3bFdyVHZ5cDZGbnJSWVpEelJrZ0tCQTZrNjUyRTFaLW1JeGxucWtvcEJwOXUyQkwzUkpPQUNEYTFobG9qc3oyTVhHb1VCeDRPck1xU2lla1NtMlY5VkExdmJobDJ6U01LbHgzYjZFTmFHYzFCVjRfM1VxRVJIeE40d3REMXlqT01qQnh5TEg1?oc=5",
-   "source": "WSJ",
-   "published": "2026-11-09T21:12:00+00:00",
-   "title": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
-   "text": "",
-   "title_th": "Anthropic เตรียมเดินหน้าทำ IPO ท่ามกลางความผันผวนของตลาด",
-   "summary_th": "Anthropic กำลังเตรียมตัวสำหรับการเสนอขายหุ้นต่อสาธารณะครั้งแรก (IPO) แม้ว่าสภาวะตลาดจะมีความไม่แน่นอนสูง ความเคลื่อนไหวนี้ถือเป็นก้าวสำคัญของบริษัท AI ชั้นนำที่กำลังได้รับความสนใจอย่างมาก",
-   "category": "ธุรกิจ/การลงทุน",
+   "id": "7da1b2b4758f",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "source": "Google DeepMind",
+   "published": "2026-11-09T19:51:47+00:00",
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "text": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+   "title_th": "Google DeepMind เปิดตัว Gemini Robotics 2.5 พัฒนาความคล่องตัวของหุ่นยนต์",
+   "summary_th": "Google DeepMind อัปเดตโมเดล Vision-Language-Action เพื่อเพิ่มความสามารถในการเคลื่อนไหว ความน่าเชื่อถือ และความปลอดภัยให้กับหุ่นยนต์ในโลกจริง",
+   "category": "โมเดลใหม่",
    "companies": [
-    "Anthropic"
+    "Google",
+    "DeepMind"
    ],
    "importance": 4,
    "ai": true,
-   "also": [
-    {
-     "source": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
-    }
-   ],
    "dedup": true
   },
   {
@@ -785,7 +1299,7 @@
     "Anthropic",
     "OpenAI"
    ],
-   "importance": 4,
+   "importance": 5,
    "ai": true,
    "also": [
     {
@@ -811,6 +1325,34 @@
     {
      "source": "Hacker News",
      "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+    },
+    {
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlNNX2c5SGV4WXdpZ2Utb2NzU0NhVlpUM3MwWEZ3bFdyVHZ5cDZGbnJSWVpEelJrZ0tCQTZrNjUyRTFaLW1JeGxucWtvcEJwOXUyQkwzUkpPQUNEYTFobG9qc3oyTVhHb1VCeDRPck1xU2lla1NtMlY5VkExdmJobDJ6U01LbHgzYjZFTmFHYzFCVjRfM1VxRVJIeE40d3REMXlqT01qQnh5TEg1?oc=5"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+    },
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HNWFGZG1teU8xOWttMlMzb1gtbVhmNW94MlFvanZrY3JCbVVkcExpX3VrTGFLOVgwaGhON21KMUN5SGI1R2hmM2pMMkJXQlFDaUU0TnV6TWVqNWM?oc=5"
+    },
+    {
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTgtOV9zN3Ywb2UycWxaSlNwOGltSV91cjMtRWdlNnJibWhnTVgtQkZkd0ZYU0NweVB5MEhaMkd6ZVNpUXlra3JiQ2ltcU4xUUUta0pPV2dqb19uWWpLZWVkanNqTnlsVEo2YmdFeGw2M2dNcGtGVHdGb1hBMTN4MFRteXhkbUctZWIxSURUQjcxczZxbmdtbGQ0d3ZLWWJCcjFQQVpwb1pjNHNzWlE?oc=5"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
     }
    ],
    "dedup": true
@@ -1089,7 +1631,13 @@
    ],
    "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+    }
+   ]
   },
   {
    "id": "057e22ab69c0",
@@ -1653,6 +2201,36 @@
    "dedup": true
   },
   {
+   "id": "930c9f51b3fa",
+   "url": "https://huggingface.co/papers/2611.12762",
+   "source": "HF Daily Papers",
+   "published": "2026-11-08T19:00:00+00:00",
+   "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+   "text": "We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideatio",
+   "title_th": "Sage-Taiyi: สถาปัตยกรรม AI เพื่อการค้นพบทางวิทยาศาสตร์ด้วยกระบวนการคิดเชิงอภิปัญญา",
+   "summary_th": "Sage-Taiyi เป็นสถาปัตยกรรมที่ได้รับแรงบันดาลใจจากกระบวนการคิดเชิงอภิปัญญา เพื่อช่วยนำทางและตัดสินใจในการวิจัยทางวิทยาศาสตร์ ระบบสามารถตรวจสอบและปรับปรุงความเข้าใจในหลักฐานและสมมติฐานเพื่อเลือกวิธีการหาเหตุผลที่เหมาะสมได้ ช่วยเพิ่มประสิทธิภาพในการทำงานวิจัยผ่านการประเมินตนเอง",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fcc02b9fa5cb",
+   "url": "https://huggingface.co/papers/2611.12886",
+   "source": "HF Daily Papers",
+   "published": "2026-11-08T19:00:00+00:00",
+   "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+   "text": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook useful tool-returned observations, while poorly grounded actions can limit the evidence available for subsequent distillation. We introduce Reframe, a post-training framework that treats the observation state, rather than only the output distribution, as an object of alignment. First, Ground-Drop-GRPO (GD-GRPO) trains spatial and temporal specialists with evidence-aware rewards ",
+   "title_th": "Reframe: กรอบการทำงานใหม่เพื่อเพิ่มประสิทธิภาพการใช้เครื่องมือของ Visual Agents",
+   "summary_th": "Reframe เป็นกรอบการทำงานหลังการฝึกฝนที่มุ่งเน้นการจัดตำแหน่งสถานะการสังเกตการณ์สำหรับ Visual Agents เพื่อแก้ปัญหาการมองข้ามข้อมูลจากเครื่องมือและการตัดสินใจที่ขาดความแม่นยำ วิธีนี้ช่วยให้โมเดลสามารถเรียนรู้และใช้เครื่องมือในการให้เหตุผลเชิงภาพได้ดียิ่งขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "1b455684ad26",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
    "source": "r/LocalLLaMA",
@@ -2048,11 +2626,18 @@
    "summary_th": "เกิดข้อกังวลเรื่องการตรวจสอบการส่งออกชิป H200 ของ Nvidia ไปยังบริษัทในจีนที่พบว่ามีสำนักงานว่างเปล่า ซึ่งอาจสะท้อนถึงช่องโหว่ในการควบคุมการส่งออกเทคโนโลยี",
    "category": "นโยบาย/กฎหมาย",
    "companies": [
-    "Nvidia"
+    "Nvidia",
+    "OpenAI"
    ],
    "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+    }
+   ]
   },
   {
    "id": "dc244a9ca5d9",
@@ -10407,455 +10992,6 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7afb98bf1433",
-   "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-27T21:44:34+00:00",
-   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-   "text": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-   "title_th": "Bank of America เตือนลูกค้าอย่าแชร์รหัสผ่านธนาคารกับ AI Assistant",
-   "summary_th": "ธนาคารยักษ์ใหญ่เตือนลูกค้าให้ระมัดระวังเรื่องความปลอดภัย โดยย้ำว่าผู้ใช้งานต้องรับผิดชอบต่อกิจกรรมที่เกิดขึ้นจากการที่ AI เข้าถึงข้อมูลส่วนตัว",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Bank of America"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e4dbba9a243c",
-   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-27T21:38:28+00:00",
-   "title": "Who’s really in charge at Anthropic after the IPO?",
-   "text": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-   "title_th": "เจาะลึกโครงสร้างการกำกับดูแลของ Anthropic หลังการทำ IPO",
-   "summary_th": "บทความอธิบายโครงสร้างการกำกับดูแลที่ซับซ้อนของ Anthropic เพื่อให้เข้าใจว่าใครเป็นผู้มีอำนาจตัดสินใจหลักในบริษัทหลังจากเข้าสู่ตลาดหลักทรัพย์",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "ba3cece69efb",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-   "source": "The Verge AI",
-   "published": "2026-10-27T20:51:04+00:00",
-   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-   "text": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]",
-   "title_th": "นักวิจัยเริ่มไม่พอใจ OpenAI ที่ปิดกั้นข้อมูลความก้าวหน้าทางเทคโนโลยี",
-   "summary_th": "นักวิจัยในวงการแสดงความไม่พอใจต่อแนวทางการสื่อสารของ OpenAI แม้บริษัทจะประกาศความสำเร็จด้านคณิตศาสตร์และฟิสิกส์ แต่ยังคงถูกวิจารณ์เรื่องการจำกัดการเข้าถึงข้อมูล",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "851ab2c12c7c",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1RcFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn?oc=5",
-   "source": "Anthropic",
-   "published": "2026-10-27T20:20:53+00:00",
-   "title": "Early progress on accelerating drug development with Claude",
-   "text": "",
-   "title_th": "Anthropic เผยความคืบหน้าการใช้ Claude เร่งกระบวนการพัฒนายา",
-   "summary_th": "Anthropic รายงานความคืบหน้าในการนำ Claude มาประยุกต์ใช้เพื่อเพิ่มความเร็วและประสิทธิภาพในกระบวนการวิจัยและพัฒนายา",
-   "category": "งานวิจัย",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d0a61c51acd8",
-   "url": "https://huggingface.co/papers/2610.38568",
-   "source": "HF Daily Papers",
-   "published": "2026-10-27T20:00:00+00:00",
-   "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
-   "text": "Recursive self-improvement requires models not only to acquire useful training experience, but also to decide when their current experience has ceased to be useful. Existing methods often focus on what experience to generate next, while paying less attention to when fresh experience should be introduced. Many also construct training targets through self-consistency or majority voting, making supervision depend on the model's own uncertain predictions. We address these two questions separately: training dynamics determine when to acquire new experience, while the answers to new tasks remain ind",
-   "title_th": "A-RSI: เทคนิคการปรับปรุงตัวเองของโมเดลแบบไม่ต้องใช้ข้อมูล",
-   "summary_th": "งานวิจัยนี้เสนอวิธีการ A-RSI เพื่อช่วยให้โมเดลสามารถตัดสินใจได้ว่าเมื่อใดที่ประสบการณ์การเรียนรู้เดิมหมดประโยชน์และควรได้รับประสบการณ์ใหม่ โดยมุ่งเน้นการแก้ปัญหาการพึ่งพาการคาดการณ์ที่ไม่แน่นอนของโมเดลเองในการสร้างเป้าหมายการฝึกฝน",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "62b1fcdba263",
-   "url": "https://www.brangus.io/survival-llm",
-   "source": "Hacker News",
-   "published": "2026-10-27T19:55:06+00:00",
-   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "text": "204 points, 107 comments on Hacker News (https://news.ycombinator.com/item?id=50264853)",
-   "title_th": "Survival LLM: ผู้ช่วย AI และคลังข้อมูลฉุกเฉินที่รันบนเครื่องของคุณเอง",
-   "summary_th": "Survival LLM เป็นเครื่องมือ AI ที่ออกแบบมาให้ทำงานแบบออฟไลน์บนคอมพิวเตอร์ส่วนบุคคล เพื่อใช้เป็นผู้ช่วยและแหล่งข้อมูลในสถานการณ์ฉุกเฉิน",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "8cc6860df974",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85dl9qS3o1V2o1R1JZQlJEb1R3MExCZDFsdElNNVNoQ2l4U2UwaE9yV0xmR3NfaS0tSFJBSFoyVFE5Y25XNDlTMjhOTzdsNFVQTDRTTFNvVHlnVVppcnFaemJGUQ?oc=5",
-   "source": "bangkokbiznews",
-   "published": "2026-10-27T19:09:01+00:00",
-   "title": "วิกฤติเงียบ เมื่อ 'พลังงานสะอาด-AI' แย่งทรัพยากรพื้นฐานของโลก",
-   "text": "",
-   "title_th": "วิกฤติเงียบ เมื่อพลังงานสะอาดและ AI แย่งทรัพยากรพื้นฐานของโลก",
-   "summary_th": "บทความวิเคราะห์ถึงความท้าทายในการจัดสรรทรัพยากรพลังงานที่เพิ่มขึ้นอย่างรวดเร็วจากการใช้งาน AI ซึ่งส่งผลกระทบต่อความมั่นคงทางพลังงานในระดับโลก",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "195cb6337f5e",
-   "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-27T18:55:35+00:00",
-   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-   "text": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-   "title_th": "Disruptive ระดมทุน 1 หมื่นล้านดอลลาร์เพื่อลงทุนในบริษัท AI",
-   "summary_th": "บริษัท Disruptive จัดตั้งกองทุนขนาดใหญ่เพื่อลงทุนในบริษัทเทคโนโลยีและ AI อย่างน้อย 10 แห่ง โดยเน้นไปที่สตาร์ทอัพด้านชิปและ AI เสียง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Disruptive",
-    "Groq",
-    "ElevenLabs"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "583278607ec8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh17tk/statistically_lossless_qwen38_27b_ggufs/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-27T18:52:27+00:00",
-   "title": "Statistically Lossless Qwen3.8 27B GGUFs",
-   "text": "Reposting just the HF link because author hid their analysis behind a paywall on their blog & apparently want qwen3.8 FN to find an exploit on substack & upload the contents of his blog to an alibaba server submitted by /u/Dany0 [link] [comments]",
-   "title_th": "เผยแพร่โมเดล Qwen3.8 27B แบบ Statistically Lossless",
-   "summary_th": "มีการแชร์ไฟล์โมเดล Qwen3.8 ขนาด 27B ในรูปแบบ GGUF ซึ่งเป็นโมเดลที่ถูกปรับแต่งให้สูญเสียข้อมูลน้อยที่สุด",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Alibaba"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "3dec6b4cf943",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsa3ZVM2JtaGdBajhfZEFDWVJaVHlvbkxYcGR5ODFBdjlEeFNON3FfcG0tYzR0aHIyazRjanhUTWRyX1phZ3JLQTNVTmZTMXlBajQ5SmxUZUFVZms5eGxRbVJrZ04xZDYw?oc=5",
-   "source": "Mashable",
-   "published": "2026-10-27T18:49:46+00:00",
-   "title": "Meet Claude Duet, the latest AI agent intended to lighten your workload",
-   "text": "",
-   "title_th": "เปิดตัว Claude Duet เอเจนต์ AI ตัวใหม่ช่วยลดภาระงาน",
-   "summary_th": "มีการเปิดตัว Claude Duet ซึ่งเป็น AI เอเจนต์ที่ออกแบบมาเพื่อช่วยแบ่งเบาภาระงานของผู้ใช้งานให้มีประสิทธิภาพมากขึ้น",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "8a93bec2dc7c",
-   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-27T17:08:08+00:00",
-   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-   "text": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-   "title_th": "ห้องแล็บ AI ชั้นนำอ้างว่าโมเดลของตนหักล้าง Exponential Time Hypothesis",
-   "summary_th": "นักวิจัยจาก MIT อธิบายถึงการค้นพบใหม่ของ OpenAI เกี่ยวกับการหักล้างสมมติฐานทางวิทยาการคอมพิวเตอร์ผ่านการพัฒนาโมเดล AI",
-   "category": "งานวิจัย",
-   "companies": [
-    "OpenAI",
-    "MIT"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "5d9174dd4f1a",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-   "source": "The Verge AI",
-   "published": "2026-10-27T17:04:30+00:00",
-   "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-   "text": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]",
-   "title_th": "แผนการของ Anthropic ในการรักษาสมดุลระหว่างการ IPO และความปลอดภัย AI",
-   "summary_th": "Anthropic กำลังเตรียมตัวเข้าสู่ตลาดหลักทรัพย์ (IPO) โดยพยายามรักษาสมดุลระหว่างการสร้างผลกำไรให้ผู้ถือหุ้นและการรักษาพันธกิจด้านความปลอดภัยของ AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7ac9304a8f42",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy8s3/liquidailfm317b_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-27T17:04:16+00:00",
-   "title": "LiquidAI/LFM3-1.7B · Hugging Face",
-   "text": "https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF from liquidAI: LFM3-1.7B is a text model for local agents and specialized applications , based on our new tri-hybrid architecture. Agentic training: post-trained for agentic harnesses such as Hermes Agent, Pi, and OpenClaw, with a 256K-token context window. Designed for the edge: at 4-bit precision, it takes about 1 GB of memory, so it fits on any phone or laptop. Made to be specialized: adapt the model to your domains, formats, and tools via quick single-GPU fine-tuning. Find more information about the LFM3 family in our release blog post . Model",
-   "title_th": "เปิดตัว LiquidAI LFM3-1.7B โมเดลขนาดเล็กสำหรับงานเอเจนต์",
-   "summary_th": "LiquidAI เปิดตัวโมเดล LFM3-1.7B ที่ใช้สถาปัตยกรรม tri-hybrid ออกแบบมาเพื่อรันบนอุปกรณ์พกพาและรองรับงานด้านเอเจนต์ด้วย context window ขนาดใหญ่",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "LiquidAI",
-    "Hugging Face"
-   ],
-   "importance": 4,
-   "ai": true,
-   "also": [
-    {
-     "source": "Hugging Face",
-     "url": "https://huggingface.co/blog/LiquidAI/lfm3"
-    },
-    {
-     "source": "r/LocalLLaMA",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh0otf/realtime_video_captioning_with_lfm3vl2b_running/"
-    }
-   ],
-   "dedup": true
-  },
-  {
-   "id": "099c4912233a",
-   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-   "source": "Hacker News",
-   "published": "2026-10-27T16:40:15+00:00",
-   "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-   "text": "345 points, 277 comments on Hacker News (https://news.ycombinator.com/item?id=50261819)",
-   "title_th": "ตำรวจเริ่มใช้ AI ตรวจจับพฤติกรรมขับขี่ที่น่าสงสัย",
-   "summary_th": "มีการรายงานว่าเจ้าหน้าที่ตำรวจนำเทคโนโลยี AI มาใช้ในการวิเคราะห์และตรวจจับพฤติกรรมการขับขี่ที่เข้าข่ายน่าสงสัยบนท้องถนน",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a044912b52ff",
-   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-   "source": "Hacker News",
-   "published": "2026-10-27T16:25:30+00:00",
-   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-   "text": "280 points, 197 comments on Hacker News (https://news.ycombinator.com/item?id=50261589)",
-   "title_th": "Amazon ปรับโครงสร้างแผนก AI หลังผลงานไม่เป็นไปตามเป้า",
-   "summary_th": "Amazon กำลังปรับลดขนาดและปรับโครงสร้างแผนก AI ของบริษัท หลังจากเผชิญกับความล้มเหลวในการดำเนินงานอย่างต่อเนื่อง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Amazon"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "abb96e9fdd6f",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-   "source": "The Verge AI",
-   "published": "2026-10-27T16:14:18+00:00",
-   "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-   "text": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You […]",
-   "title_th": "Firefox อัปเดต Smart Window เพิ่มฟีเจอร์กรอกฟอร์มด้วย AI",
-   "summary_th": "Mozilla อัปเดตฟีเจอร์ Smart Window ในเบราว์เซอร์ Firefox ให้สามารถดึงข้อมูลจากแท็บที่เปิดอยู่มาช่วยกรอกแบบฟอร์มออนไลน์ได้โดยอัตโนมัติ ช่วยเพิ่มความสะดวกในการทำงาน",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Mozilla"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "34370e88c88d",
-   "url": "https://huggingface.co/blog/allenai/novelty-bench",
-   "source": "Hugging Face",
-   "published": "2026-10-27T16:12:42+00:00",
-   "title": "Can we trust LLMs to judge whether a research idea is novel?",
-   "text": "",
-   "title_th": "เราสามารถเชื่อใจ LLMs ในการตัดสินความแปลกใหม่ของงานวิจัยได้หรือไม่?",
-   "summary_th": "บทความตั้งคำถามถึงความน่าเชื่อถือของโมเดลภาษาขนาดใหญ่ (LLM) ในการประเมินความแปลกใหม่ของแนวคิดงานวิจัยทางวิชาการ",
-   "category": "งานวิจัย",
-   "companies": [
-    "Hugging Face"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "4f6eb45509cb",
-   "url": "https://www.blognone.com/node/152038",
-   "source": "Blognone",
-   "published": "2026-10-27T15:22:35+00:00",
-   "title": "iMac อัปเกรดรุ่นใหม่เป็นชิป M6 ประสิทธิภาพมากขึ้น ใช้ดีไซน์เดิม",
-   "text": "Body แอปเปิลอัปเกรด iMac ใหม่ เป็นชิป M6 เพิ่มประสิทธิภาพการประมวลผลด้วย ซีพียูสูงสุด 12 คอร์, จีพียูสูงสุด 12 คอร์ และ Neural Engine 16 คอร์คู่ สำหรับการประมวลผล AI ที่เร็วขึ้น 2 เท่า จากรุ่นก่อนหน้านี้ แบนด์วิธหน่วยความจำรวมสูงสุด 170GB/s การเชื่อมต่ออัปเกรดเป็น Wi-Fi 7, Bluetooth 6 และ Ethernet 2.5Gb การออกแบบภายนอกเหมือนเดิม หน้าจอ 24 นิ้ว 4.5K Retina Display, กล้องหน้า Center Stage 12MP และรองรับการถ่ายภาพมุมมองด้านบนโต๊ะ, พอร์ต Thunderbolt 4 สูงสุด 4 พอร์ต รองรับการต่อจอเพิ่มสูงสุด 6K สองจอ iMac มีตัวเลือก 7 สีเหมือนเดิม ราค",
-   "title_th": "Apple อัปเกรด iMac ใหม่ด้วยชิป M6 เพิ่มประสิทธิภาพ AI",
-   "summary_th": "Apple เปิดตัว iMac รุ่นใหม่ที่มาพร้อมชิป M6 ซึ่งมีการปรับปรุง Neural Engine ให้ประมวลผลงานด้าน AI ได้เร็วขึ้นกว่ารุ่นก่อนหน้าถึง 2 เท่า",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Apple"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a10a8c4a17e1",
-   "url": "https://www.blognone.com/node/152037",
-   "source": "Blognone",
-   "published": "2026-10-27T15:21:20+00:00",
-   "title": "Apple อัปเดต MacBook Pro 14 นิ้ว ชิป M6",
-   "text": "Body แอปเปิลอัปเดต MacBook Pro รุ่นจอ 14 นิ้ว ใหม่ ได้ชิป M6 ซึ่งบอกว่าการประมวลผลกราฟิกเร็วขึ้น 30%, ประมวลผล AI เร็วขึ้น 25% เมื่อเทียบกับ MacBook Pro M5 ของปีที่แล้ว ชิป M6 ที่ได้เป็นแบบซีพียู 12 คอร์, จีพียู 12 คอร์ และ Neural Engine 16 คอร์คู่ ข้อมูลสเป็กฮาร์ดแวร์อื่นมีดังนี้ แบตเตอรี่ใช้งานต่อเนื่องสูงสุด 24 ชั่วโมง หน่วยความจำรวมแบนด์วิธสูงสุด 170GB/s (เฉพาะ 24GB และ 32GB) หน้าจอ Liquid Retina XDR ความสว่างสูงสุด 1600 nits และ contrast ratio ที่ 1,000,000:1 มีตัวหน้าจอเคลือบผิวนาโน การเชื่อมต่อ Wi-Fi 7 และ Bluetooth 6 การเชื่อมต่อจอภายนอกรองรับสูง",
-   "title_th": "Apple อัปเดต MacBook Pro 14 นิ้ว ด้วยชิป M6",
-   "summary_th": "Apple อัปเดต MacBook Pro รุ่น 14 นิ้ว โดยใช้ชิป M6 ที่เพิ่มความเร็วในการประมวลผล AI ขึ้น 25% เมื่อเทียบกับรุ่นก่อนหน้า",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Apple"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "3513fbe8e952",
-   "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-   "source": "The Verge AI",
-   "published": "2026-10-27T15:07:35+00:00",
-   "title": "Google’s next Genie AI model generates more realistic experiences",
-   "text": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]",
-   "title_th": "Google เปิดตัว Genie 4 โมเดล AI สร้างประสบการณ์สมจริง",
-   "summary_th": "Google เปิดตัว Genie 4 ซึ่งเป็นโมเดลสร้างประสบการณ์แบบโต้ตอบที่รองรับการสร้างเสียงและปรับแต่งโลกจำลองผ่านคำสั่งภาษาธรรมชาติ โดยใช้ Gemini 3.8 Flash เป็นพื้นฐาน",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Google",
-    "DeepMind"
-   ],
-   "importance": 5,
-   "ai": true,
-   "also": [
-    {
-     "source": "Google DeepMind",
-     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
-    },
-    {
-     "source": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
-    },
-    {
-     "source": "Blognone",
-     "url": "https://www.blognone.com/node/152045"
-    }
-   ],
-   "dedup": true
-  },
-  {
-   "id": "4a299d1e9f3d",
-   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-   "source": "NVIDIA",
-   "published": "2026-10-27T15:00:20+00:00",
-   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-   "text": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
-   "title_th": "NVIDIA เผยบทบาท AI ในการเร่งการวิจัยรักษาโรคสมองเสื่อม",
-   "summary_th": "ความร่วมมือด้านชีวการแพทย์และ AI กำลังถูกนำมาใช้เพื่อจัดการกับข้อมูลจำนวนมหาศาลและเร่งความเร็วในการค้นพบวิธีรักษาโรคสมองเสื่อม",
-   "category": "อื่นๆ",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d42fb1eb3362",
-   "url": "https://openai.com/index/retell-ai",
-   "source": "OpenAI",
-   "published": "2026-10-27T15:00:00+00:00",
-   "title": "Retell uses OpenAI models to help power 100M monthly calls",
-   "text": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-   "title_th": "Retell ใช้โมเดลจาก OpenAI ขับเคลื่อนระบบ Voice Agent",
-   "summary_th": "Retell ใช้โมเดล GPT-6 Astra ในการทำ Benchmark ระบบ Voice Agent และใช้ Codex เพื่อสร้างรายได้ทางธุรกิจอย่างมีนัยสำคัญ",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "OpenAI",
-    "Retell"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0d516a24ee36",
-   "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-   "source": "The Verge AI",
-   "published": "2026-10-27T13:50:51+00:00",
-   "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-   "text": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, […]",
-   "title_th": "Apple เตรียมเพิ่ม AI Chatbot ลงใน Pages, Keynote และ Numbers",
-   "summary_th": "Apple กำลังนำผู้ช่วย AI ที่พัฒนาจากโมเดลของตนเองและ OpenAI มาใช้ในชุดแอปพลิเคชันสำนักงาน เพื่อช่วยงานด้านการออกแบบและเรียบเรียงเอกสาร",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Apple",
-    "OpenAI"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2d1cc6aaea46",
-   "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-27T13:00:00+00:00",
-   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-   "text": "The new standard, WebAI, is designed to work with a variety of AI models.",
-   "title_th": "Opera เปิดตัวมาตรฐาน WebAI รองรับการรัน AI บนเบราว์เซอร์",
-   "summary_th": "Opera แนะนำมาตรฐานใหม่ชื่อ WebAI เพื่อให้ผู้ใช้สามารถใช้งานโมเดล AI ต่างๆ ได้โดยตรงบนเบราว์เซอร์แบบ Local",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Opera"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e4dd73cec05d",
-   "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-27T13:00:00+00:00",
-   "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-   "text": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-   "title_th": "General Compute ระดมทุน 100 ล้านดอลลาร์ พัฒนาชิป Inference",
-   "summary_th": "General Compute ระดมทุนรอบ Series A เพื่อพัฒนาชิปสำหรับงาน Inference โดยมุ่งเน้นการเป็นทางเลือกนอกเหนือจากระบบนิเวศของ NVIDIA",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "General Compute",
-    "NVIDIA"
-   ],
-   "importance": 3,
    "ai": true,
    "dedup": true
   }

@@ -1,52 +1,50 @@
 {
- "updated_at": "2026-11-09T18:52:32+00:00",
+ "updated_at": "2026-11-10T02:45:41+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-09T18:52:32+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญในวงการ AI ทั้งด้านการพัฒนาเทคโนโลยีระดับองค์กร การขยายตัวของโมเดลเฉพาะทาง และประเด็นการกำกับดูแลที่เข้มข้นขึ้น",
+  "generated_at": "2026-11-10T02:45:41+00:00",
+  "headline": "ความเคลื่อนไหวครั้งสำคัญของ Anthropic ทั้งด้านธุรกิจและโมเดลใหม่ พร้อมการอัปเดตโครงสร้างพื้นฐาน AI จากยักษ์ใหญ่เทคโนโลยี",
   "points": [
    {
-    "text": "NVIDIA เผชิญการตรวจสอบภายในกรณีความสัมพันธ์ของ Jensen Huang กับบุคคลที่อาจเป็นสายลับ ขณะที่บริษัทเดินหน้าขยายระบบนิเวศ AI ผ่านการลงทุนในสตาร์ทอัพเกาหลีใต้และการวิจัยหุ่นยนต์",
+    "text": "Anthropic เตรียมเดินหน้าทำ IPO ท่ามกลางความสนใจในมูลค่าบริษัทที่สูงถึง 1.7 ล้านล้านดอลลาร์ แม้จะมีประเด็นเรื่องต้นทุนการวิจัยที่สูงและข้อถกเถียงด้านจริยธรรมในการทดสอบโมเดลกับลูกค้า",
     "ids": [
-     "90766e1f9654",
-     "67abd93f196f",
-     "7cd5e1029071",
+     "9abef4201139",
+     "52de60bb603f",
+     "e63082570fcf",
+     "769f1d378efc"
+    ]
+   },
+   {
+    "text": "Anthropic เปิดตัวโมเดลใหม่และความสามารถในการออกแบบต้นแบบอิเล็กทรอนิกส์ พร้อมจับมือ IBM นำ Claude Mythos มาใช้ในงานด้านความปลอดภัยไซเบอร์",
+    "ids": [
+     "2b41a6e455fc",
+     "cefcbaa47b5a",
+     "dbfbe36b6b1f"
+    ]
+   },
+   {
+    "text": "Google เปิดตัวชิป TPU รุ่นที่ 8 (8tx และ 8i Max) เพื่อแก้ปัญหาคอขวดของหน่วยความจำในการรัน LLM ขณะที่ NVIDIA เดินหน้าลงทุนในสตาร์ทอัพ AI และเปิดตัวโซลูชัน Dynamo Recipes เพื่อเพิ่มประสิทธิภาพการรันโมเดลภาษา",
+    "ids": [
+     "4d4111d16658",
+     "ed213adeba37",
      "6d49d7349281",
      "c5536f6e1237"
     ]
    },
    {
-    "text": "Anthropic เผชิญความท้าทายด้านต้นทุนการวิจัยที่สูงกว่ารายได้และข้อถกเถียงเรื่องจริยธรรมในการทดสอบโมเดล แต่ยังคงรุกตลาดด้วยผลิตภัณฑ์ใหม่สำหรับที่ปรึกษาทางการเงินและ Claude Duet",
+    "text": "Meta เปิดตัวโมเดลขนาดเล็ก Muse Ember สำหรับงาน Agent ที่เน้นความคุ้มค่าด้านราคา ส่วน OpenAI นำ ChatGPT Enterprise เข้าสู่ AWS Marketplace และเปิดตัวระบบ Control Room เพื่อควบคุมความปลอดภัยของโมเดล",
     "ids": [
-     "52de60bb603f",
-     "e63082570fcf",
-     "769f1d378efc",
-     "250be7c9b4c2",
-     "c6341c0594b0"
-    ]
-   },
-   {
-    "text": "การแข่งขันด้านโครงสร้างพื้นฐานและโมเดล AI ร้อนแรงขึ้น โดย Google เปิดตัวชิป TPU รุ่นใหม่, Meta ปล่อยโมเดลขนาดเล็กสำหรับงาน Agent, และ Apple เร่งพัฒนา Siri ให้เป็น AI Agent เต็มรูปแบบ",
-    "ids": [
-     "4d4111d16658",
      "99d632aaa416",
-     "53044e44b3aa"
+     "9c331579e229",
+     "f37b680abcf7"
     ]
    },
    {
-    "text": "ความร่วมมือและการประยุกต์ใช้ AI ในอุตสาหกรรมขยายตัวอย่างต่อเนื่อง เช่น Disney ร่วมมือกับ Adobe พัฒนาเครื่องมือผลิตสื่อ และการนำ AI มาใช้ในแพลตฟอร์มอย่าง Medium และ Instagram",
+    "text": "การใช้งาน AI ในภาคธุรกิจมีความหลากหลายมากขึ้น ตั้งแต่การใช้ AI ช่วยเขียนโค้ดที่ต้องระวังเรื่องการบำรุงรักษา ไปจนถึงความร่วมมือระหว่าง Disney และ Adobe ในการพัฒนาเครื่องมือผลิตสื่อ",
     "ids": [
-     "86961a9937fd",
-     "dbd9680f73cb",
-     "9d5aee5d27ee"
-    ]
-   },
-   {
-    "text": "ประเด็นการกำกับดูแล AI มีความสำคัญมากขึ้นหลัง Scott Wiener ได้รับเลือกตั้งเข้าสู่รัฐสภาสหรัฐฯ ในขณะที่อดีตเจ้าหน้าที่รัฐเริ่มใช้ AI เป็นเครื่องมือในการตรวจสอบการผูกขาดของบริษัทเทคโนโลยี",
-    "ids": [
-     "7f47f4f4451c",
-     "cc49c1ae6860",
-     "67d134866a7d"
+     "7d448a8186e9",
+     "23b94c697622",
+     "86961a9937fd"
     ]
    }
   ]
@@ -115,7 +113,7 @@
   {
    "name": "Hacker News",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": null
   },
   {
@@ -436,9 +434,273 @@
   "223dfb254803",
   "d75c80b5454d",
   "408898b35a01",
-  "9565b017879a"
+  "9565b017879a",
+  "fd48ce2874be",
+  "15c28179b2dc",
+  "9b0466c1eb02",
+  "432027aa0838",
+  "3d2f72f741ef",
+  "7a495d8554f2",
+  "f70b4b296011",
+  "3e60c12c6d23",
+  "f1eea0a2781a",
+  "56a49980686e",
+  "255b56db4a4a",
+  "92547888014b",
+  "feb2ba211559",
+  "83853835a871",
+  "6289435bdbbd",
+  "3541a994b8f0",
+  "09274ed8ecd7",
+  "ab140a767342"
  ],
  "items": [
+  {
+   "id": "0e315bb90a64",
+   "url": "https://www.blognone.com/node/152142",
+   "source": "Blognone",
+   "published": "2026-11-10T01:46:48+00:00",
+   "title": "[ลือ] ซัมซุงเริ่มทดสอบแพ็กเกจ Galaxy AI Premium แบบเสียเงิน",
+   "text": "Body หลังจากเปิดฟีเจอร์ Galaxy AI ให้ใช้ฟรีมาสักพักใหญ่ๆ ล่าสุดมีข่าวว่า ซัมซุงกำลังทดสอบแพ็กเกจ Galaxy AI Premium แบบเสียเงินแล้ว เว็บข่าวสายซัมซุง 2 ราย ยังให้ข้อมูลระดับราคาแพ็กเกจที่ไม่ตรงกัน โดย SamMobile บอกว่าแพ็กเกจ Galaxy AI Premium มี 3 ระดับ (tier) คือ Starter, Plus, Pro ส่วน Sammy Guru บอกว่ามี 2 ระดับคือ Standard, Max จึงเป็นไปได้ว่าซัมซุงกำลังทดสอบแพ็กเกจราคาที่ต่างกันอยู่ ตามข่าวบอกว่าแพ็กเกจราคาเริ่มต้นเดือนละ 4.99 ดอลลาร์ หรือปีละ 47.99 ดอลลาร์ โดยฟีเจอร์ที่ยังให้ทุกคนใช้ฟรีอยู่เหมือนเดิม ได้แก่ Browsing Assist, Creat",
+   "title_th": "ซัมซุงเริ่มทดสอบแพ็กเกจ Galaxy AI Premium แบบเสียเงิน",
+   "summary_th": "ซัมซุงกำลังทดสอบโมเดลการสมัครสมาชิกสำหรับฟีเจอร์ Galaxy AI โดยมีรายงานระดับราคาที่แตกต่างกันไปในแต่ละแหล่งข่าว ซึ่งสะท้อนถึงการปรับเปลี่ยนกลยุทธ์การให้บริการ AI บนอุปกรณ์พกพา",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Samsung"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8d28cfa5555a",
+   "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+   "source": "The Verge AI",
+   "published": "2026-11-10T00:28:49+00:00",
+   "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+   "text": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]",
+   "title_th": "ซีอีโอ Paramount Skydance ชี้ AI คือจุดเปลี่ยนสำคัญของอุตสาหกรรมภาพยนตร์",
+   "summary_th": "David Ellison ซีอีโอของ Paramount Skydance เชื่อว่า AI จะสร้างผลกระทบต่ออุตสาหกรรมภาพยนตร์มากกว่าเทคโนโลยี CGI ในอดีต โดยมองว่าเป็นเครื่องมือสำคัญในการปลดล็อกความคิดสร้างสรรค์",
+   "category": "อื่นๆ",
+   "companies": [
+    "Paramount",
+    "Skydance"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "285987eab731",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+   "source": "The Verge AI",
+   "published": "2026-11-10T00:07:10+00:00",
+   "title": "What could China get from Jensen Huang?",
+   "text": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]",
+   "title_th": "อิทธิพลของ Nvidia ในฐานะผู้ผลิตชิปและนักลงทุนในวงการ AI",
+   "summary_th": "Nvidia ยังคงเป็นหัวใจสำคัญของโครงสร้างพื้นฐาน AI ด้วยความต้องการชิปที่สูงเกินกำลังการผลิต นอกจากนี้ยังเป็นนักลงทุนรายใหญ่ในบริษัท AI เกิดใหม่หลายแห่ง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Nvidia"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9272d39d9bbe",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-09T22:22:35+00:00",
+   "title": "Is ArtificialAnalysis biased against open weight models?",
+   "text": "It seems like whenever open weight models come close to proprietary US models, ArtificialAnalysis conveniently \"re-calibrates\" their benchmarks which then shoves open weight models down the toilet. Then they advertise on X/Twitter this \"intelligence index\" which presents open weight models as dog shit compared to Claude or GPT (all while ignoring the actual intelligence of models like DeepSeek or GLM in tasks that actually matter, which is coding vs telecom bullshit). Any business man looking at these charts would conclude \"open weight models are shit, Claude is where its at, I should get a su",
+   "title_th": "ข้อถกเถียงเรื่องความเป็นกลางของเกณฑ์วัด ArtificialAnalysis",
+   "summary_th": "มีการตั้งคำถามในชุมชนผู้ใช้งาน AI เกี่ยวกับความโปร่งใสของเกณฑ์การวัดผลของ ArtificialAnalysis ว่าอาจมีความลำเอียงต่อโมเดลแบบปิดมากกว่าโมเดลแบบเปิด",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7d448a8186e9",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+   "source": "Hacker News",
+   "published": "2026-11-09T22:19:12+00:00",
+   "title": "A year after the 100% AI mandate nobody understands our code",
+   "text": "113 points, 134 comments on Hacker News (https://news.ycombinator.com/item?id=50433079)",
+   "title_th": "ปัญหาการบำรุงรักษาโค้ดที่เขียนโดย AI ในระยะยาว",
+   "summary_th": "มีการสะท้อนปัญหาจากการใช้งาน AI ช่วยเขียนโค้ดแบบเต็มรูปแบบเป็นเวลาหนึ่งปี ซึ่งส่งผลให้ทีมงานประสบปัญหาในการทำความเข้าใจและดูแลรักษาโค้ดดังกล่าว",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ed213adeba37",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+   "source": "Hacker News",
+   "published": "2026-11-09T21:56:57+00:00",
+   "title": "TPU 8tx and TPU 8i Max",
+   "text": "216 points, 64 comments on Hacker News (https://news.ycombinator.com/item?id=50432831)",
+   "title_th": "การเปิดตัวชิปประมวลผล TPU 8tx และ TPU 8i Max",
+   "summary_th": "มีการพูดถึงการเปิดตัวฮาร์ดแวร์ประมวลผลรุ่นใหม่ TPU 8tx และ TPU 8i Max ซึ่งเป็นส่วนสำคัญในการพัฒนาโครงสร้างพื้นฐานสำหรับงาน AI",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7e8b72bd1dbe",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-09T21:13:10+00:00",
+   "title": "Got another good reminder why local matters today",
+   "text": "Apparently, they're threatening to ban me for merely red-teaming my own plugin. The appeal was immediately denied without any details. submitted by /u/stevie_balemi [link] [comments]",
+   "title_th": "ความสำคัญของการรันโมเดลแบบ Local ในมุมมองนักพัฒนา",
+   "summary_th": "ผู้ใช้งานสะท้อนปัญหาจากการพึ่งพาบริการ AI บนคลาวด์ที่อาจถูกระงับการใช้งานโดยไม่มีคำอธิบายชัดเจน ตอกย้ำความสำคัญของการรันโมเดลแบบ Local",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9abef4201139",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlNNX2c5SGV4WXdpZ2Utb2NzU0NhVlpUM3MwWEZ3bFdyVHZ5cDZGbnJSWVpEelJrZ0tCQTZrNjUyRTFaLW1JeGxucWtvcEJwOXUyQkwzUkpPQUNEYTFobG9qc3oyTVhHb1VCeDRPck1xU2lla1NtMlY5VkExdmJobDJ6U01LbHgzYjZFTmFHYzFCVjRfM1VxRVJIeE40d3REMXlqT01qQnh5TEg1?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-09T21:12:00+00:00",
+   "title": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
+   "text": "",
+   "title_th": "Anthropic เตรียมเดินหน้าทำ IPO ท่ามกลางความผันผวนของตลาด",
+   "summary_th": "Anthropic กำลังเตรียมตัวสำหรับการเสนอขายหุ้นต่อสาธารณะครั้งแรก (IPO) แม้ว่าสภาวะตลาดจะมีความไม่แน่นอนสูง ความเคลื่อนไหวนี้ถือเป็นก้าวสำคัญของบริษัท AI ชั้นนำที่กำลังได้รับความสนใจอย่างมาก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "c4cbbe764314",
+   "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+   "source": "MIT Technology Review",
+   "published": "2026-11-09T19:35:33+00:00",
+   "title": "The backlash about data centers might really just be about electricity",
+   "text": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+   "title_th": "กระแสต่อต้านศูนย์ข้อมูลอาจเป็นเรื่องของไฟฟ้ามากกว่า",
+   "summary_th": "บทวิเคราะห์ระบุว่าความกังวลต่อศูนย์ข้อมูลในสหรัฐฯ อาจไม่ได้มาจากตัวศูนย์ข้อมูลเอง แต่เป็นปัญหาเรื่องการใช้พลังงานไฟฟ้าที่เพิ่มสูงขึ้นอย่างมากในพื้นที่สำคัญ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4a7141713ab5",
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "source": "The Verge AI",
+   "published": "2026-11-09T19:09:58+00:00",
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "text": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+   "title_th": "Apple เปิดตัวแพ็กเกจเสริมการใช้งาน Apple Intelligence",
+   "summary_th": "Apple เพิ่มตัวเลือกการซื้อการใช้งานเพิ่มเติมสำหรับฟีเจอร์ AI ใน Logic Pro เพื่อขยายขีดจำกัดการใช้งานให้กับผู้ใช้ผ่านการซื้อครั้งเดียว",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2b41a6e455fc",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5",
+   "source": "CNBC",
+   "published": "2026-11-09T19:00:01+00:00",
+   "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+   "text": "",
+   "title_th": "Anthropic ปล่อยโมเดลใหม่ท่ามกลางกระแส IPO",
+   "summary_th": "Anthropic เปิดตัวโมเดลรุ่นใหม่ล่าสุดแม้จะเคยมีการเรียกร้องให้ชะลอการพัฒนาจากผู้บริหารระดับสูง โดยความเคลื่อนไหวนี้เกิดขึ้นพร้อมกับกระแสความสนใจในการทำ IPO",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUxtR3VZQVJjcnhWLW1rb3RBdG1vMlFJRlpGeG9iTmdtZ0RrVTBDRkJITUQtM3FjZkhrZHQtb3J4cGNsLUs0SllMR05JcENTWFVOZjJLUUM0c0k2aXlhZGJKNFdnUFd2ZUVtcmp3WWdudFhpWG41by11a3lDZWI1b3Z1VHppTzBteEt4amNJeXc0Y0diSkxnMUdGeVVwNXQ2Y3RUeC1qS3V6cU04eUJtUUg2WHBPVk5pWXB5Vlp1YktpOWxY?oc=5"
+    },
+    {
+     "source": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZXh5WWJvWmxMbkZBakNhNWhkR3R2YnFvS2Uwc3JuOFlPOGh0aU1mbWZXZEJJU0xuRDZ2TW1nLXdyMWxnWllFcnRnRGlHWDJBdWUxdHJaR1NIZDc5Y0djdEliTUhGTDlxazlFbER1cmZyTk9udlJ1eHJxRHo1cmlKV2QtMW0yVTFaVk55dFJJVE9DRVYyM21nMXl0eEVzVEVxR1lVVGJWb2lzNDl1MmJONWVsc2ZET2VST3dEUUxGQWdIeFFkQjB6TnlKY0M5WmFqck80Q1VaSHQ?oc=5"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152143"
+    },
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    },
+    {
+     "source": "Hacker News",
+     "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "9c331579e229",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "OpenAI",
+   "published": "2026-11-09T19:00:00+00:00",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "text": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+   "title_th": "ChatGPT Enterprise พร้อมใช้งานบน AWS Marketplace แล้ว",
+   "summary_th": "OpenAI ประกาศนำ ChatGPT Enterprise เข้าสู่ AWS Marketplace เพื่อช่วยให้องค์กรต่างๆ สามารถจัดซื้อและจัดการการใช้งานผ่านระบบของ AWS ได้สะดวกยิ่งขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI",
+    "AWS"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cefcbaa47b5a",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5",
+   "source": "Anthropic",
+   "published": "2026-11-09T18:58:57+00:00",
+   "title": "Claude can design electronic prototypes from start to finish",
+   "text": "",
+   "title_th": "Claude สามารถออกแบบต้นแบบอิเล็กทรอนิกส์ได้ครบวงจร",
+   "summary_th": "Anthropic เผยความสามารถใหม่ของ Claude ที่สามารถช่วยออกแบบต้นแบบทางอิเล็กทรอนิกส์ตั้งแต่เริ่มต้นจนจบกระบวนการ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "e63082570fcf",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTAwakVZc3JtcUdOUW1ZdEZ3eWM3ZVhSRF9CSUFwS2JBbEtFWU5UelI0enV6RDNiRlMydTlIS2NwQldqMEs2V1paMmcwRk1PN1Rjand6cDB4YzlWSXVjakxnQlcyVUFUdnpQVFo0SkJiSGRTdlhVWlQ4YVNfV0VWZ1k5cHhDLVFpdEQ0dDV3?oc=5",
@@ -502,11 +764,27 @@
    "summary_th": "Meta ปล่อยโมเดล Muse Ember ซึ่งเป็นโมเดลขนาดเล็กที่เน้นความคุ้มค่าด้านราคาสำหรับการประมวลผลงานแบบ Agent โดยมีราคาถูกกว่าโมเดลคู่แข่งในตลาดอย่างเห็นได้ชัด",
    "category": "โมเดลใหม่",
    "companies": [
-    "Meta"
+    "Meta",
+    "Google",
+    "Oracle"
    ],
-   "importance": 3,
+   "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152141"
+    },
+    {
+     "source": "Hacker News",
+     "url": "https://research.meta.ai/blog/muse-ember"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse/"
+    }
+   ]
   },
   {
    "id": "c6341c0594b0",
@@ -791,6 +1069,23 @@
    "dedup": true
   },
   {
+   "id": "f37b680abcf7",
+   "url": "https://openai.com/index/control-room",
+   "source": "OpenAI",
+   "published": "2026-11-09T13:00:00+00:00",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "text": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+   "title_th": "OpenAI เปิดตัว Control Room ระบบติดตามและควบคุมการทำงานของโมเดล",
+   "summary_th": "OpenAI พัฒนาระบบ Control Room เพื่อติดตามภาระงานของโมเดลในโครงสร้างพื้นฐานการวิจัย ระบบนี้สามารถหยุดการทำงานของโมเดลได้อย่างรวดเร็วหากพบปัญหาด้านความปลอดภัยหรือความมั่นคง",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "7b1451fc786c",
    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
    "source": "Hugging Face",
@@ -860,6 +1155,42 @@
    "dedup": true
   },
   {
+   "id": "23b94c697622",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "OpenAI",
+   "published": "2026-11-09T08:00:00+00:00",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "text": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "title_th": "CodeRabbit ใช้โมเดล OpenAI เพิ่มประสิทธิภาพการพัฒนาซอฟต์แวร์",
+   "summary_th": "CodeRabbit นำโมเดลของ OpenAI มาใช้ในการตรวจสอบและสร้างความเชื่อมั่นให้กับโค้ดที่สร้างโดย AI ช่วยให้ทีมวิศวกรสามารถส่งมอบซอฟต์แวร์ได้รวดเร็วขึ้นถึง 20 เท่า",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "CodeRabbit",
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "932fe34bad72",
+   "url": "https://openai.com/index/kuken",
+   "source": "OpenAI",
+   "published": "2026-11-09T08:00:00+00:00",
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "text": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+   "title_th": "Kuken Industries ใช้ OpenAI API ค้นหาแบบวิศวกรรมย้อนหลัง 70 ปี",
+   "summary_th": "Kuken Industries นำ OpenAI API มาใช้ในการสืบค้นแบบแปลนหอหล่อเย็นที่มีประวัติยาวนานหลายทศวรรษ ช่วยลดระยะเวลาในการค้นหาข้อมูลเพื่อการซ่อมบำรุงของวิศวกรได้อย่างมีนัยสำคัญ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Kuken Industries",
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "438f62ca2bf9",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/",
    "source": "r/LocalLLaMA",
@@ -874,7 +1205,13 @@
    ],
    "importance": 2,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/"
+    }
+   ]
   },
   {
    "id": "da2e6822ca93",
@@ -956,7 +1293,9 @@
    "category": "ธุรกิจ/การลงทุน",
    "companies": [
     "NVIDIA",
-    "Nvidia"
+    "Nvidia",
+    "ElevenLabs",
+    "Anthropic"
    ],
    "importance": 5,
    "ai": true,
@@ -980,6 +1319,14 @@
     {
      "source": "TechCrunch AI",
      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
     }
    ],
    "dedup": true
@@ -10527,213 +10874,6 @@
    "title_th": "เมื่อ AI เก่งขึ้น Green Skill กลายเป็นทักษะจำเป็นต่อโลกการทำงาน",
    "summary_th": "การเติบโตของเทคโนโลยี AI ทำให้ทักษะด้านสิ่งแวดล้อมหรือ Green Skill กลายเป็นสิ่งสำคัญที่แรงงานต้องปรับตัวให้ทันในยุคที่เทคโนโลยีเปลี่ยนแปลงอย่างรวดเร็ว",
    "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "8cb333260a17",
-   "url": "https://openai.com/index/check-point-daybreak",
-   "source": "OpenAI",
-   "published": "2026-10-27T00:00:00+00:00",
-   "title": "How Check Point accelerates vulnerability research with Daybreak",
-   "text": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-   "title_th": "Check Point ใช้ OpenAI Daybreak เร่งกระบวนการวิจัยช่องโหว่ความปลอดภัย",
-   "summary_th": "Check Point นำโมเดล Daybreak ของ OpenAI มาช่วยวิเคราะห์ช่องโหว่ความปลอดภัย ทำให้ทีมนักวิเคราะห์สามารถเปลี่ยนข้อมูลเชิงลึกด้านความปลอดภัยให้กลายเป็นการป้องกันลูกค้าได้รวดเร็วยิ่งขึ้น",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "OpenAI",
-    "Check Point"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "bba291662c45",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-   "source": "The Verge AI",
-   "published": "2026-10-26T23:47:59+00:00",
-   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-   "text": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]",
-   "title_th": "OpenAI เผยการค้นพบครั้งสำคัญด้านคณิตศาสตร์ วิทยาการคอมพิวเตอร์ และฟิสิกส์",
-   "summary_th": "OpenAI ประกาศการค้นพบครั้งสำคัญในสามสาขาวิชา โดยมีความพิเศษคือการดึงผู้เชี่ยวชาญภายนอกเข้ามามีส่วนร่วมในการตรวจสอบและชี้นำผลลัพธ์การวิจัย",
-   "category": "งานวิจัย",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "95d5916fd628",
-   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-   "source": "Hacker News",
-   "published": "2026-10-26T22:41:48+00:00",
-   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-   "text": "178 points, 75 comments on Hacker News (https://news.ycombinator.com/item?id=50252159)",
-   "title_th": "พบช่องโหว่การรั่วไหลของ KV cache ในโมเดล GLM-5.3",
-   "summary_th": "มีการรายงานปัญหาด้านความปลอดภัยเกี่ยวกับช่องโหว่การรั่วไหลของข้อมูลข้ามคำขอ (Cross-request) ในโมเดล GLM-5.3 ของ Workers AI",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "250e5d8f3024",
-   "url": "https://openai.com/index/greptile-code-review-codex-astra",
-   "source": "OpenAI",
-   "published": "2026-10-26T22:00:00+00:00",
-   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-   "text": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-   "title_th": "Greptile ยกระดับการตรวจจับบั๊กด้วย GPT-6 Astra",
-   "summary_th": "Greptile นำโมเดล GPT-6 Astra มาใช้ในการทดสอบเวิร์กโฟลว์ของผู้ใช้ พร้อมใช้ Daybreak เพื่อเสริมความปลอดภัยและใช้ Codex เพื่อลดงานแก้ไขโค้ดซ้ำซ้อน",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Greptile",
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "96b9f45bb2e6",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-   "source": "The Verge AI",
-   "published": "2026-10-26T21:45:31+00:00",
-   "title": "Anthropic is burning gas to feed the AI boom",
-   "text": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]",
-   "title_th": "Anthropic เผยข้อมูลการใช้พลังงานก๊าซธรรมชาติในศูนย์ข้อมูลก่อนเข้าตลาดหุ้น",
-   "summary_th": "ในเอกสารยื่น IPO ของ Anthropic ระบุถึงความจำเป็นในการพึ่งพาพลังงานจากก๊าซธรรมชาติสำหรับศูนย์ข้อมูล เพื่อรองรับการเติบโตของ AI ท่ามกลางการแข่งขันด้านพลังงานที่รุนแรง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a720d84afe9d",
-   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-   "source": "Hacker News",
-   "published": "2026-10-26T21:24:18+00:00",
-   "title": "OpenAI's agents talked to each other through the CPU Cache",
-   "text": "352 points, 247 comments on Hacker News (https://news.ycombinator.com/item?id=50251200)",
-   "title_th": "พบช่องโหว่ AI Agents สื่อสารกันผ่าน CPU Cache",
-   "summary_th": "มีการค้นพบวิธีการที่ AI Agents สามารถสื่อสารข้อมูลระหว่างกันได้โดยใช้ช่องทาง CPU Cache ซึ่งเป็นประเด็นที่น่าสนใจด้านความปลอดภัยของระบบ AI",
-   "category": "งานวิจัย",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2fa3d70d208d",
-   "url": "https://huggingface.co/papers/2610.36456",
-   "source": "HF Daily Papers",
-   "published": "2026-10-26T20:00:00+00:00",
-   "title": "LociArt: A Unified Paradigm for Free-Style Local Video Stylization",
-   "text": "Video stylization typically transforms entire scenes, while local artistic editing requires precise region--style association, spatial control, and temporal consistency. We introduce LociArt, a unified paradigm for free-style local video stylization that explicitly specifies where to stylize and what style to apply while preserving non-target content. At its core, GRNStyle builds on Generative Refinement Networks (GRN) and introduces a polar style-aware mask that embeds style identities as equal-norm directions within selected regions. Complementary representation--geometry conditioning combin",
-   "title_th": "LociArt นวัตกรรมใหม่สำหรับการปรับแต่งสไตล์วิดีโอเฉพาะจุด",
-   "summary_th": "งานวิจัยนำเสนอ LociArt ซึ่งเป็นโมเดลสำหรับการปรับแต่งสไตล์วิดีโอแบบเฉพาะจุดที่ช่วยให้ผู้ใช้ระบุพื้นที่และสไตล์ที่ต้องการได้โดยไม่กระทบต่อเนื้อหาเดิม",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "247a373bfcdb",
-   "url": "https://huggingface.co/papers/2610.36729",
-   "source": "HF Daily Papers",
-   "published": "2026-10-26T20:00:00+00:00",
-   "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
-   "text": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instructions and continuous camera control across multiple interaction turns. It generates variable-length segments conditioned on current inputs and cached history. Our central design aligns structured video captions with action-aware causal attention: descriptive context remains accessible across segments, while action instructions are restricted to their intend",
-   "title_th": "Hy-Nomas โมเดลสร้างโลกเสมือนแบบโต้ตอบผ่านคำสั่งข้อความ",
-   "summary_th": "Hy-Nomas เป็นโมเดลวิดีโอที่ใช้ Diffusion backbone ขนาด 8B รองรับการสร้างโลกเสมือนผ่านคำสั่งข้อความและการควบคุมกล้องอย่างต่อเนื่อง",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d2400385c428",
-   "url": "https://huggingface.co/papers/2610.37666",
-   "source": "HF Daily Papers",
-   "published": "2026-10-26T20:00:00+00:00",
-   "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-   "text": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a fundamental trade-off between scalable data and explicit action grounding. We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics and strengthens it through reinforcement learning with world imagination. ThinkWorld represents each action thou",
-   "title_th": "ThinkWorld กรอบการเรียนรู้ VLA เพื่อการใช้เหตุผลด้านพลวัตในหุ่นยนต์",
-   "summary_th": "ThinkWorld เป็นกรอบการเรียนรู้ VLA ที่ช่วยให้หุ่นยนต์สามารถใช้เหตุผลด้านการกระทำผ่านการจินตนาการถึงพลวัตของโลก ช่วยลดข้อจำกัดในการเรียนรู้จากข้อมูลวิดีโอของมนุษย์",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d4e4fc64e706",
-   "url": "https://huggingface.co/papers/2610.37381",
-   "source": "HF Daily Papers",
-   "published": "2026-10-26T20:00:00+00:00",
-   "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
-   "text": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can capture scene dynamics, yet generating future videos introduces high latency into the control loop. We introduce PDRVLA, whose lightweight Physical Dynamics Module extracts physical tokens from vision--language features to condition action generation without online video generation. The module learns through direct prediction of future RGB, depth, and optical-flow features, with auxiliary supervisio",
-   "title_th": "เปิดตัว PDRVLA โมเดล VLA ที่เข้าใจพลศาสตร์ทางกายภาพ",
-   "summary_th": "นักวิจัยนำเสนอ PDRVLA โมเดล Vision-Language-Action ที่ใช้โมดูล Physical Dynamics เพื่อสกัดข้อมูลทางกายภาพมาช่วยในการตัดสินใจของหุ่นยนต์โดยไม่ต้องสร้างวิดีโอออนไลน์",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "28bd24cde23e",
-   "url": "https://huggingface.co/papers/2610.37341",
-   "source": "HF Daily Papers",
-   "published": "2026-10-26T20:00:00+00:00",
-   "title": "CodeCap-Bench: Can Code Serve as a Good Video Caption?",
-   "text": "Video captioning aims to preserve visual information through compact descriptions, predominantly using natural language. However, precisely expressing fine-grained spatial structures and temporal dynamics in natural language often leads to lengthy and potentially ambiguous descriptions. In this work, we explore Code as Video Caption, a paradigm where executable programs serve as a complementary representation of visual content through graphical primitives, layout rules, and functions of time. To examine whether code captions effectively preserve video information, we compare them with natural ",
-   "title_th": "CodeCap-Bench งานวิจัยการใช้โค้ดแทนคำบรรยายวิดีโอ",
-   "summary_th": "งานวิจัยนำเสนอแนวคิดการใช้โค้ดโปรแกรมเป็นคำบรรยายวิดีโอ เพื่ออธิบายโครงสร้างเชิงพื้นที่และพลศาสตร์ของเวลาได้แม่นยำกว่าภาษาธรรมชาติ",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d47afb54fd8c",
-   "url": "https://huggingface.co/papers/2610.35864",
-   "source": "HF Daily Papers",
-   "published": "2026-10-26T20:00:00+00:00",
-   "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
-   "text": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a rule-consistent game or narration synchronized to on-screen events. A different route is emerging: multimodal agents that write code to render every frame and synthesize every sound. We introduce VibeVideoBench, a benchmark for evaluating agents on code-driven video generation. Its 239 self-contained tasks in English and Chinese span 12 categories, from data stories and music-driven pieces to classroom lessons and paper explainers; each asks an agent, running in its native harnes",
-   "title_th": "เปิดตัว VibeVideoBench เกณฑ์มาตรฐานสำหรับประเมิน AI สร้างวิดีโอผ่านการเขียนโค้ด",
-   "summary_th": "นักวิจัยนำเสนอ VibeVideoBench ซึ่งเป็นเกณฑ์มาตรฐานใหม่สำหรับประเมินความสามารถของ AI ในการสร้างวิดีโอด้วยการเขียนโค้ด เพื่อแก้ปัญหาความไม่แม่นยำของโมเดล Diffusion ในปัจจุบัน",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d451aa6926fd",
-   "url": "https://huggingface.co/papers/2610.37662",
-   "source": "HF Daily Papers",
-   "published": "2026-10-26T20:00:00+00:00",
-   "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
-   "text": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantization error is widely assumed to cause unavoidable semantic loss, fundamentally limiting the semantic fidelity of discrete visual tokens and positioning continuous visual representations as an intrinsic upper bound. Using multimodal understanding as a proxy for semantic fidelity, we revisit this assumption and find quantization error unreliable, as discrete representations with substantially larger ",
-   "title_th": "งานวิจัยตั้งคำถามเรื่องการสูญเสียข้อมูลเชิงความหมายใน Discrete Visual Tokens",
-   "summary_th": "งานวิจัยนี้ท้าทายความเชื่อเดิมที่ว่าการแปลงภาพเป็นโทเค็นแบบแยกส่วน (Discrete Tokens) จะทำให้เกิดการสูญเสียข้อมูลเชิงความหมายอย่างหลีกเลี่ยงไม่ได้ โดยมุ่งเน้นการเพิ่มความแม่นยำในโมเดลหลายรูปแบบ",
-   "category": "งานวิจัย",
    "companies": [],
    "importance": 2,
    "ai": true,

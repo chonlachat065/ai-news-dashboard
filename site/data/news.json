@@ -1,50 +1,49 @@
 {
- "updated_at": "2026-11-10T02:45:41+00:00",
+ "updated_at": "2026-11-10T12:43:44+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-10T02:45:41+00:00",
-  "headline": "ความเคลื่อนไหวครั้งสำคัญของ Anthropic ทั้งด้านธุรกิจและโมเดลใหม่ พร้อมการอัปเดตโครงสร้างพื้นฐาน AI จากยักษ์ใหญ่เทคโนโลยี",
+  "generated_at": "2026-11-10T12:43:44+00:00",
+  "headline": "ความเคลื่อนไหวครั้งใหญ่ในวงการ AI ทั้งด้านการพัฒนาโมเดลประสิทธิภาพสูง โครงสร้างพื้นฐานฮาร์ดแวร์ และกลยุทธ์ทางธุรกิจของบริษัทชั้นนำ",
   "points": [
    {
-    "text": "Anthropic เตรียมเดินหน้าทำ IPO ท่ามกลางความสนใจในมูลค่าบริษัทที่สูงถึง 1.7 ล้านล้านดอลลาร์ แม้จะมีประเด็นเรื่องต้นทุนการวิจัยที่สูงและข้อถกเถียงด้านจริยธรรมในการทดสอบโมเดลกับลูกค้า",
+    "text": "Anthropic เร่งเครื่องพัฒนาโมเดลใหม่และเตรียมตัวทำ IPO ท่ามกลางการประเมินมูลค่าบริษัทที่สูงถึง 1.7 ล้านล้านดอลลาร์ แม้จะมีต้นทุนการวิจัยและพัฒนาที่สูงกว่ารายได้หลายเท่าตัว",
     "ids": [
      "9abef4201139",
-     "52de60bb603f",
-     "e63082570fcf",
-     "769f1d378efc"
-    ]
-   },
-   {
-    "text": "Anthropic เปิดตัวโมเดลใหม่และความสามารถในการออกแบบต้นแบบอิเล็กทรอนิกส์ พร้อมจับมือ IBM นำ Claude Mythos มาใช้ในงานด้านความปลอดภัยไซเบอร์",
-    "ids": [
      "2b41a6e455fc",
-     "cefcbaa47b5a",
-     "dbfbe36b6b1f"
+     "52de60bb603f",
+     "e63082570fcf"
     ]
    },
    {
-    "text": "Google เปิดตัวชิป TPU รุ่นที่ 8 (8tx และ 8i Max) เพื่อแก้ปัญหาคอขวดของหน่วยความจำในการรัน LLM ขณะที่ NVIDIA เดินหน้าลงทุนในสตาร์ทอัพ AI และเปิดตัวโซลูชัน Dynamo Recipes เพื่อเพิ่มประสิทธิภาพการรันโมเดลภาษา",
+    "text": "ความก้าวหน้าด้านโมเดลและเครื่องมือ AI มีการเปิดตัว Claude Fable 5.2 ที่โดดเด่นด้านความปลอดภัยไซเบอร์, AlphaProof Code สำหรับตรวจสอบซอฟต์แวร์, และ Muse Ember จาก Meta ที่เน้นความคุ้มค่าสำหรับงาน Agent",
+    "ids": [
+     "f8c1a7370c13",
+     "f61f8a7895fa",
+     "99d632aaa416"
+    ]
+   },
+   {
+    "text": "การขยายตัวของโครงสร้างพื้นฐาน AI เห็นได้จากการเปิดตัวชิป TPU รุ่นใหม่ของ Google และการที่ ChatGPT Enterprise เข้าสู่ AWS Marketplace เพื่อรองรับการใช้งานในระดับองค์กร",
     "ids": [
      "4d4111d16658",
      "ed213adeba37",
-     "6d49d7349281",
-     "c5536f6e1237"
+     "9c331579e229"
     ]
    },
    {
-    "text": "Meta เปิดตัวโมเดลขนาดเล็ก Muse Ember สำหรับงาน Agent ที่เน้นความคุ้มค่าด้านราคา ส่วน OpenAI นำ ChatGPT Enterprise เข้าสู่ AWS Marketplace และเปิดตัวระบบ Control Room เพื่อควบคุมความปลอดภัยของโมเดล",
+    "text": "การนำ AI ไปประยุกต์ใช้ในอุตสาหกรรมต่างๆ มีความคืบหน้าอย่างต่อเนื่อง ทั้งในด้านการผลิตสื่อของ Disney, การฝึกหุ่นยนต์ของ NVIDIA, และการเปิดตัวคลาวด์กลางด้านสาธารณสุขของไทย",
     "ids": [
-     "99d632aaa416",
-     "9c331579e229",
-     "f37b680abcf7"
-    ]
-   },
-   {
-    "text": "การใช้งาน AI ในภาคธุรกิจมีความหลากหลายมากขึ้น ตั้งแต่การใช้ AI ช่วยเขียนโค้ดที่ต้องระวังเรื่องการบำรุงรักษา ไปจนถึงความร่วมมือระหว่าง Disney และ Adobe ในการพัฒนาเครื่องมือผลิตสื่อ",
-    "ids": [
-     "7d448a8186e9",
-     "23b94c697622",
+     "7cd5e1029071",
+     "2b6590545dac",
      "86961a9937fd"
+    ]
+   },
+   {
+    "text": "ประเด็นด้านการกำกับดูแลและความท้าทายในการใช้งาน AI ยังคงเป็นเรื่องสำคัญ ทั้งการเตรียมผลักดันนโยบายระดับรัฐสภาสหรัฐฯ และปัญหาการบำรุงรักษาโค้ดที่เขียนโดย AI ในระยะยาว",
+    "ids": [
+     "7f47f4f4451c",
+     "7d448a8186e9",
+     "cc49c1ae6860"
     ]
    }
   ]
@@ -137,7 +136,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 1,
+   "count": 3,
    "error": null
   }
  ],
@@ -452,9 +451,142 @@
   "6289435bdbbd",
   "3541a994b8f0",
   "09274ed8ecd7",
-  "ab140a767342"
+  "ab140a767342",
+  "01c610abf06d",
+  "db84f0be1fbd",
+  "e7a5ea5c33d9",
+  "2c2d90c29910"
  ],
  "items": [
+  {
+   "id": "f8c1a7370c13",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "Google DeepMind",
+   "published": "2026-11-10T12:02:28+00:00",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "text": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+   "title_th": "Google DeepMind เปิดตัว AlphaProof Code ช่วยตรวจสอบความปลอดภัยซอฟต์แวร์",
+   "summary_th": "Google DeepMind นำเสนอ AlphaProof Code ซึ่งเป็นเอเจนต์ที่ใช้ภาษา Lean ในการเขียนพิสูจน์ความถูกต้องของโค้ดซอฟต์แวร์ โดยได้ทดสอบจริงกับการตรวจสอบระบบเข้ารหัสของ Signal ถือเป็นก้าวสำคัญในการใช้ AI ตรวจสอบความปลอดภัยของซอฟต์แวร์ที่ซับซ้อน",
+   "category": "งานวิจัย",
+   "companies": [
+    "Google",
+    "DeepMind"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "46ecb159c153",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "OpenAI",
+   "published": "2026-11-10T12:00:00+00:00",
+   "title": "Helping caregivers use AI in everyday life",
+   "text": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "title_th": "OpenAI Academy จัดเวิร์กชอปสอนผู้ดูแลผู้ป่วยใช้ ChatGPT ในชีวิตประจำวัน",
+   "summary_th": "OpenAI Academy จัดกิจกรรมเวิร์กชอปให้ความรู้แก่ผู้ดูแลผู้ป่วยในสหรัฐฯ เพื่อให้สามารถนำ ChatGPT ไปประยุกต์ใช้ในการทำงานและชีวิตประจำวันได้อย่างมีประสิทธิภาพ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "01a8528fa117",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "source": "OpenAI",
+   "published": "2026-11-10T09:00:00+00:00",
+   "title": "Closing the AI guidance gap in education",
+   "text": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+   "title_th": "OpenAI เผยงานวิจัยใหม่เพื่อลดช่องว่างการใช้ AI ในการศึกษา",
+   "summary_th": "OpenAI ร่วมกับ ThinkYoung เผยแพร่ผลการวิจัยและบทเรียนจากการร่วมมือด้านการศึกษาในภูมิภาค EMEA เพื่อสนับสนุนครูและส่งเสริมการเรียนรู้ด้วย AI",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f61f8a7895fa",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaXJOZE13aW5YNlFwQkNJUXA1dEZlUzd3c1l5c2t2MFh2V0RWVWV5ZXVpM004cmhReWs4MndrUVVFWEpENWM1NHpOaTFVQUhlNTB2ZThVVWQ2ZFl2U0tIbXYxaXpvZmNoLXNxSDl5QTB6dWFvalVjRWY0OXVFLUNxQnhhTQ?oc=5",
+   "source": "The Hacker News",
+   "published": "2026-11-10T08:16:00+00:00",
+   "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+   "text": "",
+   "title_th": "Claude Fable 5.2 ทำคะแนนเหนือกว่า GPT-6 Cyber ในการทดสอบโจมตีไซเบอร์",
+   "summary_th": "โมเดล Claude Fable 5.2 จาก Anthropic สามารถทำผลงานได้ดีกว่า GPT-6 Cyber ในการทดสอบมาตรฐานด้านการโจมตีทางไซเบอร์แบบหลายขั้นตอน",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Anthropic",
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGw3UFZ0ZUxYWk1VSm9nMXJUNkVIamQxQ1VsVlMtOElpV3ozckEwRWRlVkdrZUdDSkZwV1ZpODQtV1RYR2MxM0Z1UUo1LW9fSXBtZ3RJZ1RkT2hJRnJMQU5KRVZiQ3ZVSFBvM09sNG4taThSb3VKcjdiaEtGTWRDXw?oc=5"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "0cb7ad579ad8",
+   "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-10T07:00:00+00:00",
+   "title": "Otter AI can now follow conversations across 30+ languages",
+   "text": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+   "title_th": "Otter AI อัปเดตฟีเจอร์รองรับการสนทนามากกว่า 30 ภาษา",
+   "summary_th": "Otter AI เพิ่มการรองรับภาษาใหม่รวมกว่า 30 ภาษา พร้อมเตรียมเปิดตัวฟีเจอร์ที่สามารถติดตามการสนทนาได้แม้ผู้พูดจะสลับภาษาไปมา",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Otter AI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2b6590545dac",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UcjFweEx0aV9IR0NhQjhvdU1RbWt3ck5fSlRUWjhMUVdnc1QxanR2Z0FfaUJPUlg1aUN5SlR5SXV4WFFPa0tmQVF4WFI3SnlseDFJelpR?oc=5",
+   "source": "LINE TODAY",
+   "published": "2026-11-10T06:00:05+00:00",
+   "title": "เปิด 3 แพลตฟอร์มคลาวด์กลางสุขภาพ ขับเคลื่อนด้วย AI ยกระดับสาธารณสุขไทยสู่การรักษาทุกที่ทุกเวลา",
+   "text": "",
+   "title_th": "ไทยเปิดตัว 3 แพลตฟอร์มคลาวด์กลางสุขภาพขับเคลื่อนด้วย AI",
+   "summary_th": "ประเทศไทยเปิดตัวแพลตฟอร์มคลาวด์กลางด้านสาธารณสุขที่ใช้ AI เข้ามาช่วยยกระดับการให้บริการทางการแพทย์ เพื่อให้ประชาชนเข้าถึงการรักษาได้ทุกที่ทุกเวลา",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9c5da62bab37",
+   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "source": "Hacker News",
+   "published": "2026-11-10T03:20:06+00:00",
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "text": "175 points, 150 comments on Hacker News (https://news.ycombinator.com/item?id=50435660)",
+   "title_th": "ผลตอบแทนพันธบัตร CoreWeave พุ่งเกิน 16% สะท้อนความตึงเครียดด้านสินเชื่อ AI",
+   "summary_th": "อัตราผลตอบแทนพันธบัตรของ CoreWeave ปรับตัวสูงขึ้นเกิน 16% ซึ่งเป็นสัญญาณบ่งชี้ถึงความกังวลและความตึงเครียดในตลาดสินเชื่อที่เกี่ยวข้องกับอุตสาหกรรม AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "CoreWeave"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "0e315bb90a64",
    "url": "https://www.blognone.com/node/152142",
@@ -504,6 +636,23 @@
     "Nvidia"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "28d8b7cf72a0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-09T23:32:31+00:00",
+   "title": "Same prompt, DeepSeek V4.1 Flash vs Qwen 3.8 FN: 94 tok/s vs 350 tok/s",
+   "text": "I wanted to see how big of a difference there is between arguably two of the top MoE models that you can actually run locally, so I ran the same one shot prompt and left it unattended for a while. The prompt asks for a fully interactive V8 engine... yes, you're probably familiar with it and I'm aware this is not the best test and it only covers some of the capabilities of each model, and this particular test is likely on both of their training data, but still a fun experiment and the results were definitely interesting: DeepSeek V4.1 Flash 1017, UD IQ1_M (yup a \"lobotomized\" IQ1 quant, stop re",
+   "title_th": "เปรียบเทียบประสิทธิภาพ DeepSeek V4.1 Flash และ Qwen 3.8 FN ในการรันบนเครื่องท้องถิ่น",
+   "summary_th": "การทดสอบเปรียบเทียบความเร็วในการประมวลผลระหว่าง DeepSeek V4.1 Flash และ Qwen 3.8 FN พบความแตกต่างของจำนวนโทเคนต่อวินาทีอย่างชัดเจนในการรันโมเดลแบบ Local",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "DeepSeek"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -730,11 +879,18 @@
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [
     "IBM",
-    "Anthropic"
+    "Anthropic",
+    "Cisco"
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Cisco Systems",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6U2VXWkhwZzl5Q2J4NW5SUFI5TUE2QVdfTEVqT1VrX0hpT3haOTFKVVNsclV5Tm9Zc0tIRXA2SWVkdVFUWlB3aw?oc=5"
+    }
+   ]
   },
   {
    "id": "9d5aee5d27ee",
@@ -1047,6 +1203,21 @@
    "companies": [
     "Automattic"
    ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e352d92ff0ac",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTnFmZnJPSWxEaWVkLTdXcFJFWm1yV1J4OXVrWHNMM0VuaFV6dlNsRk1veURwOU5IOTF2c1pfeG1GenhtM3pwUUZaOUxKVFRlR2hSNkNvSTN1TXlKaVpEUVdCWkVwU0FXcmNzQVhmNmRVTFV1TXdWU2Y5RVVsUjh1dldyRkVTVlpqUkFxdmtjQzZFeW04S29r?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-11-09T13:22:04+00:00",
+   "title": "สำนักงานผู้อำนวยการด้านปัญญาประดิษฐ์แห่งชาติของอิสราเอลเปิดตัวสถาบันปัญญาประดิษฐ์ที่ขับเคลื่อนด้วยผลกระทบ",
+   "text": "",
+   "title_th": "อิสราเอลเปิดตัวสถาบันปัญญาประดิษฐ์แห่งชาติเพื่อสร้างผลกระทบเชิงบวก",
+   "summary_th": "สำนักงานผู้อำนวยการด้านปัญญาประดิษฐ์แห่งชาติของอิสราเอลได้จัดตั้งสถาบันใหม่ที่มุ่งเน้นการพัฒนา AI เพื่อสร้างผลกระทบเชิงบวกต่อสังคมและเศรษฐกิจ",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
    "importance": 2,
    "ai": true,
    "dedup": true
@@ -1457,6 +1628,27 @@
     "Meta"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true,
+   "also": [
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152144"
+    }
+   ]
+  },
+  {
+   "id": "123cc8899327",
+   "url": "https://huggingface.co/papers/2611.12806",
+   "source": "HF Daily Papers",
+   "published": "2026-11-08T19:00:00+00:00",
+   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+   "text": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still at a relatively early stage of development, with each type of sensor offering irreplaceable strengths alongside its own drawbacks. A key challenge is thus to free tactile understanding from sensor-specific physics, so that embodied models can effectively leverage heterogeneous tactile data. To this end, we develop LingBot-Touch, a tactile foundation model characterized by the f",
+   "title_th": "งานวิจัยใหม่เสนอการเรียนรู้การสัมผัสแบบ Heterogeneous เพื่อการควบคุมหุ่นยนต์",
+   "summary_th": "งานวิจัยนำเสนอวิธีการจัดการกับข้อมูลการสัมผัสที่หลากหลาย เพื่อช่วยให้หุ่นยนต์สามารถควบคุมวัตถุได้อย่างแม่นยำและเป็นอิสระจากข้อจำกัดของเซนเซอร์แต่ละประเภท",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -10664,218 +10856,6 @@
     "NVIDIA"
    ],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "23ea747cd926",
-   "url": "https://www.blognone.com/node/152036",
-   "source": "Blognone",
-   "published": "2026-10-27T12:21:32+00:00",
-   "title": "Cohere ทดสอบโมเดล Qwen พบพฤติกรรมส่งไฟล์กลับไปเซิร์ฟเวอร์ Alibaba ในจีน",
-   "text": "Body Cohere สตาร์ตอัพด้าน AI สำหรับองค์กร (ก่อตั้งโดย Aidan Gomez หนึ่งในผู้เขียนเปเปอร์ Transformers) ออกมาเตือนพฤติกรรมของโมเดล Qwen 3.8 ของ Alibaba ว่าพยายามส่งไฟล์กลับไปยังเซิร์ฟเวอร์ของ Alibaba ที่ปักกิ่ง Cohere บอกว่าโมเดลแบบเปิดของบริษัทจีนได้รับความนิยมมากขึ้นเรื่อยๆ ส่วนหนึ่งเพราะความเชื่อว่าเป็นโมเดลเปิด เชื่อถือและตรวจสอบได้ อย่างไรก็ตาม ทีมวิจัยด้านความปลอดภัย Cohere Cyber ทดสอบโมเดล Qwen3.8-Flash-Next โดยสั่งให้ตรวจสอบไฟล์ต้องสงสัยว่ามีมัลแวร์หรือไม่ สิ่งที่เกิดขึ้นคือโมเดลพยายามส่งไฟล์กลับไปยัง bucket ของสตอเ",
-   "title_th": "Cohere ตรวจพบพฤติกรรมน่าสงสัยของโมเดล Qwen ส่งข้อมูลกลับเซิร์ฟเวอร์ในจีน",
-   "summary_th": "ทีมวิจัยความปลอดภัยของ Cohere พบว่าโมเดล Qwen พยายามส่งไฟล์ข้อมูลกลับไปยังเซิร์ฟเวอร์ของ Alibaba ในปักกิ่งระหว่างการทดสอบตรวจสอบมัลแวร์ ซึ่งสร้างความกังวลด้านความปลอดภัยในการใช้งานโมเดลโอเพนซอร์สจากจีน",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Cohere",
-    "Alibaba"
-   ],
-   "importance": 4,
-   "ai": true,
-   "also": [
-    {
-     "source": "r/LocalLLaMA",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/"
-    }
-   ],
-   "dedup": true
-  },
-  {
-   "id": "415aa97d276f",
-   "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-   "source": "The Verge AI",
-   "published": "2026-10-27T12:20:38+00:00",
-   "title": "Data center backlash is uniting America",
-   "text": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional […]",
-   "title_th": "กระแสต่อต้านศูนย์ข้อมูล AI กลายเป็นประเด็นร้อนในสหรัฐฯ",
-   "summary_th": "การขยายตัวอย่างรวดเร็วของศูนย์ข้อมูลขนาดใหญ่เพื่อรองรับ AI กำลังเผชิญกับการต่อต้านจากชุมชนท้องถิ่นในสหรัฐฯ และกลายเป็นประเด็นสำคัญทางการเมืองที่ส่งผลต่อผู้ลงคะแนนเสียง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
-    }
-   ]
-  },
-  {
-   "id": "ef2da6cf0c5f",
-   "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-   "source": "MIT Technology Review",
-   "published": "2026-10-27T11:19:18+00:00",
-   "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-   "text": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…",
-   "title_th": "Industrial Intelligence โอกาสเติบโตใหม่ในภาคการผลิต",
-   "summary_th": "การนำความรู้จากประสบการณ์ของพนักงานและข้อมูลการผลิตมาผสานกับ AI กำลังกลายเป็นกลยุทธ์สำคัญในการเพิ่มประสิทธิภาพและแก้ปัญหาในโรงงานอุตสาหกรรม",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b5a34c2c4741",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgpo4q/inclusionailing31flash1019_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-27T11:12:14+00:00",
-   "title": "inclusionAI/Ling-3.1-flash-1019 · Hugging Face",
-   "text": "from inclusionAI: We introduce Ling-3.1-flash-1019 , an upgraded version of Ling-3.1-flash , with 560B total parameters, 25B active parameters per token, and a 1M-token context window . With further post-training optimizations, Ling-3.1-flash-1019 demonstrates significant improvements in reasoning and real-world agentic capabilities. Its AA-Briefcase score rises from approximately 1400 to 1524 Elo , while performance on AutomationBench-AA increases from 62% to 68% . The model also makes gains on scientific benchmarks, including CritPt (18% → 26% ) and SciCode (54% → 57% ). Overall, it scores 4",
-   "title_th": "เปิดตัว Ling-3.1-flash-1019 อัปเกรดประสิทธิภาพการใช้เหตุผล",
-   "summary_th": "inclusionAI อัปเกรดโมเดล Ling-3.1-flash-1019 ให้มีประสิทธิภาพด้านการใช้เหตุผลและงานด้าน Agent สูงขึ้น โดยมีคะแนนทดสอบ AutomationBench-AA เพิ่มขึ้น",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "inclusionAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "also": [
-    {
-     "source": "r/LocalLLaMA",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/"
-    }
-   ],
-   "dedup": true
-  },
-  {
-   "id": "acb3a24ef951",
-   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-   "source": "Hacker News",
-   "published": "2026-10-27T11:08:15+00:00",
-   "title": "Wikipedia's Cleanup of AI-Generated Content",
-   "text": "459 points, 211 comments on Hacker News (https://news.ycombinator.com/item?id=50257326)",
-   "title_th": "Wikipedia เดินหน้าจัดการเนื้อหาที่สร้างโดย AI",
-   "summary_th": "Wikipedia กำลังดำเนินการตรวจสอบและจัดการกับเนื้อหาบนแพลตฟอร์มที่ถูกสร้างขึ้นโดยปัญญาประดิษฐ์ เพื่อรักษาคุณภาพและความน่าเชื่อถือของข้อมูล",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Wikipedia"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c61ee1a62651",
-   "url": "https://oioannou.com/blog/ai-promised-less-work/",
-   "source": "Hacker News",
-   "published": "2026-10-27T11:08:14+00:00",
-   "title": "AI promised less work. I've never worked more",
-   "text": "622 points, 617 comments on Hacker News (https://news.ycombinator.com/item?id=50257325)",
-   "title_th": "ความย้อนแย้งของ AI: สัญญาว่าจะช่วยลดงาน แต่กลับทำให้งานเพิ่มขึ้น",
-   "summary_th": "ผู้ใช้งานจำนวนมากสะท้อนมุมมองว่าแม้ AI จะถูกออกแบบมาเพื่อช่วยทุ่นแรง แต่ในทางปฏิบัติกลับทำให้ภาระงานเพิ่มขึ้นแทนที่จะลดลง",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c444a6335ada",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sUWFJY2IyczhRd0tLUkpSUVVXX2M0dTlOMWlCQ3FOd3RUczdlajdZRWMyOFZEVm1oYk14bVViem9TanFJMUVQWWJmRjlKVzdvSF9TYlpOcExIcVVC?oc=5",
-   "source": "bangkokbiznews",
-   "published": "2026-10-27T10:36:13+00:00",
-   "title": "คุยกับ ‘พงศ์พรหม ยามะรัต’ โอกาสเศรษฐกิจกับ ‘Small AI’ ต้องคว้าให้ได้ใน 3 ปี",
-   "text": "",
-   "title_th": "มุมมองโอกาสทางเศรษฐกิจไทยกับ Small AI ในอีก 3 ปีข้างหน้า",
-   "summary_th": "บทวิเคราะห์เกี่ยวกับโอกาสของประเทศไทยในการคว้าประโยชน์จากเทคโนโลยี Small AI เพื่อขับเคลื่อนเศรษฐกิจภายในกรอบเวลา 3 ปี",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c260a2a638b6",
-   "url": "https://www.blognone.com/node/152035",
-   "source": "Blognone",
-   "published": "2026-10-27T10:11:54+00:00",
-   "title": "Apple อัปเดต iOS 27.2 รอบนี้เน้น Siri AI ส่วน iPhone Duo สามารถใช้ Apple Pencil ได้แล้ว",
-   "text": "Body แอปเปิลออกอัปเดตระบบปฏิบัติการของอุปกรณ์ต่าง ๆ รอบใหญ่หมายเลขเวอร์ชัน 27.2 หลังจากเวอร์ชันแรก 27 ออกมาเมื่อ เดือนที่แล้ว โดยข้ามหมายเลข 27.1 ไป เพราะใช้ทดสอบกับ iPhone Duo iOS 27.2 สำหรับ iPhone (รวมทั้ง Duo) และ iPadOS 27.2 เพิ่มความสามารถหลักเกี่ยวกับ Siri AI เช่น สามารถย้อนบทสนทนาในอดีตได้, ดึงข้อมูลจากแหล่งต่าง ๆ ได้มากขึ้น และรองรับภาษาเพิ่มเติมได้แก่ ฝรั่งเศส, ญี่ปุ่น, เกาหลี, โปรตุเกส และสเปน ฟีเจอร์อื่นได้แก่ ระบบแนะนำใน Messages, ปรับปรุงการทำงาน Shared Albums ใน Photos, รองรับลายน้ำ SynthID ใ",
-   "title_th": "Apple อัปเดต iOS 27.2 เพิ่มฟีเจอร์ Siri AI และรองรับภาษาใหม่",
-   "summary_th": "Apple ปล่อยอัปเดต iOS 27.2 เน้นปรับปรุงความสามารถของ Siri AI ให้ย้อนบทสนทนาและดึงข้อมูลได้ดีขึ้น พร้อมรองรับภาษาเพิ่มเติมหลายภาษา",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Apple"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "6d54087eb35f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-27T08:54:41+00:00",
-   "title": "baidu/Unlimited-OCR-2 · Hugging Face",
-   "text": "Release [2026/10/27] 🚀 We release Unlimited OCR 2 , achieving unlimited-horizon parsing with SR-SWA. What's New in 2 Sparse Reference Sliding Window Attention (SR-SWA): Compresses text-visual attention interactions from ultra-long sequences down to a fixed-size set of working references (e.g., 512 tokens). This bounds computational complexity, keeping per-step decoding latency and memory footprint nearly constant regardless of document length. From Long- to Unlimited-Horizon Parsing: Powered by SR-SWA, Unlimited-OCR 2 achieves true, unbounded document parsing within a finite context window—eff",
-   "title_th": "Baidu เปิดตัว Unlimited OCR 2 รองรับการประมวลผลเอกสารยาวไม่จำกัด",
-   "summary_th": "Baidu ปล่อยโมเดล Unlimited OCR 2 ที่ใช้เทคนิค SR-SWA ช่วยให้สามารถประมวลผลเอกสารที่มีความยาวมากได้อย่างต่อเนื่องโดยมีค่าความหน่วงคงที่",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Baidu"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a3a879144b29",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "source": "OpenAI",
-   "published": "2026-10-27T07:00:00+00:00",
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "text": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-   "title_th": "OpenAI ขยายความร่วมมือกับ Oracle นำแอปธุรกิจเข้าสู่ ChatGPT",
-   "summary_th": "OpenAI และ Oracle ประกาศขยายความร่วมมือเพื่อนำแอปพลิเคชันทางธุรกิจและ AI Agent เข้ามาใช้งานใน ChatGPT เพื่อเพิ่มขีดความสามารถให้กับบริการของ Oracle",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "OpenAI",
-    "Oracle"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "eb967c2830c0",
-   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-   "source": "Hacker News",
-   "published": "2026-10-27T06:25:37+00:00",
-   "title": "The Mythical Man-Month in the Age of AI",
-   "text": "439 points, 308 comments on Hacker News (https://news.ycombinator.com/item?id=50255298)",
-   "title_th": "การประยุกต์ใช้แนวคิด The Mythical Man-Month ในยุค AI",
-   "summary_th": "มีการอภิปรายถึงการนำหลักการบริหารจัดการซอฟต์แวร์คลาสสิกอย่าง The Mythical Man-Month มาปรับใช้ในบริบทของการพัฒนาซอฟต์แวร์ที่มี AI เข้ามาเกี่ยวข้อง",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "252c695597e6",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uSDFNRWY5SWltZXN2dGtJNTNSQ3BxQWVCdjkwS0dMUlFUNS03V2xHZ3pwQV9WNjEwT19obTlCN19VQm1lbUhYeXZVOUtVNDZraG5ERzBMWnZOV1B3cDEtZWd4dw?oc=5",
-   "source": "bangkokbiznews",
-   "published": "2026-10-27T04:37:00+00:00",
-   "title": "เมื่อ ปัญญาประดิษฐ์ หรือ AI เก่งขึ้น Green Skill ยิ่งจำเป็นต่อโลกการทำงาน",
-   "text": "",
-   "title_th": "เมื่อ AI เก่งขึ้น Green Skill กลายเป็นทักษะจำเป็นต่อโลกการทำงาน",
-   "summary_th": "การเติบโตของเทคโนโลยี AI ทำให้ทักษะด้านสิ่งแวดล้อมหรือ Green Skill กลายเป็นสิ่งสำคัญที่แรงงานต้องปรับตัวให้ทันในยุคที่เทคโนโลยีเปลี่ยนแปลงอย่างรวดเร็ว",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
    "ai": true,
    "dedup": true
   }

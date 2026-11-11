@@ -1,49 +1,49 @@
 {
- "updated_at": "2026-11-10T21:49:44+00:00",
+ "updated_at": "2026-11-11T06:36:52+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-10T21:49:44+00:00",
-  "headline": "ความก้าวหน้าของโมเดล AI ระดับสูงและการขยายตัวสู่เครื่องมือสำนักงานและอุตสาหกรรมเฉพาะทาง",
+  "generated_at": "2026-11-11T06:36:52+00:00",
+  "headline": "ความเคลื่อนไหวครั้งใหญ่ในวงการ AI ทั้งการเปิดตัวโมเดลระดับสูง การรุกตลาดซอฟต์แวร์องค์กร และการยกระดับความปลอดภัยของระบบ",
   "points": [
    {
-    "text": "Google และ Anthropic เปิดตัวโมเดลและฟีเจอร์ใหม่ที่เน้นการทำงานร่วมกันและประสิทธิภาพในองค์กร เช่น Gemini 4 Carbon, Claude Meetings และ Claude Sheets เพื่อแข่งขันในตลาดซอฟต์แวร์สำนักงาน",
+    "text": "Google เปิดตัว Gemini 4 Carbon พร้อมความสามารถ Agent Swarm และขยายฟีเจอร์ Gemini Intelligence รวมถึงความร่วมมือกับ Adobe เพื่อผสานเครื่องมือสร้างสรรค์เข้ากับแอปพลิเคชันของ Google",
     "ids": [
      "a14681e2ddce",
      "b73105fe4ec5",
-     "af7403b45639",
-     "11cf09881a3b",
-     "ec3f910d2a18"
+     "66ed14c6418f"
     ]
    },
    {
-    "text": "ความก้าวหน้าด้านความปลอดภัยและการวิจัย AI มีความสำคัญมากขึ้น ทั้งการใช้ AI ตรวจสอบโค้ดซอฟต์แวร์ การทดสอบความปลอดภัยไซเบอร์ และเทคนิคใหม่ในการปรับแต่งโมเดลโดยไม่ต้องเทรนใหม่",
+    "text": "Anthropic รุกตลาดซอฟต์แวร์สำนักงานด้วย Claude Sheets และชุดเครื่องมือใหม่ พร้อมทำผลงานโดดเด่นในการทดสอบไซเบอร์และช่วยไขคำตอบด้านควอนตัมคอมพิวติ้ง",
     "ids": [
-     "f8c1a7370c13",
+     "ec3f910d2a18",
      "f61f8a7895fa",
-     "7bcb98eb0c6b",
-     "38f4d0b20f1d",
-     "7d448a8186e9"
-    ]
-   },
-   {
-    "text": "การประยุกต์ใช้ AI ในอุตสาหกรรมเฉพาะทางและโครงสร้างพื้นฐานมีการเติบโตอย่างต่อเนื่อง ทั้งในด้านสาธารณสุข การวิจัยควอนตัม และการสนับสนุนโครงสร้างพื้นฐานผ่าน NVIDIA และฮาร์ดแวร์ใหม่",
-    "ids": [
-     "02e4a20d191a",
-     "2b6590545dac",
      "6fcd75d626dd",
-     "405fdcad1ce1",
-     "ed213adeba37",
-     "285987eab731"
+     "11cf09881a3b"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวทางธุรกิจและกฎหมายที่สำคัญ ได้แก่ การบังคับใช้กฎหมายความปลอดภัย AI ในนิวยอร์ก, การเข้าซื้อกิจการของ OpenAI, การทดสอบโมเดลรายได้ของ Samsung และความเสี่ยงด้านความปลอดภัยที่ Fireworks AI",
+    "text": "ความก้าวหน้าด้านเทคนิคและโครงสร้างพื้นฐาน AI ได้แก่ การเปิดตัวซีพียู AMD Zen 6, การใช้ AlphaProof Code ตรวจสอบความปลอดภัยซอฟต์แวร์, และนวัตกรรมใหม่ในการปรับแต่งน้ำหนักโมเดล (Weights) โดยไม่ต้องเทรนใหม่",
+    "ids": [
+     "5df03b989f16",
+     "f8c1a7370c13",
+     "7bcb98eb0c6b",
+     "38f4d0b20f1d"
+    ]
+   },
+   {
+    "text": "การกำกับดูแลและความปลอดภัย AI มีความเข้มงวดขึ้น โดยรัฐนิวยอร์กเตรียมบังคับใช้กฎหมายใหม่สำหรับผู้พัฒนา AI รายใหญ่ ในขณะที่เกิดเหตุการณ์ข้อมูลรั่วไหลที่ Fireworks AI ส่งผลกระทบต่อ Notion",
     "ids": [
      "c012fc7ecd62",
-     "571fb0494bf3",
-     "0e315bb90a64",
-     "a7266a93fa89",
-     "9c5da62bab37"
+     "a7266a93fa89"
+    ]
+   },
+   {
+    "text": "การขยายตัวของ AI ในระดับอุปกรณ์และธุรกิจ เช่น การพัฒนาแอปบน Mac เพื่อรันโมเดลในเครื่อง, การเปิดตัวโมเดลขนาดเล็ก BotPsy, และการที่ OpenAI เพิ่มโปรไฟล์ธุรกิจใน ChatGPT",
+    "ids": [
+     "f10374e98061",
+     "b22522d14a17",
+     "445fc6287a33"
     ]
    }
   ]
@@ -473,9 +473,136 @@
   "196c0edf93f9",
   "29beb030c167",
   "5ca4dc7b6d88",
-  "7396b577c725"
+  "7396b577c725",
+  "952bb946bae8",
+  "30bc8b9ad8b5",
+  "fc6b6a56df7b",
+  "af7403b45639",
+  "ef81f5f4051a",
+  "5c5997efbf33",
+  "cc0e16c6ada6"
  ],
  "items": [
+  {
+   "id": "f28f90d2895a",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "source": "OpenAI",
+   "published": "2026-11-11T06:36:52+00:00",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "text": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "title_th": "Gilbert + Tobin นำ AI มาปรับใช้ในธุรกิจกฎหมาย",
+   "summary_th": "บทสนทนากับผู้บริหารของ Gilbert + Tobin เกี่ยวกับการนำ AI มาประยุกต์ใช้เพื่อเปลี่ยนแปลงวิธีการดำเนินธุรกิจด้านกฎหมายให้มีประสิทธิภาพมากขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Gilbert + Tobin",
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "80b38ea7da37",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "source": "OpenAI",
+   "published": "2026-11-11T06:36:52+00:00",
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "text": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+   "title_th": "ChatGPT Plus มอบสิทธิ์ใช้งานฟรีให้แก่ทหารผ่านศึก",
+   "summary_th": "ทหารผ่านศึกและบุคลากรที่กำลังเปลี่ยนผ่านสู่ชีวิตพลเรือนกว่า 20,000 คน ได้รับสิทธิ์ใช้งาน ChatGPT Plus ฟรีเป็นเวลาหนึ่งปี เพื่อช่วยเตรียมความพร้อมสำหรับการประกอบอาชีพในภาคพลเรือน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b22522d14a17",
+   "url": "https://huggingface.co/blog/qvac/botpsy",
+   "source": "Hugging Face",
+   "published": "2026-11-11T05:01:16+00:00",
+   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "text": "",
+   "title_th": "เปิดตัว BotPsy โมเดลภาษาขนาดเล็กสำหรับผู้ช่วยส่วนตัวบนอุปกรณ์",
+   "summary_th": "BotPsy เป็นโมเดลภาษาแบบ Agentic ที่มีขนาดต่ำกว่าหนึ่งพันล้านพารามิเตอร์ ออกแบบมาเพื่อทำงานเป็นผู้ช่วยส่วนตัวบนอุปกรณ์โดยตรง",
+   "category": "งานวิจัย",
+   "companies": [
+    "Hugging Face"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5df03b989f16",
+   "url": "https://www.blognone.com/node/152146",
+   "source": "Blognone",
+   "published": "2026-11-11T03:19:03+00:00",
+   "title": "AMD เปิดตัวซีพียู EPYC รุ่นที่ 6 อัด 256 คอร์ 512 เธรด แคช 1GB ชิปละห้าแสน",
+   "text": "Body AMD เปิดตัวซีพียู EPYC สำหรับเซิร์ฟเวอร์ เป็นรุ่นที่ 6 โดยเริ่มส่งมอบให้ Meta, Azure, และ Oracle Cloud พร้อมกับเริ่มเปิดรับคำสั่งจากผู้ผลิตเซิร์ฟเวอร์ ภายในชิปเป็นสถาปัตยกรรม Zen 6 ชิปรุ่นสูงสุด คือ AMD EPYC 9996 มีซีพียู 256 คอร์ 512 เธรด ภายในเป็นแคช L3 ขนาด 1024MB อัตราการปล่อยความร้อน 600W สามารถใส่ซีพียูได้ 2 ซ็อกเก็ต (รวม 1024 เธรด) การเชื่อมต่อเป็น PCIe 6.0 96 เลน หน่วยความจำ DDR5 สูงสุด 12800MT/s แบนวิดท์สูงสุด 1638GB/s สถาปัตยกรรมภายในเป็น Zen 6 เป็นรุ่นแรกที่รันคำสั่งต่อสัญญาณนาฬิกาได้สูงขึ้น 20-31% แล้วแ",
+   "title_th": "AMD เปิดตัวซีพียู EPYC รุ่นที่ 6 สถาปัตยกรรม Zen 6",
+   "summary_th": "AMD เปิดตัวซีพียูเซิร์ฟเวอร์รุ่นที่ 6 ที่มาพร้อมสถาปัตยกรรม Zen 6 โดยรุ่นสูงสุดมีถึง 256 คอร์ 512 เธรด รองรับการใช้งานในศูนย์ข้อมูลขนาดใหญ่",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "AMD",
+    "Meta",
+    "Microsoft"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a3f9078912ac",
+   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+   "source": "NVIDIA",
+   "published": "2026-11-11T03:00:20+00:00",
+   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+   "text": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+   "title_th": "NVIDIA ใช้ AI ช่วยคัดแยกขยะเพื่อการรีไซเคิล",
+   "summary_th": "การใช้ Vision AI และหุ่นยนต์ในการคัดแยกขยะประเภทต่างๆ เช่น เสื้อผ้าและขวดพลาสติกออกจากสายพาน เพื่อเพิ่มประสิทธิภาพในการนำวัสดุกลับมาใช้ใหม่",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f10374e98061",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-10T21:30:36+00:00",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "text": "submitted by /u/themixtergames [link] [comments]",
+   "title_th": "Apple เตรียมเปิดตัวแอพใหม่บน Mac ช่วยให้รันโมเดล AI ในเครื่องได้ง่ายขึ้น",
+   "summary_th": "มีรายงานว่า Apple กำลังพัฒนาแอพพลิเคชันใหม่สำหรับ macOS เพื่ออำนวยความสะดวกให้ผู้ใช้สามารถรันโมเดล AI ภายในเครื่องได้โดยง่าย",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "40bd82e68c62",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-10T21:11:05+00:00",
+   "title": "My AI is lazier than me",
+   "text": "Let's start with my setup: I have 2 Sparks running glm 5.3 flash, and the harness is hermes agent running on a MacBook Air. While trying to justify all the money I spent (around 6500 euro for both machines, a long time ago when prices were just high instead of outrageous), I decided to hop on the decompilation wagon. As I know my fable at home is not \"THAT\" smart, I decided to start with something small: I asked it to decompile and recompile the original Need for Speed Special Edition for MS-DOS, using the famous rea repo from GitHub. Its first reaction was \"I know a better way, we will use DO",
+   "title_th": "ประสบการณ์การใช้งาน AI ในเครื่องกับงานเขียนโปรแกรม",
+   "summary_th": "ผู้ใช้แบ่งปันประสบการณ์การรันโมเดลภาษาในเครื่องเพื่อทดลองงานด้านการทำวิศวกรรมย้อนกลับซอฟต์แวร์เก่า",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "571fb0494bf3",
    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
@@ -653,34 +780,6 @@
    "dedup": true
   },
   {
-   "id": "af7403b45639",
-   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-10T17:30:00+00:00",
-   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-   "text": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-   "title_th": "Anthropic เปิดตัว Claude Meetings ช่วยสรุปการประชุมและจัดการงานในที่ทำงาน",
-   "summary_th": "Claude สามารถร่างแผนงาน สรุปไทม์ไลน์บนไวท์บอร์ด และตอบคำถามระหว่างการประชุมได้ โดยเชื่อมต่อกับแอปพลิเคชันการทำงานเพื่อดึงข้อมูลสำคัญมาใช้งาน ช่วยเพิ่มประสิทธิภาพในการทำงานร่วมกัน",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic",
-    "Google"
-   ],
-   "importance": 3,
-   "ai": true,
-   "also": [
-    {
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1lkekszdzZzWXNDOXRjbGg1SWhiaFR5NXZrWVNuSjluX0xOX1BQcm9YZDlneHJJU3dEOXA4Z0pvY09pbXhua1pGWlJKWU51OVNmVFdTNzY1QWN2cjl0b0ttTHR1b0cyQW9RX0habzJ3MVp1dHc2YXh6RGZLNHJGY3hCMlhsakFsOEUtSWJXUWVpb3I5eHpmcGNhVm5JTlo2VVE?oc=5"
-    },
-    {
-     "source": "Axios",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43RzRod0FibUhPX1ZYX09KMHdodFZMQWNOcFR1dGh5Q2dsaDJ1QjhjWjIzbWhJamI4SGtJUHQ1S3V0YUZWYnp3bWowbXhUMWhpMUxObFNpakVHNm9yZ1VKbzJqTUNwekNUNG15ZGhTdkxJVWdicktQOFNMVHJFZw?oc=5"
-    }
-   ],
-   "dedup": true
-  },
-  {
    "id": "11cf09881a3b",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXRWOExBd2xhc1VhNmZQY1lLQ2R6b3VhZ2kzVm1nMUJfb1RLbnNiaW5LcW1UVUdiQXRqRGlXZHFwODZMSHhsZC1JdXViZTNtUFh3a2JJWWNzdHFCYXlQMWFXeGNIbDVHOFJ3Ni1pRVRwZ0N4Njc0M2ZrVUxBR2FCaHFSMWZ1UFNPMzdKbnEzcUZwaE5BMXU0?oc=5",
    "source": "Engadget",
@@ -745,7 +844,8 @@
    "summary_th": "Google เปิดให้สาธารณชนใช้งาน Gemini 4 Carbon ซึ่งเป็นโมเดลที่ทรงพลังที่สุดของบริษัท โดยมาพร้อมกับความสามารถในการทำงานร่วมกันแบบกลุ่มหรือ Swarm",
    "category": "โมเดลใหม่",
    "companies": [
-    "Google"
+    "Google",
+    "DeepMind"
    ],
    "importance": 5,
    "ai": true,
@@ -753,6 +853,10 @@
     {
      "source": "Hacker News",
      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    },
+    {
+     "source": "Google DeepMind",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
     }
    ],
    "dedup": true
@@ -785,11 +889,30 @@
    "summary_th": "Anthropic ขยายขอบเขตผลิตภัณฑ์เข้าสู่ตลาดซอฟต์แวร์สำนักงานเพื่อตอบโจทย์ลูกค้าองค์กร โดยมุ่งเน้นการแข่งขันกับผู้เล่นรายใหญ่ในตลาด",
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [
-    "Anthropic"
+    "Anthropic",
+    "Google"
    ],
-   "importance": 3,
+   "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1lkekszdzZzWXNDOXRjbGg1SWhiaFR5NXZrWVNuSjluX0xOX1BQcm9YZDlneHJJU3dEOXA4Z0pvY09pbXhua1pGWlJKWU51OVNmVFdTNzY1QWN2cjl0b0ttTHR1b0cyQW9RX0habzJ3MVp1dHc2YXh6RGZLNHJGY3hCMlhsakFsOEUtSWJXUWVpb3I5eHpmcGNhVm5JTlo2VVE?oc=5"
+    },
+    {
+     "source": "Axios",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43RzRod0FibUhPX1ZYX09KMHdodFZMQWNOcFR1dGh5Q2dsaDJ1QjhjWjIzbWhJamI4SGtJUHQ1S3V0YUZWYnp3bWowbXhUMWhpMUxObFNpakVHNm9yZ1VKbzJqTUNwekNUNG15ZGhTdkxJVWdicktQOFNMVHJFZw?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFRaS1IwRWlsMG5CWnhCV0pEUkdtcjU0MHY4a0Vnb0RFem90WWl5cFg4VXhqcmlOM2VzaVZnY0ZfSVJ6TnU0SE1wbFNzMVpaV0ZIcHdURFBoQnNsY0Y5cktFbTVlV0FpSnNpcF9MVkNlWUstWGtKU0ZicDZTQmpCdUNyczlPemVpRF9HRExBdExqZk9CbU96bjFqVV9HNVh3NWowZGlMcHBHUnRtRkpYVzYtTjY5cC1iYnNXcENzTDZtZw?oc=5"
+    }
+   ]
   },
   {
    "id": "5d032b845107",
@@ -1159,6 +1282,24 @@
    "dedup": true
   },
   {
+   "id": "1ff74ee2cb10",
+   "url": "https://openai.com/index/cogent-security",
+   "source": "OpenAI",
+   "published": "2026-11-10T00:00:00+00:00",
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "text": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+   "title_th": "Cogent ร่วมมือ OpenAI พัฒนาโซลูชันป้องกันภัยไซเบอร์สำหรับองค์กร",
+   "summary_th": "Cogent นำโมเดลของ OpenAI มาผสานกับบริบทขององค์กรเพื่อสร้างระบบตัวแทน AI ที่ช่วยตรวจจับและแก้ไขช่องโหว่ด้านความปลอดภัยโดยอัตโนมัติ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Cogent",
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "28d8b7cf72a0",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94/",
    "source": "r/LocalLLaMA",
@@ -1353,6 +1494,14 @@
     {
      "source": "TechCrunch AI",
      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152145"
+    },
+    {
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51VG1hT2dUTmZtZ1M3THp2YTRfR0hKelZ6VldSRGxPLXA1RVNDMjEtb21IaG10Q2Nianpiek55T0lXVkNDdE1IejhoekVUeVRNVE12R1ZEN0trNmJYY05ocXpKZW5mTHRsMjdhUEpXMGVVZFZFNXpGLU5jQ0Y?oc=5"
     }
    ],
    "dedup": true
@@ -1371,6 +1520,36 @@
     "OpenAI",
     "AWS"
    ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f2963506946a",
+   "url": "https://huggingface.co/papers/2611.14309",
+   "source": "HF Daily Papers",
+   "published": "2026-11-09T19:00:00+00:00",
+   "title": "MMDM: Measuring Massive Multitask Decision Making",
+   "text": "System-1 Decision Models directly make structured probabilistic decisions over query-specified options given a state in a single forward pass, without autoregressively generating reasoning trajectories or textual responses. Recent evaluations cover diverse tasks but often rely on existing benchmarks, where prior exposure to test material can obscure generalization. Moreover, real-world decision making often involves long contexts, large option spaces, and complex logical dependencies, challenges that existing benchmarks do not adequately capture together. Thus, we introduce MMDM (Massive Multi",
+   "title_th": "งานวิจัย MMDM นำเสนอโมเดลตัดสินใจแบบไม่ต้องสร้างเหตุผลเชิงข้อความ",
+   "summary_th": "งานวิจัยนำเสนอ MMDM ซึ่งเป็นโมเดลที่ตัดสินใจเชิงความน่าจะเป็นได้โดยตรงในขั้นตอนเดียว โดยไม่ต้องอาศัยการสร้างเหตุผลหรือคำตอบแบบข้อความเหมือนโมเดลทั่วไป",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bbabebb08df2",
+   "url": "https://huggingface.co/papers/2611.11166",
+   "source": "HF Daily Papers",
+   "published": "2026-11-09T19:00:00+00:00",
+   "title": "DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight",
+   "text": "Dexterous manipulation requires rich spatial foresight over both the surrounding scene and the robot hand. Existing world-action models often acquire such predictive knowledge through explicit future prediction. We introduce DexForesight, a framework that learns spatial foresight implicitly by injecting dynamics-aware world representations into the latent space of a dexterous policy. During training, DexForesight learns an action-conditioned spatial world model from offline scene depth, kinematic hand geometry, and demonstration trajectories. The world model predicts 3D hand-point motion and v",
+   "title_th": "DexForesight: กรอบการทำงานใหม่เพื่อเพิ่มทักษะการควบคุมหุ่นยนต์ผ่าน Spatial Foresight",
+   "summary_th": "DexForesight เป็นเฟรมเวิร์กที่ช่วยให้หุ่นยนต์เรียนรู้การคาดการณ์เชิงพื้นที่แบบแฝง เพื่อเพิ่มประสิทธิภาพในการควบคุมมือหุ่นยนต์ให้มีความแม่นยำขึ้น โดยใช้การเรียนรู้จากข้อมูลเชิงลึกของฉากและจลนศาสตร์แบบออฟไลน์",
+   "category": "งานวิจัย",
+   "companies": [],
    "importance": 3,
    "ai": true,
    "dedup": true
@@ -2225,6 +2404,36 @@
    "title_th": "Reframe: กรอบการทำงานใหม่เพื่อเพิ่มประสิทธิภาพการใช้เครื่องมือของ Visual Agents",
    "summary_th": "Reframe เป็นกรอบการทำงานหลังการฝึกฝนที่มุ่งเน้นการจัดตำแหน่งสถานะการสังเกตการณ์สำหรับ Visual Agents เพื่อแก้ปัญหาการมองข้ามข้อมูลจากเครื่องมือและการตัดสินใจที่ขาดความแม่นยำ วิธีนี้ช่วยให้โมเดลสามารถเรียนรู้และใช้เครื่องมือในการให้เหตุผลเชิงภาพได้ดียิ่งขึ้น",
    "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cbaff44eace9",
+   "url": "https://huggingface.co/papers/2611.12426",
+   "source": "HF Daily Papers",
+   "published": "2026-11-08T19:00:00+00:00",
+   "title": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
+   "text": "Discrete autoregressive modeling, notably through next-token prediction, has become a cornerstone of modern language models. Extending this paradigm to vision allows visual and language models to converge on a unified framework, thereby fostering shared methodology and infrastructure. This work investigates a central question: how far can a finite discrete vocabulary go in representing the richness of the visual world? We present dNaViT, a Discrete Native-resolution Vision Transformer that produces discrete visual primitives analogous to language tokens. Built upon a frozen pretrained encoder,",
+   "title_th": "dNaViT: การใช้ Discrete Codes เพื่อสร้างตัวแทนข้อมูลภาพแบบอเนกประสงค์",
+   "summary_th": "งานวิจัยนี้นำเสนอ dNaViT ซึ่งเป็น Vision Transformer ที่ใช้การสร้างแบบจำลองแบบไม่ต่อเนื่อง (Discrete autoregressive) เพื่อรวมโครงสร้างพื้นฐานของโมเดลภาษาและภาพเข้าด้วยกัน ช่วยให้การประมวลผลข้อมูลภาพมีความเป็นเอกภาพมากขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6441feaeee62",
+   "url": "https://huggingface.co/papers/2611.11995",
+   "source": "HF Daily Papers",
+   "published": "2026-11-08T19:00:00+00:00",
+   "title": "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
+   "text": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure optimization tasks across different levels. We evaluate six models across 150 runs with 24-hour budgets, totaling over 10,000 GPU-hours. Our results show that model rankings vary with the evaluation horizon, while 135 of the 150 runs achieve further improvements during the second half of their budgets. These findings indicate that shorter evaluations can overlook both optimization gains and changes ",
+   "title_th": "Infrathon: เกณฑ์มาตรฐานใหม่สำหรับประเมิน AI Agent ในการปรับแต่งโครงสร้างพื้นฐาน",
+   "summary_th": "Infrathon เป็นชุดทดสอบใหม่ที่ใช้ประเมินความสามารถของ AI Agent ในการปรับแต่งโครงสร้างพื้นฐาน AI ในระยะยาว ผลการทดสอบชี้ให้เห็นว่าประสิทธิภาพของโมเดลมีความแตกต่างกันตามระยะเวลาที่ใช้ในการประเมิน",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 3,
    "ai": true,
@@ -10763,235 +10972,6 @@
     "Amazon"
    ],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7a0b3f7203f8",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwOTRqSmk0WjAweVZQNktPUEZQcVRTRDNOeUpQLVVtZmFrSVVBUjIwTFc1MkItS0poallzN3M1LTJtVW5TbzNYUXVjVWlrNjZZVmhwYkY3WQ?oc=5",
-   "source": "Hfocus.org",
-   "published": "2026-10-28T05:15:04+00:00",
-   "title": "เปิดเวที DTAM Digital Hackathon 2026 แข่งพัฒนา AI ต่อยอดภูมิปัญญาไทย",
-   "text": "",
-   "title_th": "DTAM จัดงาน Digital Hackathon 2026 พัฒนา AI ต่อยอดภูมิปัญญาไทย",
-   "summary_th": "มีการจัดเวทีแข่งขันพัฒนา AI เพื่อนำมาประยุกต์ใช้ในการต่อยอดภูมิปัญญาไทยในงาน DTAM Digital Hackathon 2026",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "77b008858811",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-28T04:34:41+00:00",
-   "title": "Dirt cheap GPUs coming next year",
-   "text": "I think a turn of events are pointing towards a very likely crash in prices in the coming months. With a single gb300 rack being to serve all of Openrouter's traffic for DSV4.1 Flash( https://x.com/thdxr/status/2115165365630026178 ) Half of data center buildouts already being cancelled/stalled. Neoclouds unable to finance debt for their compute, and being stuck in a 5 year deal with no confirmed demand. AI adoption not matching expectations. Smaller models being able to serve majority of the requests. OpenAI/Anthropic being unlikely to finance their coming compute contracts. I think we will se",
-   "title_th": "คาดการณ์ราคา GPU อาจลดลงในปีหน้า",
-   "summary_th": "มีการวิเคราะห์ถึงแนวโน้มราคา GPU ที่อาจปรับตัวลดลงเนื่องจากความต้องการในตลาดไม่เป็นไปตามคาด และการที่โมเดลขนาดเล็กสามารถทำงานได้ดีขึ้น",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "ecdc6b48bf5b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhdmlk/artificial_analysis_intelligence_index_v5_major/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-28T03:36:56+00:00",
-   "title": "Artificial Analysis Intelligence Index v5 (major update)",
-   "text": "Artificial Analysis Intelligence Index has been updated to v5, which according to them is a major upgrade resulting in a more accurate ranking. Notably, this update widens the gap between open-weight models and closed ones. Some people already questioning its accuracy based on their experiences with models (GPT-Terra-6.1 > Fable-5.1). Also, this update, v5, has 60% of the Index based on evaluations with private test sets or held-out answers, which makes reproducing the results impossible. From their announcement: “The open weights gap widens from 3 points to 12: Kimi K3.1 Pro (weights not yet ",
-   "title_th": "Artificial Analysis อัปเดต Intelligence Index v5",
-   "summary_th": "มีการอัปเดตดัชนีวัดประสิทธิภาพโมเดล AI เวอร์ชัน 5 ซึ่งเน้นการประเมินด้วยชุดทดสอบส่วนตัวมากขึ้น ทำให้ช่องว่างระหว่างโมเดลโอเพนซอร์สและโมเดลปิดกว้างขึ้น",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "55d127c81982",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
-   "source": "Anthropic",
-   "published": "2026-10-28T01:16:46+00:00",
-   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-   "text": "",
-   "title_th": "Anthropic ขยายความร่วมมือกับ GSA นำ Claude ไปใช้ในหน่วยงานรัฐทุกระดับ",
-   "summary_th": "Anthropic ประกาศขยายความร่วมมือกับ GSA เพื่อให้หน่วยงานภาครัฐทุกระดับสามารถเข้าถึงและใช้งาน Claude ได้อย่างกว้างขวางขึ้น",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic",
-    "GSA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "also": [
-    {
-     "source": "FedScoop",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50MnRrUWwyYUg2azNuWVBkYUdxeGxnVjJqVm43NThxQ2d0eGVrZUZTTHdIVngyWmVFRXdfUEFGcXVGMmFKRWxKVTc1Q2x3TDBSQ1pwY0NLUEphNUZwNk5nc2lSYlg?oc=5"
-    },
-    {
-     "source": "ExecutiveGov",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56X2lqb0JtRDhTZ19hUmN6MEF3dVJkNTdGSGp1MGZRV04zRHN0R0tqU1l1SklfamlyUzhXU0g1YmJtRWRWbHdMVDJHengzeTVaNzFVN09nVWRhQTdya2s0WDRFdnoxcEw5ZHdUMHNZOWVjMm0zbktVZF9VNEVNRFU?oc=5"
-    },
-    {
-     "source": "Anthropic",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5"
-    }
-   ],
-   "dedup": true
-  },
-  {
-   "id": "1b16f2a2a47a",
-   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-28T01:15:28+00:00",
-   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-   "text": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-   "title_th": "เผยสัดส่วนการถือหุ้นของ Amazon ใน Anthropic ก่อนการทำ IPO",
-   "summary_th": "การแปลงหุ้นของ Anthropic เผยให้เห็นว่า Amazon ถือครองสัดส่วนหุ้นในบริษัทอย่างมีนัยสำคัญ ซึ่งจะได้รับผลประโยชน์มหาศาลจากการทำ IPO ของ Anthropic",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic",
-    "Amazon"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2836f05afa7b",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUJGRDYxZ0dJMk5hMjh3Q0k1UDlMU1NpcGlhLWhCdUVfLVgtU1dka1dZMk9QOXpFYS1HY2UyUU9SZU1SNGZpTkpuVm43S1VBY3BlbWE0cmxfSmR0TndfRk11dWM0RzJtZUM5SENaazl4OUkzY1Zmbnlhc200WUstZWdfUnJ5R2ZGN3VnOFpwNEZjZ2Z5NFNLWl80Zk5YN0t6Q01oWHh5X2Rsc2JGQWpIQ2pPbzNZUWRhQmZjdmxybWk?oc=5",
-   "source": "PYMNTS.com",
-   "published": "2026-10-28T00:54:28+00:00",
-   "title": "Anthropic Expands Integrations With Claude for Financial Advisors",
-   "text": "",
-   "title_th": "Anthropic เพิ่มการเชื่อมต่อ Claude สำหรับที่ปรึกษาทางการเงิน",
-   "summary_th": "Anthropic ขยายขีดความสามารถของ Claude ด้วยการเพิ่มการเชื่อมต่อใหม่ๆ เพื่อสนับสนุนการทำงานของที่ปรึกษาทางการเงินโดยเฉพาะ",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0946eb0301be",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
-   "source": "Britannica",
-   "published": "2026-10-28T00:52:11+00:00",
-   "title": "Anthropic | History, Controversies, & Claude AI",
-   "text": "",
-   "title_th": "สรุปประวัติและข้อถกเถียงเกี่ยวกับ Anthropic และ Claude AI",
-   "summary_th": "บทความสรุปภาพรวมความเป็นมาและประเด็นถกเถียงต่างๆ ที่เกี่ยวข้องกับบริษัท Anthropic และโมเดล AI อย่าง Claude",
-   "category": "อื่นๆ",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 1,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "9b367299b78a",
-   "url": "https://www.blognone.com/node/152040",
-   "source": "Blognone",
-   "published": "2026-10-28T00:44:05+00:00",
-   "title": "SK Hynix ไตรมาส 3/2026 ทำสถิติสูงสุดตามคาด รายได้รวมทะลุ 1 แสนล้านล้านวอน",
-   "text": "Body SK Hynix รายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้และกำไรยังคงทำสถิติสูงสุดอีกไตรมาส รายได้รวม 104.6 ล้านล้านวอน เพิ่มขึ้น 32% จาก ไตรมาสก่อนหน้านี้ กำไรจากการดำเนินงานเพิ่มขึ้น 38% เป็น 83.3 ล้านล้านวอน คิดเป็นอัตรากำไรจากการดำเนินงาน 80% และมีกำไรสุทธิ 39.8 ล้านล้านวอน SK Hynix ประเมินแนวโน้มในไตรมาสที่ 4 ว่าหน่วยความจำแบนด์วิธสูงรุ่นใหม่ HBM4 จะเข้ามาเป็นสินค้าหลักแทนที่ HBM3E ส่วนคำสั่งซื้อล่วงหน้าระยะยาวจากลูกค้ารายใหญ่ 14 ราย ครอบคลุมไปมากกว่าครึ่งหนึ่งของกำลังการผลิตปี 2027-2028 แล้ว ขณะที่ภาพรวมความต้อง",
-   "title_th": "SK Hynix เผยรายได้ไตรมาส 3/2026 ทำสถิติสูงสุด พร้อมมุ่งเน้น HBM4",
-   "summary_th": "SK Hynix รายงานผลประกอบการที่เติบโตอย่างแข็งแกร่ง โดยเตรียมผลักดัน HBM4 ให้เป็นสินค้าหลักแทนที่ HBM3E พร้อมรับคำสั่งซื้อล่วงหน้าจำนวนมาก",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "SK Hynix"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0e043503e602",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlhObWpLU0dJNzJkWnpRbmNXQzlfXzlPeEh0c0N0eXBVMVlWZF9YUEpGTGw5VHJjbXlQb0l3VXRUTE1ZdG9vbnM0RGRtZUh3Uk9DMWpDLXVfNTZMUmFGdUttd3hCM0tESlpvclE1bmRnekVlMWtMX20yQW1iR1dFNkpPemtvaFJKcTJOSFZtdzhscWJnNzF4UjJqUkU2TmE4bWJucDlDbVRFTEYtTWZ2bG5reHlVTVZKRHhNNXJIcFdHNEE?oc=5",
-   "source": "EdTech Innovation Hub",
-   "published": "2026-10-28T00:21:03+00:00",
-   "title": "Anthropic brings fundraising, hiring and AI governance tools to Claude for Nonprofits",
-   "text": "",
-   "title_th": "Anthropic เปิดตัวเครื่องมือช่วยองค์กรไม่แสวงหากำไรบน Claude",
-   "summary_th": "Anthropic นำเสนอเครื่องมือใหม่สำหรับองค์กรไม่แสวงหากำไรบนแพลตฟอร์ม Claude เพื่อช่วยในด้านการระดมทุน การจ้างงาน และการกำกับดูแล AI",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "81ef804488f9",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0NoUkRBemhmTEpYSEdEVThfNmlnWkRZcFF3YV83RFk5SHQwZl9GRGtVdXZtSGRmMFZUc013cjhUY3V4Z3g4c0piM2RkVXFFWThGajJmeVlNeVJuTmE1WDB5MGR1Q013bmZLS1ZNSGNyYXJ4WkRyMDFiZFBmNVM2cjdIMEQzTDBHUXJTN1JNLU5iNUw0eHR5N0xKc0RoX2pjeHh3YWFIUzY3N3Z4R1paeE9hX3VKbWFrWnc?oc=5",
-   "source": "internationalfinance.com",
-   "published": "2026-10-28T00:00:13+00:00",
-   "title": "ไมโครซอฟต์เสนอโครงการลาออกโดยสมัครใจให้กับพนักงาน 60,000 คน เนื่องจากต้นทุนด้านปัญญาประดิษฐ์ (AI) เพิ่มสูงขึ้น",
-   "text": "",
-   "title_th": "Microsoft เสนอโครงการลาออกโดยสมัครใจแก่พนักงาน ท่ามกลางต้นทุน AI ที่พุ่งสูง",
-   "summary_th": "Microsoft เสนอโครงการให้พนักงานลาออกโดยสมัครใจ โดยมีรายงานว่าสาเหตุส่วนหนึ่งมาจากต้นทุนการดำเนินงานด้านปัญญาประดิษฐ์ที่เพิ่มสูงขึ้นอย่างต่อเนื่อง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Microsoft"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "01f0d2f05530",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa250YjZiTTJrYkRCQ0IxeWMySkptVkRtSWl0T0lUazNnTXl0Mll1MVBaQnNzSXBzdGQxcFJZdEJLTkRZUzMzVUpfT2FPci16VmVwaERNX3FTTnlONlRVWjFOMjQxVFZOZXNaM0NiM0xUakVlaEllQWh0SElLdF9raEdKTUNQeGxFX2pOdTk5dndtSkhrc1o5UzctU2pZLVdkZVdnNG9wUzd5b3hOMnpWRy15ckJVOElCLVg1Y2Z3?oc=5",
-   "source": "WCIV",
-   "published": "2026-10-27T23:52:25+00:00",
-   "title": "Anthropic says Claude generated 35,000 designs in allergy drug research",
-   "text": "",
-   "title_th": "Claude ช่วยวิจัยยาแก้แพ้ด้วยการสร้างแบบจำลองกว่า 35,000 รูปแบบ",
-   "summary_th": "Anthropic ระบุว่า Claude มีบทบาทสำคัญในการช่วยวิจัยยาแก้แพ้ โดยสามารถสร้างแบบจำลองการวิจัยได้ถึง 35,000 รูปแบบ",
-   "category": "งานวิจัย",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a2f907c053da",
-   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-27T23:34:27+00:00",
-   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-   "text": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-   "title_th": "ผู้ปกครองฟ้อง OpenAI หลังลูกสาวหยุดยาชักตามคำแนะนำของ ChatGPT",
-   "summary_th": "ครอบครัวหนึ่งยื่นฟ้อง OpenAI โดยอ้างว่า ChatGPT แนะนำให้ลูกสาวหยุดใช้ยาควบคุมอาการชักโดยไม่ปรึกษาแพทย์ ซึ่งนำไปสู่เหตุการณ์เสียชีวิต",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a81d0c1c06b0",
-   "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-27T22:55:41+00:00",
-   "title": "The data center boom has an upside: innovation for the US grid",
-   "text": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-   "title_th": "ความต้องการใช้พลังงานจากศูนย์ข้อมูล AI กระตุ้นการพัฒนาระบบโครงข่ายไฟฟ้า",
-   "summary_th": "การเติบโตของศูนย์ข้อมูล AI สร้างแรงกดดันต่อโครงข่ายไฟฟ้า แต่ในขณะเดียวกันก็นำไปสู่โอกาสใหม่ๆ ในการปรับปรุงและพัฒนาระบบโครงข่ายไฟฟ้าให้ทันสมัยขึ้น",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
    "ai": true,
    "dedup": true
   }

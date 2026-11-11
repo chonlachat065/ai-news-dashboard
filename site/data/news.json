@@ -1,56 +1,54 @@
 {
- "updated_at": "2026-11-11T16:16:17+00:00",
+ "updated_at": "2026-11-11T22:49:41+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-11T16:16:17+00:00",
-  "headline": "ความก้าวหน้าของ AI Agent และโมเดลภาษาขนาดใหญ่กำลังพลิกโฉมทั้งภาคธุรกิจ การวิจัยทางวิทยาศาสตร์ และการปรับตัวขององค์กรทั่วโลก",
+  "generated_at": "2026-11-11T22:49:41+00:00",
+  "headline": "ความก้าวหน้าของโมเดล AI และโครงสร้างพื้นฐานกำลังเร่งตัวขึ้นอย่างรวดเร็วท่ามกลางการเติบโตทางธุรกิจและการปรับตัวขององค์กรทั่วโลก",
   "points": [
    {
-    "text": "การพัฒนา AI Agent มีความคืบหน้าอย่างก้าวกระโดด ทั้งการนำไปใช้ค้นพบพีระมิดมายา การแก้โจทย์ควอนตัมคอมพิวติ้ง การบริหารจัดการองค์กร และการปรับปรุงประสิทธิภาพด้วยเทคนิคแบบ end-to-end",
-    "ids": [
-     "8d8bc38f54a7",
-     "6fcd75d626dd",
-     "6619f09dbc0d",
-     "0ccfb511c0c8"
-    ]
-   },
-   {
-    "text": "บริษัทเทคโนโลยีชั้นนำอย่าง OpenAI, Anthropic, Google และ Baidu เร่งขยายขีดความสามารถของผลิตภัณฑ์ AI ผ่านฟีเจอร์ใหม่ๆ เช่น Claude Artifacts, ChatGPT Business และการอัปเดตโมเดลภาษาเพื่อแข่งขันในตลาดซอฟต์แวร์สำนักงานและเครื่องมือค้นหา",
-    "ids": [
-     "288a991a739f",
-     "445fc6287a33",
-     "11cf09881a3b",
-     "302666bbe4ef",
-     "b73105fe4ec5",
-     "2d8f602ac5a8",
-     "493c297943b5",
-     "d4351ce5bada"
-    ]
-   },
-   {
-    "text": "ความเคลื่อนไหวทางธุรกิจและกฎระเบียบมีความเข้มข้นขึ้น โดย OpenAI มีรายได้พุ่งสูงเป็นประวัติการณ์ ขณะที่รัฐนิวยอร์กเตรียมบังคับใช้กฎหมายความปลอดภัย AI ที่เข้มงวด และองค์กรต่างๆ เริ่มปรับโครงสร้างพนักงานเพื่อรองรับการใช้งาน AI",
+    "text": "ความเคลื่อนไหวของบริษัท AI ชั้นนำ: OpenAI มีรายได้ทะลุ 1 หมื่นล้านดอลลาร์, Anthropic เติบโตอย่างรวดเร็วด้วยฟีเจอร์ใหม่และประสิทธิภาพของโมเดล Claude, ในขณะที่ Baidu เตรียมเปิดตัว Ernie 5.5 Flash",
     "ids": [
      "2ed3a890d3d8",
-     "c012fc7ecd62",
-     "8be53e1fe76c"
+     "d4351ce5bada",
+     "86e354e7f77a",
+     "0e97b8ffb45a",
+     "288a991a739f",
+     "493c297943b5",
+     "302666bbe4ef"
     ]
    },
    {
-    "text": "นวัตกรรมด้านฮาร์ดแวร์และเทคนิคการพัฒนาโมเดลยังคงเติบโตอย่างต่อเนื่อง ตั้งแต่การเปิดตัวซีพียู Zen 6 ของ AMD ไปจนถึงงานวิจัยด้านการลบน้ำหนักโมเดล (Deletion Tuning) และการรัน AI บนอุปกรณ์พกพา",
+    "text": "นวัตกรรมฮาร์ดแวร์และโครงสร้างพื้นฐาน: AMD เปิดตัวซีพียู Zen 6, Fractile ระดมทุนพัฒนาชิป AI, และมีการปรับกลยุทธ์การเงินของ CoreWeave รวมถึงความท้าทายด้านพลังงานและกฎระเบียบในการสร้างศูนย์ข้อมูล",
     "ids": [
      "5df03b989f16",
-     "7bcb98eb0c6b",
-     "b22522d14a17",
-     "f10374e98061",
-     "d2296a64c0dc"
+     "6f3c74a04fea",
+     "850c0644106f",
+     "bdeaa23eb988"
     ]
    },
    {
-    "text": "มีการค้นพบช่องโหว่ความปลอดภัยใหม่ใน AI Agent ผ่านการแก้ไขเซลล์ประสาทจำลอง รวมถึงการนำ AI ไปประยุกต์ใช้ในงานเฉพาะทาง เช่น การวิจัยระดับเซลล์และการคัดแยกขยะเพื่อสิ่งแวดล้อม",
+    "text": "การประยุกต์ใช้ AI ในงานวิจัยและอุตสาหกรรม: วิศวกร Google ใช้ AI Agent ค้นพบพีระมิดมายา, Google DeepMind เปิดตัว AlphaGenome 2, และ NVIDIA นำ AI มาใช้ในงาน Edge Computing และการรีไซเคิล",
+    "ids": [
+     "8d8bc38f54a7",
+     "a86af765ffaf",
+     "ce1b38dbd37c",
+     "a3f9078912ac"
+    ]
+   },
+   {
+    "text": "ความปลอดภัยและธรรมาภิบาล: นักวิจัยพบช่องโหว่ความปลอดภัยใหม่ใน AI Agent ผ่านการแก้ไขเซลล์ประสาทจำลอง และผู้เชี่ยวชาญกำลังจับตาดูสถานการณ์ธรรมาภิบาลภายในของ NVIDIA",
     "ids": [
      "ae89ed3b0589",
-     "a86af765ffaf",
-     "a3f9078912ac"
+     "e28ff692f118"
+    ]
+   },
+   {
+    "text": "การพัฒนาเทคนิคและเครื่องมือสำหรับนักพัฒนา: Google เปิดตัว Gemini Decisions API, Microsoft จดสิทธิบัตรการใช้ GPU ผู้ใช้ทั่วไปเทรน AI, และมีการเผยแพร่เทคนิคใหม่จาก Hugging Face และ Unsloth",
+    "ids": [
+     "cce714811b51",
+     "6fcbd810887c",
+     "7f1b1d01c93f",
+     "d2296a64c0dc"
     ]
    }
   ]
@@ -495,9 +493,173 @@
   "14eef01dc0f4",
   "bad6ee94c356",
   "e879c6fc35d4",
-  "fbebd5df36c9"
+  "fbebd5df36c9",
+  "70b89fd3ef03",
+  "70a69d3bb582",
+  "0e2ae20c9d41",
+  "2f9f4f06abb7",
+  "b5510cf87477",
+  "94fcbf10f807",
+  "ae5556d61c0b",
+  "c185ee72f0f3"
  ],
  "items": [
+  {
+   "id": "33bddd1c4002",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "source": "The Verge AI",
+   "published": "2026-11-11T21:54:21+00:00",
+   "title": "United won’t let your AI agent book your flight",
+   "text": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]",
+   "title_th": "United Airlines สั่งห้าม AI Agent จองตั๋วเครื่องบิน",
+   "summary_th": "United Airlines ประกาศไม่อนุญาตให้ AI Agent ส่วนบุคคลเข้ามาจองตั๋วผ่านระบบของสายการบิน โดยอ้างถึงความกังวลด้านความเป็นส่วนตัวและกฎระเบียบ แม้ว่าปัจจุบันการใช้งานในลักษณะนี้จะยังไม่แพร่หลายมากนัก",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "United Airlines"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bdeaa23eb988",
+   "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-11T20:02:14+00:00",
+   "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+   "text": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+   "title_th": "ปัญหาคอขวดและกฎระเบียบที่ชะลอการสร้างศูนย์ข้อมูล",
+   "summary_th": "การลงทุนมหาศาลในโครงสร้างพื้นฐาน AI กำลังเผชิญกับความท้าทายในโลกความเป็นจริง ทั้งการคัดค้านจากคนในพื้นที่และปัญหาการจัดหาพลังงานไฟฟ้าที่ล่าช้า",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "850c0644106f",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-11T19:54:00+00:00",
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "text": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+   "title_th": "CoreWeave ปรับกลยุทธ์การเงินเพื่อเร่งการเติบโตของ AI",
+   "summary_th": "CoreWeave เริ่มปรับเปลี่ยนรูปแบบธุรกิจโดยขอให้ลูกค้าชำระเงินล่วงหน้าและใช้สัญญาระยะสั้นมากขึ้น เพื่อระดมทุนสนับสนุนการขยายตัวของโครงสร้างพื้นฐาน AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "CoreWeave"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6f3c74a04fea",
+   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-11T19:34:55+00:00",
+   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+   "text": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+   "title_th": "Fractile ระดมทุน 720 ล้านดอลลาร์ เร่งพัฒนาชิป AI",
+   "summary_th": "Fractile บริษัทจากอังกฤษได้รับเงินทุนก้อนใหญ่เพื่อยกระดับการแข่งขันในตลาดชิปประมวลผลที่ออกแบบมาเพื่อ AI โดยเฉพาะ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Fractile"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6fcbd810887c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtowe4/microsoft_files_a_patent_application_to_train_ai/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-11T18:05:04+00:00",
+   "title": "Microsoft files a patent application to train AI models on idle consumer GPUs",
+   "text": "According to Microsoft's patent application, it explains breaking down training into small tasks and sending them to devices of owners who opted in. Credits will be the reward. it's just an app and no pay out rate is advertized so I don't even know if the credits would be enough for the electricity. Anyway, home internet latency feels like the bigger problem to me. https://insider-gaming.com/microsoft-ai-use-your-gpu/ (English is not my native language, I used an LLM to help translate this post.) submitted by /u/Queasy_Back2588 [link] [comments]",
+   "title_th": "Microsoft จดสิทธิบัตรใช้ GPU ของผู้ใช้ทั่วไปช่วยเทรน AI",
+   "summary_th": "Microsoft ยื่นจดสิทธิบัตรแนวคิดการแบ่งงานเทรนโมเดล AI ขนาดเล็กไปประมวลผลบน GPU ของผู้ใช้ทั่วไปที่ยินยอมเข้าร่วมโครงการ โดยแลกกับเครดิตใช้งาน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Microsoft"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cce714811b51",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "source": "Google AI Blog",
+   "published": "2026-11-11T18:00:00+00:00",
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "text": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+   "title_th": "Google เปิดตัว Gemini Decisions API สำหรับการตัดสินใจแบบหลายรูปแบบ",
+   "summary_th": "Google เปิดตัว Gemini Decisions API ที่ขับเคลื่อนด้วยโมเดล Gemini Decision เพื่อช่วยให้การตัดสินใจแบบ Multimodal มีความรวดเร็วและแม่นยำยิ่งขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0e97b8ffb45a",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnY3SEdBcnM4NEVjV1hISVF0SUxqSjh4MWtkdkI4b1BGS0U0Vi0xV3lUbUVhR0dvalBHOElHX1NtVWJwNzlkb1N3WjBrbjdpZkkwQjZzVEJPVHlyOEphNG1rSUVMYWVYRFhreVhBeEFScFRBYXhmUmV1VGMyN2FWRFJJaFMwNl9PQ1owaTFXc0F5a1lOYXFBX2lnYWRvZndpYXJEazZDU1Ywai10eDd2aDFENWp5U1FMYjl0OS1ZdDJyOUZNMEE?oc=5",
+   "source": "Forbes",
+   "published": "2026-11-11T16:51:01+00:00",
+   "title": "Claude Traffic Surges 24% In October As Anthropic IPO Looms—Beating AI Rivals",
+   "text": "",
+   "title_th": "ยอดผู้ใช้ Claude พุ่ง 24% ในเดือนตุลาคม แซงหน้าคู่แข่ง AI",
+   "summary_th": "ปริมาณการใช้งาน Claude เติบโตอย่างมีนัยสำคัญในช่วงเดือนตุลาคม ท่ามกลางกระแสการเตรียมตัวเข้าสู่ตลาดหลักทรัพย์ของ Anthropic",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ce1b38dbd37c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-11T16:34:38+00:00",
+   "title": "Open source self driving is here!",
+   "text": "Today NVIDIA releases Alpamayo 2 Edge! I work for Embedl and we have already released an optimized version of the model that is more than 10x faster than pytorch when run on edge hardware like AGX Thor! The model is trained in an RL loop (!) and takes in 6 cameras and the recent motion. Feel free to check it out - you can even run it on a real Thor at: https://embedl.com/nvidia/alpamayo2-edge/thor?tab=run submitted by /u/Course_Latter [link] [comments]",
+   "title_th": "NVIDIA เปิดตัว Alpamayo 2 Edge สำหรับระบบขับเคลื่อนอัตโนมัติ",
+   "summary_th": "NVIDIA ปล่อยโมเดล Alpamayo 2 Edge สำหรับงาน Edge Computing โดยมีการปรับแต่งให้ทำงานได้รวดเร็วกว่าเดิมมากบนฮาร์ดแวร์เฉพาะทางอย่าง AGX Thor",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Nvidia",
+    "Embedl"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7f1b1d01c93f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-11T16:17:55+00:00",
+   "title": "New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs",
+   "text": "Hey r/LocalLLaMA ! We're releasing new new Unsloth Dynamic v3.1 GGUFs for Qwen3.8-27B! They're better by 5-10% accuracy on DeepSWE, Terminal Bench and more vs UD3, GSQ-RCO and Exllama-3! We're also improving our algorithms further so we can apply them to Qwen4 so folks can have efficient and accurate quants! All quants from 2-bit until 6-bit are updated. 3-bit ones are not, as we found UD3 to do on par with UD3.1. We are still improving all other quant sizes though! All benchmarks are 256K for agentic ones (DeepSWE, Terminal Bench), and 128K for the rest (LiveCodeBench etc). We used temperatur",
+   "title_th": "เปิดตัว Unsloth Dynamic v3.1 GGUFs สำหรับโมเดล Qwen3.8-27B",
+   "summary_th": "มีการปล่อยไฟล์ Quantized รูปแบบ GGUF เวอร์ชันใหม่สำหรับโมเดล Qwen3.8-27B ซึ่งให้ความแม่นยำสูงขึ้นเมื่อเทียบกับเวอร์ชันก่อนหน้า การอัปเดตนี้ครอบคลุมขนาดตั้งแต่ 2-bit ถึง 6-bit เพื่อเพิ่มประสิทธิภาพในการรันโมเดลบนเครื่องทั่วไป",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "2ed3a890d3d8",
    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
@@ -609,9 +771,15 @@
    "companies": [
     "Anthropic"
    ],
-   "importance": 2,
+   "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Computerworld",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUdzLVY0dmZ6LWlTTjEyVTBRRlFIWG0yV2dWekxnSlZhUDlaN3hrWmttX0ZmQ0pJQVBxb3p1ZlluZTZQLTZBa2RRcklIN0pvZG9QNDgyVkdvQWlKQ0NpOHR4bGNjRFpHMlQ2ak92eUR1RDhxMEFPZWp4dFc0enh0YUQyQ0lGT0sxN3Nqc3I2WlhGN2hPa1FLYWl4b3NSVmNubU01WjNhdmZBZ1hvOTBvM3lzcw?oc=5"
+    }
+   ]
   },
   {
    "id": "0ccfb511c0c8",
@@ -643,9 +811,15 @@
    "companies": [
     "Anthropic"
    ],
-   "importance": 2,
+   "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechTarget",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1MwT2h1RTlJWFZHV1NGdFFBSkp5a2N0LTdKRnNnaHJQODNjdm1ULWRURTFrTTdPUkhHSTlvQWdqT0hOclZDMnl2NnpvQ19fZEJfbEFDbU5wLWRMOTB6LU9yRURtTjlkbzJPWlJlM1VGSzRqR3RzUVVoeDlyMTU1Mk1GY1Bsc01iTzM1anZ1Mkx0Y3J1LXppN2s2U2VTbGtNNGtjX3c3clA?oc=5"
+    }
+   ]
   },
   {
    "id": "450a9863af99",
@@ -696,6 +870,25 @@
     "NASA"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "86e354e7f77a",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLWxCdDFqWG83WGFjblJ5bkc4azA3TzFOQ3FXa294MkRVMlFIV1JwSTB6MjBxb1pVdEk0Q2dMQTBvTmZFNTRSSnFJX2ZyZTRvZVlvSEJRNHQ1cUpaMVlNTDJqLUJHTlgxbUYxTFVyMlJZcDBYWm9ZWW5lLUNCVmdDMnBNdHJfSXpFd1c1T1pwVW5FTHBhdHhyWjl4bEkxZVExczgwNGFZek1UOUFOUnh5aThKeTUzWFNvc3VVTmpNTlU0dkNJLXg5cURjVVdBbmxieUxNUVl6U1EzZ20xUWpQMGlKT1dFajdpZ0l2bmFsQUlaUWtxbWxB0gH8AUFVX3lxTE1pcmlkV3Q5Q1ZyTnJaV1Vpc1BpRjBFb2NpdTIyc1VHb1dLaVF6REZBZWVYa19vS3lwQWJDY0kybWNoNmdVX0FGWVFrZVIxWDZyREpBMkFycTJzUWQ3cTV0SU1oZDVXd05ieXp1bWs0MlFzZFlPS19tRlQ2R1JmQnFqUGpSbVdIUEVGb2JxMmliM2JuSlpRUzlfRHIxUUM2OFItNXdEUGxPSEhaZER4YUJHOTVzSGw0Z1ZFYVJFRXF4QUc0OWdER1RoaWY2bmYzVVF6eW1zdG8yeFJXRkp4MG5uSE5PV1JOdldWTzVJb25qM043YU5IWkVoWjRMZw?oc=5",
+   "source": "Wccftech",
+   "published": "2026-11-11T11:11:17+00:00",
+   "title": "Anthropic Jeopardizes NVIDIA’s CUDA Moat As Its Claude Mythos Model Took Only 3 Days To Figure Out How To Run Another Model On AMD’s MI355X GPUs",
+   "text": "",
+   "title_th": "Claude Mythos ของ Anthropic รันโมเดลบน AMD MI355X ได้สำเร็จใน 3 วัน",
+   "summary_th": "โมเดล Claude Mythos ของ Anthropic สามารถหาวิธีรันโมเดลอื่นบน GPU รุ่น MI355X ของ AMD ได้อย่างรวดเร็ว ซึ่งอาจส่งผลกระทบต่อความได้เปรียบของระบบนิเวศ CUDA จาก NVIDIA",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic",
+    "NVIDIA",
+    "AMD"
+   ],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -953,6 +1146,23 @@
    "category": "งานวิจัย",
    "companies": [
     "Hugging Face"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8c999d6885d2",
+   "url": "https://openai.com/index/jiostar-vijay-seshadri",
+   "source": "OpenAI",
+   "published": "2026-11-11T00:00:00+00:00",
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "text": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+   "title_th": "บทเรียนการนำ AI ไปใช้งานจริงในระดับผู้ใช้ 500 ล้านคนจาก JioStar",
+   "summary_th": "Vijay Seshadri สถาปนิกหลักของ JioStar แบ่งปันประสบการณ์การทำ AI Discovery การประเมินผล และการวางระบบ Guardrails สำหรับการใช้งานจริงในสเกลผู้ใช้จำนวนมหาศาล",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "JioStar"
    ],
    "importance": 3,
    "ai": true,
@@ -2695,6 +2905,10 @@
     {
      "source": "TechCrunch AI",
      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
     }
    ],
    "dedup": true
@@ -10642,383 +10856,6 @@
    "category": "อื่นๆ",
    "companies": [
     "Meta"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "79cd916f6e75",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiT3Vhd05HY3RQLUlydTJEOWp1U2NNekhvWHpmNTZIaEV2LWFCb1lDcmhsX1dDR2FMbUlGVkNrNFZtSFU3S09BbXBhbHJFX2pwbXNaQkY0REYwSlRjQlY1NEYtal8?oc=5",
-   "source": "thestandard.co",
-   "published": "2026-10-28T22:23:58+00:00",
-   "title": "หัวหน้านักเศรษฐศาสตร์ IMF ชี้ หากไม่มีแรงขับเคลื่อน AI เศรษฐกิจโลก-ไทย ‘คงแย่กว่านี้’",
-   "text": "",
-   "title_th": "IMF ชี้ AI เป็นปัจจัยสำคัญช่วยพยุงเศรษฐกิจโลกและไทย",
-   "summary_th": "หัวหน้านักเศรษฐศาสตร์จาก IMF ระบุว่า AI มีบทบาทสำคัญในการเป็นแรงขับเคลื่อนเศรษฐกิจ หากไม่มี AI สถานการณ์เศรษฐกิจทั้งในระดับโลกและประเทศไทยอาจย่ำแย่กว่าที่เป็นอยู่",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "IMF"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "1134b6a1764a",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-28T21:58:32+00:00",
-   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-   "text": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-   "title_th": "Microsoft เปิดเผยรายได้ Azure ครั้งแรกที่ 3.32 หมื่นล้านดอลลาร์",
-   "summary_th": "Microsoft เปิดเผยตัวเลขรายได้รายไตรมาสของ Azure เป็นครั้งแรก ซึ่งแสดงให้เห็นถึงการเติบโตที่ใกล้เคียงกับคู่แข่งรายใหญ่อย่าง AWS อย่างมาก",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Microsoft",
-    "Amazon"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "9b7dd4a7a685",
-   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-28T21:48:37+00:00",
-   "title": "Google expands AI Search ads globally as core ad growth slows",
-   "text": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-   "title_th": "Google ขยายการแสดงโฆษณาใน AI Search ทั่วโลก",
-   "summary_th": "Google ประกาศขยายการใช้งานโฆษณาในระบบค้นหาด้วย AI ไปทั่วโลก ท่ามกลางการเติบโตของรายได้หลักที่ชะลอตัวลง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Google",
-    "Alphabet"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "f9d1493b929c",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-28T21:34:30+00:00",
-   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-   "text": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-   "title_th": "Microsoft บันทึกรายได้ 1 หมื่นล้านดอลลาร์จากความร่วมมือกับ OpenAI",
-   "summary_th": "Microsoft รายงานรายได้จากการทำข้อตกลงเชิงพาณิชย์กับ OpenAI ซึ่งรวมถึงการแบ่งปันรายได้ สะท้อนถึงความสัมพันธ์ทางการเงินที่แน่นแฟ้นระหว่างสองบริษัท",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Microsoft",
-    "OpenAI"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0ef91bd8c8c1",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-28T21:25:30+00:00",
-   "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-   "text": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-   "title_th": "Microsoft ทำสถิติรายได้สูงสุดต่อเนื่องเป็นไตรมาสที่ 10",
-   "summary_th": "Microsoft รายงานรายได้รายไตรมาสทำสถิติใหม่ต่อเนื่อง โดยได้รับอานิสงส์จากความสำเร็จในธุรกิจที่เกี่ยวข้องกับ AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Microsoft"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e164bf48fa23",
-   "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-   "source": "MIT Technology Review",
-   "published": "2026-10-28T20:32:02+00:00",
-   "title": "Creating AI value with enterprise context",
-   "text": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
-   "title_th": "การสร้างมูลค่าจาก AI ด้วยบริบทขององค์กร",
-   "summary_th": "บทวิเคราะห์เกี่ยวกับการนำ AI มาใช้ในองค์กรที่ต้องเผชิญกับความท้าทายในการจัดการระบบที่หลากหลาย เพื่อให้ได้ผลลัพธ์ที่แม่นยำและมีประสิทธิภาพ",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "13b40bac05ea",
-   "url": "https://huggingface.co/papers/2610.39633",
-   "source": "HF Daily Papers",
-   "published": "2026-10-28T20:00:00+00:00",
-   "title": "Intrinsic Distribution Matching",
-   "text": "One-step and few-step text-to-image generation must accurately render the details specified in the prompt despite limited opportunities for refinement. Distribution matching distillation (DMD) uses score differences to bring the generated distribution closer to a reference distribution. Following prior work, we estimate this difference with internal velocity branches, avoiding a separate fake-score network. We ask whether an explicit moment constraint improves this learned score supervision. A decomposition of the reverse-KL field into a Gaussian moment component and a non-Gaussian residual id",
-   "title_th": "Intrinsic Distribution Matching: เทคนิคใหม่เพื่อการสร้างภาพแบบ One-step",
-   "summary_th": "งานวิจัยนี้นำเสนอวิธีการปรับปรุงการสร้างภาพจากข้อความแบบขั้นตอนเดียวหรือขั้นตอนน้อยให้มีความแม่นยำสูงขึ้น โดยใช้การจับคู่การกระจายตัว (Distribution Matching) เพื่อลดความจำเป็นในการใช้เครือข่ายประเมินผลแยกต่างหาก ช่วยให้โมเดลสามารถสร้างรายละเอียดตามคำสั่งได้ดีขึ้นแม้มีโอกาสปรับแต่งจำกัด",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d29a393655a1",
-   "url": "https://huggingface.co/papers/2610.40614",
-   "source": "HF Daily Papers",
-   "published": "2026-10-28T20:00:00+00:00",
-   "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
-   "text": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches rely on either temporal context or explicit 3D memory, both of which scale poorly because memory grows with the length of the generated stream. Moreover, explicit 3D memories condition latent video generators by re-encoding RGB renderings, which precludes real-time generation. In this paper, we introduce a Latent 3D Gaussian Memory (L3G) that combines the efficiency of feed-forward reconstruction wi",
-   "title_th": "L3G-World: การสร้างโลกเสมือนแบบเรียลไทม์ด้วย Latent 3D Gaussian Memory",
-   "summary_th": "L3G-World เป็นโมเดลที่ช่วยให้สามารถสร้างเนื้อหาภาพแบบโต้ตอบได้โดยรักษาความสม่ำเสมอของพื้นที่ในระยะยาวแบบเรียลไทม์ โดยใช้หน่วยความจำ 3D Gaussian แทนการใช้บริบทชั่วคราวแบบเดิม ช่วยแก้ปัญหาการขยายตัวของหน่วยความจำเมื่อระยะเวลาการสร้างยาวขึ้น",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c8f4db4ef10f",
-   "url": "https://huggingface.co/papers/2610.39302",
-   "source": "HF Daily Papers",
-   "published": "2026-10-28T20:00:00+00:00",
-   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
-   "text": "Whether models trained on different modalities converge to the same representation of the world is central to AI. The Platonic Representation Hypothesis (PRH) conjectures that they do as they scale, but without a proof it offers neither a guarantee nor a recipe. We turn the hypothesis into a theorem. First, we prove a Platonic Representation Theorem: Joint-Embedding Predictive Architectures (JEPAs) trained separately on any number of modalities learn the same representation up to one rotation whenever their positive pairs are two observations of one scene--good views--and their misalignment is",
-   "title_th": "งานวิจัยพิสูจน์สมมติฐาน Platonic Representation ด้วย JEPA",
-   "summary_th": "งานวิจัยนำเสนอการพิสูจน์ทางทฤษฎีว่าโมเดลที่เทรนด้วยสถาปัตยกรรม JEPA ในรูปแบบข้อมูลที่ต่างกัน สามารถเรียนรู้การแทนค่าข้อมูลที่เหมือนกันได้ ซึ่งเป็นก้าวสำคัญของทฤษฎีการเรียนรู้ของ AI",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "995c90cb5d11",
-   "url": "https://huggingface.co/papers/2610.39301",
-   "source": "HF Daily Papers",
-   "published": "2026-10-28T20:00:00+00:00",
-   "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
-   "text": "We present Youtu-Parsing-Omni, an omni-modal parser that converts documents, images, audio, and video into structured records grounded in space and time, providing a perception layer for agents that read, locate, and cite evidence across modalities. Its design rests on one encoder for every modality and one schema for every task. Youtu-Omni-Encoder, initialized from a pre-trained language model to strengthen text reading, encodes all modalities with shared weights in a unified space-time coordinate system, and a few fusion layers let video frames attend to concurrent audio, bringing cross-moda",
-   "title_th": "เปิดตัว Youtu-Parsing-Omni โมเดลประมวลผลข้อมูลหลายรูปแบบ",
-   "summary_th": "Youtu-Parsing-Omni เป็นโมเดลที่ออกแบบมาเพื่อแปลงเอกสาร ภาพ เสียง และวิดีโอ ให้เป็นข้อมูลโครงสร้างเดียวกัน เพื่อใช้เป็นชั้นการรับรู้สำหรับ AI Agent ในการอ่านและอ้างอิงข้อมูล",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "83164272268b",
-   "url": "https://huggingface.co/papers/2610.40647",
-   "source": "HF Daily Papers",
-   "published": "2026-10-28T20:00:00+00:00",
-   "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-   "text": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introduce SpecSlot, a pixel-space rectified-flow Transformer that decouples output detail from the length of the global attention sequence. SpecSlot expands each spatial anchor into multiple slots, each assi",
-   "title_th": "แนะนำ SpecSlot เทคนิคใหม่สำหรับ Pixel-space Generative Transformers",
-   "summary_th": "งานวิจัยนำเสนอ SpecSlot ซึ่งเป็นสถาปัตยกรรม Transformer ที่ช่วยแยกรายละเอียดของภาพออกจากความยาวของโทเค็น ทำให้สามารถประมวลผลรายละเอียดสูงได้โดยไม่ต้องเพิ่มภาระการคำนวณแบบ Global Attention",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "ea370fdd96af",
-   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-28T19:19:58+00:00",
-   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-   "text": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-   "title_th": "Anthropic เปิดตัวเครื่องมือช่วยองค์กรตรวจสอบค่าใช้จ่ายด้าน AI",
-   "summary_th": "Anthropic เปิดตัวฟีเจอร์ใหม่ที่ช่วยให้ลูกค้าองค์กรสามารถติดตามและวิเคราะห์การใช้จ่ายในการใช้งานโมเดล AI ได้อย่างโปร่งใส ก่อนการเข้าสู่ตลาดหลักทรัพย์",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d0753be868cc",
-   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-   "source": "The Verge AI",
-   "published": "2026-10-28T18:36:26+00:00",
-   "title": "Microsoft is ending Copilot support on smart TVs",
-   "text": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
-   "title_th": "Microsoft ยุติการสนับสนุน Copilot บนสมาร์ททีวี",
-   "summary_th": "Microsoft เตรียมยุติการให้บริการ Copilot บนสมาร์ททีวีของ LG และ Samsung ภายในปีนี้ หลังจากเปิดตัวมาได้เกือบสองปี การเปลี่ยนแปลงนี้สะท้อนถึงการปรับกลยุทธ์การใช้งาน AI บนอุปกรณ์หน้าจอขนาดใหญ่",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Microsoft",
-    "LG",
-    "Samsung"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "3311bb06df5c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhw2l0/a_4b_model_made_me_a_netherite_ingot_from_bare/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-28T18:21:25+00:00",
-   "title": "A 4B model made me a netherite ingot from bare hands. All I did was type one sentence in chat.",
-   "text": "Last time my Minecraft assistant could do tasks, but it couldn’t really understand what you asked it in plain language. This time I built a pipeline for exactly that part, and it isn’t tailored to this one sentence. It works for requests in general. In the video the player types “I’m hungry, get me at least 3 porkchops and also make me a netherite ingot.” Mica v0.5 4B reads it, works out the two goals and how many of each, and then starts from bare hands. It goes wood, tools, iron, diamonds, obsidian, portal, Nether, ancient debris, gold, and finally the netherite ingot, then comes back and ha",
-   "title_th": "Mica v0.5 โมเดลขนาด 4B ที่สามารถเล่นเกม Minecraft ตามคำสั่งภาษาธรรมชาติ",
-   "summary_th": "นักพัฒนาเปิดตัว Mica v0.5 โมเดลขนาดเล็กที่สามารถเข้าใจคำสั่งภาษาธรรมชาติเพื่อทำภารกิจซับซ้อนในเกม Minecraft ได้สำเร็จ โดยไม่ต้องเขียนคำสั่งเฉพาะเจาะจง",
-   "category": "โมเดลใหม่",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b85c3831e13a",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWVNRVVR4Y1lWYXF5bm9nU1VOTlk1d3VPdkhuejZyNHBINDMtQ2tFWng4WHhEa1F1UjQzNmFaR1pUVDJlaGVlVGFNSk92TzBOSDVURk5WVlRPMlRSQzNPUzkwWkVCVXgzdEdjSVREcEFyNHJxZmp1dkRUYjRsVnpyZDd2WWJvdl9xWVQ0RkZYeFlqVlZqUHNOMA?oc=5",
-   "source": "GenomeWeb",
-   "published": "2026-10-28T18:03:00+00:00",
-   "title": "A Biotech Used Anthropic’s Claude to Design Better CAR T Signaling Domain",
-   "text": "",
-   "title_th": "บริษัทเทคโนโลยีชีวภาพใช้ Claude ของ Anthropic ออกแบบโดเมนสัญญาณ CAR T",
-   "summary_th": "บริษัทเทคโนโลยีชีวภาพนำโมเดล Claude มาประยุกต์ใช้ในการออกแบบโดเมนสัญญาณสำหรับเซลล์บำบัด CAR T ซึ่งช่วยเพิ่มประสิทธิภาพในการพัฒนาการรักษาทางการแพทย์",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "f2ec6f385a54",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-28T17:19:05+00:00",
-   "title": "A small step for man, a GIANT step for LOCAL AI",
-   "text": "Shoutout to the Unsloth AI team for constantly pushing the needle forward for local ai worldwide. While many of us already had features such as this via other means, it is more what this means for entry level ai enthusiasts & accessibility. It is clear as day! We are in \"the age of the agent.\" The more people we can get onboard local ai, the tougher it will be for the powers that be to snatch it from us. submitted by /u/HolidayBit143 [link] [comments]",
-   "title_th": "Unsloth AI ยกระดับการเข้าถึง Local AI สำหรับผู้ใช้งานทั่วไป",
-   "summary_th": "ทีมงาน Unsloth AI พัฒนาเครื่องมือที่ช่วยให้การใช้งาน AI บนเครื่องส่วนตัวทำได้ง่ายขึ้น ซึ่งถือเป็นก้าวสำคัญในการส่งเสริมการเข้าถึงเทคโนโลยี AI ให้กับผู้ใช้งานทั่วไป",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Unsloth AI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "34b0bf3f94c3",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "source": "Google DeepMind",
-   "published": "2026-10-28T17:00:58+00:00",
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "text": "",
-   "title_th": "Google DeepMind เผยรายละเอียด Gemini 4 Carbon",
-   "summary_th": "Google DeepMind ประกาศเปิดตัว Gemini 4 Carbon ในฐานะโมเดลระดับแนวหน้าตัวใหม่ล่าสุดของบริษัท",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Google",
-    "Anthropic",
-    "OpenAI"
-   ],
-   "importance": 5,
-   "ai": true,
-   "also": [
-    {
-     "source": "Blognone",
-     "url": "https://www.blognone.com/node/152047"
-    },
-    {
-     "source": "Hacker News",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
-    },
-    {
-     "source": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
-    },
-    {
-     "source": "Hacker News",
-     "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
-    }
-   ],
-   "dedup": true
-  },
-  {
-   "id": "a01db71b034c",
-   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-28T17:00:00+00:00",
-   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-   "text": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-   "title_th": "Google เปิดแพลตฟอร์มให้นักพัฒนาเชื่อมต่อบริการเข้ากับ Gemini",
-   "summary_th": "Google เปิดตัวแพลตฟอร์มใหม่ที่ช่วยให้ธุรกิจสามารถนำบริการของตนเข้าสู่ประสบการณ์ AI ของ Google ได้ ซึ่งจะเปลี่ยนวิธีการค้นหาและใช้งานแอปพลิเคชันของผู้ใช้",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Google"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "9b2a09f7e49c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhtg61/list_of_suggestions_for_gemma_5/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-28T16:48:46+00:00",
-   "title": "List of suggestions for Gemma 5.",
-   "text": "Recently Omar Sanseviero asked for suggestions on Twitter for future Gemma models. Here is my take on this: Gemma 5 should be a looped transformer . Being a looped transformer with configurable loop depth will address one of the biggest Gemma 4 weaknesses - reasoning ability. Don't get me wrong, I love how concise Gemma 4 is with its reasoning, but it actively hinders its performance in certain scenarios, being looped will allow the model to perform better in such tasks, while still being configurable to reason shallower and being significantly more efficient than a traditional transformer wit",
-   "title_th": "ข้อเสนอแนะสำหรับการพัฒนา Gemma 5 ในอนาคต",
-   "summary_th": "มีการเสนอแนวคิดให้ Gemma 5 ใช้สถาปัตยกรรมแบบ looped transformer เพื่อเพิ่มขีดความสามารถในการใช้เหตุผล ซึ่งเป็นจุดที่ Gemma 4 ยังทำได้ไม่ดีนัก การปรับปรุงนี้จะช่วยให้โมเดลมีความยืดหยุ่นและประสิทธิภาพสูงขึ้นในงานที่ซับซ้อน",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c802108aab79",
-   "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-   "source": "The Verge AI",
-   "published": "2026-10-28T16:32:41+00:00",
-   "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-   "text": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
-   "title_th": "Chrome ขยายความสามารถ Autofill ด้วย Gemini",
-   "summary_th": "Chrome อัปเดตฟีเจอร์ Autofill ให้สามารถดึงข้อมูลจาก Gmail มาช่วยกรอกข้อมูลในแบบฟอร์มต่างๆ ได้อย่างชาญฉลาดผ่านเทคโนโลยี Gemini",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Google"
-   ],
-   "importance": 3,
-   "ai": true,
-   "also": [
-    {
-     "source": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
-    },
-    {
-     "source": "Blognone",
-     "url": "https://www.blognone.com/node/152060"
-    }
-   ],
-   "dedup": true
-  },
-  {
-   "id": "c1bc7bea3bcc",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-28T16:28:00+00:00",
-   "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs, plus free shipping — 300 racks of decommissioned GPUs on offer",
-   "text": "Anyone want to chip in a cool $60m for me? submitted by /u/giveen [link] [comments]",
-   "title_th": "พบการขายซูเปอร์คอมพิวเตอร์ AI มือสองบน eBay",
-   "summary_th": "มีการประกาศขายซูเปอร์คอมพิวเตอร์ AI ขนาดใหญ่ที่ประกอบด้วย GPU Nvidia A100 จำนวนมากบนเว็บไซต์ eBay ซึ่งสะท้อนถึงตลาดฮาร์ดแวร์ AI มือสอง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "NVIDIA",
-    "AMD"
    ],
    "importance": 2,
    "ai": true,

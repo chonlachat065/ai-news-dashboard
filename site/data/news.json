@@ -1,54 +1,44 @@
 {
- "updated_at": "2026-11-11T22:49:41+00:00",
+ "updated_at": "2026-11-12T07:20:17+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-11T22:49:41+00:00",
-  "headline": "ความก้าวหน้าของโมเดล AI และโครงสร้างพื้นฐานกำลังเร่งตัวขึ้นอย่างรวดเร็วท่ามกลางการเติบโตทางธุรกิจและการปรับตัวขององค์กรทั่วโลก",
+  "generated_at": "2026-11-12T07:20:17+00:00",
+  "headline": "ความก้าวหน้าของ AI Agent และการแข่งขันในตลาดชิปประมวลผลกำลังเปลี่ยนโฉมหน้าอุตสาหกรรมเทคโนโลยีอย่างรวดเร็ว",
   "points": [
    {
-    "text": "ความเคลื่อนไหวของบริษัท AI ชั้นนำ: OpenAI มีรายได้ทะลุ 1 หมื่นล้านดอลลาร์, Anthropic เติบโตอย่างรวดเร็วด้วยฟีเจอร์ใหม่และประสิทธิภาพของโมเดล Claude, ในขณะที่ Baidu เตรียมเปิดตัว Ernie 5.5 Flash",
-    "ids": [
-     "2ed3a890d3d8",
-     "d4351ce5bada",
-     "86e354e7f77a",
-     "0e97b8ffb45a",
-     "288a991a739f",
-     "493c297943b5",
-     "302666bbe4ef"
-    ]
-   },
-   {
-    "text": "นวัตกรรมฮาร์ดแวร์และโครงสร้างพื้นฐาน: AMD เปิดตัวซีพียู Zen 6, Fractile ระดมทุนพัฒนาชิป AI, และมีการปรับกลยุทธ์การเงินของ CoreWeave รวมถึงความท้าทายด้านพลังงานและกฎระเบียบในการสร้างศูนย์ข้อมูล",
-    "ids": [
-     "5df03b989f16",
-     "6f3c74a04fea",
-     "850c0644106f",
-     "bdeaa23eb988"
-    ]
-   },
-   {
-    "text": "การประยุกต์ใช้ AI ในงานวิจัยและอุตสาหกรรม: วิศวกร Google ใช้ AI Agent ค้นพบพีระมิดมายา, Google DeepMind เปิดตัว AlphaGenome 2, และ NVIDIA นำ AI มาใช้ในงาน Edge Computing และการรีไซเคิล",
+    "text": "ความก้าวหน้าของ AI Agent แสดงศักยภาพสูงในการใช้งานจริง ทั้งการค้นพบโบราณคดีด้วย AI 48 ตัว การใช้ Genie ในองค์กร และการพัฒนาโมเดลที่รันบนฮาร์ดแวร์ทั่วไปได้ แต่ก็เริ่มเผชิญข้อจำกัดด้านกฎระเบียบจากภาคธุรกิจ",
     "ids": [
      "8d8bc38f54a7",
-     "a86af765ffaf",
-     "ce1b38dbd37c",
-     "a3f9078912ac"
+     "6619f09dbc0d",
+     "358293ac89d9",
+     "33bddd1c4002",
+     "0ccfb511c0c8"
     ]
    },
    {
-    "text": "ความปลอดภัยและธรรมาภิบาล: นักวิจัยพบช่องโหว่ความปลอดภัยใหม่ใน AI Agent ผ่านการแก้ไขเซลล์ประสาทจำลอง และผู้เชี่ยวชาญกำลังจับตาดูสถานการณ์ธรรมาภิบาลภายในของ NVIDIA",
+    "text": "ตลาดชิปประมวลผลมีการแข่งขันสูงขึ้น โดย Anthropic ประสบความสำเร็จในการลดการพึ่งพา CUDA ของ NVIDIA เพื่อย้ายไปใช้ชิป AMD ขณะที่บริษัทอย่าง Fractile และ CoreWeave เร่งระดมทุนเพื่อขยายโครงสร้างพื้นฐาน",
     "ids": [
-     "ae89ed3b0589",
+     "28fbaaf1d800",
+     "86e354e7f77a",
+     "6f3c74a04fea",
+     "850c0644106f"
+    ]
+   },
+   {
+    "text": "สถานการณ์ภายในของ NVIDIA กำลังเป็นที่จับตามองจากข่าวการเตรียมปลดซีอีโอ Jensen Huang ท่ามกลางความท้าทายด้านธรรมาภิบาลองค์กร",
+    "ids": [
+     "4a6d92631407",
      "e28ff692f118"
     ]
    },
    {
-    "text": "การพัฒนาเทคนิคและเครื่องมือสำหรับนักพัฒนา: Google เปิดตัว Gemini Decisions API, Microsoft จดสิทธิบัตรการใช้ GPU ผู้ใช้ทั่วไปเทรน AI, และมีการเผยแพร่เทคนิคใหม่จาก Hugging Face และ Unsloth",
+    "text": "บริษัทเทคโนโลยีรายใหญ่ยังคงเร่งพัฒนาผลิตภัณฑ์อย่างต่อเนื่อง ทั้ง OpenAI ที่มีรายได้พุ่งสูงขึ้น Google ที่เปิดตัว Gemini Decisions API และ AlphaGenome 2 รวมถึงการเติบโตของผู้ใช้ Claude ที่เพิ่มขึ้นอย่างมีนัยสำคัญ",
     "ids": [
+     "2ed3a890d3d8",
      "cce714811b51",
-     "6fcbd810887c",
-     "7f1b1d01c93f",
-     "d2296a64c0dc"
+     "a86af765ffaf",
+     "0e97b8ffb45a",
+     "288a991a739f"
     ]
    }
   ]
@@ -501,9 +491,83 @@
   "b5510cf87477",
   "94fcbf10f807",
   "ae5556d61c0b",
-  "c185ee72f0f3"
+  "c185ee72f0f3",
+  "645f1651bd53",
+  "0a6a9ad8c8a3",
+  "de40b3011074",
+  "b91248042740",
+  "1a916064ae9d",
+  "dd3b0d46ce34",
+  "8b88128481e5",
+  "d8ef3fe6591f",
+  "efdd0bfa6110",
+  "df5c4c0af68f"
  ],
  "items": [
+  {
+   "id": "ad55c4d24069",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWJmZ01vZE41aVVUeFA2VTZyVVNFeHBLMFctdVNfd0hieVNON1gtb1gxZl9zbDNzOVVQUGNfVVd4OHd5UVltQ3hRRUZzZzdsRWtyMmRFcEp5elczUk40X0hDYm1BRlRrckwwZFlZUFB2c3gyMmI3WDE3a2pSVTMzdVA3T1BrcERmdE50N3diUkRhVk0taEZ3dVZQWEZtdFVyUVFDZHdtRXJReENwTmxwenBHMC1WaUU?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-12T05:00:00+00:00",
+   "title": "Meta's AI Bot Won’t Revolutionize Your Finances",
+   "text": "",
+   "title_th": "Meta AI Bot กับการจัดการการเงินส่วนบุคคล",
+   "summary_th": "บทวิเคราะห์เกี่ยวกับความสามารถของ AI Bot จาก Meta ในด้านการจัดการการเงิน โดยระบุว่าเทคโนโลยีปัจจุบันยังไม่สามารถเข้ามาปฏิวัติวงการการเงินส่วนบุคคลได้อย่างที่คาดหวัง",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4a6d92631407",
+   "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "source": "The Verge AI",
+   "published": "2026-11-12T00:55:40+00:00",
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "text": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
+   "title_th": "รายงานข่าว NVIDIA เตรียมปลด Jensen Huang ออกจากตำแหน่งซีอีโอ",
+   "summary_th": "คณะกรรมการบริษัท NVIDIA กำลังเตรียมการปลด Jensen Huang ออกจากตำแหน่งซีอีโอ หลังจากมีรายงานข่าวเกี่ยวกับประเด็นความสัมพันธ์ส่วนตัวที่ส่งผลกระทบต่อความเชื่อมั่น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Nvidia"
+   ],
+   "importance": 5,
+   "ai": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152154"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152156"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+    }
+   ],
+   "dedup": true
+  },
   {
    "id": "33bddd1c4002",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
@@ -517,9 +581,15 @@
    "companies": [
     "United Airlines"
    ],
-   "importance": 2,
+   "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+    }
+   ]
   },
   {
    "id": "bdeaa23eb988",
@@ -577,6 +647,21 @@
    "dedup": true
   },
   {
+   "id": "358293ac89d9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-11T18:20:57+00:00",
+   "title": "I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggingface",
+   "text": "Hi Everyone, I'm releasing my world model, been on this sub for a few months https://huggingface.co/lucidml/gta I know it says gta but it's more stable than the general model. It can take any image and turn it into an interactive video. If you'd like to test it instantly I am also setting up a simple funny drifty site link : https://lucidml.ai/dashboard/minidemo?world=gta5 That link uses any GPU from VAST AI FROM 3070, 3080, 4080, and some are 50 series as well (most 50 series cards are wasted because I hard throttle the fps) This is the first model I am ever releasing to the everyone and its ",
+   "title_th": "เปิดตัว World Model แบบ Local เปลี่ยนภาพเป็นวิดีโอโต้ตอบได้",
+   "summary_th": "นักพัฒนาปล่อยโมเดล World Model ที่สามารถเปลี่ยนภาพนิ่งให้กลายเป็นวิดีโอแบบโต้ตอบได้ในเวลาจริง โดยสามารถรันบนการ์ดจอระดับผู้บริโภคทั่วไปได้",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "6fcbd810887c",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtowe4/microsoft_files_a_patent_application_to_train_ai/",
    "source": "r/LocalLLaMA",
@@ -608,7 +693,13 @@
    ],
    "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152155"
+    }
+   ]
   },
   {
    "id": "0e97b8ffb45a",
@@ -708,6 +799,25 @@
     "Databricks"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "28fbaaf1d800",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSUlLVl9MQkF2d2tNQXctbXotemNQUEJnLWJReXNYZlBRYUJWQkZoOV9aZjdKdXhHZ3N1VkhKNEprWmx3QWxGNGtnRjQ2UnZ2dS1xV2dobFRQYTN0UXBxaFdjY3JBc2tKSC1SSHJXM18tYTVTcFFhX0pxcl9SRkVwQmxLamVUbGU1Mnp0a3YtRm5kZ1U4NUkwM3BkYW01LXhBM3JtaFJVTDBuZ0FrQmJraENaUXdOdmJXbHpYNmJsNkdSQQ?oc=5",
+   "source": "The Decoder",
+   "published": "2026-11-11T14:28:29+00:00",
+   "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+   "text": "",
+   "title_th": "Anthropic ระบุ AI ช่วยลดความสำคัญของ CUDA ทำให้ย้ายไปใช้ชิป AMD ได้เร็วขึ้น",
+   "summary_th": "Anthropic เผยว่าความก้าวหน้าของ AI ช่วยลดอุปสรรคในการพึ่งพา CUDA ของ NVIDIA ทำให้ระยะเวลาในการเปลี่ยนไปใช้ชิปประมวลผลของ AMD สั้นลงอย่างมาก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Nvidia",
+    "AMD"
+   ],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -1526,6 +1636,10 @@
     {
      "source": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFRaS1IwRWlsMG5CWnhCV0pEUkdtcjU0MHY4a0Vnb0RFem90WWl5cFg4VXhqcmlOM2VzaVZnY0ZfSVJ6TnU0SE1wbFNzMVpaV0ZIcHdURFBoQnNsY0Y5cktFbTVlV0FpSnNpcF9MVkNlWUstWGtKU0ZicDZTQmpCdUNyczlPemVpRF9HRExBdExqZk9CbU96bjFqVV9HNVh3NWowZGlMcHBHUnRtRkpYVzYtTjY5cC1iYnNXcENzTDZtZw?oc=5"
+    },
+    {
+     "source": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlhCX21hbUtQSkR5SExrZVI2c09icmNlRkJ3bDlON3B1UUVpbkx2VnAwcXhzbzI5Z3lJUGlnUG1SUVFlczFUd0RHZG0wclNNNEp4MmgzZGtYVEJ4UDJrY3dJblRXMFFFOGI1T2VaZzFqWXRoMHVfTEctSE5wVEhLcVk5ZkdIRUpvMVAtZjV2NzMzTWxjUlVWRzRheDNQYTdCYWRUaA?oc=5"
     }
    ]
   },
@@ -10696,168 +10810,6 @@
     "OpenAI"
    ],
    "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2d9928289658",
-   "url": "https://openai.com/index/ropes-gray-ai-diligence",
-   "source": "OpenAI",
-   "published": "2026-10-29T07:00:00+00:00",
-   "title": "How Ropes & Gray is developing AI for transactional diligence",
-   "text": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-   "title_th": "Ropes & Gray ร่วมมือกับ OpenAI พัฒนา AI สำหรับงานตรวจสอบเอกสารทางกฎหมาย",
-   "summary_th": "บริษัทกฎหมาย Ropes & Gray กำลังพัฒนาเครื่องมือ AI ร่วมกับ OpenAI เพื่อช่วยทนายความในการตรวจสอบและสรุปเอกสารธุรกรรมทางกฎหมาย",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Ropes & Gray",
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "271134257c4a",
-   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-   "source": "Hacker News",
-   "published": "2026-10-29T03:33:42+00:00",
-   "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
-   "text": "190 points, 41 comments on Hacker News (https://news.ycombinator.com/item?id=50284255)",
-   "title_th": "ผู้ใช้พบปัญหา Claude Code กิน Token สูงเกินจริงจากการแสดงสถานะ",
-   "summary_th": "มีการรายงานว่า Claude Code ใช้ปริมาณ Token สูงถึง 15-20% เพียงเพื่อแสดงสถานะการทำงานสั้นๆ ซึ่งส่งผลกระทบต่อค่าใช้จ่ายของผู้ใช้งานโดยไม่จำเป็น",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "caf385804cd7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi7390/qwen4_1m_context_window/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-29T01:42:55+00:00",
-   "title": "Qwen4 1M context window",
-   "text": "Qwen4 models will have a 1 million context window. Qwen4-27B was not mentioned here, but should be announced at Apsara netherlands tommorow. We have a date for Qwen4-max, it is November 1st. Edit: It says October 1st, so its probably a placeholder. PR: https://github.com/QwenLM/qwen-code/pull/15762 https://preview.redd.it/ounsliro9byh1.png?width=823&format=png&auto=webp&s=0762bd7178df8605b3082d60ff83da8e3d399ba7 submitted by /u/brainExploded99 [link] [comments]",
-   "title_th": "Qwen4 เตรียมเปิดตัวพร้อมรองรับ Context Window ขนาด 1 ล้าน Token",
-   "summary_th": "มีรายงานว่าโมเดลตระกูล Qwen4 จะรองรับ Context Window สูงถึง 1 ล้าน Token โดยคาดว่าจะมีการประกาศรายละเอียดเพิ่มเติมเกี่ยวกับโมเดลรุ่นต่างๆ ในงาน Apsara ที่กำลังจะถึงนี้",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Alibaba Cloud"
-   ],
-   "importance": 4,
-   "ai": true,
-   "also": [
-    {
-     "source": "r/LocalLLaMA",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/"
-    }
-   ],
-   "dedup": true
-  },
-  {
-   "id": "a5174400f741",
-   "url": "https://www.blognone.com/node/152049",
-   "source": "Blognone",
-   "published": "2026-10-29T01:32:38+00:00",
-   "title": "Alphabet ไตรมาส 3/2026 รายได้รวมโต 25%, Google Cloud โตมากกว่าเท่าตัว เดินหน้าลงทุน AI มากขึ้นอีก",
-   "text": "Body Alphabet บริษัทแม่ของกูเกิล รายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้รวมเพิ่มขึ้น 25% จากไตรมาสเดียวกันในปีก่อนเป็น 127,577 ล้านดอลลาร์ และมีกำไรสุทธิ 26,170 ล้านดอลลาร์ ส่วนกระแสเงินสดอิสระซึ่งนักลงทุนให้ความสนใจมาก เพราะ ไตรมาสก่อนหน้านี้ ติดลบเป็นครั้งแรก ในไตรมาส 3 ก็ยังคงติดลบอีก 9,065 ล้านดอลลาร์ เนื่องจากมีการใช้จ่ายลงทุนที่เกี่ยวกับ AI เพิ่มขึ้น โดยตัวเลขการลงทุนสินทรัพย์ถาวร (CapEx) เพิ่มเป็น 51,355 ล้านดอลลาร์ Alphabet ประเมินตัวเลขการลงทุนสินทรัพย์ถาวรที่ราว 2 แสนล้านดอลลาร์ ส",
-   "title_th": "Alphabet รายได้โต 25% พร้อมเร่งลงทุนโครงสร้างพื้นฐาน AI มหาศาล",
-   "summary_th": "Alphabet รายงานผลประกอบการไตรมาส 3 ปี 2026 โดยมีรายได้เติบโตแข็งแกร่ง แต่กระแสเงินสดอิสระยังคงติดลบจากการลงทุนในสินทรัพย์ถาวรเพื่อรองรับการขยายตัวของ AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Alphabet",
-    "Google"
-   ],
-   "importance": 5,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "ce34ff86cdae",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcW9ZRXY3R3Z1X0EtUnE2VTBPb3pvdzRsOWZicTQ1VlZKYUNiamNGMVJtWWt4Y1Jodi00WE1NYlBnNnl6WGNIY2k1ZDg0TVNrZ0JNS09zcVdjQ2lZQVI2UVpCdEtPSzgzQnh4dzFtd004Q01rTmRHb21feEo4OUlRdjUzaG1STG5WQlVwOGU1QUpyeG1nMjhjdk8zX2JjMTFWakxSWnpQM2Fuc1dqQWJWSWtTOFNGLThZa3M2VzV6amlYdG0x?oc=5",
-   "source": "internationalfinance.com",
-   "published": "2026-10-29T00:00:44+00:00",
-   "title": "เจเนอรัล มอเตอร์ส ย้ายไปจดทะเบียนในตลาด Nasdaq ขณะที่บริษัทกำลังเดิมพันกับรถยนต์ไฮบริด ปัญญาประดิษฐ์ และระบบขับขี่อัตโนมัติ",
-   "text": "",
-   "title_th": "General Motors ย้ายเข้าตลาด Nasdaq มุ่งเน้น AI และรถยนต์อัตโนมัติ",
-   "summary_th": "General Motors ประกาศย้ายการจดทะเบียนเข้าสู่ตลาด Nasdaq เพื่อรองรับกลยุทธ์การเติบโตที่เน้นเทคโนโลยี AI และระบบขับขี่อัตโนมัติ",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "General Motors"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e1c742c1d925",
-   "url": "https://huggingface.co/blog/announcing-project-protostar",
-   "source": "Hugging Face",
-   "published": "2026-10-29T00:00:00+00:00",
-   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-   "text": "",
-   "title_th": "เปิดตัว Project ProtoStar มุ่งเน้นการเตรียมข้อมูลงานวิจัยให้พร้อมสำหรับ AI",
-   "summary_th": "Project ProtoStar เป็นโครงการที่มุ่งเน้นการปรับปรุงข้อมูลจากงานวิจัยที่ได้รับทุนสนับสนุนจากภาครัฐให้พร้อมสำหรับการนำไปใช้งานกับโมเดล AI",
-   "category": "งานวิจัย",
-   "companies": [
-    "Hugging Face"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "85d975255b4f",
-   "url": "https://huggingface.co/blog/anydecisionmodel",
-   "source": "Hugging Face",
-   "published": "2026-10-29T00:00:00+00:00",
-   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-   "text": "",
-   "title_th": "เปิดตัว AnySpeechRecognizer และ AnyDecisionModel สำหรับแพลตฟอร์ม Apple",
-   "summary_th": "มีการเปิดตัวโมเดลโอเพนซอร์สใหม่สำหรับการจดจำเสียงและการตัดสินใจที่ออกแบบมาให้ทำงานบนอุปกรณ์ของ Apple ได้อย่างมีประสิทธิภาพ",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Apple"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "6750c2461412",
-   "url": "https://openai.com/index/credit-saison",
-   "source": "OpenAI",
-   "published": "2026-10-29T00:00:00+00:00",
-   "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-   "text": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-   "title_th": "Credit Saison เผยผลตอบแทนการลงทุนสูงถึง 954% จากการใช้ ChatGPT Enterprise",
-   "summary_th": "Credit Saison รายงานความสำเร็จในการนำ ChatGPT Enterprise มาใช้ในองค์กร โดยสามารถสร้างผลตอบแทนจากการลงทุนได้สูงถึง 954% ผ่านการใช้งานจริงของพนักงาน",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "OpenAI",
-    "Credit Saison"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "09f762edab0d",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-   "source": "The Verge AI",
-   "published": "2026-10-28T23:05:39+00:00",
-   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-   "text": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
-   "title_th": "Adam Mosseri เผยกระแสเชิงลบต่อ AI มีแนวโน้มรุนแรงขึ้น",
-   "summary_th": "หัวหน้า Instagram ยอมรับว่าผู้คนจำนวนมากมีความรู้สึกเชิงลบต่อเทคโนโลยี AI ไม่ใช่แค่ในกลุ่มคนรุ่นใหม่หรือนักสร้างสรรค์เท่านั้น สะท้อนถึงความท้าทายด้านภาพลักษณ์ของเทคโนโลยีในปัจจุบัน",
-   "category": "อื่นๆ",
-   "companies": [
-    "Meta"
-   ],
-   "importance": 2,
    "ai": true,
    "dedup": true
   }

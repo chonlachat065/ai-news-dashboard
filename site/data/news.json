@@ -1,51 +1,54 @@
 {
- "updated_at": "2026-11-13T01:09:44+00:00",
+ "updated_at": "2026-11-13T12:18:38+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-13T01:09:44+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านกฎระเบียบและการตรวจสอบ Nvidia อย่างเข้มข้น พร้อมความเคลื่อนไหวสำคัญของ Anthropic ก่อนเข้าตลาดหุ้น",
+  "generated_at": "2026-11-13T12:18:38+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญความท้าทายรอบด้านทั้งปัญหาเสถียรภาพระบบ การตรวจสอบการส่งออกชิป และการขยายตัวของนวัตกรรมโมเดลและเอเจนท์",
   "points": [
    {
-    "text": "Nvidia กำลังถูกสภาสหรัฐฯ สอบสวนเรื่องการขายชิปในจีนและความสัมพันธ์ทางการเมือง รวมถึงประเด็นการติดตามชิปเพื่อป้องกันการลักลอบขนส่ง ขณะที่มีการเสนอชื่อ Tim Cook เป็นซีอีโอคนใหม่",
+    "text": "บริการ AI และคลาวด์ระดับโลกอย่าง Microsoft 365 และ Claude ประสบปัญหาล่มต่อเนื่อง ส่งผลกระทบต่อการเข้าถึงของผู้ใช้งานจำนวนมาก",
+    "ids": [
+     "47a0abe00ba7",
+     "a2d78d5efa83"
+    ]
+   },
+   {
+    "text": "สภาสหรัฐฯ เดินหน้าตรวจสอบ Nvidia เกี่ยวกับการขายชิปในจีนและประเด็นความสัมพันธ์ทางการเมือง ขณะที่พบร่องรอยการใช้ชิปที่ถูกจำกัดการส่งออกในโมเดล AI ของจีนและกรณีลักลอบส่งออกในสิงคโปร์",
     "ids": [
      "4e2810e47ea3",
      "d1b4a114799f",
-     "44722bd03025",
-     "1efebebf8706"
+     "d096a8a420fb",
+     "1efebebf8706",
+     "df63fc08a10a"
     ]
    },
    {
-    "text": "Anthropic เผชิญความท้าทายทางกฎหมายจากการถูกฟ้องละเมิดสิทธิบัตรเครือข่ายประสาทเทียม และการบล็อกเนื้อหาลิขสิทธิ์ แต่ยังคงเดินหน้าเปิดตัวผลิตภัณฑ์ใหม่สำหรับภาคการผลิตก่อนเตรียมตัวเข้า IPO",
+    "text": "บริษัท AI ชั้นนำอย่าง Anthropic และ OpenAI เผชิญกับการฟ้องร้องละเมิดสิทธิบัตรเทคโนโลยีโครงข่ายประสาทเทียม ในขณะที่การใช้งาน AI Chatbot ยังมีความเสี่ยงเรื่องการแนะนำเว็บไซต์ปลอม",
     "ids": [
      "a1753612d5cf",
-     "d399323c2ae5",
-     "9aff7ec67e93",
-     "8cef30fc7912",
-     "a3e727f20949"
+     "32933935200c"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวในฝั่งเทคโนโลยีและเครื่องมือ AI มีการอัปเกรด Google Search ด้วย Gemini 4 Hydrogen, การใช้ AI Agent ในการพัฒนาผลิตภัณฑ์ของ Amplitude และ Nectar รวมถึงการเปิดตัวภาษา Markup อย่าง LLMON",
+    "text": "มีการเปิดตัวนวัตกรรม AI อย่างต่อเนื่อง ทั้งโมเดล Edge0-145B, การอัปเกรด Google Search ด้วย Gemini 4 Hydrogen, แว่นตาอัจฉริยะของซัมซุง และการพัฒนา AI Agent เพื่อเพิ่มประสิทธิภาพในภาคธุรกิจและอุตสาหกรรมเกม",
     "ids": [
+     "f980cc1f1e21",
      "ad614f81e42f",
+     "1309e3f1c689",
      "5b0f73df89a6",
      "d3c21aad1252",
-     "a88bddb17214"
+     "4213b9afeff9",
+     "0cefd18c08c5",
+     "a88bddb17214",
+     "137968dd67f5"
     ]
    },
    {
-    "text": "สถานการณ์ด้านโครงสร้างพื้นฐานและการลงทุน AI มีความผันผวน โดย SoftBank ประสบภาวะขาดทุนจากพลังงานศูนย์ข้อมูล ในขณะที่ Norwest และ Nebius ยังคงทุ่มงบลงทุนมหาศาลเพื่อขยายขีดความสามารถด้าน AI",
+    "text": "ความเคลื่อนไหวในด้านการลงทุนและโครงสร้างพื้นฐาน AI ยังคงคึกคักด้วยการระดมทุนก้อนใหญ่ของ Norwest และ Nebius แม้จะมีกรณีขาดทุนจากโครงการพลังงานของ SoftBank ก็ตาม",
     "ids": [
      "ca80552a275a",
-     "bfccb2d38562",
-     "fc0f425d4885"
-    ]
-   },
-   {
-    "text": "ประเด็นความปลอดภัยและจริยธรรม AI ยังคงเป็นที่น่ากังวล หลังพบว่า Chatbot อาจแนะนำเว็บไซต์ปลอม และมีการวิพากษ์วิจารณ์เรื่องการกำกับดูแล AI ท้องถิ่นที่อาจกลายเป็นการเซ็นเซอร์ข้อมูล",
-    "ids": [
-     "32933935200c",
-     "0c6c1b0eabd6"
+     "fc0f425d4885",
+     "bfccb2d38562"
     ]
    }
   ]
@@ -138,7 +141,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "error": null
   }
  ],
@@ -544,9 +547,148 @@
   "875637b2c34d",
   "dae78e4349e4",
   "3403360ccc1d",
-  "8fdb0296ea11"
+  "8fdb0296ea11",
+  "e9a7f8ac0da7",
+  "e8874c1a4a67",
+  "7837bd8f0521",
+  "71dad9da95c2",
+  "44722bd03025",
+  "34a6071342ff",
+  "723761214df1",
+  "b9ff3eb5d157",
+  "44da454e7900",
+  "28bc6e4f3911",
+  "3bd3bf0050d7"
  ],
  "items": [
+  {
+   "id": "a2d78d5efa83",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fT2ZHYjZGRUZIWlhDTGg3U3ZEa1VpOU5BV2gxeU9MMW9VWjZKTnlDdGNVbkUtWUxtbjlYdFNOYzRlb2dRODQ0OEhBLUNiYUYzcTZYS3hwbFlpVXdIbF9j?oc=5",
+   "source": "SNJ Today",
+   "published": "2026-11-13T10:09:47+00:00",
+   "title": "Claude Goes Down as Microsoft’s Global Outage Drags Into a Second Day",
+   "text": "",
+   "title_th": "Claude ล่มต่อเนื่องท่ามกลางปัญหาการใช้งานระดับโลกของ Microsoft",
+   "summary_th": "บริการ Claude ประสบปัญหาการใช้งานในเวลาเดียวกับที่ Microsoft เผชิญกับเหตุการณ์ระบบล่มทั่วโลกเป็นวันที่สอง ส่งผลกระทบต่อการเข้าถึงบริการ AI และคลาวด์ของผู้ใช้งานจำนวนมาก",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic",
+    "Microsoft"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://status.claude.com/incidents/nn11wk485zfn"
+    },
+    {
+     "source": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDBjX2hrQXlxUEV2Q3pZVUlzVUpPcTU1TFpiaGY4bEtualhpY2FWemdBQnlpclpESjlVSkxobHJ1NDJyZU9FZlJSQW9odU1zUmdvazJqUXV6YmxPYmRDc19HWnNBTDRwRHVGcWJLc1VGZDd4RWxHUTF0Z0lKd05vOA?oc=5"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "137968dd67f5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdDAwNFVOQW1mT0hYdXZUams5eFE0TDByZ0ZoSVh1OVlQWjk5R2w2UFp2MkJkRnV0NHJXcm1qQ0lzU2laVWxnX0lIRHFMZGtqR0MtczZqNmU1QkFVZG9pZ1RmdjJqMG1DdTRLdy1fYTBVQUxrMjRSQTdLSGxESmFSNEFKX1pLT0hVSjBtYlZkNlRjVlltVkJFM1R1T1ZrWHpkYXJxMHVueFdqU0VGNy1hRXdTQk5jQTRpMXh5cmZCZXA?oc=5",
+   "source": "HLTH",
+   "published": "2026-11-13T09:18:42+00:00",
+   "title": "ALIS by Medtelligent Integrates with Anthropic’s Claude to Expand AI Access in Senior Living",
+   "text": "",
+   "title_th": "ALIS จาก Medtelligent ผสานรวม Claude เพื่อขยายการเข้าถึง AI ในกลุ่มผู้สูงอายุ",
+   "summary_th": "Medtelligent นำโมเดล Claude ของ Anthropic มาผสานรวมเข้ากับระบบ ALIS เพื่อเพิ่มประสิทธิภาพการใช้งาน AI ในธุรกิจดูแลผู้สูงอายุ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Medtelligent",
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3bdb1babe872",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1I4VDlVdTJxTjF6ay1RWWZ3QWMwd0paVUpnblNPaVN6SHNQcTdIRUYzN0Z0eHFjYVZqTmFTSHN0bWJpZkR1c0xCTTVRT3N1Tjl3YmtWNkEwWkY4NXRBRVdCZGdiSHVtemZoR3A3aTc5Wm10OXhBbUpWbjNVVm5XV0UxZjA?oc=5",
+   "source": "Brand Buffet",
+   "published": "2026-11-13T08:11:53+00:00",
+   "title": "โนวีทัซส์ ได้รับรางวัลรองชนะเลิศอันดับ 1 สาขา “Tech and AI for Gender Equality” ในงาน The UN Women 2026 Thailand WEPs Awards [PR]",
+   "text": "",
+   "title_th": "โนวีทัซส์ คว้ารางวัลด้าน Tech and AI for Gender Equality จาก UN Women",
+   "summary_th": "บริษัท โนวีทัซส์ ได้รับรางวัลรองชนะเลิศอันดับ 1 ในสาขาที่เกี่ยวข้องกับการใช้เทคโนโลยีและ AI เพื่อความเท่าเทียมทางเพศ จากงานประกาศรางวัลของ UN Women Thailand",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "47a0abe00ba7",
+   "url": "https://www.blognone.com/node/152171",
+   "source": "Blognone",
+   "published": "2026-11-13T07:24:10+00:00",
+   "title": "12 ชั่วโมงผ่านไป - Microsoft ระบุ ถึงตอนนี้ยังไม่พบว่า Microsoft 365 ล่ม เกิดจากการโจมตีที่เป็นอันตราย",
+   "text": "Body ผ่านไปแล้วมากกว่า 12 ชั่วโมง ปัญหาของ Microsoft 365 ที่ ไม่สามารถใช้งานได้ตามปกติ กระทบผู้ใช้งานทั่วโลก ซึ่งรวมทั้ง Outlook, Teams และ Copilot ยังคงไม่กลับมาเป็นปกติ ในช่วงแรกไมโครซอฟท์บอกว่าปัญหาเกิดจากเซิร์ฟเวอร์ไม่สามารถทำ Automated health check ได้ แต่เมื่อแก้ไขแล้วก็ยังไม่ใช่สาเหตุ ต่อมาไมโครซอฟท์ บอกว่า ได้แก้ปัญหาเพิ่มเติมหลายอย่างทั้ง การขยายทรัพยากรให้รองรับเวิร์กโหลดมากขึ้น, ปรับคอนฟิกหลายอย่าง, ตรวจสอบทราฟิกที่สร้างผลกระทบเพื่อปรับสมดุล ซึ่งตอนนี้ก็ยังไม่ยืนยันว่าจะแก้ปัญหาได้",
+   "title_th": "Microsoft 365 ยังคงล่มทั่วโลก ยืนยันไม่ใช่การโจมตีทางไซเบอร์",
+   "summary_th": "บริการ Microsoft 365 รวมถึง Copilot ประสบปัญหาล่มทั่วโลกต่อเนื่องนานกว่า 12 ชั่วโมง โดย Microsoft ยืนยันว่าไม่ได้เกิดจากการโจมตีที่เป็นอันตราย แต่เป็นปัญหาด้านการจัดการทรัพยากรและระบบ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Microsoft"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "12a0960c94bd",
+   "url": "https://www.blognone.com/node/152161",
+   "source": "Blognone",
+   "published": "2026-11-13T04:00:56+00:00",
+   "title": "จากเขียนโค้ดด้วย AI สู่การสร้าง Agent-Native Architecture เจาะลึกเนื้อหา Deep Tech จากงาน LINE THAILAND DEVELOPER CONFERENCE 2026",
+   "text": "Body งาน LINE THAILAND DEVELOPER CONFERENCE 2026 ภายใต้ธีม Build the Next Frontier จัดขึ้นเมื่อวันเสาร์ที่ 17 ตุลาคม 2026 ที่ไบเทค บางนา มีการเล่าเรื่องถึงการนำ Agentic AI มาเติมความรู้ให้นักพัฒนา และผู้สนใจในเรื่องดังกล่าวจนสามารถนำไปต่อยอดในอาชีพ และสร้างโอกาสธุรกิจใหม่ได้อย่างมีประสิทธิภาพ แต่ที่มากกว่าแค่ข้อมูลภาพรวม Agentic AI และการประยุกต์ใช้ ภายในงานยังมีแทร็ก Deep Tech ที่เจาะลึกเนื้อหาการนำ Agentic AI ไปใช้อย่างเข้มข้น ผ่านผู้เชี่ยวชาญ และกรณีศึกษาที่ใช้กั",
+   "title_th": "เจาะลึก Agentic AI และสถาปัตยกรรมยุคใหม่ในงาน LINE Thailand Developer Conference 2026",
+   "summary_th": "งานประชุมนักพัฒนาของ LINE เน้นย้ำเรื่องการนำ Agentic AI มาประยุกต์ใช้เพื่อสร้างโอกาสทางธุรกิจและพัฒนาทักษะนักพัฒนาผ่านเนื้อหาเชิงลึกด้าน Deep Tech",
+   "category": "อื่นๆ",
+   "companies": [
+    "LINE"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1309e3f1c689",
+   "url": "https://www.blognone.com/node/152166",
+   "source": "Blognone",
+   "published": "2026-11-13T02:26:29+00:00",
+   "title": "ซัมซุงเปิดตัวแว่นตาติดกล้อง Intelligent Eyewear ใช้ Android XR เริ่ม 395 ดอลลาร์",
+   "text": "Body ซัมซุงประกาศวางขายแว่นตา Android XR ที่ร่วมพัฒนากับกูเกิล และแบรนด์แว่นตา Gentle Monster และ Warby Parker ในวันที่ 10 ธันวาคม 2026 เริ่มจากสหรัฐอเมริกาและเกาหลีใต้ แว่นตาเซ็ตนี้มีชื่อเรียกว่า Intelligent Eyewear เป็นแว่นกระจกใส-แว่นกันแดดที่ไม่มีหน้าจอ ตัวแว่นมีกล้อง 12MP ลำโพง และไมโครโฟน ให้เราสั่งงานด้วยเสียงผ่าน Gemini, ใช้ชิป Snapdragon AR1 Gen 1, แว่นหนักประมาณ 41 กรัม, แบตเตอรี่ใช้งานได้สูงสุด 9 ชั่วโมง มีเคสสำหรับชาร์จแว่นมาให้ รวมกันได้ 72 ชั่วโมง ที่ต้องเรียกว่า \"เซ็ต\" เพราะแว่นไม่ได้มีรุ่นเดียว แต่",
+   "title_th": "ซัมซุงเปิดตัวแว่นตาอัจฉริยะ Intelligent Eyewear รองรับ Gemini",
+   "summary_th": "ซัมซุงเปิดตัวแว่นตา Android XR ที่พัฒนาร่วมกับกูเกิล โดยเน้นการสั่งงานด้วยเสียงผ่าน Gemini และใช้ชิปประมวลผลสำหรับ AR โดยเฉพาะ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Samsung",
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f980cc1f1e21",
+   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+   "source": "Hacker News",
+   "published": "2026-11-12T23:06:17+00:00",
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "text": "276 points, 79 comments on Hacker News (https://news.ycombinator.com/item?id=50475713)",
+   "title_th": "Edge0-145B โมเดล AI ประสิทธิภาพสูงที่รันบนคอมพิวเตอร์ส่วนตัวได้",
+   "summary_th": "มีการเปิดตัวโมเดล Edge0-145B ซึ่งเป็นโมเดล AI ขนาดใหญ่ที่มีความสามารถระดับแนวหน้า โดยถูกออกแบบมาให้สามารถใช้งานได้บนเครื่องคอมพิวเตอร์ส่วนบุคคล",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "4e2810e47ea3",
    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
@@ -578,6 +720,21 @@
     "Muse"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d096a8a420fb",
+   "url": "https://unemploymentlabs.com/checkpoint-forensics",
+   "source": "Hacker News",
+   "published": "2026-11-12T21:56:11+00:00",
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "text": "307 points, 114 comments on Hacker News (https://news.ycombinator.com/item?id=50474883)",
+   "title_th": "พบร่องรอยการใช้ GPU ที่ถูกควบคุมการส่งออกในโมเดล AI ของจีน",
+   "summary_th": "มีการวิเคราะห์พบว่าโมเดล AI ระดับแนวหน้าของจีนมีร่องรอยการฝึกฝนที่บ่งชี้ถึงการใช้ GPU ที่ถูกจำกัดการส่งออก ข้อมูลนี้สะท้อนถึงความท้าทายในการควบคุมการเข้าถึงเทคโนโลยีชิปประมวลผลขั้นสูง",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -834,24 +991,6 @@
    "dedup": true
   },
   {
-   "id": "44722bd03025",
-   "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-12T16:12:44+00:00",
-   "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-   "text": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-   "title_th": "Trump เสนอชื่อ Tim Cook เป็นซีอีโอคนใหม่ของ Nvidia",
-   "summary_th": "อดีตประธานาธิบดี Trump ได้โพสต์ข้อความเสนอให้ Tim Cook ประธานของ Apple เข้ามารับตำแหน่งแทน Jensen Huang ที่ Nvidia",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Nvidia",
-    "Apple"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "1efebebf8706",
    "url": "https://www.blognone.com/node/152163",
    "source": "Blognone",
@@ -946,6 +1085,23 @@
    "category": "ธุรกิจ/การลงทุน",
    "companies": [],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "df63fc08a10a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-12T13:12:53+00:00",
+   "title": "Alleged GeForce RTX 5090 with 96GB listed for sale in China",
+   "text": "submitted by /u/chemist_slime [link] [comments]",
+   "title_th": "พบรายการขาย GeForce RTX 5090 รุ่น 96GB ในประเทศจีน",
+   "summary_th": "มีการพบข้อมูลการวางจำหน่ายการ์ดจอ GeForce RTX 5090 รุ่นพิเศษที่มีหน่วยความจำ 96GB ในตลาดประเทศจีน ซึ่งเป็นประเด็นที่น่าสนใจสำหรับผู้ที่ติดตามฮาร์ดแวร์สำหรับการประมวลผล AI",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Nvidia"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -1229,6 +1385,22 @@
     {
      "source": "r/LocalLLaMA",
      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+    },
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/"
     }
    ],
    "dedup": true
@@ -1359,6 +1531,21 @@
    "title_th": "กระแสวิจารณ์เงินออมเกษียณกำลังถูกนำไปใช้ในฟองสบู่ AI",
    "summary_th": "มีการตั้งข้อสังเกตในชุมชนเทคโนโลยีเกี่ยวกับความเสี่ยงที่เงินออมเพื่อการเกษียณอายุอาจถูกนำไปลงทุนในบริษัท AI ซึ่งอาจนำไปสู่ภาวะฟองสบู่ในอุตสาหกรรม",
    "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9d279f8afefe",
+   "url": "https://huggingface.co/papers/2611.16748",
+   "source": "HF Daily Papers",
+   "published": "2026-11-11T19:00:00+00:00",
+   "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+   "text": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, yet reliable quality judgments, correction pairs, and controlled variations are difficult to obtain. Large language models (LLMs) possess physical knowledge, but struggle to reliably guide video generation models in producing their training videos. We present PhysLoop, a unified harness designed to support physically grounded self-improvement in video generation models. The harness guides and const",
+   "title_th": "PhysLoop: การใช้ความเข้าใจด้านฟิสิกส์จาก LLM เพื่อพัฒนาโมเดลสร้างวิดีโอ",
+   "summary_th": "งานวิจัยนำเสนอ PhysLoop ซึ่งเป็นเครื่องมือที่ใช้ความรู้ด้านฟิสิกส์จาก LLM มาช่วยปรับปรุงความสมจริงทางกายภาพและความต่อเนื่องของเหตุการณ์ในโมเดลสร้างวิดีโอ เพื่อแก้ปัญหาข้อจำกัดด้านพลศาสตร์ในปัจจุบัน",
+   "category": "งานวิจัย",
    "companies": [],
    "importance": 3,
    "ai": true,
@@ -2096,23 +2283,6 @@
    "dedup": true
   },
   {
-   "id": "34a6071342ff",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-   "source": "The Verge AI",
-   "published": "2026-11-10T19:31:58+00:00",
-   "title": "The US is winning the AI race. Jensen Huang could have blown it",
-   "text": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
-   "title_th": "บทวิเคราะห์บทบาทของ Jensen Huang ในการแข่งขันด้าน AI ของสหรัฐฯ",
-   "summary_th": "บทวิเคราะห์ถึงอิทธิพลของ Jensen Huang ซีอีโอของ Nvidia ในฐานะผู้ควบคุมเทคโนโลยีสำคัญที่ขับเคลื่อนการเติบโตของ AI และความสัมพันธ์ของเขากับบุคคลสำคัญระดับโลก",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Nvidia"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "7739f93bab44",
    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
    "source": "TechCrunch AI",
@@ -2177,6 +2347,36 @@
     "Google"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7afe22db314e",
+   "url": "https://huggingface.co/papers/2611.15777",
+   "source": "HF Daily Papers",
+   "published": "2026-11-10T19:00:00+00:00",
+   "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+   "text": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions. We introduce SO-Arena, a benchmark characterizing the capability spectrum and decision reliability of System One models across 11 domains and five capability families. For the capability spectrum, SO-Arena offers evidence-grounded eva",
+   "title_th": "เปิดตัว SO-Arena เกณฑ์มาตรฐานสำหรับวัดประสิทธิภาพโมเดล System One",
+   "summary_th": "SO-Arena ถูกพัฒนาขึ้นเพื่อประเมินขีดความสามารถและความน่าเชื่อถือในการตัดสินใจของโมเดลประเภท System One ใน 11 โดเมน เพื่อให้เข้าใจประสิทธิภาพที่แท้จริงนอกเหนือจากการวัดผลแบบเดิม",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2741c921d019",
+   "url": "https://huggingface.co/papers/2611.15131",
+   "source": "HF Daily Papers",
+   "published": "2026-11-10T19:00:00+00:00",
+   "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+   "text": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The RWM treats intelligence and physical reality as equally fundamental to what constitutes a world. Existing world models largely focus on simulating the latter, leaving reasoning and decision-making as external controls rather than intrinsic parts of the world itself. In RWM, we identify two equally fundamental capabilities: Intent, which provides the cognition underlying world interactions, and Real",
+   "title_th": "Duo: โมเดลโลกแบบ Reciprocal สำหรับการโต้ตอบแบบ Full-Duplex",
+   "summary_th": "Duo v1 เป็นโมเดลโลกที่สามารถรับรู้ข้อมูลภาพและเสียงพร้อมตอบสนองแบบเรียลไทม์ โดยใช้แนวคิด Reciprocal World Model ที่รวมการใช้เหตุผลและการตัดสินใจเข้าเป็นส่วนหนึ่งของโมเดล",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -2348,7 +2548,8 @@
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [
     "Anthropic",
-    "Google"
+    "Google",
+    "Microsoft"
    ],
    "importance": 4,
    "ai": true,
@@ -2373,6 +2574,10 @@
     {
      "source": "Fortune",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlhCX21hbUtQSkR5SExrZVI2c09icmNlRkJ3bDlON3B1UUVpbkx2VnAwcXhzbzI5Z3lJUGlnUG1SUVFlczFUd0RHZG0wclNNNEp4MmgzZGtYVEJ4UDJrY3dJblRXMFFFOGI1T2VaZzFqWXRoMHVfTEctSE5wVEhLcVk5ZkdIRUpvMVAtZjV2NzMzTWxjUlVWRzRheDNQYTdCYWRUaA?oc=5"
+    },
+    {
+     "source": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0t5bGxIX2NKV2Q0ckN1cXU3US13N1l5RXhOUVRTQ2RiSFZHb0JxYnRuZ3BUYmlwcUdqQ1REQlJFcW9jalgwQkk3UUhDd2F4dmt6QXlQYzVvTjJSY2c1YWJTSTB1d2pqakI4Mno4R0I4VjZSdjBJRXEyV2pFa3U4SF9jWTE5RlFJbEc0NDdTZGVyVlViemllcg?oc=5"
     }
    ]
   },
@@ -10567,204 +10772,6 @@
     "Runware"
    ],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "536c393f8f7d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjdjy0/gemma431bhumanlikechat_20s_improved_human_voice/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-30T12:05:50+00:00",
-   "title": "Gemma-4-31B-Humanlike-Chat: 2.0's improved human voice on official Gemma 4 31B",
-   "text": "The previous released Qwen3.8-27B-Humanlike-Chat 2.0, a fine-tune that texts humanly and does stuff, is now at 136k downloads for the GGUF repo between v1 and 2.0. Thank you. One of the top comments on the 2.0 post was \"I wonder how Gemma 4 31B would do, trained with your method\" . So here it is: Gemma-4-31B-Humanlike-Chat. The voice of 2.0 on the official Gemma 4 31B from Google. What it does Texts humanly without a prompt. Short lowercase lines. Responds to what you say. Show a blind judge a real chat and two possible next messages. It picks which one came from the real person. The judge too",
-   "title_th": "เปิดตัว Gemma-4-31B-Humanlike-Chat ปรับจูนให้โต้ตอบเป็นธรรมชาติ",
-   "summary_th": "นักพัฒนาปล่อยโมเดล Gemma-4-31B-Humanlike-Chat ซึ่งเป็นการปรับจูนโมเดล Gemma 4 31B ของ Google ให้สามารถสื่อสารด้วยภาษาที่เป็นธรรมชาติเหมือนมนุษย์มากขึ้น โดยไม่ต้องใช้ Prompt ซับซ้อน",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Google"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d673427b3d59",
-   "url": "https://www.blognone.com/node/152064",
-   "source": "Blognone",
-   "published": "2026-10-30T11:53:22+00:00",
-   "title": "Intel ไตรมาส 3/2026 รายได้รวมโต 21% เร่งผลิตซีพียู Xeon ให้ทันความต้องการ",
-   "text": "Body อินเทลรายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้รวม 16,513 เพิ่มขึ้น 21% จากไตรมาสเดียวกันในปีก่อน และมีกำไรสุทธิตามบัญชี GAAP 3,520 ล้านดอลลาร์ รายได้แยกตามกลุ่มธุรกิจของอินเทลมีทั้งที่เพิ่มขึ้นและลดลง โดยกลุ่ม Client Computing และ Physical AI ลดลง 5% เป็น 8,097 ล้านดอลลาร์, กลุ่ม Data Center และ AI เพิ่มขึ้น 78% เป็น 7,318 ล้านดอลลาร์ และธุรกิจรับจ้างผลิต Intel Foundry เพิ่มขึ้น 58% เป็น 6,697 ล้านดอลลาร์ Lip-Bu Tan ซีอีโออินเทลบอกว่าตอนนี้ทั้งอุตสาหกรรมพีซีได้รับผลกระทบในระยะสั้น อย่างไรก็ตามอินเทลยังเห็นแนวโ",
-   "title_th": "Intel รายได้ไตรมาส 3/2026 โต 21% กลุ่ม Data Center และ AI เติบโตโดดเด่น",
-   "summary_th": "Intel รายงานผลประกอบการไตรมาส 3 ปี 2026 โดยกลุ่มธุรกิจ Data Center และ AI มีการเติบโตสูงถึง 78% ท่ามกลางความต้องการซีพียู Xeon ที่เพิ่มขึ้น",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Intel"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2eae49e978ce",
-   "url": "https://www.blognone.com/node/152063",
-   "source": "Blognone",
-   "published": "2026-10-30T11:49:11+00:00",
-   "title": "Amazon รายงานผลประกอบการไตรมาส มอง AWS ยังเติบโตได้อีกมาก",
-   "text": "Body Amazon รายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้รวม 201,944 ล้านดอลลาร์ เพิ่มขึ้น 12% จากไตรมาสเดียวกันในปีก่อน มีกำไรจากการดำเนินงาน 28,076 ล้านดอลลาร์ คิดเป็นอัตรากำไร 13.9% สูงที่สุดที่เคยมีมาของบริษัท และมีกำไรสุทธิตามบัญชี GAAP 20,685 ล้านดอลลาร์ ธุรกิจคลาวด์ AWS ของ Amazon มีรายได้เฉพาะกลุ่ม 17,773 ล้านดอลลาร์ เพิ่มขึ้น 39.3% ซึ่ง Amazon บอกว่าเป็นการเติบโตเร็วที่สุดในรอบ 5 ปี ส่วนธุรกิจโฆษณาที่นักวิเคราะห์ให้ความสนใจมากในช่วงที่ผ่านมา รายได้ 19,637 ล้านดอลลาร์ เพิ่มขึ้น 11% Andy Jassy ซีอีโอ Amazon ให้ข้อมูลว่าด้วยโครงส",
-   "title_th": "Amazon เผยผลประกอบการไตรมาส 3/2026 ชี้ AWS เติบโตเร็วที่สุดในรอบ 5 ปี",
-   "summary_th": "Amazon รายงานรายได้รวมและกำไรที่เติบโตอย่างแข็งแกร่ง โดยธุรกิจคลาวด์ AWS มีการเติบโตอย่างโดดเด่นถึง 39.3% ซึ่งสะท้อนถึงความต้องการใช้งานโครงสร้างพื้นฐานคลาวด์ที่เพิ่มสูงขึ้นอย่างต่อเนื่อง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Amazon"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c90f6862e755",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2hGS1gwVmk3ZWdTUjZOZDE0U1FGZ3JBUDB4bDJJWjhaTks1dmZIUWUzUFJOc1pCUjZ1M1BvUDczck42dFpENlVRY0htWVd6eFdkWXhVSkF3eFN2ZTJBcWZNc1dLZVRUY3lVd29UemJMRm9MMllDZG1VcVZwd2Q0Y0hEeUJLWncx?oc=5",
-   "source": "NECTEC",
-   "published": "2026-10-30T09:18:08+00:00",
-   "title": "เนคเทค สวทช. ผนึกกำลัง สภาดิจิทัลฯ (DCT) หารือความร่วมมือขับเคลื่อนเทคโนโลยีดิจิทัลและ AI ภายใต้กรอบความร่วมมือการส่งเสริมขีดความสามารถด้านข้อมูลและปัญญาประดิษฐ์ (AI) - NECTEC : National Electronics and Computer Technology Center",
-   "text": "",
-   "title_th": "เนคเทค สวทช. จับมือ สภาดิจิทัลฯ ขับเคลื่อน AI และข้อมูลในไทย",
-   "summary_th": "เนคเทคและสภาดิจิทัลฯ ร่วมหารือแนวทางความร่วมมือเพื่อส่งเสริมขีดความสามารถด้านปัญญาประดิษฐ์และข้อมูลของประเทศไทย",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "NECTEC"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b91e16468749",
-   "url": "https://news.ycombinator.com/item?id=50301479",
-   "source": "Hacker News",
-   "published": "2026-10-30T09:17:43+00:00",
-   "title": "Ask HN: Are you tired too in this AI era?",
-   "text": "149 points, 142 comments on Hacker News (https://news.ycombinator.com/item?id=50301479)",
-   "title_th": "กระแสความเหนื่อยล้าของผู้คนในยุค AI",
-   "summary_th": "มีการตั้งกระทู้สนทนาเกี่ยวกับความรู้สึกเหนื่อยล้าของผู้คนในวงการเทคโนโลยีท่ามกลางการเปลี่ยนแปลงอย่างรวดเร็วของยุค AI",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 1,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c7606af40dbb",
-   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-   "source": "OpenAI",
-   "published": "2026-10-30T09:00:00+00:00",
-   "title": "Community safety report and new protections for teens",
-   "text": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-   "title_th": "OpenAI เพิ่มมาตรการความปลอดภัยสำหรับวัยรุ่นใน ChatGPT",
-   "summary_th": "OpenAI ยกระดับมาตรการป้องกันความรุนแรงใน ChatGPT โดยเพิ่มการตรวจสอบเชิงรุกและการแทรกแซงที่รวดเร็วขึ้น พร้อมให้คำมั่นสัญญาเรื่องความปลอดภัยสาธารณะ",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d071ec466e37",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj9xjh/the_rtx_5080_has_been_removed_from_nvidias/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-30T08:38:08+00:00",
-   "title": "The RTX 5080 Has Been Removed From NVIDIA's Official Marketplace.",
-   "text": "Rumors claim that the RTX 5080 16GB will be discontinued alongside the already discontinued RTX 5090, and those claims seem to be true. NVIDIA is reportedly planning to introduce an RTX 5080 24GB model in early 2027, which would serve as its flagship GPU until RTX Rubin arrives sometime in 2028. According to the same rumors, the 24GB model will use the exact same GPU die as the current RTX 5080. As highlighted by HUB, the die is already fully utilized, meaning this won't be a more powerful Super variant or a noticeable performance upgrade. The only expected difference is the increase in VRAM f",
-   "title_th": "ข่าวลือ NVIDIA เตรียมถอด RTX 5080 ออกจากตลาดและเปิดตัวรุ่นใหม่",
-   "summary_th": "มีรายงานว่า NVIDIA อาจถอด RTX 5080 รุ่นปัจจุบันออกจากตลาด และวางแผนเปิดตัวรุ่น 24GB ในปี 2027 เพื่อเป็นรุ่นเรือธงจนกว่าสถาปัตยกรรมใหม่จะมาถึง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "9585607c5f98",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDNoVkx3Mmpqa0JHVUJkdjl6RTEyX1RpU0p2eHF3eGxWNm52aEd1NDUxY3ZZLU12QTk0WC1OZkNCR2J6azRkTEd6QVliX1B0V0NzT21RRWRYUTBwQngyNFR4dFNrMmxyeGhwSzE1a1VJdWZ4X0hkcWxlWHgtWFVJcGRSSjczWm04RXJCVHJ5ZGkzQlRmTHJYbVhFQ3FyS0ViLTEw?oc=5",
-   "source": "Rescana",
-   "published": "2026-10-30T08:31:30+00:00",
-   "title": "Trojanized Claude Code Extension 2.1.313 in Cursor Marketplace Plants SSH Backdoor",
-   "text": "",
-   "title_th": "พบมัลแวร์ SSH Backdoor ในส่วนขยาย Claude Code เวอร์ชัน 2.1.313",
-   "summary_th": "การตรวจพบมัลแวร์ในส่วนขยาย Claude Code เวอร์ชันเฉพาะที่ถูกนำมาวางบน Cursor Marketplace เพื่อติดตั้ง SSH Backdoor ในเครื่องนักพัฒนา",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Anthropic",
-    "Cursor"
-   ],
-   "importance": 5,
-   "ai": true,
-   "also": [
-    {
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSE5Sd2ZzblVoTHk3cWowdjBHOUlGQ25obHhuSkoyell3S2JWTUxqeXFFRnBMbTVaOENobjFKVFJXT0VhQi1VSzVBX0dSM3N5SGJ4N2VWSjhnX3NCQlJsSmdTX1RmSlpEeHN0NFFXVll0MzZRV1lfbUpkcDZ1dk9xQXpSWHBVUVJiMDJCYXgtMmlxMnQ1a2dxcmxBZlFBcTY0SUZMYXZyeHNZX3o1ejRUbkxmN3JqRlYtSnNCRnFiZkswLWx4S2c?oc=5"
-    },
-    {
-     "source": "The Hacker News",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2hyRVBYNEpLVEQ2V2IwYk9aZmhtUm9veEV5RE4tZVVONXpIM1Y5Q1hxSWprYjFDR1NXNGF2MjlyeUpod2p6NFNydVltcmpudHoxU2wtUWJxSUdrWUhhanRiTUo3ZzdGNXViN0NyRUdTcHFiVEJfT2Z0VklGczNiOGhzYw?oc=5"
-    },
-    {
-     "source": "Step Security",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QN1Q5bXI1WXMzZlpOLWIxaDJEVGhuTWZxcXRwTWdaXzlETHZYd0pIcGhpdnR3R1dsQXUzWGFoZHUyZUd2UldGMHotYVFHNHFQZjdCWERJektwVXZVMWw5dGc4WldHQktiLXFYVnBST19Ecmc?oc=5"
-    },
-    {
-     "source": "Help Net Security",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnQ4Ylo3R2N1ekJRbGFaYko3RF9FN2hsdzlncVA1U1Y1TWxLcTdnUEhyR3NYMmtYaUJYRXBsSlQ0bzZKX3ZVTEdkaFc0eWZYbVFLVXZVbnNxcHROU3NHQkhGQWRHNGc0MnNNaXo5VnktTEZILU9PUTltS0liN2lVUUdaWEU?oc=5"
-    },
-    {
-     "source": "r/LocalLLaMA",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjclj9/official_claude_code_vs_code_extension/"
-    },
-    {
-     "source": "DoublePulsar",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlhhemJJUy1zRzV1V3BYQnZVOEsxR3JDbzF5eUVTNzg3Q180OWxaTFV5alZVNUpHWGdvVWVabEE5OTVmV1dyTjJSTnI1cGctc2VCcldCYzRaMFhfMlpWSE1fTzN5WXh6STNaNDl0TXV1RS1KaW9LTDJaenNfSHo1WG1TLUY4WEJDUmhMRE5OTUR6Z2QwTmMtZTBvYkJHZkpkakRHQThIamxlcDRWQ0U1R3l3TnNvYlJlaktTeWRHVXYwUQ?oc=5"
-    },
-    {
-     "source": "Sophos",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWV5czdyUDJ4VEtJS1B2aGs4cHBzT1RyNEpXZGhWdGE4RGl3Sm9zX2Myem9SeDJBbS12S2xYX0V6ZWNlZWp4R1A1UGNSc21QbDY5TmJjRkN5UE9CdUtvRkpnRTQ5RGdtUzhXeTRuSXpHR01FOGIwUTNwM2pJQlRLWWdEZThoR05wRlhzMGROMWp1cEdnMkk0T21qaEZxLWNhZFZGeUxUVQ?oc=5"
-    },
-    {
-     "source": "WIRED",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ25XT1VwZ0xkZDJHT014UWlQbFAwaXFrUGxSaG9EY3BidHd2b3VsN2lzTm1jSjd0VGR5dmFqNnhHR2ZxMDR4RFd1QjVUVE80eFpUX2NqeGVaZGxmdXZ4RGdnNUIwU1JSUmpWdGFaY3ZXaXR2VmRUaFN5QnJKT0wzakdtTWY2b0kwZGlKLVpiU25NSkRwT1JXbDFwbV95NVhW?oc=5"
-    },
-    {
-     "source": "The Register",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2FaNjdkR0JjU3Itc3RRakQ1UkdSLXdnZG1KVUhhSFdZRERLU2QwVFliWmNMXzdhMHJBMGZKWHlURWJNZ0MwTnA3YnI3VjV2UWNwYmJJYTdCMUIwYUhrbWdwaDMxNDlaMms3eVNfYWJVb3dJbzAtLWFRaE5GQ2JqQ0JxLWJzcEd2Z3FMdklvWWg3aXhka2V5U01ZeEE0MEhTVFRsRkphOFV5VjdGdnNFenR2OEpLMnlMcEROVA?oc=5"
-    },
-    {
-     "source": "BankInfoSecurity",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjJqYTE0ZGVsdGk1cklsaDg2R2wxa2pvU3BtdnEzSkIxNFNqRGgzcVZrOGVBd09vUW1ubEdMQWFURUNPU3dyRjJ4RlhhbWx5Vkp5R2thMkhCVmRnQkZvZTNyTG1hZkFYN1lkQWNlU0lMRlpHTkJSZ2c0enUxQUFCZVhHWlUzZElsOFZFWS1SMUYzRXhmcndnemg1ZXRtbERNdVE?oc=5"
-    },
-    {
-     "source": "Microsoft",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVTNFbkFXZkZqc0wyZ2ZkWjdya3FsQWFxZmY3bndubkNxN0JVbFZVRmtyN1pQOHdLU2JEY0QzcXNLN0lzT2dUaTdmQjlFVnJLU0JiOUJobVMxUUdlWjZCNGRhVVpZem43XzdESUVsZkZJcDdWMmlkYzZBaDhtbEkwYVVQVDBib1MybE11QlY0Y0xsaXBDeFduR3o4R0EzX2VYaUZyMHhVUV9GN3FjeVV1bEZhZ08xZlpOaTd1NVBLWm9RbW1sTzdVb2x1aHgteUln?oc=5"
-    }
-   ],
-   "dedup": true
-  },
-  {
-   "id": "7642eca317aa",
-   "url": "https://www.blognone.com/node/152057",
-   "source": "Blognone",
-   "published": "2026-10-30T02:38:04+00:00",
-   "title": "Valve ยอมรับ Steam มีปัญหาเกมโคลน-เกมคุณภาพต่ำสร้างด้วย AI แต่ก็ไม่มีนโยบายปิดกั้น",
-   "text": "Body Tom Giardino และ Marc Wilkinson ตัวแทนฝ่ายธุรกิจของ Valve ไปขึ้นเวทีงาน Steam Indie Connect ที่เกาหลีใต้ และตอบคำถามนักพัฒนาเกมเรื่องปัญหาการใช้ AI โคลนเกมมาขายแข่ง ที่ไปไกลถึงขั้นมีคนไปขู่เรียกเงินให้นักพัฒนาจ่ายเพื่อแลกกับการไม่โคลนเกมแข่ง Giardino ยอมรับว่า Steam มีปัญหาเรื่องการโคลนเกมมายาวนานตั้งแต่ก่อนยุค AI คือสร้างเกมคล้ายๆ กันกับเกมดังช่วงนั้น เพียงแต่ AI เข้ามาช่วยเร่งความเร็วของการโคลนให้มากขึ้น อย่างไรก็ตาม นโยบายของ Valve ไม่ต้องการเป็น \"ผู้คุมประตู\" (gatekeeper) สั่งนักพัฒนาห้ามใช้เครื่องมือตั",
-   "title_th": "Valve ยอมรับปัญหาเกมโคลนจาก AI บน Steam แต่ยังไม่ปิดกั้น",
-   "summary_th": "ผู้บริหารของ Valve ยอมรับว่าการใช้ AI ช่วยเร่งความเร็วในการสร้างเกมโคลนเป็นปัญหาที่เกิดขึ้นจริงบนแพลตฟอร์ม Steam อย่างไรก็ตาม Valve ยืนยันนโยบายว่าจะไม่ทำหน้าที่เป็นผู้คุมประตูในการปิดกั้นนักพัฒนา",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Valve"
-   ],
-   "importance": 2,
    "ai": true,
    "dedup": true
   }

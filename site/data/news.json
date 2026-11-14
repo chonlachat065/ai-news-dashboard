@@ -1,51 +1,47 @@
 {
- "updated_at": "2026-11-13T22:00:09+00:00",
+ "updated_at": "2026-11-14T06:35:55+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-13T22:00:09+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายจากระบบคลาวด์ล่มและการเปลี่ยนแปลงระดับบริหาร ขณะที่นวัตกรรม AI Agent และโมเดลขนาดเล็กบนอุปกรณ์ส่วนตัวยังคงเติบโตอย่างรวดเร็ว",
+  "generated_at": "2026-11-14T06:35:55+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านเสถียรภาพระบบระดับโลก ควบคู่ไปกับการเติบโตของนวัตกรรม AI Agent และโมเดล Open-weight",
   "points": [
    {
-    "text": "บริการคลาวด์ระดับโลกอย่าง Microsoft 365 และ Claude ประสบปัญหาล่มต่อเนื่อง ส่งผลกระทบต่อการใช้งาน AI ทั่วโลก",
+    "text": "บริการคลาวด์และ AI รายใหญ่ประสบปัญหาล่มทั่วโลก ส่งผลกระทบต่อการใช้งาน Microsoft 365, Copilot และ Claude อย่างต่อเนื่อง",
     "ids": [
      "47a0abe00ba7",
      "a2d78d5efa83"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวในระดับบริหารของ Nvidia และ OpenAI สร้างความกังวลต่อเสถียรภาพของอุตสาหกรรม รวมถึงความเสี่ยงด้านการควบคุม AI ในอนาคต",
-    "ids": [
-     "56623f1d9c94",
-     "8dc897de9b16",
-     "e00ed907e42f"
-    ]
-   },
-   {
-    "text": "การพัฒนา AI Agent และเครื่องมือเชื่อมต่อระบบนิเวศมีความก้าวหน้าอย่างมาก ทั้งการเปิดตัว ChatGPT Wallet, การรองรับ MCP Server ใน Adobe และการระดมทุนของ LangChain",
+    "text": "ความก้าวหน้าของ AI Agent มีความคึกคักสูง ทั้งการระดมทุนของ LangChain, การเปิดตัว ChatGPT Wallet, การรองรับ MCP Server ของ Adobe และการเปิดให้โฮสต์ Claude Managed Agents ได้เอง",
     "ids": [
      "38741df50e34",
      "5bf4951adbe9",
      "16924e51470f",
-     "cd9d1a105b69"
+     "2bc265d529c4"
     ]
    },
    {
-    "text": "เทคโนโลยี Local AI เติบโตต่อเนื่องด้วยการเปิดตัว llama.cpp v1.0.0 และโมเดล Edge0-145B ที่รันบนคอมพิวเตอร์ส่วนตัวได้ รวมถึงการปรับตัวของราคา GPU มือสอง",
+    "text": "การพัฒนาโมเดล Open-weight และเครื่องมือ Local AI ก้าวหน้าอย่างรวดเร็ว โดยมี DeepSeek Flash Max สร้างสถิติใหม่ และการเปิดตัว llama.cpp v1.0.0 เพื่อรองรับการใช้งานบนอุปกรณ์ส่วนตัว",
     "ids": [
-     "40e78db6601d",
-     "f980cc1f1e21",
-     "65824ac1d66f",
-     "e2170665df25"
+     "21dcb86b730a",
+     "40e78db6601d"
     ]
    },
    {
-    "text": "การประยุกต์ใช้ AI ในภาคส่วนต่างๆ ขยายตัวครอบคลุมทั้งการแพทย์ การวิจัยทางคณิตศาสตร์ การประชุมองค์กร และการพัฒนาหุ่นยนต์",
+    "text": "เกิดข้อถกเถียงเรื่องการผูกขาดตลาดชิปของ NVIDIA และโอกาสของคู่แข่งในอนาคต ท่ามกลางแผนการขยายกำลังการผลิต DRAM ของ CXMT เพื่อบรรเทาปัญหาขาดแคลน",
     "ids": [
-     "025a6c711bf8",
-     "ece4b84db3e9",
+     "c6caa4d4f0b0",
+     "e00ed907e42f",
+     "6c0afd0ee319"
+    ]
+   },
+   {
+    "text": "มีการประยุกต์ใช้ AI ในวงกว้าง ทั้งการถอดรหัสงานวิจัยคณิตศาสตร์ของ Gödel, การเพิ่มประสิทธิภาพในระบบสาธารณสุขโดย NVIDIA และการใช้ AI ช่วยจัดการระบบ IT Legacy",
+    "ids": [
      "e940fd987572",
-     "2427bacb74a9",
-     "137968dd67f5"
+     "ece4b84db3e9",
+     "d1318183fe17"
     ]
    }
   ]
@@ -569,9 +565,72 @@
   "4e379f6cb9d3",
   "627c324df106",
   "69b43a95305b",
-  "54282f98ff01"
+  "54282f98ff01",
+  "04367a7d0b10",
+  "c5e0911fcdb8",
+  "951c84561943",
+  "56623f1d9c94",
+  "ad639fbc6552",
+  "604d2096520a"
  ],
  "items": [
+  {
+   "id": "c6caa4d4f0b0",
+   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "source": "Hacker News",
+   "published": "2026-11-14T02:52:59+00:00",
+   "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+   "text": "313 points, 158 comments on Hacker News (https://news.ycombinator.com/item?id=50493251)",
+   "title_th": "ข้อกล่าวหา NVIDIA สร้างสถานการณ์ขาดแคลนชิปผ่านการให้ทุนสตาร์ทอัพ AI",
+   "summary_th": "มีการตั้งข้อสังเกตว่า NVIDIA อาจจงใจสร้างความขาดแคลนในตลาดด้วยการสนับสนุนเงินทุนให้สตาร์ทอัพนำไปซื้อ GPU ของตนเอง เพื่อรักษาระดับราคาและภาพลักษณ์ของสินค้า",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 4,
+   "ai": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "ad10f6f67cfc",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QV0g3WHluSnFnU1Y2QWlHSkx5RTZwd25fZEhkM28wZ3U2S0pFczdhQUZBOHFibVh1N2kyUWIyMjdIVUtld0EyeDg3Q2cyNWZUQi1BMFBWTWE2bmJKYkdGS0xzNGdZeHFyVVVDa0QzaENYU0xSZXc?oc=5",
+   "source": "Anthropic",
+   "published": "2026-11-13T23:16:43+00:00",
+   "title": "Anthropic in London: AI and Science",
+   "text": "",
+   "title_th": "Anthropic ขยายฐานในลอนดอน มุ่งเน้นด้าน AI และวิทยาศาสตร์",
+   "summary_th": "Anthropic ประกาศการดำเนินงานในลอนดอนโดยมุ่งเน้นไปที่การประยุกต์ใช้ AI ในงานด้านวิทยาศาสตร์และการวิจัย",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2bc265d529c4",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YWTVIaHFBZGp2SnNxSDM2TEU1YUdzZGZ1Zk5DUUtWTVJPTDFmZno5b0hKX0ZKZkJ3SU5EV212c0RXV0V6U3k1endpYUR3ZWJwR1ZDNDJILXJ2em1MWjdFQXdDaDdEenFj?oc=5",
+   "source": "The New Stack",
+   "published": "2026-11-13T21:34:24+00:00",
+   "title": "Anthropic now lets you self-host Claude Managed Agents. The catch? 8 hours to act if it flags a safety risk",
+   "text": "",
+   "title_th": "Anthropic เปิดให้ใช้งาน Claude Managed Agents แบบ Self-host",
+   "summary_th": "Anthropic เปิดตัวฟีเจอร์ให้ผู้ใช้สามารถโฮสต์ Claude Managed Agents ได้เอง แต่มีเงื่อนไขด้านความปลอดภัยที่ต้องดำเนินการภายในเวลาที่กำหนดหากระบบตรวจพบความเสี่ยง",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "9a54c0f466e5",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UcXpxbkFEU2NnQk84UW1ZT2JVUkdQVlBQakNGWXRaVHpsalNnaGRpSGVSV21aMkdId3RpVHJHT21ldDdKM0xSMlFXRGxWdE9ld3RQMzM4NEltbjlkUWJJY08teGRUajk2OXZnVXlVdDdaa3BJcmlYRl9TaHh1RFk?oc=5",
@@ -603,6 +662,21 @@
     "LangChain"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7a978e8677d3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-13T19:23:54+00:00",
+   "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+   "text": "hey llamas, its Alish from nace.ai (open source ai lab behind #1 decision model on latest Artificial Analysis decision index v2.1) & Kapitsa (optimized inference for apple silicon). As promised in the last post , we are releasing the GGUF weights based on the Nace quantization of Qwen 9B, 27B, 35B and Flash-Next. I will describe our process on how we came up with these quants right below, so skip to the end to see the benchmarks and download the weights if it gets too dull. The process I started with 9B quants. I understood that setting up a good & fair benching is critical to succeed with the",
+   "title_th": "เทคนิค Weight Space Programming ช่วยเพิ่มประสิทธิภาพการ Quantization โมเดล Qwen",
+   "summary_th": "มีการเผยแพร่เทคนิคการทำ Quantization รูปแบบใหม่ที่ช่วยลดค่า KL divergence ได้ดีขึ้นถึง 2 เท่า สำหรับโมเดลตระกูล Qwen และ Flash Next ในรูปแบบ GGUF",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -656,6 +730,23 @@
    "dedup": true
   },
   {
+   "id": "21dcb86b730a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-13T16:31:47+00:00",
+   "title": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
+   "text": "Hi, I've just updated the SWE-sweep leaderboard with more open-weight models! DeepSeek v4.1 flash (max) is the first open-weight model we evaluated that gets >1%. This benchmark is extremely challenging: Models get a snapshot of a (potentially very large) repo containing hundreds of bugs. They don't receive any hint about what these bugs are and need to fix them all. This makes for a very reasoning-heavy, long-horizon task. To isolate just the model capabilities we also evaluate all models in the same harness (but we did do some comparisons with Claude Code and Codex harnesses and neither seem",
+   "title_th": "DeepSeek Flash Max เป็นโมเดล Open-weight รุ่นแรกที่ทำคะแนนเกิน 1% ใน SWE-sweep",
+   "summary_th": "DeepSeek v4.1 Flash (max) สร้างสถิติเป็นโมเดล Open-weight ตัวแรกที่ทำคะแนนได้มากกว่า 1% ในการทดสอบแก้บั๊กซอฟต์แวร์ที่ซับซ้อนและต้องใช้การใช้เหตุผลสูง",
+   "category": "งานวิจัย",
+   "companies": [
+    "DeepSeek"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "71ca71a0ccf4",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
    "source": "The New York Times",
@@ -674,31 +765,18 @@
    "dedup": true
   },
   {
-   "id": "56623f1d9c94",
-   "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-13T15:58:00+00:00",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "text": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "title_th": "สรุปไทม์ไลน์ข่าวอื้อฉาวการลาออกของ Jensen Huang",
-   "summary_th": "เหตุการณ์การลาออกของ Jensen Huang จาก Nvidia สืบเนื่องจากเรื่องส่วนตัว ซึ่งอาจส่งผลกระทบต่อความมั่นคงและโครงสร้างพื้นฐาน AI ระดับโลก",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Nvidia",
-    "NVIDIA"
-   ],
-   "importance": 5,
+   "id": "ace7cac706df",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-13T15:56:37+00:00",
+   "title": "e-means: 10x faster k-means at equal loss",
+   "text": "submitted by /u/techmago [link] [comments]",
+   "title_th": "e-means อัลกอริทึมใหม่ช่วยเร่งความเร็ว k-means ได้ 10 เท่า",
+   "summary_th": "มีการนำเสนออัลกอริทึม e-means ซึ่งสามารถประมวลผล k-means ได้เร็วขึ้นถึง 10 เท่าโดยที่ยังคงระดับความแม่นยำหรือค่า Loss เท่าเดิม",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
    "ai": true,
-   "also": [
-    {
-     "source": "The Verge AI",
-     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
-    },
-    {
-     "source": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
-    }
-   ],
    "dedup": true
   },
   {
@@ -752,6 +830,10 @@
     {
      "source": "TechCrunch AI",
      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
     }
    ],
    "dedup": true
@@ -915,6 +997,23 @@
    "dedup": true
   },
   {
+   "id": "e9412706f584",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-13T08:20:28+00:00",
+   "title": "Google is asking",
+   "text": "I want a new Gemma https://x.com/OfficialLoganK/status/2121115028447531353 submitted by /u/jacek2023 [link] [comments]",
+   "title_th": "ชุมชนผู้ใช้งานเรียกร้องให้ Google ออกโมเดล Gemma รุ่นใหม่",
+   "summary_th": "ผู้ใช้งานในชุมชน AI กำลังเรียกร้องให้ Google ปล่อยโมเดล Gemma รุ่นถัดไปเพื่อใช้งาน",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Google"
+   ],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "3bdb1babe872",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1I4VDlVdTJxTjF6ay1RWWZ3QWMwd0paVUpnblNPaVN6SHNQcTdIRUYzN0Z0eHFjYVZqTmFTSHN0bWJpZkR1c0xCTTVRT3N1Tjl3YmtWNkEwWkY4NXRBRVdCZGdiSHVtemZoR3A3aTc5Wm10OXhBbUpWbjNVVm5XV0UxZjA?oc=5",
    "source": "Brand Buffet",
@@ -926,6 +1025,24 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d1318183fe17",
+   "url": "https://openai.com/business/customer-stories/shield",
+   "source": "OpenAI",
+   "published": "2026-11-13T08:00:00+00:00",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "text": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "title_th": "Shield ใช้ OpenAI ช่วยงาน IT Technician จัดการระบบ Legacy",
+   "summary_th": "Shield นำเทคโนโลยีของ OpenAI มาใช้ช่วยงาน IT Technician ในการจัดการระบบเก่า โดยให้ AI Agents ช่วยนำทางในระบบเพื่อให้มนุษย์โฟกัสกับงานที่ต้องใช้การตัดสินใจ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI",
+    "Shield"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -1755,6 +1872,22 @@
     {
      "source": "r/LocalLLaMA",
      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
     }
    ],
    "dedup": true
@@ -10439,174 +10572,6 @@
    "importance": 2,
    "ai": true,
    "dedup": true
-  },
-  {
-   "id": "136660aa0edf",
-   "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxOUm83V3JvejF3X3otNkNDZnQwUWNVdFZtbXZ0bGtKVTMtOVYwM3RoWmRTQWk4eFFFd3dUbXRlMkVZX2lLZDZuSmdvTTBLdms5OVZhRHlNMWNSaEFuWXotYkY2ZEVjY1dJWjgybFQ5VjgtY3JLak5TYUNNazNhajQteW0tUDJaZUdjMVZjdXo0Q1BJbDJXNkg5THRUTm1TMW1EWUlvR2NmeHZHNUZCVzhOdXF4ZUFQelE5VmtiR0kwTlBHdXJpSlNOcEFuTjh5ekdOZi1FcEZsa1ZuRUpFVFVaZUc5Rm15OC1BckVoTXRJS1pldnlZMFlqTHVLUHNNbUlEb2tfaWgwQUFoR1JhN3ZVb3JuZGdGZ1VUWXlqY0FCelE1bnlzbHpiUjRBNW14M0pncjVKQ05rQzRSaV94aEtpUXlpM2t2MDdFczBpZkdEd1d2S3Jxa3VpNkZnZUVnTDAxa2I4Z2ZtZjBudEZvSjB5eHBVa1VTUVgyX3pJYTd2ZUVqbTZjWUQtXzJCeUxvTEt5c1FObTkwUF9wYXFyRjFYZVNYejNxOE41d2pFT3hvZklNd002cmhsN1lkRFIzYXduUFJ1WXRpVGRtemNvSXE2bkNjUEdZYkpoLTVZcFd0U3UxczRrOVh4NkVRWjV3cy1iMkE3ZXlZR24xeVdPOVhRYnZwOUEwbEYwM1ltRko3V3A4V1YxUDNvM25sWXZNR2tpdEttR2ppMmxRTlNjMTAwZEZuTEc4S1dUOUNweHBSQjR4a0lXS2NVZXIwZmxseGpjdkc3MGtYWl9FT2tFeGpnY1NTSjNSWGR5bVBvUW1xNDVTaGtkV05za056eXNWNEVrVkZuWVYyeGd1aXlGeDVGODhUTEN0VXhfZXdybTFDeVdjS043SHdMa3V6aUJkdXdmWmRDNl9QZFR4cFQ3RktlRktEZFcyTkZ1VS1oQWN5RW1QX3Z3dFBGc25KQVU0VHlZSXpWby1ucmxoR3o5ck03LUVMdlhDck5mcVk2VXc5TFNoVTlHUjI2WkJ5WldKSmM5M3dpVFFHM3NTV2l0LUFVc2x3SkFRU2ZDRnNrMFU3ejNrb1N0RHpWdFBuM0t6TWlma1B6c3hZdjQ5MFYyVGduUTZESUFmcGlwaHdVRHQ2WHRKUXRzb045X19CQkpMUWNGWk92UUNUeHJlTUFRTTFKa29CdUJpSnQ4emlSTFdDc1FzM1dFdnNKZUFiaVJrcTJtdGE0d3l4TWZObmxZZnZDS1RPOE44X3U0dERQbjBBaEx1MEpVY1VWTU9za3pGYzlvWjhpTHdfM25BalZHcU5SYjh0ekhsUFd6T25JS0pzc3Q5a09iRm5DM29n?oc=5",
-   "source": "Facebook",
-   "published": "2026-10-31T05:26:11+00:00",
-   "title": "ภูเก็ตจัดอบรมประยุกต์ใช้ AI เสริมทักษะดิจิทัล ยกระดับการทำงานเครือข่ายผู้บริหารงานช่างภาคใต้ วันที่ 31 ตุลาคม 2569 เวลา 09.30 น. ณ โรงแรม เดอะ พาโก้ ดีไซด์ ภูเก็ต นายพุทธา มากหลาย นายกสมาคมผู้บริหารงานช่างและพัฒนาฝีมือช่างภาคใต้ เป็นประธานในกิจกรรมสัมมนาและอบรมเชิง",
-   "text": "",
-   "title_th": "ภูเก็ตจัดอบรมการประยุกต์ใช้ AI เพื่อยกระดับทักษะดิจิทัลสำหรับผู้บริหารงานช่าง",
-   "summary_th": "สมาคมผู้บริหารงานช่างและพัฒนาฝีมือช่างภาคใต้จัดกิจกรรมสัมมนาและอบรมเชิงปฏิบัติการ เพื่อให้ความรู้ด้านการนำ AI มาใช้เพิ่มประสิทธิภาพในการทำงาน",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 1,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "3f9cf40eb917",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk1vyk/koboldcpp_v1124_released/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-31T05:24:06+00:00",
-   "title": "Koboldcpp v1.124 released",
-   "text": "submitted by /u/Fcking_Chuck [link] [comments]",
-   "title_th": "Koboldcpp ออกเวอร์ชัน v1.124",
-   "summary_th": "มีการปล่อยอัปเดตซอฟต์แวร์ Koboldcpp เวอร์ชัน v1.124 ซึ่งเป็นเครื่องมือยอดนิยมสำหรับรันโมเดลภาษาขนาดใหญ่ในเครื่องของผู้ใช้งานทั่วไป",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "9eb659302c10",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk17m0/first_memory_storage_and_now_pcbsss_ai_boom/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-31T04:45:10+00:00",
-   "title": "First memory, storage, and now PCBsss: AI Boom Triggers Massive PCB Shortage With Orders Booked Until 2030, Posing Big Challenges For Consumer Hardware Vendors",
-   "text": "submitted by /u/chemist_slime [link] [comments]",
-   "title_th": "วิกฤตขาดแคลน PCB กระทบอุตสาหกรรมฮาร์ดแวร์ AI คาดลากยาวถึงปี 2030",
-   "summary_th": "ความต้องการด้าน AI ส่งผลให้เกิดการขาดแคลนแผ่นวงจรพิมพ์ (PCB) อย่างหนักจนมียอดสั่งจองล่วงหน้าไปถึงปี 2030 ซึ่งสร้างความท้าทายอย่างมากต่อผู้ผลิตฮาร์ดแวร์สำหรับผู้บริโภค",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c6b2d3ea7917",
-   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-31T01:20:05+00:00",
-   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-   "text": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-   "title_th": "Nvidia พิจารณาค้ำประกันเงินกู้ให้ศูนย์ข้อมูล AI ของ Nscale",
-   "summary_th": "Nvidia กำลังพิจารณาเป็นผู้ค้ำประกันเงินกู้ให้กับ Nscale สำหรับการสร้างศูนย์ข้อมูล AI ในรัฐเวสต์เวอร์จิเนีย เพื่อช่วยลดความกังวลของนักลงทุนเกี่ยวกับค่าใช้จ่ายด้าน AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Nvidia",
-    "Nscale"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "5d6f84404e1c",
-   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-30T22:56:13+00:00",
-   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-   "text": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-   "title_th": "Ollie ผู้ช่วย AI ที่เน้นความเป็นส่วนตัวประกาศปิดตัวลง",
-   "summary_th": "Ollie ผู้ช่วย AI ที่ให้ความสำคัญกับความเป็นส่วนตัวของผู้ใช้งานประกาศยุติการให้บริการภายในหนึ่งสัปดาห์ ท่ามกลางการแข่งขันที่สูงขึ้นในตลาดผู้ช่วย AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Ollie"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "011fdc062b2b",
-   "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-   "source": "The Verge AI",
-   "published": "2026-10-30T22:32:53+00:00",
-   "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-   "text": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]",
-   "title_th": "Apple Intelligence เตรียมเปิดให้ใช้งานในจีนผ่าน iOS 27.3",
-   "summary_th": "Apple ประกาศเตรียมนำฟีเจอร์ Apple Intelligence เข้าสู่ตลาดจีนผ่านการอัปเดต iOS 27.3 โดยจะเริ่มเปิดให้ทดสอบในเวอร์ชันเบต้าก่อนปล่อยตัวเต็ม",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Apple"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "62c2eea9fffd",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5",
-   "source": "Game Developer",
-   "published": "2026-10-30T22:21:36+00:00",
-   "title": "Anthropic orders AI tool Claude to stop remaking video games",
-   "text": "",
-   "title_th": "Anthropic สั่งให้ Claude หยุดการสร้างวิดีโอเกมใหม่",
-   "summary_th": "มีการรายงานว่า Anthropic ได้สั่งการให้เครื่องมือ AI อย่าง Claude ยุติการดำเนินการที่เกี่ยวข้องกับการสร้างวิดีโอเกม",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "Tom's Hardware",
-     "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5"
-    },
-    {
-     "source": "https://tech-insider.org/",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUNWTmVLUlF0MlpzdnpqcXhDaUpsMm96X19XQlBDOG9BaVg0a2FoTjV3aVFHNHJ2ZE1SRTdpZHZ5VkE5Yk9vYmwxR2ZSSE5pWjdraXZ5ZXFIZ1ZTTU9UbFUzenRkbE1xS281TXJmNk1lYV84S2dqT1czUVlZYzhtMzFMNWxYWUlBV0VPcnJzZS1xeEFBa052aHRYSG1iRGFx?oc=5"
-    },
-    {
-     "source": "Mashable SEA",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWE1XzRLYklNY3ExdU5pSzYydWMtN1dyQndyZzVodlUtcDB0RDdTZ2FmNXVBSjVxcWJHbWcybG1oMmtNaHI3b0x6cG5RdVBDblN6aG1VX29XSXprMzVnMWM3R09fSmYyQnE0V2pYSVRfd3g4NUZDOTU2QzUtUDR0cGJPY0Z1N3QxQjJyNjlZSlZ4UC15Nkx3WkpFMEQ4MzNrWkhVaDBWQ0RzekFTSnpr?oc=5"
-    },
-    {
-     "source": "TweakTown",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDUxaGRnQTd0RDIzSlVoNUJsRnpWMmJpUjAzdWhBbVliVXZNNUd2azZLZGRIRHYzclcxUTZqanZqdFIyenpZZFNQa010TmVUeTFGQkU3dXE1X05mTFlXb3VyU1cyMl8wWkFFUDlPUUtCajRzTXpXN19IM182WkJfRmJLSkRQUmtHaHZOcnE2bWpTZkVrRGlMWlUySXkySG9zck5DWldWX2l6cXNreXZhR0c0bHAxQkRxWFBuTHFhaFdOZFh0elVmd3pQVE02VXNQdHZVNFQtMFc?oc=5"
-    },
-    {
-     "source": "Mashable",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0V2cUVWOVl0eFNNN0tEVjluRlliOHR0MkVQbXdWaERXUzhTSFZfend2OTVmZldaT3k0b3pINTlacGEtdmNXV243bnZUbXFqVW1sZ3ZnT2t2REdyaENNOEJuS3ZlV3VwbGhxZEZnYTJKa2NlOHRTd1RubTZuVlA2bElhQ24yS2VvLWV6MlBMU0RnOU9nSGRjaXhQNG9DVmly?oc=5"
-    },
-    {
-     "source": "IGN",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUVpyWDB6dXRCZnY5ZExiUFRuTTVtVU1IM29kaWlfMHdpSGphVHJNU2tQSUJQbWRfbWNYUzhYSThIYWpicVM1RnhKYTdsa3I2UDlieXY0emxFZmZNVFpSeXpyaUpFYjZHLWdBNzR5VU95b01iclBMOThaMFdrX2dvR0ZyWDhlNTh6dkE?oc=5"
-    },
-    {
-     "source": "Firstpost",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSXBhOXIzTkpXLXkxRWVPdVNVMTNYWUN1aDgyWkhzajJnLXdUUGRlQ3pQZ2ZNZS1YOWpJUzVrclZJRzY0RGhIR01ZYW9ycm9CUkxDTTNUODFfZlZoUVVHSnNmV1lBZnZjcTVJRjFiVTg0LVh3dmlHWjd6OEJfWFBkZWtNNEhRWmxWcENoajUxaEhITlA0NGhvNDZSVWNZV1RVVzBDOWJ4S0pUcFJJUGYtR0o1YVpWOW5LbFU5WFVROVdoVHRZbVVEa1JQejZhQQ?oc=5"
-    },
-    {
-     "source": "X",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlYmtMUVEwY1JRTzB5LXF1d1k5anJEWlpOR0djYVVJMDROeV9HRmRtYzVacm52UU9RV0EyT1FJSnZ4ck0xN0NXZU4tTTFfRE1qcXFPN2piWQ?oc=5"
-    },
-    {
-     "source": "Engadget",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWdaMk1uTzMzRnFaWXdrRVVBTWZHNGp0WDAxR010U0pxM0owYjNzeWd2dHRlLWdEOWZRRjh6YWhkWEtpYjg5cWt6SXBqSGtrU0VhUi1uZzY2eXZqVkpmT04wZXhjWHRBS1NDZDJhbTBrVTJLREoyREhfZXIycjhyUVNmOURIMmMxaXhSSXIyOWlwR0ctOW5oRzZjZEdTV3J0UW9CTUlhdW5UUQ?oc=5"
-    },
-    {
-     "source": "Tom's Hardware",
-     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOQmtwU201Rm8zX2dFeGRGay0wY0F2UVZ2V0wydFFNVEU1Q1d1SzJlQmgwT0JhUnB3eHF2X3BmdGFQZ2dMajR4UHp1by1rUmlMZHBqd2Z1VkRwYlRhVmkxUG9GWE93X3JNd3dFbExob0VPcl9KN1czbFlJdXpqbTJxU1hCTTNSMWIxaEs4SHdoYVAwMlI2cEQ3dDlVVUF0bDdnV0RDOTBnQWpmUGJtSmZLOWQ5QUItTDhxWlN2ZEdhMTNuMGEwQ0gweDZvVWRLRWVZQ1BMeTNETzA2MTlwTnAxYXEyNTFFRFZUZTl1eDJMV0hCVExYRkFnazFKZjBybGRlQ2JWUG9BM2Y4U0MzOVF0NEJVRDV4RVNHNDBKczBRbk03di0zV0ppd1A2N3lCZ1k?oc=5"
-    },
-    {
-     "source": "Polygon.com",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDcjBYeFZaVjB4SkVaSTVFSE10X2k2bV9GREJYbU1wMFFOR3d2NU1qOUFGTmE2aVRYV1dNYzZUbWJBVUQ1RVJkUDQzd25Ic2pNQl9HcWhDTUI4X25vZ01ldVFuYzRmbkV5VXc?oc=5"
-    },
-    {
-     "source": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
-    },
-    {
-     "source": "CNET",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObGl6Z1lPb2hocjU2aGRvdWx6aVhQWU9HdGlNQVdyaTB5WWlUSy1OX2loVkJ3Mnh0M3l2M3lWS1NMdXk2SHNYTDI5ZmFkNnBFM1ZBd1RLYmQ1aDB1d3ZudlRlWTJZQUFDZlA3d09pQ25oVTFuRUF6WFEyNk5nQ3JtYzlB?oc=5"
-    }
-   ]
   }
  ]
 }

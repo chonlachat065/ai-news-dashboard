@@ -1,47 +1,53 @@
 {
- "updated_at": "2026-11-14T06:35:55+00:00",
+ "updated_at": "2026-11-14T15:09:20+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-14T06:35:55+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านเสถียรภาพระบบระดับโลก ควบคู่ไปกับการเติบโตของนวัตกรรม AI Agent และโมเดล Open-weight",
+  "generated_at": "2026-11-14T15:09:20+00:00",
+  "headline": "อุตสาหกรรม AI เผชิญความท้าทายรอบด้าน ทั้งความเสี่ยงต่อเสถียรภาพการเงินโลก การตรวจสอบธรรมาภิบาลบริษัท และความก้าวหน้าทางเทคนิคที่รวดเร็ว",
   "points": [
    {
-    "text": "บริการคลาวด์และ AI รายใหญ่ประสบปัญหาล่มทั่วโลก ส่งผลกระทบต่อการใช้งาน Microsoft 365, Copilot และ Claude อย่างต่อเนื่อง",
+    "text": "ธนาคารกลางสหรัฐฯ เตือนว่า AI กลายเป็นภัยคุกคามอันดับ 1 ต่อเสถียรภาพการเงินโลก ขณะที่อดีตบอร์ด OpenAI และรายงานต่างๆ เริ่มตั้งคำถามถึงความน่าเชื่อถือและความปลอดภัยของผู้นำบริษัท AI ชั้นนำ",
     "ids": [
-     "47a0abe00ba7",
-     "a2d78d5efa83"
+     "6b0ec1392575",
+     "d46b516a4c83",
+     "71ca71a0ccf4"
     ]
    },
    {
-    "text": "ความก้าวหน้าของ AI Agent มีความคึกคักสูง ทั้งการระดมทุนของ LangChain, การเปิดตัว ChatGPT Wallet, การรองรับ MCP Server ของ Adobe และการเปิดให้โฮสต์ Claude Managed Agents ได้เอง",
+    "text": "Anthropic กำลังเป็นจุดสนใจอย่างมาก ทั้งแผนการเข้าตลาดหุ้น Nasdaq การเปิดตัว Claude Managed Agents แบบ Self-host และการขยายฐานการวิจัยในลอนดอน ท่ามกลางการแข่งขันที่ดุเดือดในตลาด",
     "ids": [
-     "38741df50e34",
-     "5bf4951adbe9",
-     "16924e51470f",
-     "2bc265d529c4"
+     "c53e6be8b35c",
+     "2bc265d529c4",
+     "9a54c0f466e5",
+     "ad10f6f67cfc"
     ]
    },
    {
-    "text": "การพัฒนาโมเดล Open-weight และเครื่องมือ Local AI ก้าวหน้าอย่างรวดเร็ว โดยมี DeepSeek Flash Max สร้างสถิติใหม่ และการเปิดตัว llama.cpp v1.0.0 เพื่อรองรับการใช้งานบนอุปกรณ์ส่วนตัว",
-    "ids": [
-     "21dcb86b730a",
-     "40e78db6601d"
-    ]
-   },
-   {
-    "text": "เกิดข้อถกเถียงเรื่องการผูกขาดตลาดชิปของ NVIDIA และโอกาสของคู่แข่งในอนาคต ท่ามกลางแผนการขยายกำลังการผลิต DRAM ของ CXMT เพื่อบรรเทาปัญหาขาดแคลน",
+    "text": "เกิดข้อกังขาต่อ NVIDIA เรื่องการสร้างสถานการณ์ขาดแคลนชิปผ่านการให้ทุนสตาร์ทอัพ ในขณะที่ตลาดฮาร์ดแวร์กำลังปรับตัวด้วยการขยายกำลังผลิต DRAM ของ CXMT และการพัฒนาเทคนิคใหม่ๆ เพื่อรันโมเดลบนอุปกรณ์ทั่วไป",
     "ids": [
      "c6caa4d4f0b0",
-     "e00ed907e42f",
-     "6c0afd0ee319"
+     "567fa298898a",
+     "6c0afd0ee319",
+     "a65a3bfb3b5b",
+     "eb9a0c4d6ca2"
     ]
    },
    {
-    "text": "มีการประยุกต์ใช้ AI ในวงกว้าง ทั้งการถอดรหัสงานวิจัยคณิตศาสตร์ของ Gödel, การเพิ่มประสิทธิภาพในระบบสาธารณสุขโดย NVIDIA และการใช้ AI ช่วยจัดการระบบ IT Legacy",
+    "text": "ความก้าวหน้าทางเทคนิค AI ยังคงเติบโตต่อเนื่อง ทั้งการระดมทุนของ LangChain ที่มีมูลค่าแตะ 3 พันล้านดอลลาร์ และการพัฒนาโมเดลใหม่ๆ เช่น DeepSeek Flash Max รวมถึงอัลกอริทึมและเครื่องมือวิเคราะห์ประสิทธิภาพจาก Hugging Face",
+    "ids": [
+     "38741df50e34",
+     "7a978e8677d3",
+     "21dcb86b730a",
+     "2427bacb74a9",
+     "8400bdfe1e2a",
+     "ace7cac706df"
+    ]
+   },
+   {
+    "text": "มีการนำ AI มาใช้ในงานวิจัยทางวิทยาศาสตร์อย่างการถอดรหัสสมุดบันทึกของ Gödel และความร่วมมือขององค์กรสื่อในไทยและอาเซียนเพื่อเตรียมรับมือกับผลกระทบจากเทคโนโลยี AI",
     "ids": [
      "e940fd987572",
-     "ece4b84db3e9",
-     "d1318183fe17"
+     "f34d7d002619"
     ]
    }
   ]
@@ -134,7 +140,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 3,
+   "count": 5,
    "error": null
   }
  ],
@@ -571,9 +577,57 @@
   "951c84561943",
   "56623f1d9c94",
   "ad639fbc6552",
-  "604d2096520a"
+  "604d2096520a",
+  "af94a0f7a543"
  ],
  "items": [
+  {
+   "id": "c53e6be8b35c",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFdEdlczV0JtemNqLVVqQ19WV29HakhMUHRGakdWczNteGw1dzd1dmdseWF2Sy1WNVpONVR2WVprOTE5Qm5zVWVtcmhaUEU1dk42aFRpZ1ZDanp1bkdwcTQ2a2xtQU5EOGV6eXdLRlVzaDhaRUsyZ2lDTlF6Sy1BREphZ2tPWGdrbHoxNUJtT0lHbGZvODJGR1JsQ1N1aDJzcUhnNmF6NWJFX1oxbXpWMnh0R0M?oc=5",
+   "source": "Coinpaper",
+   "published": "2026-11-14T13:48:35+00:00",
+   "title": "Anthropic IPO Sparks 2X Leveraged ETF Filing as Wall Street Prepares for Nasdaq Debut",
+   "text": "",
+   "title_th": "Anthropic เตรียมตัวเข้าตลาดหุ้น Nasdaq พร้อมแผนเปิดตัว ETF แบบเลเวอเรจ 2 เท่า",
+   "summary_th": "ตลาดหุ้นวอลล์สตรีทกำลังเตรียมพร้อมสำหรับการเข้าจดทะเบียนในตลาดหลักทรัพย์ของ Anthropic โดยมีการยื่นขอจัดตั้งกองทุน ETF ที่มีเลเวอเรจ 2 เท่าเพื่อรองรับความสนใจของนักลงทุน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6b0ec1392575",
+   "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxQV0I1TTFRLVJuWDh3SC1XT0lkUFNqQ3NfYjZfNE9mSmZvVlNYWld5d3kySV9La0FZLWMzQUxoR1FHUGFtZWlCNDJwaUtuXzdGMHpkQVNsVDJXSXd4Wk9CUmtaWEw4SHhUZ2xIZDdzRnEwY0ZYamlTb3JJSzg2MDBMVEcwWENORzM4YmRFd3lSQkwwaVhSeVA1UEFkQnZYMjdzUlNIRFdJcmRVOGxNVGhORjFiMmt3MXlRSXoxNkZnU0g2SnFrSHN2dDEwZEJpS1Z0VVlTalNCRGp0SU9Xb2dYVk9wZzd6R0FodElzZXZ3blZfb0tYbTBSX0NqV3lGM3Bfbm9YWFB2LUdOMzJkanJuSDVCMy1yZl9CMEVzRWs2S1BHMy1tbWpEUUJ3Mld0RVdXR0JkSXBZOFQ0RGtPRDYyRnJlUkVRa19UOTFxeUpSRTRpNVZhS0tZbnVXZHFkZTVKQk4xY0pOU0MzOXROdmFtQUZhMk1rckYtYWVQZGdfMURXU2kyVFFSbDZRYzhuejRhZjhINW5HVEgxMjRzb1hZckhWdGlSQWRHSUZNXzJBRFJiSl85RlJlMm5uZWJyX3dXSXhVVk0yOHVmSlFrdlRoWjZwb3BKZjI3UVFWTW9fS3VNbld5Z19QUlVzZlRyckJRV2liUVhTRlRpYktzVWZkbXFuUmxzMjQ2VWQ0OURUQ2d5MXQ1MC05MEFjYTNzRHlJbUZIb3JDWW1TaDA1QU9icnlCR19ZOWdHR1ZITlBrN0FwVUhvdndxZW5kM0hGbmtjQ3lSZk5SRGhEVUZDdVpET3J1VjVNTmxXQ2RwaTEyMm1GYnJ1MU1jd1o3R3c3bjVMVDU2ZWRZSElYRnBsM3lBNXdhOTZuaXU2SXdBcGlhZmZMTGtmQUVRci1rbmpfTzJWamlKd2xSejJiZWtUdUR1NFBGbE5hVmlBd3FNTGxZMXhmNV9fWFNvZ25EbGVpd3JqTXlBeERUcXFSejdrOGJBTEJCLWQ5SVRobHVsUExBdnFoLUM3SWhyUU1ydml1UkV1ZUJfSmgyVDN6MkpTOWl6dVRfRmkwOVJXUVd1eXRoN1cxY3pFRzM1R2l1VFpmSU5GREh1MTRDUWdJNzZPVUpqZGlMeHVXLWlDcTh1OTVVUlo1UE9ReHhDVFFxT2Jlb1UzaEFuU3Q1WnhhMVVCRmhnQnVrOGJFalJiMWdlOGQxa2txLUJncjY0clFGZHRSMkZHQTBUVDFHVUxaRXl3Ny1tUVJ5dnFNU2U3UFM1aHRTRXFBM2dQeVlxaGo0M05ISzNKdm1oVTJ1MjlQNi1UTF9HN3hKWElhRWFHeFJ2Z3ExMmlwZw?oc=5",
+   "source": "Facebook",
+   "published": "2026-11-14T13:00:04+00:00",
+   "title": "‘เฟด’ เตือน ‘ความเสี่ยงเอไอ’ พุ่ง ขึ้นแท่นภัยคุกคามเสถียรภาพการเงินอันดับ 1 . ธนาคารกลางสหรัฐ (เฟด) เปิดเผยรายงานชี้ว่า ความเสี่ยงที่เชื่อมโยงกับอุตสาหกรรมปัญญาประดิษฐ์ (AI) ได้กลายเป็นภัยคุกคามอันดับหนึ่งต่อเสถียรภาพของระบบการเงินโลก . ความกังวลดังกล่าวเพิ่มขึ้นอย่างก้าวกระ",
+   "text": "",
+   "title_th": "เฟดเตือนความเสี่ยงจาก AI กลายเป็นภัยคุกคามอันดับ 1 ต่อเสถียรภาพการเงินโลก",
+   "summary_th": "ธนาคารกลางสหรัฐฯ รายงานว่าความเสี่ยงที่เกี่ยวข้องกับอุตสาหกรรม AI ได้ยกระดับขึ้นเป็นภัยคุกคามสำคัญที่สุดต่อเสถียรภาพของระบบการเงินโลก",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f34d7d002619",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4V01WZnNHUy1JSmFMMkRXcjVlSkRrYk1ieDMyTGVEMWx3b2l4Z1M2TmRwNGxSa05vaUJFaWJRcFBhZVNZTktzbzdRZ2ZaNUpKRlE?oc=5",
+   "source": "posttoday",
+   "published": "2026-11-14T04:10:00+00:00",
+   "title": "4 องค์กรสื่อไทยผนึกกำลังสื่อ 8 ชาติอาเซียน สัมมนารับมือวิกฤต AI",
+   "text": "",
+   "title_th": "4 องค์กรสื่อไทยผนึกกำลังสื่ออาเซียน จัดสัมมนารับมือวิกฤต AI",
+   "summary_th": "องค์กรสื่อไทยร่วมมือกับสื่อในกลุ่มอาเซียนเพื่อจัดงานสัมมนาหารือแนวทางการรับมือกับผลกระทบและวิกฤตที่เกิดจากเทคโนโลยี AI",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "c6caa4d4f0b0",
    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
@@ -595,6 +649,40 @@
      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/"
     }
    ],
+   "dedup": true
+  },
+  {
+   "id": "567fa298898a",
+   "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "source": "The Verge AI",
+   "published": "2026-11-14T01:34:37+00:00",
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "text": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
+   "title_th": "บทวิเคราะห์ Jensen Huang กับบทบาทผู้นำวิสัยทัศน์ในยุค AI",
+   "summary_th": "บทความวิเคราะห์ถึงการปรากฏตัวของ Jensen Huang ซีอีโอของ Nvidia ในฐานะผู้นำที่มีอิทธิพลสูงต่อวงการเทคโนโลยีและ AI ในปัจจุบัน",
+   "category": "อื่นๆ",
+   "companies": [
+    "Nvidia"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d46b516a4c83",
+   "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "source": "The Verge AI",
+   "published": "2026-11-14T00:06:40+00:00",
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "text": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
+   "title_th": "อดีตบอร์ด OpenAI ชี้ความกังวลต่อความน่าเชื่อถือของผู้นำบริษัท AI",
+   "summary_th": "Helen Toner อดีตบอร์ดบริหารของ OpenAI ให้สัมภาษณ์ถึงประเด็นความปลอดภัยของ AI และความจำเป็นในการตั้งคำถามต่อความน่าเชื่อถือของผู้นำบริษัท AI",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
    "dedup": true
   },
   {
@@ -765,6 +853,21 @@
    "dedup": true
   },
   {
+   "id": "a65a3bfb3b5b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-13T16:00:36+00:00",
+   "title": "Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding",
+   "text": "I made this, so a quick note: it’s my open-source project. Qwen3.5-9B runs on a stock PS4 at 31–39 tok/s. The MTP head that ships with Qwen3.5 made the biggest difference: it drafts up to two tokens and the full model checks them in one pass, which took it from 22 to 31–39 tok/s on this old GPU. Weights are re-packed into custom 4- and 3-bit formats to fit about 4.5 GiB. Your old PS4 can now run a 9B AI, offline, on its own GPU. It talks, listens, and writes code. No cloud, no subscription, no Linux. Free and open source. Code: https://github.com/leonardo-alegria/garlic-llm Direct download lin",
+   "title_th": "นักพัฒนาพอร์ต Qwen3.5-9B ให้รันบน GPU ของ PS4 ได้สำเร็จ",
+   "summary_th": "มีการพัฒนาโปรเจกต์โอเพนซอร์สที่ทำให้สามารถรันโมเดล Qwen3.5-9B บนเครื่องเกมคอนโซล PS4 แบบออฟไลน์ได้ โดยใช้เทคนิคการบีบอัดข้อมูลและ MTP head ช่วยเพิ่มความเร็วในการประมวลผล",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "ace7cac706df",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/",
    "source": "r/LocalLLaMA",
@@ -808,6 +911,21 @@
     "CXMT"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4f5b4ce8cb48",
+   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "source": "Hacker News",
+   "published": "2026-11-13T15:08:44+00:00",
+   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "text": "389 points, 546 comments on Hacker News (https://news.ycombinator.com/item?id=50484658)",
+   "title_th": "Jonathan Blow ตั้งคำถามถึงผลกระทบของ AI ต่อการพัฒนาซอฟต์แวร์",
+   "summary_th": "Jonathan Blow นำเสนอประเด็นวิพากษ์วิจารณ์ว่าหาก AI สามารถเขียนโค้ดได้จริง เหตุใดซอฟต์แวร์ในปัจจุบันจึงยังไม่มีการเปลี่ยนแปลงเชิงโครงสร้างที่ชัดเจน",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -1213,6 +1331,23 @@
     "Nebius"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bca2f3246be4",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VR0ZGc3NhdHhFLUlIYUJLWFZQbzgxSHJBMjExWU5LYmZINXEtUlFHd1ZocWtDZEI3RVdUOF85WnZ6MzZUSnJxamFpcnpLOVpmU3lMT2tDSURRSkVVN2lTV2F3d0UycVdIOWRTajhxUWc3QQ?oc=5",
+   "source": "Samsung Magazine",
+   "published": "2026-11-12T21:06:26+00:00",
+   "title": "นินเทนโดกลัวปัญญาประดิษฐ์ (AI) มันกำลังมองหาคุณมาเป็นผู้กอบกู้ และถึงกับเสนอเงินเดือนในฝันให้คุณเลยทีเดียว",
+   "text": "",
+   "title_th": "Nintendo ประกาศรับสมัครงานด้าน AI พร้อมข้อเสนอค่าตอบแทนสูง",
+   "summary_th": "Nintendo กำลังมองหาบุคลากรที่มีความเชี่ยวชาญด้าน AI เข้ามาร่วมงาน โดยมีการเสนอค่าตอบแทนที่น่าสนใจเพื่อดึงดูดผู้เชี่ยวชาญ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Nintendo"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -2439,7 +2574,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie/"
+    }
+   ]
   },
   {
    "id": "68d6b1dfd0ef",
@@ -10384,192 +10525,6 @@
     "Meta"
    ],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "5b0ac3b976a1",
-   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-   "source": "Hacker News",
-   "published": "2026-10-31T14:29:03+00:00",
-   "title": "Malware uses LLMs to rank victims by how much they're worth",
-   "text": "202 points, 108 comments on Hacker News (https://news.ycombinator.com/item?id=50316531)",
-   "title_th": "มัลแวร์ใช้ LLM จัดลำดับความสำคัญของเหยื่อเพื่อเรียกค่าไถ่",
-   "summary_th": "พบการใช้ LLM ในมัลแวร์เพื่อวิเคราะห์และจัดลำดับเหยื่อตามมูลค่าความเสียหายที่อาจได้รับ ซึ่งแสดงถึงการนำ AI มาใช้ในทางที่ผิด",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Claude"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "Tom's Hardware",
-     "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQajlHZ0gxVlhoUUJEcWo0Ukh3aFNjYndRbDloS0liQlV2M3JPSVlrTnlqTG1VNkNPZW9MSUEwNUlONXdPWkFOdU56OVEyR0RsR2t0ZnJtWlRHZEhmSThlM09EdGd4Yi1QV2ROUHl4MVk0LTYzLVZqZTVFdVlub1ZnLUpxNXFTd3hHMXoxMVBJbjFlOHBxMjZJcG1zOUpfd2kzREZFNmJTenE4SmIwTkJKSVVaSGpvRnpGYmF1VVJ1dWxmZjlNWC14b1E2eUNyd2pOb1RKallwUm16ZmxzaGhKQ1A5eFlKTVRVVEtEckNDVlVXdGh2Y2xvSGNEX2tXaDg5OE5CeG44WTdoQ3FGZGd5UnFhZGZwZUNOamFOX0ZpYnd1Q0phVDJWdFpyN2ZpQVU0Vnk0SnY0RUZLV1VJeHRYVUQ4b0V5azV0YW9hNmhlQ1Uza2tkdDNtdFpHeG95clA2THRDcWFiYUlXWmw0WnJvaFRtdmRFSXJxNUgzZUdzcmxTLTg?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "66093f9c6102",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkau4g/just_finished_my_humble_moecentric_workstation/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-31T13:54:27+00:00",
-   "title": "Just finished my humble MoE-Centric Workstation",
-   "text": "CPU: AMD EPYC 7452 (8 memory channels) Motherboard: Gigabyte MZ32 GPU: Radeon AI PRO R9700 (32GB) RAM: 256GB DDR4 (16×16GB). Not exactly a “budget” build, but it came in at roughly half the price of a DGX Spark. Got it up and running just in time for Qwen4, can’t wait to start experimenting with it! submitted by /u/Numerous-Ad6217 [link] [comments]",
-   "title_th": "การประกอบ Workstation สำหรับงาน MoE โดยเฉพาะ",
-   "summary_th": "ผู้ใช้งานแชร์รายละเอียดการประกอบคอมพิวเตอร์ประสิทธิภาพสูงที่เน้นการทำงานด้าน Mixture-of-Experts (MoE) เพื่อเตรียมพร้อมสำหรับการทดลองโมเดลใหม่",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "AMD",
-    "Gigabyte"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "341ae9434fea",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzdKWXRiWk0zaGNvdzItNGg1VWZ5Vjc0U1RSRno5a1lKT1lLeTZaOUwwT2dMMU8yajMwN2pvQ1VKZF9BZFVpbndKNEQ1VDNGeG9JcUZ1Q0VyYUdkOHhYRFFSekY4WS1JeVVtZU8waktRNndNeEt2MVRvN1dIM29rOWJsWjA4R2stdDdqTzc4ZmVpeEJ2X3BvSWFPVk43T01XTjNtWm4tZjRtdEtBYWhnZEFKc1c?oc=5",
-   "source": "Northeast Times",
-   "published": "2026-10-31T13:23:56+00:00",
-   "title": "Tampered Claude Code Extension Put SSH Backdoor on Up to 5,000 Cursor Users' Computers",
-   "text": "",
-   "title_th": "พบมัลแวร์ในส่วนขยาย Claude บน Cursor กระทบผู้ใช้กว่า 5,000 ราย",
-   "summary_th": "มีการตรวจพบส่วนขยาย Claude ที่ถูกดัดแปลง ซึ่งแอบฝังช่องโหว่ SSH Backdoor ในเครื่องของผู้ใช้ Cursor จำนวนมาก",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Anthropic",
-    "Cursor"
-   ],
-   "importance": 5,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "38d68cd40774",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-31T12:20:02+00:00",
-   "title": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
-   "text": "About two months ago I posted here about trying to predict which MoE experts get used on the next token to speed up CPU/GPU offload on Qwen 3.6 35B. Quick confession on that older post before anything else: I ended up throwing that prototype away. To get the big numbers I was seeing back then, I was basically cheating with gate pruning (dropping cold experts when their router weights were low). It made the tok/s counter go brrr, but on an already low-bit quant it quietly degraded output quality and reasoning. I didn't want to ship something that lobotomizes the model just to look fast in a scr",
-   "title_th": "ทดสอบรัน Qwen 3.8 Flash บนฮาร์ดแวร์ทั่วไปได้สำเร็จ",
-   "summary_th": "ผู้ใช้ทดสอบรันโมเดล Qwen 3.8 Flash บนการ์ดจอ RTX 3060 โดยเน้นความแม่นยำของบิตข้อมูลและการทำความเร็วในการประมวลผล",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "r/LocalLLaMA",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/"
-    }
-   ]
-  },
-  {
-   "id": "387b7729e56e",
-   "url": "https://news.google.com/rss/articles/CBMi-wVBVV95cUxOajV4WGQxbEFzSXdNdDVzQUV2bE1nRldzcktqdllvRngwckIxbW9XWnZCamtwYmlUZlRub2JSMzBPOHhibXdLbHZDVndCTlh0NnpoaTh0SDdhbkFoSG96dUtmaV9EbFlseU5DMzZKbXdITTFtb1NZTkFaWHhvT2FGRHJXZllWTmlXMlM3S3pyUkhNOU5mUmdfaGxNSjJHTlhoVU1SZW11ZmdsRk91Q1RlcTNHV1NZSDZ3Q1A4VnZ4TTFDWFFJLWdpZnpSaWFQWWl0MklQWFlzRktoZFI1UWpmU1RranN1dGktZy1YM3hXaGtFcFhZVldFb0RCS2M4VUZaUW9wMFZfSHBVX1huMnpWbWNyTTJDUHpxalI1Z2Z3T3h0cy1TczM2NzFiQjdyMG9PS2xoTzFPckp0UkMxbE4zb1JGQWRNS0g0ZlViR01pZmV2TzZLXzlBSWVHZWpsT29KYTlhNE9VeTVuUlZFX1JuUnpGbklwSjJCRGZBMlNqbFllT3NNbGVJVDVyN2pNUFp6QWZQSzNiVF9ZeUl5aWNvMjY5LU9fM0dUUmdCYUFWTXZTZTZtd1BmeUtXUFNDSTJaS01HRDdBRkhTNzZrNDJBb0lNUnM4LS1DM0FpZEV2aEVnWllreFdDMWhyWDVuQ190a1Rray1XdWtkQndKVjUzQlc3eTNhZ3JwWWtiRGVmX1JobE9DdEFFWGhOaUxBYkIteEZTcEM3RlVYTHFLV0h3YWhrUzNvRWZZQnM5Q1ppcFlsVzNRUkl6Z3pCaXpXMEowU2tOYW0tbUlXVTYwbExrNkJteHpCMExmemI2Zk9ILVZLMm8xY0tXS09nUGxYbzFScmtnS1VKOUVLdWl2N2J5UWN4UU16dU1jN2paeEJiZlNhZlQ1Ujh1SmU4UG9CbVZuNXdEcl9ZSERjUkxzQ3k3YmEzSGl6S3ZJOHVZMkJVajhoeTU5X2FlLVZLaWZyY3dMVkNHb1Bob291YlBNLXVQV2g0V0JzZnREYmhV?oc=5",
-   "source": "Facebook",
-   "published": "2026-10-31T12:03:57+00:00",
-   "title": "SWITCH 2026: ปักหมุด 5 สตาร์ทอัพน่าจับตา เมื่อ DeepTech & AI พร้อมเปลี่ยนโลกความจริง ในยุคที่เทคโนโลยีเปลี่ยนโลกไม่ได้หยุดอยู่แค่ในหน้ากระดาษวิจัย งาน SWITCH 2026 ได้กลายเป็นเวทีสะท้อนศักยภาพของสตาร์ทอัพยุคใหม่ที่พร้อมเปลี่ยนนวัตกรรมล้ำสมัยให้กลายเป็นเครื่องมือต",
-   "text": "",
-   "title_th": "งาน SWITCH 2026 เผยสตาร์ทอัพ DeepTech และ AI ที่น่าจับตา",
-   "summary_th": "งาน SWITCH 2026 รวบรวมสตาร์ทอัพด้าน DeepTech และ AI ที่มีศักยภาพในการสร้างการเปลี่ยนแปลงให้กับโลกจริง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "381223935ae3",
-   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-   "source": "Hacker News",
-   "published": "2026-10-31T10:30:11+00:00",
-   "title": "Do the math: How we took over ChatGPT accounts",
-   "text": "273 points, 125 comments on Hacker News (https://news.ycombinator.com/item?id=50314699)",
-   "title_th": "เผยช่องโหว่ความปลอดภัยที่ทำให้บัญชี ChatGPT ถูกยึด",
-   "summary_th": "มีการเปิดเผยวิธีการที่ใช้ในการเข้าถึงและยึดบัญชี ChatGPT ของผู้ใช้งาน ซึ่งเป็นประเด็นสำคัญด้านความปลอดภัยของแพลตฟอร์ม",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "41a301ebb5e4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-31T10:02:47+00:00",
-   "title": "microsoft/Mage-VL-Cowork · Hugging Face",
-   "text": "Mage-VL-Cowork demonstrates that an efficient 4B small vision-language model can master hybrid computer use when paired with upstream teacher-harness evolution , workflow-first environment synthesis ( Mage-CUA-Forge ) , and a five-stage specialize-then-unify curriculum . Achieving the best performance at the 4B scale (66.0% on OSWorld-Verified) while using 13.0% fewer model calls and 25.4% fewer output tokens after online RL, Mage-VL-Cowork pushes the frontier of on-device intelligence for autonomous desktop agents. submitted by /u/pmttyji [link] [comments]",
-   "title_th": "เปิดตัว Mage-VL-Cowork โมเดล Vision-Language ขนาดเล็กประสิทธิภาพสูง",
-   "summary_th": "Mage-VL-Cowork เป็นโมเดลขนาด 4B ที่ออกแบบมาเพื่อการใช้งานบนอุปกรณ์อย่างมีประสิทธิภาพ โดยทำคะแนนได้ดีในงานด้านการควบคุมคอมพิวเตอร์",
-   "category": "งานวิจัย",
-   "companies": [
-    "Microsoft"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "364799cf6f59",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xOTZ6ZWkzVjY3bElYY0FOV0lIMldxUlEzVkFIU2kyaUZ4clEtaElUQmhrNE1vYmxNYlI2ZjI2dGQ2Wm1aWklKWVE1RGQ5NnQ3N0hBN3JCRmlHY2xURTRnLU5tR3MyaWhBN1E?oc=5",
-   "source": "The Bangkok Insight",
-   "published": "2026-10-31T09:50:31+00:00",
-   "title": "จีนอ่วม! มูลค่าตลาดหุ้นวูบ 2.4 ล้านล้านดอลลาร์ กังวลฟองสบู่ AI-แข่งสหรัฐ",
-   "text": "",
-   "title_th": "ตลาดหุ้นจีนมูลค่าลดลงกว่า 2.4 ล้านล้านดอลลาร์ ท่ามกลางความกังวลเรื่องฟองสบู่ AI",
-   "summary_th": "มูลค่าตลาดหุ้นจีนปรับตัวลดลงอย่างรุนแรงจากความกังวลเรื่องภาวะฟองสบู่ในอุตสาหกรรม AI และการแข่งขันด้านเทคโนโลยีกับสหรัฐอเมริกา",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d26d562373a8",
-   "url": "https://www.blognone.com/node/152072",
-   "source": "Blognone",
-   "published": "2026-10-31T09:48:06+00:00",
-   "title": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด",
-   "text": "Body Wall Street Journal รายงานโดยอ้างแหล่งข่าวไม่เปิดเผยตัวตน ระบุว่า OpenAI ระดมทุนรอบล่าสุดได้เงิน 11,000 ล้านดอลลาร์ ไม่ถึงครึ่งของเป้าหมาย 30,000 ล้านดอลลาร์ และมูลค่าบริษัทอยู่ที่ 1.25 ล้านล้านดอลลาร์ จากเป้าหมาย 1.4 ล้านล้านดอลลาร์ เหตุผลที่การระดมทุนทำได้ไม่ครบตามที่ต้องการมีได้หลายสาเหตุ โดยในช่วงหลังมีหลายบริษัทระดมทุนเพื่อลงทุนด้านปัญญาประดิษฐ์เช่นเดียวกัน และยังมีความกังวลเนื่องจากบริษัทเหล่านี้มักขาดทุนอย่างหนักแม้รายได้จะเติบโตเร็วมาก รายได้ล่าสุดของ OpenAI เมื่อเดือนตุลาคมที่ผ่านมาเมื่อขยายจากรายได้ในเดือนกันยายนเป็น",
-   "title_th": "ลือ OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าที่คาดการณ์",
-   "summary_th": "มีรายงานว่า OpenAI ระดมทุนได้ไม่ถึงเป้าหมายที่ตั้งไว้ โดยมูลค่าบริษัทก็ต่ำกว่าที่คาดการณ์เช่นกัน สะท้อนถึงความกังวลของนักลงทุนต่อการขาดทุนอย่างหนักของบริษัท AI แม้รายได้จะเติบโตอย่างรวดเร็ว",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 4,
-   "ai": true,
-   "also": [
-    {
-     "source": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
-    },
-    {
-     "source": "Hacker News",
-     "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"
-    }
-   ],
-   "dedup": true
-  },
-  {
-   "id": "55b8c30b24fe",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TWndVMWg1TTgtamliaHh0bHdpdFM1UE56bnllT3lpRm5KbW9YcThwN1R1MDY3Q2gwQkVyeVhpSGFmRndnQnRhSndzZzZ3Q3J0MEx3bVVYVQ?oc=5",
-   "source": "Hfocus.org",
-   "published": "2026-10-31T09:01:36+00:00",
-   "title": "ประกาศผลการแข่งขัน DTAM Digital Hackathon 2026 ผสาน‘AI - ภูมิปัญญาไทย’",
-   "text": "",
-   "title_th": "ประกาศผลการแข่งขัน DTAM Digital Hackathon 2026 ผสาน AI กับภูมิปัญญาไทย",
-   "summary_th": "การแข่งขัน DTAM Digital Hackathon 2026 สิ้นสุดลงโดยเน้นการนำเทคโนโลยี AI มาประยุกต์ใช้ร่วมกับภูมิปัญญาไทยเพื่อสร้างนวัตกรรมใหม่",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
    "ai": true,
    "dedup": true
   }

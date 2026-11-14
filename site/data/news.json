@@ -1,53 +1,51 @@
 {
- "updated_at": "2026-11-14T15:09:20+00:00",
+ "updated_at": "2026-11-14T20:46:08+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-14T15:09:20+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายรอบด้าน ทั้งความเสี่ยงต่อเสถียรภาพการเงินโลก การตรวจสอบธรรมาภิบาลบริษัท และความก้าวหน้าทางเทคนิคที่รวดเร็ว",
+  "generated_at": "2026-11-14T20:46:08+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญในอุตสาหกรรม AI ตั้งแต่ความเสี่ยงต่อเสถียรภาพการเงินโลกไปจนถึงการพัฒนาโมเดลขนาดเล็กและกลยุทธ์ของ Anthropic",
   "points": [
    {
-    "text": "ธนาคารกลางสหรัฐฯ เตือนว่า AI กลายเป็นภัยคุกคามอันดับ 1 ต่อเสถียรภาพการเงินโลก ขณะที่อดีตบอร์ด OpenAI และรายงานต่างๆ เริ่มตั้งคำถามถึงความน่าเชื่อถือและความปลอดภัยของผู้นำบริษัท AI ชั้นนำ",
+    "text": "ธนาคารกลางสหรัฐฯ เตือนว่าความเสี่ยงจากอุตสาหกรรม AI กลายเป็นภัยคุกคามอันดับ 1 ต่อเสถียรภาพการเงินโลก ขณะที่อดีตบอร์ด OpenAI เน้นย้ำถึงความสำคัญของความน่าเชื่อถือและความปลอดภัยของผู้นำบริษัท AI",
     "ids": [
      "6b0ec1392575",
-     "d46b516a4c83",
-     "71ca71a0ccf4"
+     "d46b516a4c83"
     ]
    },
    {
-    "text": "Anthropic กำลังเป็นจุดสนใจอย่างมาก ทั้งแผนการเข้าตลาดหุ้น Nasdaq การเปิดตัว Claude Managed Agents แบบ Self-host และการขยายฐานการวิจัยในลอนดอน ท่ามกลางการแข่งขันที่ดุเดือดในตลาด",
+    "text": "Anthropic กำลังเตรียมตัวเข้าตลาดหุ้น Nasdaq พร้อมแผนเปิดตัว ETF และขยายฐานการดำเนินงานในลอนดอน รวมถึงมีการอัปเดตการใช้งาน Claude ทั้งในด้านประสิทธิภาพการเขียน Prompt และการเปิดให้ใช้งาน Managed Agents แบบ Self-host",
     "ids": [
      "c53e6be8b35c",
+     "f4256db0014a",
+     "e89c42888406",
      "2bc265d529c4",
-     "9a54c0f466e5",
      "ad10f6f67cfc"
     ]
    },
    {
-    "text": "เกิดข้อกังขาต่อ NVIDIA เรื่องการสร้างสถานการณ์ขาดแคลนชิปผ่านการให้ทุนสตาร์ทอัพ ในขณะที่ตลาดฮาร์ดแวร์กำลังปรับตัวด้วยการขยายกำลังผลิต DRAM ของ CXMT และการพัฒนาเทคนิคใหม่ๆ เพื่อรันโมเดลบนอุปกรณ์ทั่วไป",
+    "text": "เกิดข้อถกเถียงเรื่องการผูกขาดตลาดชิปของ NVIDIA และความท้าทายในการพัฒนาโมเดลขนาดใหญ่ นำไปสู่กระแสการพัฒนาโมเดลขนาดเล็กที่มีประสิทธิภาพสูงและการใช้เทคนิคใหม่ๆ เพื่อลดต้นทุนและเพิ่มความปลอดภัย",
     "ids": [
      "c6caa4d4f0b0",
      "567fa298898a",
-     "6c0afd0ee319",
-     "a65a3bfb3b5b",
-     "eb9a0c4d6ca2"
+     "03d4a5eb400b",
+     "c4c241bc674e",
+     "7256a5307116",
+     "f24904278044",
+     "f57464ef9a63"
     ]
    },
    {
-    "text": "ความก้าวหน้าทางเทคนิค AI ยังคงเติบโตต่อเนื่อง ทั้งการระดมทุนของ LangChain ที่มีมูลค่าแตะ 3 พันล้านดอลลาร์ และการพัฒนาโมเดลใหม่ๆ เช่น DeepSeek Flash Max รวมถึงอัลกอริทึมและเครื่องมือวิเคราะห์ประสิทธิภาพจาก Hugging Face",
+    "text": "ภาครัฐและองค์กรในไทยเริ่มขยับตัวนำ AI มาประยุกต์ใช้ในบริการภาครัฐและร่วมมือกับสื่อในอาเซียนเพื่อรับมือกับผลกระทบจากเทคโนโลยี AI ในอนาคต",
     "ids": [
-     "38741df50e34",
-     "7a978e8677d3",
-     "21dcb86b730a",
-     "2427bacb74a9",
-     "8400bdfe1e2a",
-     "ace7cac706df"
-    ]
-   },
-   {
-    "text": "มีการนำ AI มาใช้ในงานวิจัยทางวิทยาศาสตร์อย่างการถอดรหัสสมุดบันทึกของ Gödel และความร่วมมือขององค์กรสื่อในไทยและอาเซียนเพื่อเตรียมรับมือกับผลกระทบจากเทคโนโลยี AI",
-    "ids": [
-     "e940fd987572",
+     "b79d4108c329",
      "f34d7d002619"
+    ]
+   },
+   {
+    "text": "มีการตั้งคำถามถึงความสำคัญของการสนับสนุนโมเดลโอเพนซอร์สระดับชาติเพื่อความมั่นคง และการเรียนรู้จากบทเรียนของโปรเจกต์ AI ที่ไม่ประสบความสำเร็จ",
+    "ids": [
+     "52609353fa52",
+     "b08cefd9996d"
     ]
    }
   ]
@@ -140,7 +138,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 5,
+   "count": 7,
    "error": null
   }
  ],
@@ -578,9 +576,83 @@
   "56623f1d9c94",
   "ad639fbc6552",
   "604d2096520a",
-  "af94a0f7a543"
+  "af94a0f7a543",
+  "c88c7d431df3",
+  "fff3fed7f721",
+  "5d976937e016",
+  "2a2bfff1121f",
+  "10c60fc60c0f"
  ],
  "items": [
+  {
+   "id": "b08cefd9996d",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-14T17:30:00+00:00",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "text": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "title_th": "รวมโปรเจกต์และสตาร์ทอัพด้าน AI ที่ไปไม่ถึงฝั่งฝัน",
+   "summary_th": "บทความรวบรวมรายชื่อโปรเจกต์ AI ที่ถูกยกเลิกหรือทำผลงานได้ไม่ตามเป้าหมาย เพื่อสะท้อนให้เห็นถึงความท้าทายในการพัฒนาเทคโนโลยี AI ในปัจจุบัน",
+   "category": "อื่นๆ",
+   "companies": [
+    "Apple",
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f4256db0014a",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFM5cnNsaGNIMzZfVDNWZ19qWUg3c0UtNVZLdUdMbzc4ZS1uTGJ0VnN2dFItbVV5Q0VCMno4RGxNV05nQWd3ZDhlaVFIT3JZS0JMVFpMaUR0VlR5TGFROXpZMGwxUXBYdE9YUmtpZlZ5RVVSX0VYN1EzR2RTWW1UX0FGWHFxZVB0OUNvcEpPdDdvRUJMazNjdVRkM1RIdzA?oc=5",
+   "source": "The Decoder",
+   "published": "2026-11-14T16:50:52+00:00",
+   "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+   "text": "",
+   "title_th": "Anthropic ชี้การใช้ Prompt แบบเดิมทำให้ Claude Opus 5.5 ทำงานช้าลง",
+   "summary_th": "Anthropic ระบุว่าผู้ใช้งานที่ยังยึดติดกับวิธีการเขียน Prompt แบบเก่าส่งผลกระทบต่อประสิทธิภาพการทำงานของโมเดล Claude Opus 5.5",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e89c42888406",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKejNmMEZTMkpxNnRzMnlsSDloc0YyQktVM0IwUFBSeGpadmZ6UERsNnhwQi1FdVNZcFZ4Z1Vtd1RDQjViaUFjM2h6dmc0bjRTWG1XUlA2U2tCRWxNUXhOUll5c1hVanA5bUlqbXZCb3doV3E2?oc=5",
+   "source": "The New Stack",
+   "published": "2026-11-14T15:18:05+00:00",
+   "title": "Anthropic wants you to build on Claude. There’s a catch.",
+   "text": "",
+   "title_th": "Anthropic ผลักดันการพัฒนาบน Claude แต่มีเงื่อนไขที่ต้องพิจารณา",
+   "summary_th": "Anthropic พยายามดึงดูดให้นักพัฒนาสร้างแอปพลิเคชันบนแพลตฟอร์ม Claude แต่มีข้อจำกัดหรือเงื่อนไขบางประการที่นักพัฒนาควรทราบ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "52609353fa52",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-14T15:17:07+00:00",
+   "title": "Why don’t we have national open AI models?",
+   "text": "Deepseek spent about $6m on 4.1 apparently. Published all of their work. US gov says don’t trust China, blah blah… As a US citizen why are we not training national open source? The cost is nothing compared to the budget, solves security issues, and prevents monopolistic practices on token pricing submitted by /u/Strange_Test7665 [link] [comments]",
+   "title_th": "ทำไมเราถึงไม่มีโมเดล AI แบบโอเพนซอร์สระดับชาติ?",
+   "summary_th": "มีการตั้งคำถามถึงความสำคัญของการที่รัฐบาลควรสนับสนุนการฝึกโมเดล AI แบบโอเพนซอร์สเอง เพื่อความมั่นคงปลอดภัยและลดการผูกขาดจากบริษัทเอกชน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "DeepSeek"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "c53e6be8b35c",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFdEdlczV0JtemNqLVVqQ19WV29HakhMUHRGakdWczNteGw1dzd1dmdseWF2Sy1WNVpONVR2WVprOTE5Qm5zVWVtcmhaUEU1dk42aFRpZ1ZDanp1bkdwcTQ2a2xtQU5EOGV6eXdLRlVzaDhaRUsyZ2lDTlF6Sy1BREphZ2tPWGdrbHoxNUJtT0lHbGZvODJGR1JsQ1N1aDJzcUhnNmF6NWJFX1oxbXpWMnh0R0M?oc=5",
@@ -599,6 +671,21 @@
    "dedup": true
   },
   {
+   "id": "f57464ef9a63",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-14T13:41:12+00:00",
+   "title": "The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware",
+   "text": "submitted by /u/General-Spite1222 [link] [comments]",
+   "title_th": "เรื่องราวของนักกฎหมายผู้ใช้ V100 ถูกนำเสนอใน Tom’s Hardware",
+   "summary_th": "เรื่องราวของผู้ใช้งานที่ใช้การ์ดจอ V100 ในการรันโมเดล AI ได้รับความสนใจจากสื่อเทคโนโลยีอย่าง Tom’s Hardware",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "6b0ec1392575",
    "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxQV0I1TTFRLVJuWDh3SC1XT0lkUFNqQ3NfYjZfNE9mSmZvVlNYWld5d3kySV9La0FZLWMzQUxoR1FHUGFtZWlCNDJwaUtuXzdGMHpkQVNsVDJXSXd4Wk9CUmtaWEw4SHhUZ2xIZDdzRnEwY0ZYamlTb3JJSzg2MDBMVEcwWENORzM4YmRFd3lSQkwwaVhSeVA1UEFkQnZYMjdzUlNIRFdJcmRVOGxNVGhORjFiMmt3MXlRSXoxNkZnU0g2SnFrSHN2dDEwZEJpS1Z0VVlTalNCRGp0SU9Xb2dYVk9wZzd6R0FodElzZXZ3blZfb0tYbTBSX0NqV3lGM3Bfbm9YWFB2LUdOMzJkanJuSDVCMy1yZl9CMEVzRWs2S1BHMy1tbWpEUUJ3Mld0RVdXR0JkSXBZOFQ0RGtPRDYyRnJlUkVRa19UOTFxeUpSRTRpNVZhS0tZbnVXZHFkZTVKQk4xY0pOU0MzOXROdmFtQUZhMk1rckYtYWVQZGdfMURXU2kyVFFSbDZRYzhuejRhZjhINW5HVEgxMjRzb1hZckhWdGlSQWRHSUZNXzJBRFJiSl85RlJlMm5uZWJyX3dXSXhVVk0yOHVmSlFrdlRoWjZwb3BKZjI3UVFWTW9fS3VNbld5Z19QUlVzZlRyckJRV2liUVhTRlRpYktzVWZkbXFuUmxzMjQ2VWQ0OURUQ2d5MXQ1MC05MEFjYTNzRHlJbUZIb3JDWW1TaDA1QU9icnlCR19ZOWdHR1ZITlBrN0FwVUhvdndxZW5kM0hGbmtjQ3lSZk5SRGhEVUZDdVpET3J1VjVNTmxXQ2RwaTEyMm1GYnJ1MU1jd1o3R3c3bjVMVDU2ZWRZSElYRnBsM3lBNXdhOTZuaXU2SXdBcGlhZmZMTGtmQUVRci1rbmpfTzJWamlKd2xSejJiZWtUdUR1NFBGbE5hVmlBd3FNTGxZMXhmNV9fWFNvZ25EbGVpd3JqTXlBeERUcXFSejdrOGJBTEJCLWQ5SVRobHVsUExBdnFoLUM3SWhyUU1ydml1UkV1ZUJfSmgyVDN6MkpTOWl6dVRfRmkwOVJXUVd1eXRoN1cxY3pFRzM1R2l1VFpmSU5GREh1MTRDUWdJNzZPVUpqZGlMeHVXLWlDcTh1OTVVUlo1UE9ReHhDVFFxT2Jlb1UzaEFuU3Q1WnhhMVVCRmhnQnVrOGJFalJiMWdlOGQxa2txLUJncjY0clFGZHRSMkZHQTBUVDFHVUxaRXl3Ny1tUVJ5dnFNU2U3UFM1aHRTRXFBM2dQeVlxaGo0M05ISzNKdm1oVTJ1MjlQNi1UTF9HN3hKWElhRWFHeFJ2Z3ExMmlwZw?oc=5",
    "source": "Facebook",
@@ -610,6 +697,86 @@
    "category": "นโยบาย/กฎหมาย",
    "companies": [],
    "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b79d4108c329",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14Y1luVGJIV1JzemJ2UTRhRlF0WDJLbVVnVUlQUGZOSEphNFYxN1hWUHQwS2lxQzBIRndSMDNrN3B2T3dkbDZVOVdyUjV3T1RxNXo3M0tR?oc=5",
+   "source": "Thansettakij",
+   "published": "2026-11-14T12:45:00+00:00",
+   "title": "เปิดแผนขยายผล AI ภาครัฐ ปั้นแอป ‘ทางรัฐ’ บริการประชาชนจุดเดียว",
+   "text": "",
+   "title_th": "รัฐบาลไทยเดินหน้าขยายผล AI ผ่านแอปฯ ทางรัฐ",
+   "summary_th": "ภาครัฐไทยมีแผนนำ AI มาประยุกต์ใช้ในแอปพลิเคชัน 'ทางรัฐ' เพื่อให้บริการประชาชนแบบจุดเดียวเบ็ดเสร็จ",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "03d4a5eb400b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-14T12:10:50+00:00",
+   "title": "How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?",
+   "text": "I think we're fine till 2027 with models(~100B .... Qwen 4.X & 5, Gemma-5, NVIDIA would release some Medium/Big size 25-200B models). After that it's gonna be critical, as many model creators are increased/increasing model size to 300B+. Future trend probably gonna be around 500B. That size range is not suitable for Unified 128GB Devices or 128GB RAM + 24-32GB VRAM(Q4 won't fit). Here some models with increased sizes. DeepSeek-V4-Flash-0731 ( 284B ) - DeepSeek-V4.1-Flash-1017 ( 552B + 196B Engram) Ling-3.0-flash ( 124B ) - Ling-3.1-flash ( 560B ) MiniMax-M2.7 ( 230B ) - MiniMax-M3 & MiniMax-M3",
+   "title_th": "อนาคตของการพึ่งพาโมเดลขนาดใหญ่จากผู้พัฒนาหลัก",
+   "summary_th": "การวิเคราะห์ถึงความท้าทายในอนาคตเมื่อโมเดล AI มีขนาดใหญ่เกินกว่าจะรันบนอุปกรณ์ทั่วไปได้ และความจำเป็นในการหาทางออกสำหรับโมเดลขนาดกลาง",
+   "category": "งานวิจัย",
+   "companies": [
+    "Nvidia",
+    "DeepSeek"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c4c241bc674e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-14T11:33:26+00:00",
+   "title": "IBM trains two small open models to ignore orders hidden in documents",
+   "text": "I like this. Prompt injection is a bit issue with small models submitted by /u/mawcopolow [link] [comments]",
+   "title_th": "IBM ฝึกโมเดลขนาดเล็กให้ป้องกันคำสั่งแฝงในเอกสาร",
+   "summary_th": "IBM พัฒนาโมเดลขนาดเล็กที่สามารถป้องกันการโจมตีแบบ Prompt Injection ซึ่งเป็นปัญหาสำคัญในการใช้งานโมเดลขนาดเล็ก",
+   "category": "งานวิจัย",
+   "companies": [
+    "IBM"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7256a5307116",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-14T10:02:25+00:00",
+   "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
+   "text": "Very interesting model/architecture. Seems to match Qwen 3.5 27b overall at only 9b parameters. Could be useful for some and it looks like it’s not even fully cooked yet. I haven’t tried it yet. I’m not sure if it’d be slower than qwen, it’s smaller but inference parameters are ~15b and it also has mtp so idk. If you try it share your experience. submitted by /u/barbear22 [link] [comments]",
+   "title_th": "เปิดตัว SenseNova-Loop-9B โมเดลขนาดเล็กประสิทธิภาพสูง",
+   "summary_th": "โมเดล SenseNova-Loop-9B จาก Hugging Face ถูกจับตามองเนื่องจากมีสถาปัตยกรรมที่น่าสนใจและให้ประสิทธิภาพเทียบเท่าโมเดลขนาดใหญ่กว่า",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f24904278044",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-14T05:41:22+00:00",
+   "title": "[Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+   "text": "Web-facing AI agents repeatedly access webpages, documents, repositories, and tool responses, yet reading interfaces often expose entire objects when only sparse evidence is needed. This over-reading increases token and latency costs and can dilute relevant evidence. We present SparseRead, a reusable reading control layer that governs content admission without modifying the agent model. Its Read Intent Protocol tracks evolving needs and source coverage; Adaptive Reader Backends select how evidence is located and exposed; and the Budgeted Read Gate bounds cumulative raw exposure per episode wit",
+   "title_th": "งานวิจัย SparseRead ช่วยลดการใช้ Token สำหรับ AI Agents",
+   "summary_th": "นำเสนอเทคนิค SparseRead ที่ช่วยให้ AI Agents อ่านข้อมูลภายนอกได้อย่างมีประสิทธิภาพมากขึ้นโดยไม่ต้องแก้ไขโมเดลหลัก ช่วยลดต้นทุนและเวลาแฝง",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -720,6 +887,21 @@
    "dedup": true
   },
   {
+   "id": "278b3958a503",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2dobnU4dWpPTF9Ud25NR0ZFa1JfeUQ4bU94MUFjdVJmeXE3TUExd3NVYUFNWHpnNkNkeW1qNXE4S3FSWmNUUElPNFRPSUJSNFYxczFRcW5sbzUyOWZ3cUYyOU5tS0ZqQnhySDU5OE5ZM3BwLVBNVzlPT0hUM3dXU1BMWUR5VDl3Z1ZlV1pjbEV1TjRaZEM2WkwzZGVocE9KZjQ3b2tnQksxTVYzMHdwLWpB?oc=5",
+   "source": "Animation Magazine",
+   "published": "2026-11-13T20:25:38+00:00",
+   "title": "เทศกาลแอนิเมชั่นแมนเชสเตอร์ประกาศรายชื่อผู้ชนะประจำปี 2026 และนโยบายด้านปัญญาประดิษฐ์ (AI) ใหม่",
+   "text": "",
+   "title_th": "เทศกาลแอนิเมชั่นแมนเชสเตอร์ประกาศนโยบายการใช้ AI ใหม่",
+   "summary_th": "เทศกาลแอนิเมชั่นแมนเชสเตอร์ได้ประกาศนโยบายใหม่ที่เกี่ยวข้องกับการใช้ปัญญาประดิษฐ์ในการประกวดแอนิเมชั่นประจำปี 2026 เพื่อกำหนดแนวทางและมาตรฐานในการส่งผลงานเข้าแข่งขัน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "9a54c0f466e5",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UcXpxbkFEU2NnQk84UW1ZT2JVUkdQVlBQakNGWXRaVHpsalNnaGRpSGVSV21aMkdId3RpVHJHT21ldDdKM0xSMlFXRGxWdE9ld3RQMzM4NEltbjlkUWJJY08teGRUajk2OXZnVXlVdDdaa3BJcmlYRl9TaHh1RFk?oc=5",
    "source": "Barron's",
@@ -765,6 +947,23 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d6cecee14f8b",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
+   "source": "Anthropic",
+   "published": "2026-11-13T18:06:18+00:00",
+   "title": "Building strong safety evaluations",
+   "text": "",
+   "title_th": "Anthropic เผยแนวทางการสร้างระบบประเมินความปลอดภัยที่แข็งแกร่ง",
+   "summary_th": "Anthropic นำเสนอแนวทางและหลักการในการพัฒนาการประเมินความปลอดภัยสำหรับโมเดล AI เพื่อให้มั่นใจว่าระบบมีความน่าเชื่อถือและลดความเสี่ยงจากการใช้งานในรูปแบบต่างๆ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -2023,6 +2222,10 @@
     {
      "source": "TechCrunch AI",
      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
     }
    ],
    "dedup": true
@@ -2291,7 +2494,13 @@
    "companies": [],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://unsloth.ai/docs/models/qwen3.8"
+    }
+   ]
   },
   {
    "id": "2ed3a890d3d8",
@@ -10368,161 +10577,6 @@
    "companies": [
     "xAI",
     "SpaceX"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "37f83cfc4111",
-   "url": "https://huggingface.co/papers/2611.01560",
-   "source": "HF Daily Papers",
-   "published": "2026-10-31T20:00:00+00:00",
-   "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
-   "text": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, famili",
-   "title_th": "เปิดตัว uni-robot-agent แพลตฟอร์มโอเพนซอร์สสำหรับ Robot-use Agents",
-   "summary_th": "นักวิจัยเปิดตัว uni-robot-agent เพื่อสนับสนุนการวิจัยหุ่นยนต์ด้วยโมเดลแบบเปิด โดยใช้ Qwen3.8-Flash-Next ทำผลงานได้ดีกว่าโมเดลปิดในงานด้านการควบคุมหุ่นยนต์",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Alibaba Cloud"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2d52e97e8a16",
-   "url": "https://huggingface.co/papers/2611.01860",
-   "source": "HF Daily Papers",
-   "published": "2026-10-31T20:00:00+00:00",
-   "title": "Advances in Agentic Computer Graphics",
-   "text": "Computer graphics is built on code. Large language model (LLM) agents can now generate graphics code and iteratively refine it through various feedback. This capability opens the door to a potentially new paradigm of computer graphics, with graphics algorithms increasingly built around agentic systems to automate progressively complex tasks. Over the past years, research on agentic graphics has expanded rapidly across a diverse range of tasks. This rapid growth makes it increasingly difficult for manual literature reviews to keep pace with new developments. At the same time, similar ideas are ",
-   "title_th": "ความก้าวหน้าของ Agentic Computer Graphics ในการสร้างและปรับแต่งโค้ด",
-   "summary_th": "งานวิจัยสำรวจการใช้ LLM Agents ในการสร้างและปรับแต่งโค้ดสำหรับงานกราฟิกคอมพิวเตอร์ ซึ่งช่วยให้การทำงานที่ซับซ้อนเป็นไปโดยอัตโนมัติและมีประสิทธิภาพมากขึ้น",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a9e93a6c8692",
-   "url": "https://huggingface.co/papers/2611.02074",
-   "source": "HF Daily Papers",
-   "published": "2026-10-31T20:00:00+00:00",
-   "title": "SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training",
-   "text": "Coding agents solve repository issues through long sequences of exploration, editing, and validation. These trajectories are increasingly used as post-training data, so how they are collected shapes what the trained model learns. A common approach is to sample multiple trajectories independently for each issue and then select or curate them. However, as more trajectories are sampled independently, later trajectories become increasingly redundant, even though earlier trajectories could guide where subsequent collection effort should be spent. A natural way to use this history is to expose it to",
-   "title_th": "SWE-Trail นำเสนอแนวทางใหม่ในการเก็บข้อมูลเพื่อฝึก Coding Agent",
-   "summary_th": "งานวิจัยนำเสนอ SWE-Trail ซึ่งเป็นวิธีการเก็บข้อมูลการทำงานของ Coding Agent โดยใช้ประวัติการแก้ไขปัญหามาเป็นแนวทาง แทนการสุ่มเก็บข้อมูลแบบอิสระ เพื่อให้โมเดลเรียนรู้การแก้ปัญหาได้มีประสิทธิภาพยิ่งขึ้น",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a3dce92c4693",
-   "url": "https://huggingface.co/papers/2611.02102",
-   "source": "HF Daily Papers",
-   "published": "2026-10-31T20:00:00+00:00",
-   "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
-   "text": "Scaling computer-use agents from individual actions to complex software work requires experience that connects decisions to complete outcomes. We present NorthCUA, an integrated system for turbocharging computer-use agents through experience at scale. Its Experience Flywheel supplies diverse executable tasks to the NorthCUA Harness, which sustains long interactions, records decisions, and checks task outcomes. The Flywheel uses these records to curate verified trajectories. For unsolved tasks, recursive self-improvement evolves reusable skills and preserves verified milestones so later attempt",
-   "title_th": "NorthCUA ระบบใหม่ช่วยเร่งประสิทธิภาพ Computer-Use Agents",
-   "summary_th": "NorthCUA เป็นระบบที่ออกแบบมาเพื่อเพิ่มขีดความสามารถของ Computer-Use Agents ผ่านการสร้างวงจรประสบการณ์ที่เชื่อมโยงการตัดสินใจเข้ากับผลลัพธ์ที่ชัดเจน ช่วยให้เอเจนต์สามารถทำงานซอฟต์แวร์ที่ซับซ้อนได้ดีขึ้น",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b0ea1cf1f211",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWRRVDc2NW4xb3Vod21YR3hORTRGNjlONHFUc3ozSWx0SGZ2ZnpGd1NoUnRXSFlXcUoxOUZEcXJHVkhQVHc1ei01VHpaMWJXZUJZVEFjTXpoVm5oMnlaOW9KZ3BPQXBBMzVRaEVva3p3eFMteHFjdnltQmozZnZqNXFDTVVRME9ONXZ5YXdCRDV5U2FiTzFmRmtKa2c3ams?oc=5",
-   "source": "the-decoder.com",
-   "published": "2026-10-31T19:24:43+00:00",
-   "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
-   "text": "",
-   "title_th": "Anthropic พบช่องโหว่ใน Claude รุ่นเก่าที่ไม่มีระบบลายน้ำ",
-   "summary_th": "Anthropic เริ่มใช้ระบบลายน้ำในโมเดล แต่พบว่าโมเดล Claude รุ่นเก่าบางตัวยังไม่มีการป้องกันนี้ ซึ่งอาจส่งผลต่อการตรวจสอบที่มาของเนื้อหาที่สร้างโดย AI",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "Mashable",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEM4THdHaktsdExGbnVyMWxVLWhuRmx4S3hYSEMwWFIxcjIydjA2TVl6bkZidU10QmYyWEZWYkNsM0NXdTBHc2pIY0tXU1ZiMTdYbDZvYVNUUDduTDB2eU1DRU0yVERyS3ppRFpHWjZ5OUFxdXU5ZTRCbk5hSG9UNkgxQTJmX1BKWlJkOXAtNA?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "a492f43c9a7f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-31T19:18:53+00:00",
-   "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
-   "text": "Code: https://github.com/divagr18/QwenPU Weights: https://huggingface.co/divagr1925/QwenPU From the original tweet : 1/3 A CPU inside an LLM is one thing, but running another LLM inside an LLM would be taking things a bit too far, wouldn't it? Anyways, here's an LLM running inside an LLM : QwenPU, an LLM (@karpathy's stories260k) running on an NPU compiled inside Qwen 3.5-4B's weights. 2/3 stories260K is just a C program. To run it inside Qwen, I compiled an NPU into Qwen's weights that does matmuls, softmax and attention bit-exact. The LLM weights are in Qwen's own memory, with no external to",
-   "title_th": "นักพัฒนาทดลองรันโมเดล LLM ขนาดเล็กภายในน้ำหนักของ Qwen 3.5-4B",
-   "summary_th": "มีการสาธิตการรันโปรแกรม NPU ภายในน้ำหนักของโมเดล Qwen 3.5-4B ซึ่งเป็นการทดลองเชิงเทคนิคที่น่าสนใจเกี่ยวกับการฝังระบบประมวลผลไว้ในโมเดลภาษา",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7cd805a36d48",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-31T18:57:36+00:00",
-   "title": "CrowdGPT v2.6 - The collaborative LLM",
-   "text": "For those who saw the original post , a week ago, I'm glad to announce CrowdGPT v2 (more precisely v2.6), a massive update to the original CrowdGPT project :D (scroll down to see what's new) For the newcomers: CrowdGPT is a project aiming to create a LLM without datacenters and without the usual millions of dollars spent by AI companies. The project aims to train a 1 billion parameter model collaboratively and openly, as a proof of concept (it is possible to scale to bigger dense models or even MoE architectures with this project) This project implements a protocol where everyone gets a say in",
-   "title_th": "CrowdGPT v2.6 โครงการพัฒนา LLM แบบร่วมมือกันโดยไม่พึ่งพา Data Center",
-   "summary_th": "CrowdGPT อัปเดตเวอร์ชันใหม่โดยมีเป้าหมายเพื่อสร้างโมเดลภาษาขนาดใหญ่ผ่านความร่วมมือของผู้ใช้งานโดยไม่จำเป็นต้องใช้ทรัพยากรจาก Data Center ขนาดใหญ่",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "9dee3fa62c05",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84cHZlMURNNDdZcjg1STBlNU1WMHA4YmlWMFM4RzExMGx6aDYxeHR1T252MG1OVmdySXdGMERHTTAwejBrMzIycFJ4MzR2UGFFVTlRX2w3eFRBVWZNdE5BZVI0d1YxTWM?oc=5",
-   "source": "Engadget",
-   "published": "2026-10-31T18:30:00+00:00",
-   "title": "How To Use Claude Duet When It Rolls Out To You",
-   "text": "",
-   "title_th": "วิธีใช้งาน Claude Duet เมื่อเปิดให้ใช้งานทั่วไป",
-   "summary_th": "แนะนำขั้นตอนการใช้งานฟีเจอร์ Claude Duet สำหรับผู้ใช้ทั่วไปเมื่อมีการปล่อยอัปเดตอย่างเป็นทางการ",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "Tech My Money",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pa3dLb1cxV2otcTNSS3B3cnNWektHVlh3WXV1eExVbGVmdnBqdXFPMU5Ja2FfY0I0S0swVjdMQ1JMeEdKOFN1Qnp5TDAxb0pYdlR2VVBXQ0llYlJOMDhUWWk4eXRROTJrQVo5TnYtYWtOWW5OTUNMSURaRWNFeVnSAX9BVV95cUxOaWt3S29XMVdqLXEzUktwd3JzVnpLR1ZYd1l1dXhMVWxlZnZwanVxTzFOSWthX2NCNEtLMFY3TENSTHhHSjhTdUJ6eUwwMW9KWHZUdlVQV0NJZWJSTjA4VFlpOHl0UTkya0FaOU52LWFrTlluTk1DTElEWkVjRXlZ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "ed0268fa6e32",
-   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-   "source": "The Verge AI",
-   "published": "2026-10-31T16:09:02+00:00",
-   "title": "I built an AI Tamagotchi before Meta could",
-   "text": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
-   "title_th": "Meta เตรียมเปิดตัว Muse Charm อุปกรณ์ AI พกพา",
-   "summary_th": "Meta เตรียมวางจำหน่าย Muse Charm อุปกรณ์ AI ขนาดเล็กที่ให้ผู้ใช้พกพาผู้ช่วย AI ไปได้ทุกที่ คล้ายกับของเล่น Tamagotchi",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Meta"
    ],
    "importance": 3,
    "ai": true,

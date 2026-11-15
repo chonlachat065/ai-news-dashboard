@@ -1,46 +1,42 @@
 {
- "updated_at": "2026-11-15T15:41:37+00:00",
+ "updated_at": "2026-11-15T21:05:01+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-15T15:41:37+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญในวงการ AI ทั้งด้านนโยบายความมั่นคงระดับภูมิภาค การพัฒนาโมเดลขนาดใหญ่ และประเด็นความปลอดภัยในการใช้งาน",
+  "generated_at": "2026-11-15T21:05:01+00:00",
+  "headline": "สหรัฐฯ เตรียมยกระดับมาตรการควบคุมการส่งออกชิป AI และการใช้งานคลาวด์เพื่อความมั่นคง พร้อมความเคลื่อนไหวสำคัญด้านความปลอดภัยและนวัตกรรมโมเดล AI",
   "points": [
    {
-    "text": "สหรัฐฯ เตรียมออกกฎคุมเข้มการเช่าชิป AI ของบริษัทจีนผ่านศูนย์ข้อมูลในเอเชียตะวันออกเฉียงใต้ ซึ่งอาจกระทบต่อการลงทุนคลาวด์ในไทย ขณะที่รองนายกฯ อนุทิน ชูยุทธศาสตร์อาเซียนเพื่อผลักดันโครงสร้างพื้นฐาน AI และปราบอาชญากรรมออนไลน์",
+    "text": "สหรัฐฯ เตรียมคุมเข้มการส่งออกชิป AI และการเช่าใช้ผ่านศูนย์ข้อมูลในเอเชียตะวันออกเฉียงใต้เพื่อปิดช่องโหว่การเข้าถึงของบริษัทจีน ซึ่งอาจส่งผลกระทบต่อการลงทุนในภูมิภาค",
     "ids": [
-     "8c264b660e08",
-     "dcbc9a4153cf"
+     "1207b5c1c70b",
+     "8c264b660e08"
     ]
    },
    {
-    "text": "ความก้าวหน้าของโมเดล AI ระดับโลกและงานวิจัยใหม่ ได้แก่ โครงการ EUROPA ของสหภาพยุโรปที่ตั้งเป้าพารามิเตอร์สูงถึง 1 ล้านล้าน และงานวิจัยเรื่องความเป็นไปได้ของ Recursive Self-Improvement ในขั้นตอน Pre-training",
+    "text": "ด้านความปลอดภัยไซเบอร์ Google Project Zero ลดเวลาเปิดเผยช่องโหว่เหลือ 30 วันเนื่องจาก AI ช่วยให้การโจมตีรวดเร็วขึ้น ขณะที่ Cursor รายงานเหตุการณ์มัลแวร์ในส่วนขยาย Claude Code จากการขโมย API Key",
+    "ids": [
+     "5d823a7e20a8",
+     "c0202ff277fc"
+    ]
+   },
+   {
+    "text": "ความก้าวหน้าของโมเดล AI มีการพัฒนาโมเดลโอเพนซอร์สขนาดใหญ่ระดับ 1 ล้านล้านพารามิเตอร์จากสหภาพยุโรป และการอัปเดตเครื่องมืออย่าง Basalt 0.4.0 ที่รองรับ Qwen 27B",
     "ids": [
      "e63a6281c50b",
+     "56f2008d299b"
+    ]
+   },
+   {
+    "text": "มีการถกเถียงในชุมชนนักพัฒนาเกี่ยวกับประสิทธิภาพของ Frontier Models ว่าเกิดจากเครื่องมือสนับสนุนที่ดีขึ้นมากกว่าความฉลาดของตัวโมเดล รวมถึงการสำรวจความเป็นไปได้ของ Recursive Self-Improvement ในขั้นตอน Pre-training",
+    "ids": [
+     "9e501fb1698d",
      "a378ea344340"
     ]
    },
    {
-    "text": "ประเด็นความปลอดภัยและประสิทธิภาพการใช้งาน โดย Cursor พบการโจมตีผ่านส่วนขยาย Claude Code จากการขโมย API Key ของ Fireworks AI รวมถึงรายงานปัญหาประสิทธิภาพลดลงในโมเดล Qwen3.8-Flash-Next และข้อแนะนำเรื่องการปรับปรุง Prompt สำหรับ Claude Opus 5.5",
+    "text": "ภาครัฐในอาเซียนผลักดันยุทธศาสตร์ความร่วมมือด้านโครงสร้างพื้นฐาน AI และการปราบปรามอาชญากรรมออนไลน์เพื่อยกระดับความมั่นคงทางดิจิทัลร่วมกัน",
     "ids": [
-     "c0202ff277fc",
-     "078205c5b9c1",
-     "f4256db0014a"
-    ]
-   },
-   {
-    "text": "การอภิปรายในชุมชนนักพัฒนาเกี่ยวกับอนาคตของ Local AI เทียบกับ Cloud AI การเลือกใช้โมเดลให้เหมาะสมกับงาน เช่น LFM2.5-24B-A2B และการถกเถียงว่าความฉลาดของ LLM มาจากเครื่องมือสนับสนุนมากกว่าตัวโมเดลเอง",
-    "ids": [
-     "9bfb051ab342",
-     "e4fe52585ec4",
-     "9e501fb1698d",
-     "62d571bfbd9e"
-    ]
-   },
-   {
-    "text": "ประสบการณ์การประกอบเครื่อง AI Rig ประสิทธิภาพสูงด้วย GPU 8 ตัว และบทเรียนจากโปรเจกต์ AI ที่ล้มเหลว เพื่อสะท้อนความท้าทายในการพัฒนาเทคโนโลยีในปัจจุบัน",
-    "ids": [
-     "b1e5bfa3505a",
-     "b08cefd9996d"
+     "dcbc9a4153cf"
     ]
    }
   ]
@@ -585,9 +581,132 @@
   "cdf34d438f12",
   "14ba8d169059",
   "4c525e5e54fa",
-  "18dd45f4d4e2"
+  "18dd45f4d4e2",
+  "1a811a22b701",
+  "d399323c2ae5",
+  "c53e6be8b35c",
+  "51c1ec8e492f",
+  "27e710d84b36",
+  "25a0283342bb",
+  "2f1f5cbf7ce8"
  ],
  "items": [
+  {
+   "id": "1207b5c1c70b",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+   "source": "The Verge AI",
+   "published": "2026-11-15T19:15:43+00:00",
+   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "text": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]",
+   "title_th": "สภาคองเกรสสหรัฐฯ เตรียมคุมเข้มการส่งออกชิป AI หลังเกิดกรณีอื้อฉาวที่ Nvidia",
+   "summary_th": "สภาคองเกรสสหรัฐฯ กำลังพิจารณามาตรการจำกัดการส่งออกชิป AI ให้เข้มงวดขึ้น หลังเกิดกรณีอื้อฉาวที่เกี่ยวข้องกับอดีตซีอีโอของ Nvidia และข้อสงสัยเรื่องการจารกรรมข้อมูล",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Nvidia"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "56f2008d299b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-15T17:30:31+00:00",
+   "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
+   "text": "Hi everyone! I wanted to post a quick update on Basalt . Since last I posted, multi model and router support was implemented, starting with DeepSeek V4.1 Flash (IQ1_M 90 tok/s conv, 246 tok/s struct on a 5090 + 5060 Ti). Also new: video support, files in chats, and a bunch of fixes and improvements. Now 0.4.0 is out featuring Basalt's first dense model, Qwen 3.8 27B. It's fast and accurate, top-1 92.8% vs the full BF16 model. This, in preparation for Qwen 4, so we had a headstart on the dense kernels. The numbers: Up to 776 tok/s on structured output, 262 conversation, 194 on prose. Single str",
+   "title_th": "อัปเดต Basalt 0.4.0 รองรับโมเดล Qwen 27B พร้อมประสิทธิภาพความเร็วสูง",
+   "summary_th": "Basalt ปล่อยอัปเดตเวอร์ชัน 0.4.0 เพิ่มการรองรับโมเดล Qwen 27B และฟีเจอร์ใหม่ๆ เช่น การรองรับวิดีโอและการจัดการไฟล์ในแชท โดยเน้นประสิทธิภาพความเร็วในการประมวลผล",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "342bf0b9337e",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTjUtckI5X3hMbE1kcDJzN19LWWRFa1YtNDJEeTFuVldxc1Q3UVBILTBwX1FQSFdwTXdiSUY2eG5aY0VnVkZTRGZjby1vZFF4UnVSZjZPYlF3ZW1VMEFnNk1RbXBXaDRQWUNHekNBV2NXdFpJNjdXQ1FBd1VPc1lCN0J3?oc=5",
+   "source": "Mezha.net",
+   "published": "2026-11-15T17:09:36+00:00",
+   "title": "Meet Boris Cherny, the engineer behind Anthropic’s Claude Code - and its miso hobbyist",
+   "text": "",
+   "title_th": "ทำความรู้จัก Boris Cherny วิศวกรผู้อยู่เบื้องหลัง Claude Code ของ Anthropic",
+   "summary_th": "บทความแนะนำ Boris Cherny วิศวกรสำคัญผู้อยู่เบื้องหลังการพัฒนา Claude Code ของบริษัท Anthropic",
+   "category": "อื่นๆ",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "61d44005f257",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3SkJ3Z1pfMDlSUnV6aDRLdjh6T0xwZ0pTb2I4MzNrTzF0ZUpnZmw2SUFhMGctYUlkMWxDMUVtR1FEOHdUTTZCUU44NFJXd2NYajVkUEowbHdXNV9lOTB6bHM4bVVBRzQ5WU5fR2dRaWlVNkcxckJUTkRB?oc=5",
+   "source": "CNN",
+   "published": "2026-11-15T17:00:15+00:00",
+   "title": "Meet the miso-making engineer behind Anthropic’s biggest hit",
+   "text": "",
+   "title_th": "เปิดตัววิศวกรผู้อยู่เบื้องหลังความสำเร็จของ Anthropic",
+   "summary_th": "รายงานเกี่ยวกับวิศวกรผู้อยู่เบื้องหลังการพัฒนาเทคโนโลยีที่สำคัญของ Anthropic ซึ่งเป็นบริษัท AI ชั้นนำ",
+   "category": "อื่นๆ",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5d823a7e20a8",
+   "url": "https://www.blognone.com/node/152184",
+   "source": "Blognone",
+   "published": "2026-11-15T16:24:57+00:00",
+   "title": "Project Zero ประกาศแนวทางลดระยะเวลารอเปิดเผยช่องโหว่ ปี 2028 จะลดเหลือ 30 วัน ไม่มีการต่อเวลา",
+   "text": "Body Project Zero ทีมวิจัยความปลอดภัยของกูเกิลประกาศเปลี่ยนแนวทางการรายงานช่องโหว่ จากเดิมให้เวลาผู้ผลิตเป็นเวลา 90 วันและขอต่อออกไปได้อีก 30 วันเมื่อผู้ผลิตกำลังกระจายแพตช์ จากนี้จะค่อยๆ ลดลงจนเหลือ 30 วันเท่านั้น เหตุผลของการลดระยะเวลาเปิดเผยช่องโหว่เนื่องจาก LLM สามารถค้นหาช่องโหว่และเจาะช่องโหว่ได้มีประสิทธิภาพขึ้นมาก การปล่อยให้ผู้ใช้อยู่กับช่องโหว่ไปเรื่อยๆ กลายเป็นความเสี่ยงที่สูงขึ้น ยิ่งกว่านั้นเมื่อแพตช์ปล่อยออกมาแล้วคนร้ายก็สามารถโจมตีได้เร็วขึ้น แนวทางหลังจากนี้ Project Zero จะบังคับใช้เส้",
+   "title_th": "Project Zero ของ Google ปรับลดระยะเวลาเปิดเผยช่องโหว่เหลือ 30 วัน",
+   "summary_th": "Project Zero ประกาศลดระยะเวลาการเปิดเผยช่องโหว่ความปลอดภัยเหลือ 30 วัน เนื่องจาก AI ช่วยให้การค้นหาและโจมตีช่องโหว่ทำได้รวดเร็วขึ้นอย่างมาก",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Google"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8b8eb5160b84",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54MXBVUFZsLWJsQVpNTUtwZGxaZ09WTXRvMERYZVhLLXVsVzAyRE43OGZqNEtiQ0dVd3JGX3IyWTVCd3RGdDJjaklhNExSdU1Sbk9tVndvZXo3MThXRTdlSHQtdDd1RUIwODN2Y2tMM2pnUGZianM2RXRCRmxyVzQ?oc=5",
+   "source": "ZDNET",
+   "published": "2026-11-15T16:13:00+00:00",
+   "title": "4 ways Anthropic’s new Claude Sheets beat using a Google Sheets connector in my tests",
+   "text": "",
+   "title_th": "ทดสอบประสิทธิภาพ Claude Sheets เทียบกับการเชื่อมต่อ Google Sheets แบบเดิม",
+   "summary_th": "บทความเปรียบเทียบการใช้งาน Claude Sheets กับการเชื่อมต่อ Google Sheets แบบปกติ โดยพบข้อดีที่เหนือกว่าในหลายด้าน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic",
+    "Google"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "de1b04aef218",
+   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "source": "Hacker News",
+   "published": "2026-11-15T14:46:58+00:00",
+   "title": "All AI-generated code should be Open Source",
+   "text": "928 points, 509 comments on Hacker News (https://news.ycombinator.com/item?id=50507303)",
+   "title_th": "ข้อเสนอแนะว่าโค้ดที่สร้างโดย AI ควรเป็นโอเพนซอร์สทั้งหมด",
+   "summary_th": "มีการถกเถียงในชุมชนนักพัฒนาว่าโค้ดที่ถูกสร้างขึ้นโดยปัญญาประดิษฐ์ควรถูกเผยแพร่เป็นโอเพนซอร์สเพื่อความโปร่งใส",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "8c264b660e08",
    "url": "https://www.blognone.com/node/152183",
@@ -836,23 +955,6 @@
    "dedup": true
   },
   {
-   "id": "c53e6be8b35c",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFdEdlczV0JtemNqLVVqQ19WV29HakhMUHRGakdWczNteGw1dzd1dmdseWF2Sy1WNVpONVR2WVprOTE5Qm5zVWVtcmhaUEU1dk42aFRpZ1ZDanp1bkdwcTQ2a2xtQU5EOGV6eXdLRlVzaDhaRUsyZ2lDTlF6Sy1BREphZ2tPWGdrbHoxNUJtT0lHbGZvODJGR1JsQ1N1aDJzcUhnNmF6NWJFX1oxbXpWMnh0R0M?oc=5",
-   "source": "Coinpaper",
-   "published": "2026-11-14T13:48:35+00:00",
-   "title": "Anthropic IPO Sparks 2X Leveraged ETF Filing as Wall Street Prepares for Nasdaq Debut",
-   "text": "",
-   "title_th": "Anthropic เตรียมตัวเข้าตลาดหุ้น Nasdaq พร้อมแผนเปิดตัว ETF แบบเลเวอเรจ 2 เท่า",
-   "summary_th": "ตลาดหุ้นวอลล์สตรีทกำลังเตรียมพร้อมสำหรับการเข้าจดทะเบียนในตลาดหลักทรัพย์ของ Anthropic โดยมีการยื่นขอจัดตั้งกองทุน ETF ที่มีเลเวอเรจ 2 เท่าเพื่อรองรับความสนใจของนักลงทุน",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "f57464ef9a63",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/",
    "source": "r/LocalLLaMA",
@@ -948,6 +1050,21 @@
    "title_th": "เปิดตัว SenseNova-Loop-9B โมเดลขนาดเล็กประสิทธิภาพสูง",
    "summary_th": "โมเดล SenseNova-Loop-9B จาก Hugging Face ถูกจับตามองเนื่องจากมีสถาปัตยกรรมที่น่าสนใจและให้ประสิทธิภาพเทียบเท่าโมเดลขนาดใหญ่กว่า",
    "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ac89b9586bdf",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zRnVqZHBfaV9mOGVyWkhpQ1VEMEwzbVlySkFlSjZMWU1GZVlMVG9kaVNyU3JKdTJJNFQwd3cwUTVzVzc4dkwtYnhybmFyNzIzTGJBbWRHWnppT2NO?oc=5",
+   "source": "thansettakij",
+   "published": "2026-11-14T06:37:00+00:00",
+   "title": "หลี่เฉียง หนุนลงทุนไทย เดินหน้าไฮสปีดเทรนจีน-ไทย ขยายร่วมมือ AI-เซมิคอนดักเตอร์",
+   "text": "",
+   "title_th": "หลี่เฉียง หนุนลงทุนไทย ขยายความร่วมมือด้าน AI และเซมิคอนดักเตอร์",
+   "summary_th": "รัฐบาลจีนแสดงความพร้อมสนับสนุนการลงทุนในไทย โดยเน้นความร่วมมือด้านรถไฟความเร็วสูง รวมถึงการขยายความร่วมมือในอุตสาหกรรม AI และเซมิคอนดักเตอร์",
+   "category": "ธุรกิจ/การลงทุน",
    "companies": [],
    "importance": 3,
    "ai": true,
@@ -1985,37 +2102,6 @@
    "dedup": true
   },
   {
-   "id": "d399323c2ae5",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVFzTkpNdV9uc2JnQUFWcTF0c0Y1UnRVcU1ETUZHRGZVUjlRNGpBWXI5UGF4TThRWEFEc1J2alNTbmFYSUEzXzNhb1p4RlRpRDdmd1BSdi1xeXB4aFgwQTlUalZYc19yM2U1S2JYWFVWQWRvSUM3RF9ETkN2bWY0T2g1ZEtWemNpYThCM3lBZFhMRlM5VHRuTG94WDA?oc=5",
-   "source": "Business Insider",
-   "published": "2026-11-12T17:00:00+00:00",
-   "title": "With IPO looming, Anthropic launches Claude product for manufacturers",
-   "text": "",
-   "title_th": "Anthropic เปิดตัว Claude สำหรับกลุ่มผู้ผลิตก่อนเข้า IPO",
-   "summary_th": "Anthropic เปิดตัวผลิตภัณฑ์ Claude รุ่นใหม่ที่ออกแบบมาเพื่อกลุ่มอุตสาหกรรมการผลิตโดยเฉพาะ ในช่วงเวลาที่บริษัทกำลังเตรียมตัวเข้าสู่ตลาดหลักทรัพย์",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 4,
-   "ai": true,
-   "also": [
-    {
-     "source": "Manufacturing Dive",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWRmQ1BneGdsLUtIeUJmSS1HeUpjVnRib1o1cnJOamNsV3k1aGNFZnR4X0J2ZjdxR1VfcGg4VUt0dHBNWlQ1SDJXRDREaDZwYk80clNHVGdoeG5icjFOdFFHUmNQLWtYOV9RWkRudWRlQ3cyQzNRdVQyRllBalFjUlEtQ0Y5RnFnV1VNbmE4ckFDc1ZK?oc=5"
-    },
-    {
-     "source": "Manufacturing Digital",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUklZUXo5UWRXb2pONXpmMFRmMFg1eEJTLXpEUURONTZFZ0RJaHRzbTAtQlVPcWNNWXcxbk9oSDZFVkdoSElSYlA4bzVxMkI1UTNHclZhLUpxSUdQME9ZUmE4aU96dW0wZk5BSUFFRTJmTWlFaVExdmJfU2F2N1l3SmZFSHI4U0tqQlFialln?oc=5"
-    },
-    {
-     "source": "Advanced Manufacturing",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeVdsM0hiRENUa1gtLVB0N19HSGVrNXFqYTlHT2p6a2gzQk11VVppcXQ5dno4V1A1czlDd09Rbk1hMTBuVzlzNW0tbG90dmRTYS10WDdtRzdYWGZacmJJb3ZYNVE1RlVmWll1Vk42ZEtRNEVMQmNGc2xnS09iN1dHRVhvX2RmTG9XTUxxcnhIaW9TTGhyUkF6VHROT0FLcTcza2VIV3pMLWs3SGF6bTJueWpPOFlwNkE4a3ZvYUoyOEhqVGM3aEx1bWt5UFc3UmNKTnRwTm9B?oc=5"
-    }
-   ],
-   "dedup": true
-  },
-  {
    "id": "9aff7ec67e93",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXg2QTZXRHZ6LU1VVllNd19oNGVnVk1fQjdUdjJib1BkMUJETWp2YUpJMTk5eGJPRkF0bUJfQ0M5a1VMeEoxcU1KY2tjelY4bmU2Mmg2VTNXUEFrZFNWNTJOQVYtcmhaNDVGTHdpeWJGd3M4RW9nUU5oZVlsX211dG10WGJKNmw0YTRZNlBZMHFnbnBMd3JraTllVXBtbVhLdkpGNFBBemxFMnh4TEdMbDNUSkFyNGs?oc=5",
    "source": "Brave New Coin",
@@ -2244,6 +2330,34 @@
     {
      "source": "CNBC",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQnlTTmVFZXFUUnAyZTUwM056dW9MeUdWRVdzQ2lQa2dsRnJEN19FRVp6eENzbV9JU1NBMHEyX3FwX3ZYbTljT3JBSXhRU1FNSWJhSUVMbUItTEpXeWhSZnNPQjdQYmoyaERsTFZycnJpaWkxUzliSEFRZFRTQnRBZFNiempKYXdsUXfSAY8BQVVfeXFMTTAxRG1oeTU5a2VlaWdvQXJST2wxZU9WM0hFemc5TzBqMEtXOS1DbFZUU3JEb25WcGVEakRCbjJkQWJUZTlmZ0xjVEZ6RkV0TF9BYXlZaUZUYTl3Q3ZjNlFnNlluNjF0eUxuckhlNG1BYnJKWUplOFZNQmg4TFMwTTVPX3lqSE5CRkNvWGx2NG8?oc=5"
+    },
+    {
+     "source": "Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVFzTkpNdV9uc2JnQUFWcTF0c0Y1UnRVcU1ETUZHRGZVUjlRNGpBWXI5UGF4TThRWEFEc1J2alNTbmFYSUEzXzNhb1p4RlRpRDdmd1BSdi1xeXB4aFgwQTlUalZYc19yM2U1S2JYWFVWQWRvSUM3RF9ETkN2bWY0T2g1ZEtWemNpYThCM3lBZFhMRlM5VHRuTG94WDA?oc=5"
+    },
+    {
+     "source": "Manufacturing Dive",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWRmQ1BneGdsLUtIeUJmSS1HeUpjVnRib1o1cnJOamNsV3k1aGNFZnR4X0J2ZjdxR1VfcGg4VUt0dHBNWlQ1SDJXRDREaDZwYk80clNHVGdoeG5icjFOdFFHUmNQLWtYOV9RWkRudWRlQ3cyQzNRdVQyRllBalFjUlEtQ0Y5RnFnV1VNbmE4ckFDc1ZK?oc=5"
+    },
+    {
+     "source": "Manufacturing Digital",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUklZUXo5UWRXb2pONXpmMFRmMFg1eEJTLXpEUURONTZFZ0RJaHRzbTAtQlVPcWNNWXcxbk9oSDZFVkdoSElSYlA4bzVxMkI1UTNHclZhLUpxSUdQME9ZUmE4aU96dW0wZk5BSUFFRTJmTWlFaVExdmJfU2F2N1l3SmZFSHI4U0tqQlFialln?oc=5"
+    },
+    {
+     "source": "Advanced Manufacturing",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeVdsM0hiRENUa1gtLVB0N19HSGVrNXFqYTlHT2p6a2gzQk11VVppcXQ5dno4V1A1czlDd09Rbk1hMTBuVzlzNW0tbG90dmRTYS10WDdtRzdYWGZacmJJb3ZYNVE1RlVmWll1Vk42ZEtRNEVMQmNGc2xnS09iN1dHRVhvX2RmTG9XTUxxcnhIaW9TTGhyUkF6VHROT0FLcTcza2VIV3pMLWs3SGF6bTJueWpPOFlwNkE4a3ZvYUoyOEhqVGM3aEx1bWt5UFc3UmNKTnRwTm9B?oc=5"
+    },
+    {
+     "source": "Coinpaper",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFdEdlczV0JtemNqLVVqQ19WV29HakhMUHRGakdWczNteGw1dzd1dmdseWF2Sy1WNVpONVR2WVprOTE5Qm5zVWVtcmhaUEU1dk42aFRpZ1ZDanp1bkdwcTQ2a2xtQU5EOGV6eXdLRlVzaDhaRUsyZ2lDTlF6Sy1BREphZ2tPWGdrbHoxNUJtT0lHbGZvODJGR1JsQ1N1aDJzcUhnNmF6NWJFX1oxbXpWMnh0R0M?oc=5"
+    },
+    {
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5"
+    },
+    {
+     "source": "Medium",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOem1OXzdnRlNXeE5Xb0FQaWs1RWExRFV3dVQwamxSZ01DU0ctYnBUTmI2cGh3WWd5OUdBRTE5bl9UdVRTVll6enNPUlZnVUtwaDhaNmU4ZF9FbVBIRXJxUW5VbGNucExKQnpINkZLRWQtV25XcC1sUjQ4UU9vdE1DNnZVV0FDTTZvWU9KVWZTM3JVekU1Yk1VLWFuSEFOQkpvUVE?oc=5"
     }
    ]
   },
@@ -2300,6 +2414,10 @@
     {
      "source": "r/LocalLLaMA",
      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120/"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/"
     }
    ]
   },
@@ -2437,6 +2555,10 @@
     {
      "source": "The Verge AI",
      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+    },
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
     }
    ],
    "dedup": true
@@ -10431,146 +10553,6 @@
     {
      "source": "The Verge AI",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses"
-    }
-   ]
-  },
-  {
-   "id": "bb2642061f37",
-   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-01T20:57:58+00:00",
-   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-   "text": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-   "title_th": "มุมมองต่อบทบาทของ AI ในการทำงานของซีอีโอสายเทคโนโลยี",
-   "summary_th": "บทความวิเคราะห์ถึงผลกระทบของ AI ต่อการทำงานของซีอีโอและข้อสังเกตเกี่ยวกับท่าทีของผู้นำองค์กรต่อเทคโนโลยีนี้",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 1,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d149cb6bf7d8",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNczIyQkU5ZzFYU2RPU0dZODhTNzNFd3ZfNTV4eTlJYzR6akVTVmhUM21sbzFQQnNaOVZBd2RhUnlOZXA1UFJ0X0NUbnEwWnNjX3lzUFN5WDJueE44MkJodVZRRHlncHBrQ2E2cGl0bmQyMzhKRW1nb3lMaDRxUnNXYlA4LUw1RWlSbHNEZmxn?oc=5",
-   "source": "TestingCatalog AI News",
-   "published": "2026-11-01T20:49:32+00:00",
-   "title": "Anthropic prepares to release Claude Mythos 5.5 model",
-   "text": "",
-   "title_th": "Anthropic เตรียมปล่อยโมเดล Claude Mythos 5.5",
-   "summary_th": "มีรายงานว่า Anthropic กำลังเตรียมเปิดตัวโมเดลใหม่ในชื่อ Claude Mythos 5.5 เพื่อขยายขีดความสามารถของผลิตภัณฑ์ในกลุ่ม Claude",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c99f5e759753",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-01T19:15:26+00:00",
-   "title": "llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU",
-   "text": "hardware: PortalPlayer PP5022, ARM7TDMI @ 80 MHz, 64 MB ram wrote a fun rockbox plugin that runs Karpathy's llama2.c TinyStories models on an ipod video 5.5G. since there's no FPU, I ported llama2.c's int8 runq.c to use only integer math. it uses lookup tables -> exp/softmax + an integer square root for RMSNorm the 15M model is 17 MB, so it loads directly off the hard drive into the music buffer. Unfortunately you can't listen to music while it works lol want to eventually run this on both cores, and set up a more ipod themed model that does local music recommendation submitted by /u/r0tlier0 ",
-   "title_th": "นักพัฒนาพอร์ต llama2.c ให้รันบน iPod รุ่นปี 2006 ได้สำเร็จ",
-   "summary_th": "นักพัฒนาสามารถรันโมเดลภาษาขนาดเล็กบนเครื่องเล่นเพลง iPod รุ่นเก่าได้โดยการปรับแต่งโค้ดให้ใช้เฉพาะการคำนวณเลขจำนวนเต็มแทนการใช้ FPU ซึ่งแสดงให้เห็นถึงความสามารถในการปรับแต่งโมเดลให้ทำงานบนฮาร์ดแวร์จำกัด",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7148f4c95139",
-   "url": "https://huggingface.co/papers/2611.02737",
-   "source": "HF Daily Papers",
-   "published": "2026-11-01T19:00:00+00:00",
-   "title": "MoviEdit: Long-form Multi-Shot Video Editing Made Easy",
-   "text": "Long-form multi-shot video editing requires an intended edit to remain coherent across abrupt changes in scene, viewpoint, and subject appearance, while processing substantially longer visual context than conventional single-shot editors. We introduce MoviEdit, an end-to-end framework for scalable long-form multi-shot video editing that jointly addresses the challenges of data, modeling, and evaluation. To provide cross-shot supervision data at scale, we develop automatic data-generation pipelines spanning synchronized multi-view footage, real-world multi-shot videos, and generated multi-shot ",
-   "title_th": "MoviEdit: เฟรมเวิร์กสำหรับการตัดต่อวิดีโอแบบหลายช็อตที่ยาวขึ้น",
-   "summary_th": "เปิดตัว MoviEdit ระบบที่ช่วยให้การตัดต่อวิดีโอแบบหลายช็อตมีความต่อเนื่องและคงความสอดคล้องของฉากและตัวละครได้ดีขึ้น แม้ในวิดีโอที่มีความยาวมาก",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "590000369c46",
-   "url": "https://huggingface.co/papers/2611.03424",
-   "source": "HF Daily Papers",
-   "published": "2026-11-01T19:00:00+00:00",
-   "title": "IdeaTaste: Do LLMs Share the Research Taste of Human Researchers?",
-   "text": "Research taste, the judgment of what to read, which problems to pursue, and which methods to try, increasingly shapes the work of AI scientists, yet it remains far less understood than their ability to execute research. We introduce IdeaTaste, a benchmark that scores an LLM by how closely the research proposals it writes from a literature snapshot frozen at 2025 match the work the same communities published in 2026. Our experiments span six contemporary language models and four research areas from established to emerging fields, covering more than 90{,}000 proposals in total. LLM agents fall w",
-   "title_th": "IdeaTaste: การทดสอบว่า LLMs มีรสนิยมในการวิจัยเหมือนนักวิจัยที่เป็นมนุษย์หรือไม่",
-   "summary_th": "งานวิจัยแนะนำ IdeaTaste ซึ่งเป็นเกณฑ์มาตรฐานสำหรับวัดความสามารถของ LLM ในการเสนอหัวข้อวิจัย โดยเปรียบเทียบกับผลงานวิจัยจริงที่ตีพิมพ์ในอนาคต",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b727f10c6404",
-   "url": "https://huggingface.co/papers/2611.03233",
-   "source": "HF Daily Papers",
-   "published": "2026-11-01T19:00:00+00:00",
-   "title": "Axion 1.0: Open Agent Foundation Models, Simplified",
-   "text": "We introduce Axion 1.0, a fully open agent foundation model that combines strong and broad agentic capabilities with a remarkably simple training recipe. Axion 1.0 is trained in only three stages: two lightweight supervised fine-tuning stages followed by reinforcement learning, without dedicated mid-training, direct preference optimization (DPO), or on-policy distillation (OPD). The first SFT stage develops strong self-contained reasoning through model-aware data construction, where we synthesize challenging problems and adversarially strengthen them based on the base model's own successful so",
-   "title_th": "Axion 1.0: โมเดลพื้นฐานสำหรับ Agent แบบโอเพนซอร์สที่เรียบง่าย",
-   "summary_th": "เปิดตัว Axion 1.0 โมเดลพื้นฐานสำหรับ Agent ที่เน้นความสามารถในการทำงานที่หลากหลายด้วยกระบวนการฝึกฝนที่เรียบง่ายโดยไม่ต้องใช้เทคนิคซับซ้อนอย่าง DPO",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Hugging Face"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "r/LocalLLaMA",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/"
-    }
-   ]
-  },
-  {
-   "id": "ab3d0dcb4d8a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-01T17:31:32+00:00",
-   "title": "Coding is solved* (exclusions apply)",
-   "text": "Good news, everyone! Having been inspired to revolutionize the field of computer science , I can now report that coding is solved! Sure, only if you care about x86 Linux binaries that print and exit, but \"big journeys\" and \"small steps\" and what not. CRAP (Compiler Replacement for Assembling Programs) is a Gemma 4 E2B fine tune that takes prompts like generate a Linux x86_64 binary that prints 'boop' and emits a working ELF binary (as hex, most of the time, every time). See, since programs end up as a binary anyway, why not just skip the middleman and write the binary itself? No compiler, no a",
-   "title_th": "เปิดตัว CRAP โมเดล Gemma ที่ปรับแต่งเพื่อเขียนโค้ดภาษาเครื่อง Linux",
-   "summary_th": "มีการพัฒนาโมเดล CRAP ซึ่งเป็นการปรับแต่งจาก Gemma เพื่อสร้างไฟล์ไบนารี x86 Linux จากคำสั่งที่กำหนด แม้จะยังจำกัดอยู่แค่การทำงานพื้นฐาน แต่ถือเป็นก้าวสำคัญในการใช้ AI ช่วยเขียนโปรแกรม",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Google"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c9246c7365f1",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01ZU5qTkttUWgxLW5mbWVCb3lVVWZrQjRJLU5nbXozRjRhMDhmSGswckNlZGpMMWZwQlZHT3g5Mm1KM2JMaWQzcGFoRWg1d2N0dTlDQkhWR0RPa1puRWRfUlZXWXh6YmxOZDRKdEdWV2VFbXAwV3hzZnNzckptQQ?oc=5",
-   "source": "CNN",
-   "published": "2026-11-01T17:00:16+00:00",
-   "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings",
-   "text": "",
-   "title_th": "Anthropic ย้ำผู้ใช้งานไม่ควรใช้ถ้อยคำรุนแรงกับ Claude",
-   "summary_th": "Anthropic ชี้แจงว่าการห้ามใช้ถ้อยคำรุนแรงกับ Claude ไม่ใช่เรื่องของความรู้สึกของ AI แต่เป็นแนวทางปฏิบัติเพื่อให้ผู้ใช้งานมีปฏิสัมพันธ์กับโมเดลอย่างเหมาะสมและสร้างสรรค์",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "AL.com",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcU1OZkZuTjJLNkppaDFNWFB5Zm1lbWVvNEVKNURKOXZLRVNuTmVyTDAxVjhoTzljZlB4ajNaNjlYODZNT2dQNWVERElvVzdvbGhtWlU2UVNvb2JuLWdpZUp0c3R4RGpWMTNiN3pCdWZaeWNoTVVTbTgtaHlLRHowZ3R5WEJxTUp3bTZ1bEV5V0hoZkx3enFIZHNySTBFWl83SWUtUHRUMndnclB1YkhTZ1g1bDRGSEc5N2Fr0gHPAUFVX3lxTE9WSEM0aExZSGZnajhjTC0yN2FldXBVWF9XQUlVNzEtZXRWTHRrVDlQVTVQdkRwWTZ4RnJMa0hHRnlwUW1nWjE3dHZ5N3h2aXVISFUzOWlZc2ZCTUJ1czlTUlFqbGpsTGN1V0pqaDM0bXhQTU50QUFVdWxnVjJ2U3lfek4xQ3pSSUNQZnJlZkpTV05VUlh5Tmw2eHloVHRFaldLUmhLTzBWd0tVT1pXNnNPcWJsZV9rRlpobXF5ZUhibXN1RG9MZXNURFQzTUppTQ?oc=5"
     }
    ]
   }

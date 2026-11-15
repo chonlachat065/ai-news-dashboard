@@ -1,50 +1,48 @@
 {
- "updated_at": "2026-11-14T20:46:08+00:00",
+ "updated_at": "2026-11-15T06:43:05+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-14T20:46:08+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญในอุตสาหกรรม AI ตั้งแต่ความเสี่ยงต่อเสถียรภาพการเงินโลกไปจนถึงการพัฒนาโมเดลขนาดเล็กและกลยุทธ์ของ Anthropic",
+  "generated_at": "2026-11-15T06:43:05+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญของ AI ทั้งในด้านความมั่นคงทางการเงินระดับโลก การเติบโตของบริษัทเทคโนโลยี และการปรับตัวของโมเดลขนาดเล็กเพื่อการใช้งานที่ยั่งยืน",
   "points": [
    {
-    "text": "ธนาคารกลางสหรัฐฯ เตือนว่าความเสี่ยงจากอุตสาหกรรม AI กลายเป็นภัยคุกคามอันดับ 1 ต่อเสถียรภาพการเงินโลก ขณะที่อดีตบอร์ด OpenAI เน้นย้ำถึงความสำคัญของความน่าเชื่อถือและความปลอดภัยของผู้นำบริษัท AI",
+    "text": "ธนาคารกลางสหรัฐฯ เตือนว่า AI กลายเป็นภัยคุกคามอันดับ 1 ต่อเสถียรภาพการเงินโลก ขณะที่ภาครัฐไทยและอาเซียนเร่งผลักดันยุทธศาสตร์ AI เพื่อความมั่นคงและการบริการประชาชนผ่านแอปฯ ทางรัฐ",
     "ids": [
      "6b0ec1392575",
-     "d46b516a4c83"
+     "dcbc9a4153cf",
+     "b79d4108c329"
     ]
    },
    {
-    "text": "Anthropic กำลังเตรียมตัวเข้าตลาดหุ้น Nasdaq พร้อมแผนเปิดตัว ETF และขยายฐานการดำเนินงานในลอนดอน รวมถึงมีการอัปเดตการใช้งาน Claude ทั้งในด้านประสิทธิภาพการเขียน Prompt และการเปิดให้ใช้งาน Managed Agents แบบ Self-host",
+    "text": "Anthropic เตรียมเข้าตลาดหุ้น Nasdaq พร้อมแผนเปิดตัว ETF รองรับนักลงทุน แต่ผู้พัฒนายังต้องปรับตัวเนื่องจากโมเดล Claude Opus 5.5 มีข้อจำกัดด้านการเขียน Prompt และเงื่อนไขการใช้งานแพลตฟอร์ม",
     "ids": [
      "c53e6be8b35c",
      "f4256db0014a",
-     "e89c42888406",
-     "2bc265d529c4",
-     "ad10f6f67cfc"
+     "e89c42888406"
     ]
    },
    {
-    "text": "เกิดข้อถกเถียงเรื่องการผูกขาดตลาดชิปของ NVIDIA และความท้าทายในการพัฒนาโมเดลขนาดใหญ่ นำไปสู่กระแสการพัฒนาโมเดลขนาดเล็กที่มีประสิทธิภาพสูงและการใช้เทคนิคใหม่ๆ เพื่อลดต้นทุนและเพิ่มความปลอดภัย",
+    "text": "เทรนด์การพัฒนา AI มุ่งเน้นไปที่โมเดลขนาดเล็กและ Local AI เพื่อลดการพึ่งพาคลาวด์และเพิ่มความปลอดภัย โดยมีการเปิดตัวโมเดลประสิทธิภาพสูงอย่าง SenseNova-Loop-9B และการพัฒนาเทคนิคป้องกัน Prompt Injection",
     "ids": [
-     "c6caa4d4f0b0",
-     "567fa298898a",
+     "52609353fa52",
      "03d4a5eb400b",
      "c4c241bc674e",
      "7256a5307116",
-     "f24904278044",
+     "9bfb051ab342"
+    ]
+   },
+   {
+    "text": "นักพัฒนาเริ่มตั้งคำถามถึงขีดความสามารถที่แท้จริงของ Frontier Models พร้อมแบ่งปันประสบการณ์การประกอบเครื่อง AI Rig ประสิทธิภาพสูงเพื่อรันโมเดลด้วยตนเอง",
+    "ids": [
+     "9e501fb1698d",
+     "b1e5bfa3505a",
      "f57464ef9a63"
     ]
    },
    {
-    "text": "ภาครัฐและองค์กรในไทยเริ่มขยับตัวนำ AI มาประยุกต์ใช้ในบริการภาครัฐและร่วมมือกับสื่อในอาเซียนเพื่อรับมือกับผลกระทบจากเทคโนโลยี AI ในอนาคต",
+    "text": "การเลือกใช้เครื่องมือ AI อย่างเหมาะสมเป็นสิ่งสำคัญ โดยมีบทเรียนจากโปรเจกต์ AI จำนวนมากที่ล้มเหลวและไม่สามารถบรรลุเป้าหมายได้ตามที่คาดหวัง",
     "ids": [
-     "b79d4108c329",
-     "f34d7d002619"
-    ]
-   },
-   {
-    "text": "มีการตั้งคำถามถึงความสำคัญของการสนับสนุนโมเดลโอเพนซอร์สระดับชาติเพื่อความมั่นคง และการเรียนรู้จากบทเรียนของโปรเจกต์ AI ที่ไม่ประสบความสำเร็จ",
-    "ids": [
-     "52609353fa52",
+     "62d571bfbd9e",
      "b08cefd9996d"
     ]
    }
@@ -581,9 +579,90 @@
   "fff3fed7f721",
   "5d976937e016",
   "2a2bfff1121f",
-  "10c60fc60c0f"
+  "10c60fc60c0f",
+  "8bfb2ae6adbc",
+  "9f0f788ac52d",
+  "c05bfb2a1c3d",
+  "9e5eb4c0a341",
+  "9a736294c460",
+  "cdf34d438f12"
  ],
  "items": [
+  {
+   "id": "dcbc9a4153cf",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HbWluQzRlYmZFR2xJdHZVdVJUa1E0RWMwOXBVcUpCWFVXWExqeFF0cXhRbS1keC1KUGZ6YkZtWmtiTkpRQVA1ZGNXcHVNX3g1eFhJ?oc=5",
+   "source": "posttoday",
+   "published": "2026-11-15T06:12:00+00:00",
+   "title": "นายกฯอนุทิน ชู 3 ยุทธศาสตร์อาเซียน ผุด AI ภูมิภาค-ปราบสแกมเมอร์",
+   "text": "",
+   "title_th": "นายกฯ อนุทิน ชู 3 ยุทธศาสตร์อาเซียน ผลักดัน AI ภูมิภาคและปราบสแกมเมอร์",
+   "summary_th": "นายอนุทิน ชาญวีรกูล รองนายกรัฐมนตรี เสนอยุทธศาสตร์ความร่วมมืออาเซียน 3 ด้าน โดยเน้นการพัฒนาโครงสร้างพื้นฐาน AI ระดับภูมิภาคและการจัดการปัญหาอาชญากรรมออนไลน์ เพื่อยกระดับความมั่นคงทางดิจิทัลร่วมกัน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9bfb051ab342",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-14T22:32:27+00:00",
+   "title": "Finally clicked for me: local AI is the future, not cloud AI",
+   "text": "Maybe this is kind of obvious to others, but it just dawned on me even though I've been lurking this sub since the original LLaMA. I was watching this (excellent, as always) video by Gamers Nexus. Steve Burke was bashing on Tim Sweeney (CEO of Epic Games) for being so pro AI, and I found myself feeling a bit of cognitive dissonance. On the one hand I hate that hardware prices are so high, I hate the billionaires inflating the AI bubble and raking in the profits, I hate greedy corps trying to replace jobs with AI, and I hate the data center build out. But on the other hand I'm a developer and A",
+   "title_th": "มุมมองต่ออนาคตของ Local AI เทียบกับ Cloud AI",
+   "summary_th": "การอภิปรายในชุมชนผู้ใช้งานเกี่ยวกับความสำคัญของการรันโมเดล AI บนเครื่องส่วนตัว (Local AI) เมื่อเทียบกับการพึ่งพาบริการบนคลาวด์ โดยเน้นเรื่องความเป็นอิสระจากบริษัทเทคโนโลยีขนาดใหญ่",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9e501fb1698d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-14T21:57:33+00:00",
+   "title": "Hot take: frontier models haven’t actually become much smarter",
+   "text": "I know this is a controversial take, but I would like to hear others’ opinions: LLMs have become much more useful, but I’m not convinced their “raw intelligence” has improved nearly as much as their overall performance suggests. Context: I work with LLMs as a SWE, as a hobbyist experimenting with local models, and professionally integrating AI into products. That includes building our own harnesses: context retrieval, prompts, and custom tools that give models structured access to complex data. By “raw intelligence,” I mean using what is given in the most efficient way to solve a problem, espe",
+   "title_th": "ถกประเด็นความฉลาดของ Frontier Models ในปัจจุบัน",
+   "summary_th": "บทวิเคราะห์จากมุมมองนักพัฒนาที่ตั้งข้อสังเกตว่าความสามารถของ LLM ในปัจจุบันที่เพิ่มขึ้น อาจเกิดจากการปรับปรุงกระบวนการใช้งานและเครื่องมือสนับสนุน มากกว่าการเพิ่มขึ้นของความฉลาดพื้นฐานของตัวโมเดลเอง",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b1e5bfa3505a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-14T20:13:38+00:00",
+   "title": "Ai Rig finally done and stable, perfect winter heater",
+   "text": "8x3090 my ocd wouldn't let me have different gpu models so ended up with 8 gigabyte gaming OC. I bought all the gpus by early 2026 before the prices went crazy. Avg maybe 600 to 700 gbp per gpu. Running on a Romed8-2t motherboard. All run at full pcie 4.0 x16 except the two rightmost who share one pcie slot and get 8x each. Cpu watercooling radiator sits nicely on top. Had to go the watercooling route as there is no space otherwise under the gpus for an air cooler. Using cheap pcie 4.0 risers from aliexpress. Longest ones are 60 and 40cm for the two leftmost gpus Two Psus, Ax1600i and hx1500i.",
+   "title_th": "การประกอบเครื่อง AI Rig ประสิทธิภาพสูงด้วย GPU 8 ตัว",
+   "summary_th": "ผู้ใช้งานแบ่งปันประสบการณ์การประกอบเครื่องคอมพิวเตอร์สำหรับรัน AI โดยใช้ GPU รุ่น 3090 จำนวน 8 ตัว พร้อมระบบระบายความร้อนด้วยน้ำ เพื่อรองรับการใช้งานโมเดลขนาดใหญ่",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "62d571bfbd9e",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52a2t0U0NjM3U0OFBGeEdnT0pha1NGVzdTNFNHV3R2VDlXTjRoTTNMa1FDZHpGY3dBY3FlZWxGZnFSMFlSMmxZSE4wLVJQMTlXaTllbFFR?oc=5",
+   "source": "TrueID",
+   "published": "2026-11-14T20:13:00+00:00",
+   "title": "เทียบ 6 ปัญญาประดิษฐ์ยอดนิยม เลือกใช้ AI อย่างไรให้เหมาะกับงาน",
+   "text": "",
+   "title_th": "เปรียบเทียบ 6 ปัญญาประดิษฐ์ยอดนิยมเพื่อการเลือกใช้งานให้เหมาะสม",
+   "summary_th": "บทความแนะนำการเลือกใช้เครื่องมือ AI ยอดนิยม 6 รูปแบบ เพื่อให้ผู้ใช้งานสามารถเลือกเครื่องมือที่ตอบโจทย์ความต้องการในการทำงานได้อย่างมีประสิทธิภาพ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "b08cefd9996d",
    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -713,7 +792,13 @@
    "companies": [],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "bangkokbiznews",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54c1FsdXBfRFBNNFpBTWIxM0lKUndpT2dZTy1ENV9vRVJYMS1BTjBZb3dlRGg4MWdjSTE3YkpRNUNheFA1cTZLOTY4YzdjQ2dlcHRHWlpXZkpIU3VN?oc=5"
+    }
+   ]
   },
   {
    "id": "03d4a5eb400b",
@@ -915,6 +1000,21 @@
     "Anthropic"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bab1fcc2784e",
+   "url": "https://www.slopmanifesto.com/",
+   "source": "Hacker News",
+   "published": "2026-11-13T19:51:56+00:00",
+   "title": "No AI Slop: A Manifesto",
+   "text": "219 points, 131 comments on Hacker News (https://news.ycombinator.com/item?id=50488769)",
+   "title_th": "No AI Slop: แถลงการณ์ต่อต้านเนื้อหาที่สร้างจาก AI ไร้คุณภาพ",
+   "summary_th": "การเผยแพร่แถลงการณ์ No AI Slop ซึ่งเป็นการแสดงจุดยืนต่อต้านการผลิตเนื้อหาจำนวนมากที่สร้างจาก AI โดยขาดคุณภาพและคุณค่าทางความคิด",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -2226,6 +2326,10 @@
     {
      "source": "TechCrunch AI",
      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
     }
    ],
    "dedup": true
@@ -2861,7 +2965,13 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    }
+   ]
   },
   {
    "id": "f28f90d2895a",
@@ -10456,127 +10566,6 @@
    "category": "งานวิจัย",
    "companies": [
     "Alibaba Cloud"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "761e5e0baaa4",
-   "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-   "source": "Hacker News",
-   "published": "2026-11-01T06:06:19+00:00",
-   "title": "The AI cost of JavaScript frameworks",
-   "text": "172 points, 118 comments on Hacker News (https://news.ycombinator.com/item?id=50323088)",
-   "title_th": "การวิเคราะห์ต้นทุนด้าน AI ของเฟรมเวิร์ก JavaScript",
-   "summary_th": "มีการถกเถียงในชุมชนนักพัฒนาเกี่ยวกับผลกระทบและต้นทุนที่เพิ่มขึ้นจากการนำ AI มาใช้ร่วมกับเฟรมเวิร์ก JavaScript ในปัจจุบัน",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "90ce8805a7b3",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3ZjNTJLaFEza3NuN1FnWVJkSjNzVXdsLW1VMjFrZDVsOTFzVGd6S1BvU2VMRkNBVlpHU2huZzBIU0xTZ0VtcWVMSnFGZHFhazJKLU1BUU5VQXNEejUzbXVrRHZDS2dnTG5jSFdmTjEydU4yaExlRk1Ed1VHelJ1aVFMeDhfSnNjZGVYVFNsd1VsS0owbGxJQ0stVThkdmlmaHFqMGdpOUwwOTJfOFlpTFpEd0pCN1VSVmVsdVd4NHJuZExjSVJweg?oc=5",
-   "source": "Investing.com",
-   "published": "2026-11-01T05:47:14+00:00",
-   "title": "DeepSeek launches autonomous coding agent to challenge Anthropic’s Claude Code",
-   "text": "",
-   "title_th": "DeepSeek เปิดตัว autonomous coding agent ท้าชน Claude Code ของ Anthropic",
-   "summary_th": "DeepSeek ได้เปิดตัวเครื่องมือช่วยเขียนโค้ดแบบอัตโนมัติเพื่อแข่งขันกับ Claude Code ของ Anthropic โดยมุ่งเน้นการเพิ่มประสิทธิภาพในการพัฒนาซอฟต์แวร์ด้วย AI",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "DeepSeek",
-    "Anthropic"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "Stocktwits",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXBscHNvYmNNV2RfZTJ0ZXlEanNzeUx6bVU1RW1UOThQcjhkRVdOMVl4bHlLZ3dDaUZFc3RiWE0xWHd0Y3RDU2ZUTVprR09fZHhheGg1Vm55NnFKYjZxeXItR2s1LVZWWVM0akEtbmNvSU9fYl9PVFpXWDc0b2o0SlkyVTd6MGRwTTd4S2RZb1loNkFuNnlUS0VDaUhtenU0R2V1cmVtUWFfbWFBem9VVmllMUxrNGlOdTMxaGs4dw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "cf0bcfa1c162",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-01T03:02:34+00:00",
-   "title": "64GB isn't the dead zone anymore if you run agents",
-   "text": "https://preview.redd.it/hboxdgjh2xyh1.png?width=1230&format=png&auto=webp&s=cca6b2b7b08807a334ff5280e19d96133667fbb0 The usual advice was that 64GB is a dead zone for local LLMs: too small for a 70B with real context, and more than a 30B needs. After running a 27B for agentic coding on a 64GB M4 Max for the last ten days, I think that has flipped. My memory usage is in the 50 GB as the context starts building up. Setup: Qwen3.8 27B (16 GB MLX quant) in LM Studio, 256k context, coding agent sessions that sit at 100-200k tokens. At 164k tokens, LM Studio's engine process is using 48 GB, 46 GB of",
-   "title_th": "RAM 64GB ยังคงเพียงพอสำหรับการรัน AI Agent ในปัจจุบัน",
-   "summary_th": "ผู้ใช้งานพบว่าหน่วยความจำ 64GB ไม่ใช่ข้อจำกัดอีกต่อไปสำหรับการรันโมเดลภาษาขนาดกลางเพื่อทำงานแบบ Agentic โดยเฉพาะเมื่อใช้ร่วมกับเทคนิคการทำ Quantization",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "9f56e268b05e",
-   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-31T21:41:00+00:00",
-   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-   "text": "Apple's new CEO defended the company's current position in the AI landscape.",
-   "title_th": "CEO ของ Apple ย้ำบริษัทไม่ต้องการพัฒนา AI เพียงเพื่อตามกระแส",
-   "summary_th": "Tim Cook ชี้แจงจุดยืนของ Apple ในตลาด AI โดยเน้นว่าบริษัทมุ่งเน้นการพัฒนาเทคโนโลยีที่มีประโยชน์จริงมากกว่าการทำ AI เพียงเพื่อสร้างกระแสในตลาด",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Apple"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "70131f44683c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm5gz/jiahao_shao_on_x_shame_on_darioamodei_anthropic_i/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-31T21:40:39+00:00",
-   "title": "Jiahao Shao on X: \"Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for \"training a competitor,\" and now anything touching RFT, SFT, or training larger models gets me blocked",
-   "text": "submitted by /u/f0urxio [link] [comments]",
-   "title_th": "นักพัฒนาโวย Anthropic บล็อกบัญชีหลังถูกกล่าวหาว่าใช้ Claude ฝึกโมเดลคู่แข่ง",
-   "summary_th": "นักพัฒนาออกมาวิจารณ์ Anthropic หลังถูกระงับการใช้งานเนื่องจากถูกเข้าใจผิดว่าใช้ Claude ในการฝึกโมเดลคู่แข่ง ทั้งที่ใช้เพียงเพื่อช่วยวิเคราะห์ข้อมูลเท่านั้น",
-   "category": "อื่นๆ",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "92a3003b0ed6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-10-31T21:21:02+00:00",
-   "title": "Well, my local AI addiction officially got out of hand tonight.",
-   "text": "Met a guy off Facebook Marketplace and scored 2x RTX 3090 Founders Editions for €1,700. The problem? I already had one 3090 FE. I am now sitting in my room looking at three 3090 FEs (72 GB GDDR6X VRAM) , and my current case barely fits one card, and that was only after I literally took pliers and bent the inner metal bracket to shove it in. My motherboard is just a standard B760. I clearly can't put three 3-slot cards in this PC. What is the cheapest, most sensible way forward to run all three (or two) for LLMs? Open-air mining frame + PCIe 4.0 risers + dual PSU? Get a giant full-tower case? J",
-   "title_th": "ผู้ใช้คอมมูนิตี้ AI ประสบปัญหาการจัดวางฮาร์ดแวร์หลังซื้อ RTX 3090 เพิ่ม",
-   "summary_th": "ผู้ใช้งานในชุมชน LocalLLaMA แชร์ประสบการณ์การอัปเกรดการ์ดจอ RTX 3090 จำนวน 3 ใบเพื่อใช้รันโมเดล AI แต่ประสบปัญหาเรื่องพื้นที่ในเคสคอมพิวเตอร์และการระบายความร้อน",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 1,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e07dacdb45dc",
-   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-   "source": "TechCrunch AI",
-   "published": "2026-10-31T21:17:03+00:00",
-   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-   "text": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-   "title_th": "ศาลอนุญาตให้คดีฟ้องร้อง xAI เรื่องมลพิษจากศูนย์ข้อมูลดำเนินต่อไปได้",
-   "summary_th": "ศาลตัดสินให้คดีที่ NAACP ฟ้องร้อง xAI เกี่ยวกับการละเมิดกฎหมายอากาศสะอาดจากมลพิษของศูนย์ข้อมูลสามารถดำเนินการพิจารณาคดีต่อไปได้",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "xAI",
-    "SpaceX"
    ],
    "importance": 3,
    "ai": true,

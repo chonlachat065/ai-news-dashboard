@@ -1,42 +1,41 @@
 {
- "updated_at": "2026-11-15T21:05:01+00:00",
+ "updated_at": "2026-11-16T06:41:30+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-15T21:05:01+00:00",
-  "headline": "สหรัฐฯ เตรียมยกระดับมาตรการควบคุมการส่งออกชิป AI และการใช้งานคลาวด์เพื่อความมั่นคง พร้อมความเคลื่อนไหวสำคัญด้านความปลอดภัยและนวัตกรรมโมเดล AI",
+  "generated_at": "2026-11-16T06:41:30+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญในอุตสาหกรรม AI ทั้งด้านกฎระเบียบชิป ความปลอดภัยทางไซเบอร์ และความก้าวหน้าของโมเดลโอเพนซอร์ส",
   "points": [
    {
-    "text": "สหรัฐฯ เตรียมคุมเข้มการส่งออกชิป AI และการเช่าใช้ผ่านศูนย์ข้อมูลในเอเชียตะวันออกเฉียงใต้เพื่อปิดช่องโหว่การเข้าถึงของบริษัทจีน ซึ่งอาจส่งผลกระทบต่อการลงทุนในภูมิภาค",
+    "text": "สหรัฐฯ เตรียมยกระดับมาตรการควบคุมการส่งออกชิป AI และปิดช่องโหว่การเช่าชิปผ่านศูนย์ข้อมูลในเอเชียตะวันออกเฉียงใต้เพื่อป้องกันการเข้าถึงของจีน",
     "ids": [
      "1207b5c1c70b",
      "8c264b660e08"
     ]
    },
    {
-    "text": "ด้านความปลอดภัยไซเบอร์ Google Project Zero ลดเวลาเปิดเผยช่องโหว่เหลือ 30 วันเนื่องจาก AI ช่วยให้การโจมตีรวดเร็วขึ้น ขณะที่ Cursor รายงานเหตุการณ์มัลแวร์ในส่วนขยาย Claude Code จากการขโมย API Key",
+    "text": "ความปลอดภัยของ AI กลายเป็นประเด็นเร่งด่วน โดย Google Project Zero ลดระยะเวลาเปิดเผยช่องโหว่เหลือ 30 วัน และเกิดเหตุการณ์มัลแวร์ในส่วนขยาย Claude Code จากการขโมย API Key",
     "ids": [
      "5d823a7e20a8",
      "c0202ff277fc"
     ]
    },
    {
-    "text": "ความก้าวหน้าของโมเดล AI มีการพัฒนาโมเดลโอเพนซอร์สขนาดใหญ่ระดับ 1 ล้านล้านพารามิเตอร์จากสหภาพยุโรป และการอัปเดตเครื่องมืออย่าง Basalt 0.4.0 ที่รองรับ Qwen 27B",
+    "text": "การพัฒนาโมเดล AI มีความหลากหลายสูง ตั้งแต่โมเดลขนาดใหญ่ระดับล้านล้านพารามิเตอร์ของสหภาพยุโรป ไปจนถึงโมเดลขนาดเล็กเฉพาะทางที่ให้ประสิทธิภาพสูงเกินคาด",
     "ids": [
      "e63a6281c50b",
-     "56f2008d299b"
+     "78ad1cede7eb",
+     "56f2008d299b",
+     "078205c5b9c1"
     ]
    },
    {
-    "text": "มีการถกเถียงในชุมชนนักพัฒนาเกี่ยวกับประสิทธิภาพของ Frontier Models ว่าเกิดจากเครื่องมือสนับสนุนที่ดีขึ้นมากกว่าความฉลาดของตัวโมเดล รวมถึงการสำรวจความเป็นไปได้ของ Recursive Self-Improvement ในขั้นตอน Pre-training",
+    "text": "OpenAI และชุมชนนักพัฒนาเน้นการประยุกต์ใช้ AI ในงานวิจัยทางวิทยาศาสตร์ขั้นสูง พร้อมเครื่องมือใหม่ๆ สำหรับตรวจสอบและปรับแต่งโมเดลให้มีประสิทธิภาพมากขึ้น",
     "ids": [
-     "9e501fb1698d",
-     "a378ea344340"
-    ]
-   },
-   {
-    "text": "ภาครัฐในอาเซียนผลักดันยุทธศาสตร์ความร่วมมือด้านโครงสร้างพื้นฐาน AI และการปราบปรามอาชญากรรมออนไลน์เพื่อยกระดับความมั่นคงทางดิจิทัลร่วมกัน",
-    "ids": [
-     "dcbc9a4153cf"
+     "87d7014c15ee",
+     "4b0fc5b701ff",
+     "b07fbab9fa76",
+     "b97800e336aa",
+     "87a5a97be08f"
     ]
    }
   ]
@@ -129,7 +128,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": null
   }
  ],
@@ -588,9 +587,200 @@
   "51c1ec8e492f",
   "27e710d84b36",
   "25a0283342bb",
-  "2f1f5cbf7ce8"
+  "2f1f5cbf7ce8",
+  "a1b74716174a",
+  "fd65f4aead43",
+  "a99b67c91f9f",
+  "f7214e14d1e1"
  ],
  "items": [
+  {
+   "id": "78ad1cede7eb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-16T04:13:31+00:00",
+   "title": "I'm starting to think a specialized 4B is enough for most of the tasks I'd use an LLM for",
+   "text": "When I started training Qwen3.5-4B-3D-Coder , I honestly wasn't sure it would work. Now, after that model and the GLB asset version, I'm starting to think I underestimated how much these smaller models can actually learn. My impression is that a 4B model might be enough for most practical tasks if you train it specifically for the job. Generating 3D assets, building and orchestrating complex scenes, webdev, backend development, reverse engineering, etc. I'm also working on a coding model using a fixed harness, which I mentioned in another post. Not necessarily one model doing all of this equal",
+   "title_th": "นักพัฒนาชี้โมเดลขนาดเล็ก 4B ที่ปรับแต่งเฉพาะทางเพียงพอสำหรับงานส่วนใหญ่",
+   "summary_th": "นักพัฒนาทดลองสร้างโมเดล Qwen3.5-4B-3D-Coder และพบว่าโมเดลขนาดเล็กที่ถูกเทรนมาเพื่อวัตถุประสงค์เฉพาะทางสามารถทำงานที่ซับซ้อนได้ดีเกินคาด สะท้อนให้เห็นว่าโมเดลขนาดเล็กอาจเพียงพอสำหรับการใช้งานจริงในหลายด้าน",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8468cd1c9400",
+   "url": "https://qwen.ai/blog?id=qwen4-max",
+   "source": "Hacker News",
+   "published": "2026-11-16T02:14:44+00:00",
+   "title": "Qwen4-Max",
+   "text": "345 points, 117 comments on Hacker News (https://news.ycombinator.com/item?id=50513215)",
+   "title_th": "การพูดถึงโมเดล Qwen4-Max ในชุมชนนักพัฒนา",
+   "summary_th": "มีการกล่าวถึงโมเดล Qwen4-Max ในแพลตฟอร์ม Hacker News ซึ่งเป็นที่สนใจของกลุ่มนักพัฒนาและผู้ใช้งาน AI",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "09862cd7036c",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-16T01:30:00+00:00",
+   "title": "Apple launches new app to study how people use AI for health",
+   "text": "Apple's new app for a study will answer everyday medical questions",
+   "title_th": "Apple เปิดตัวแอปพลิเคชันใหม่เพื่อศึกษาการใช้งาน AI ในด้านสุขภาพ",
+   "summary_th": "Apple ได้เปิดตัวแอปพลิเคชันสำหรับการศึกษาเพื่อเก็บข้อมูลการตอบคำถามทางการแพทย์ในชีวิตประจำวันผ่าน AI ซึ่งเป็นส่วนหนึ่งของการวิจัยด้านสุขภาพ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple",
+    "OpenEvidence"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "b97800e336aa",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-16T00:06:16+00:00",
+   "title": "Why download abliterated Flash Next models when LoRA exists?",
+   "text": "TL;DR -- Download LoRA, add --lora HUIHUI-V2-Qwen3.8-Flash-Next-LoRA-F32.gguf to your llama.cpp launch command for ANY FN quant, and boom, you've got an identical huihui v2 abliterated model on demand and you saved 150GB of space. I just wanted to post a kind of PSA for everyone out there downloading hundreds of GB of abliterated models. You don't need to do that -- the vast majority of abliteration techniques are rank-1 ablations, meaning their refusal projection can be encapsulated in a tiny LoRA and applied at runtime to a quant you already have on disk. It can even be applied per-request, ",
+   "title_th": "การใช้ LoRA แทนการดาวน์โหลดโมเดล Abliterated ขนาดใหญ่",
+   "summary_th": "นักพัฒนาแนะนำให้ใช้ LoRA เพื่อปรับแต่งโมเดลแทนการดาวน์โหลดโมเดลที่ผ่านการทำ Abliteration ขนาดใหญ่ ซึ่งช่วยประหยัดพื้นที่จัดเก็บข้อมูลได้อย่างมาก",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "46b48e728e81",
+   "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+   "source": "NVIDIA",
+   "published": "2026-11-16T00:00:28+00:00",
+   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+   "text": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
+   "title_th": "NVIDIA จัดงาน AI Day Seoul รวมผู้นำอุตสาหกรรมและสตาร์ทอัพในเกาหลี",
+   "summary_th": "NVIDIA จัดงาน AI Day ในกรุงโซลเพื่อหารือเกี่ยวกับความก้าวหน้าด้าน Physical AI และ AI Agents โดยเน้นย้ำถึงศักยภาพของบริษัทเทคโนโลยีในเกาหลีใต้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA",
+    "Doosan Robotics",
+    "Hyundai"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fc91828979fb",
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-15T23:30:00+00:00",
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "text": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "title_th": "สตาร์ทอัพชิปอินเดีย Bharat Semi ระดมทุน 24 ล้านดอลลาร์",
+   "summary_th": "Bharat Semi สตาร์ทอัพผู้ผลิตชิปได้รับเงินลงทุนรอบ Seed เพื่อขยายตลาดเซนเซอร์ AI โดยมีลูกค้าอย่าง General Atomics ร่วมใช้งานเทคโนโลยี",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Bharat Semi",
+    "General Atomics"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "87d7014c15ee",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source": "OpenAI",
+   "published": "2026-11-15T22:00:01+00:00",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "text": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "title_th": "OpenAI เผยการใช้ GPT-6 Astra ช่วยพิสูจน์ทฤษฎีทางวิทยาศาสตร์",
+   "summary_th": "OpenAI นำเสนอการใช้โมเดล GPT-6 Astra ในการช่วยพิสูจน์ทฤษฎี Standard Model บนโครงข่าย ซึ่งแสดงให้เห็นถึงศักยภาพของ AI ในการสนับสนุนงานวิจัยทางวิทยาศาสตร์ขั้นสูง",
+   "category": "งานวิจัย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4b0fc5b701ff",
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "source": "OpenAI",
+   "published": "2026-11-15T22:00:00+00:00",
+   "title": "Our new blog for science",
+   "text": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+   "title_th": "OpenAI เปิดตัวบล็อกใหม่สำหรับงานวิจัยทางวิทยาศาสตร์",
+   "summary_th": "OpenAI เปิดตัวบล็อกเฉพาะทางเพื่อแบ่งปันผลการวิจัย วิธีการปฏิบัติ และประสบการณ์จากนักวิจัยที่ใช้ AI ในการขับเคลื่อนการค้นพบทางวิทยาศาสตร์",
+   "category": "งานวิจัย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2cb612de9116",
+   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-15T21:56:35+00:00",
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "text": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+   "title_th": "วิเคราะห์ผลกระทบของ NVIDIA ต่ออุตสาหกรรม AI",
+   "summary_th": "บทวิเคราะห์ตั้งคำถามถึงความเชื่อมโยงระหว่างสถานการณ์ของ Jensen Huang และ NVIDIA กับภาพรวมของเศรษฐกิจและอุตสาหกรรม AI ในปัจจุบัน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b07fbab9fa76",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-15T21:46:56+00:00",
+   "title": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
+   "text": "What changes between different quantizations of the same model? And what if you could SEE what actually sets them apart? To help answer that question, I’ve created a small project called inside-llm—an open-source tool that loads one or two GGUF models using llama.cpp and displays, right in your browser, what the model is doing as it generates text. What it shows Stream: the text, one column per model, brightness = probability of each token. A magenta mark wherever A and B would pick differently. Two modes: lockstep (both models read the same text, so you get a clean per-position comparison) an",
+   "title_th": "เปิดตัวเครื่องมือโอเพนซอร์ส inside-llm สำหรับตรวจสอบการทำงานภายใน LLM",
+   "summary_th": "เครื่องมือ inside-llm ช่วยให้นักพัฒนาสามารถสังเกตการทำงานของโมเดล GGUF แบบเรียลไทม์ผ่านเบราว์เซอร์ รวมถึงเปรียบเทียบความแตกต่างระหว่างการทำ Quantization ที่ต่างกันได้",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "87a5a97be08f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-15T20:34:44+00:00",
+   "title": "Llama.cpp performance improvement over time (Gemma4 models)",
+   "text": "Few months ago - after Ninfer came out - I started a little hobby project to vibe-code my own engine for my hardware (RTX 5080 16GB Laptop) and check if it could beat llama.cpp - since at the time llama.cpp was kinda slow in comparison to something like vLLM, but vLLM is using VRAM very wastefully. Back then it was quite easy to actually get something up and running faster than llama.cpp. Today I just benchmarked llama.cpp again, and it caught up / surpassed my vibe-coded engine. I prefer using a stable engine with proper features than all the vibe-coded ones, including my own. So it is really",
+   "title_th": "llama.cpp พัฒนาประสิทธิภาพอย่างต่อเนื่องจนแซงหน้าเครื่องมือเฉพาะทาง",
+   "summary_th": "ผู้พัฒนาเปรียบเทียบประสิทธิภาพของ llama.cpp กับเครื่องมือที่สร้างขึ้นเอง พบว่า llama.cpp มีการพัฒนาอย่างรวดเร็วและมีประสิทธิภาพสูงกว่าในปัจจุบัน",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "1207b5c1c70b",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
@@ -756,6 +946,25 @@
    "summary_th": "บทความวิจัยใหม่ตั้งคำถามว่ากระบวนการ Recursive Self-Improvement (RSI) สามารถนำมาใช้ในขั้นตอน Pre-training ของโมเดลพื้นฐานได้หรือไม่ เนื่องจากมีต้นทุนมหาศาลและทำซ้ำได้ยากกว่าขั้นตอน Post-training",
    "category": "งานวิจัย",
    "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c85e8de014d9",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTBKTWc2Y1k4cXU1MGwwTUk3NnBndW9FQ2xTS0lkR21nVnpRRlRSNVZWZE95dUFKTzBBdkx4VVZyOWU2TDB3ejNZYVpzX3NQQno3OVJxNnpFWG8tUjdiNGpVZ1ZNRVVUVkhXTVRzU3FoZVZkcGMxZzQ5QlpLM3BFc2ZwMjI4YWlmNGluY01Hc3RIZEx2RzlVLW5ydzhiR1gy?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-15T10:40:02+00:00",
+   "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia",
+   "text": "",
+   "title_th": "Anthropic สร้างความเคลื่อนไหวในตลาดชิปส่งผลต่อ AMD และ Nvidia",
+   "summary_th": "รายงานข่าวการวิเคราะห์ผลกระทบทางธุรกิจของ Anthropic ที่อาจส่งผลต่อความเชื่อมั่นของนักลงทุนในหุ้นกลุ่มผู้ผลิตชิปอย่าง AMD และ Nvidia",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "AMD",
+    "NVIDIA"
+   ],
    "importance": 3,
    "ai": true,
    "dedup": true
@@ -10379,182 +10588,6 @@
     }
    ],
    "dedup": true
-  },
-  {
-   "id": "c49325a7a61e",
-   "url": "https://www.blognone.com/node/152084",
-   "source": "Blognone",
-   "published": "2026-11-02T04:18:28+00:00",
-   "title": "ผลทดสอบ GPT-6.1 Terra ทำงานเร็วกว่า ต้นทุนถูกกว่า Claude Opus 5.5 ได้จริง",
-   "text": "Body เว็บไซต์ The New Stack ทดสอบคำโม้ของ OpenAI ที่บอกว่าโมเดลใหม่ GPT-6.1 Terra ให้ประสิทธิภาพของคำตอบด้อยกว่าคู่แข่ง Claude Opus 5.5 เล็กน้อย (ต่างกัน 5%) แต่ประหยัดโทเคนกว่า 3 เท่า และค่าใช้งานถูกกว่า 1/4 เท่า (ราคารวมต่อการรันถูกว่า 1/9 เท่า) วิธีการทดสอบของ The New Stack มีทั้งหมด 3 ชุด ใช้การรันโมเดลแบบ max effort ทั้งหมด สร้างซอฟต์แวร์หน้าตาคล้ายๆ GitHub ขึ้นมา เป็นซอฟต์แวร์ที่พัฒนาไม่สำเร็จ แล้วให้โมเดลทั้งสองค่ายลองแก้ไขซอฟต์แวร์ตัวนี้ โดยให้ใช้งานผ่านเบราว์เซอร์แล้วดูภาพหน้าจอ สร้างคลิปวิดีโอการแบ่งเซลล์ 72 เฟ",
-   "title_th": "ผลทดสอบ GPT-6.1 Terra เทียบกับ Claude Opus 5.5 ในด้านประสิทธิภาพและต้นทุน",
-   "summary_th": "The New Stack ทดสอบเปรียบเทียบโมเดล GPT-6.1 Terra และ Claude Opus 5.5 พบว่าแม้ GPT-6.1 Terra จะมีประสิทธิภาพด้อยกว่าเล็กน้อย แต่มีความคุ้มค่าด้านต้นทุนและประหยัดโทเคนมากกว่าอย่างเห็นได้ชัด ข้อมูลนี้ช่วยให้ผู้ใช้งานตัดสินใจเลือกใช้โมเดลตามความเหมาะสมของงานและงบประมาณได้ดีขึ้น",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "OpenAI",
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c242497ce887",
-   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNbnhoR3JwTHdGNnRUSE9VWnA5MF8tSUcwNDZsVkhMYkFhTDZ6UXRhVGd2X2RZT1luRTEtS1cybW55WGNYbUg0emRXU0J2eWpFaDl5aXlxOHl2Z2lBNE9vOGNwcS1QVXJad3JERXFzVFZQNE51MDZDS3NZVzZiMS03eHpWdE1qeWNVMUlSNTl2UXZpSWxQWmxJMmR2cXNFV2E3dTF4QjB2TWxtM0o5OUR5ZWdueTNzcFFRcTZHbEZQYnJzOTdjLVhaY0FmYk9ZLTRQb1pNVlMtV2ZFTU9CalVzZllpQ2F6TFVtQThVTDJiREpRWkhMbG5iQlpqQjBjaHRMaXlhTTExZ2VFQjB1dUJXLVZWWjc1NWE2SEVWRXc5enFaMVB6Z09yTTAzYmhKbW9jbVhaZTNiWXY?oc=5",
-   "source": "TechRadar",
-   "published": "2026-11-02T02:16:41+00:00",
-   "title": "Anthropic’s Claude slashes pharmaceutical document review times by 89%",
-   "text": "",
-   "title_th": "Claude ช่วยลดเวลาการตรวจสอบเอกสารทางเภสัชกรรมได้ถึง 89%",
-   "summary_th": "Anthropic รายงานว่าโมเดล Claude สามารถเพิ่มประสิทธิภาพในการตรวจสอบเอกสารสำคัญในอุตสาหกรรมยาได้อย่างมหาศาล ช่วยลดระยะเวลาการทำงานลงอย่างมาก",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b094ae7dc8e1",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0oxSDgyRXdaejZ1aE9GQkxqTDdkYzRhZjZheWpPREdmTjJ6bkw1NU0ycjd6ZTZLVEdRYldFMl9rZEk2VFJka3d5V2JMSWc1NFYyTkJxZ1VvUlgtNGZHc0VUbV9NMzg0cjJLWng5TXpuVWI4ZnJSamdSS2dDdkNkSVRQTVVldkdEcGJoTDFERlU0M3RNRTlJd1lseHI5ZWl1a0hpSHBWeDlOenRLc2FvMkpKY2k4d0IxaWZPLQ?oc=5",
-   "source": "internationalfinance.com",
-   "published": "2026-11-02T02:00:29+00:00",
-   "title": "แม้จะมีกระแสเงินสดที่แข็งแกร่ง แต่ Microsoft ก็ยังต้องระดมทุนจากตลาดพันธบัตรเพื่อสนับสนุนแผนงานด้าน AI ของตน",
-   "text": "",
-   "title_th": "Microsoft ระดมทุนผ่านตลาดพันธบัตรเพื่อสนับสนุนแผนงานด้าน AI",
-   "summary_th": "แม้จะมีกระแสเงินสดที่แข็งแกร่ง แต่ Microsoft ยังคงต้องหาแหล่งเงินทุนเพิ่มเติมจากตลาดพันธบัตร เพื่อนำมาใช้ขับเคลื่อนแผนการลงทุนในเทคโนโลยี AI ของบริษัท",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Microsoft"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "4366ddea3a3e",
-   "url": "https://www.blognone.com/node/152083",
-   "source": "Blognone",
-   "published": "2026-11-02T01:56:20+00:00",
-   "title": "บริษัทจีพียูคลาวด์แนว Neocloud เริ่มประสบปัญหาระดมทุนสร้างศูนย์ข้อมูลยากขึ้น",
-   "text": "Body Wall Street Journal รายงานข่าวจากแวดวงการเงินว่า ผู้ให้บริการคลาวด์ยุคใหม่ที่เรียกรวมๆ ว่า neocloud (ซึ่งเริ่มมาจากธุรกิจให้เช่าจีพียู หลายรายเป็นบริษัทขุดเหมืองคริปโตมาก่อน เช่น CoreWeave ) เริ่มประสบปัญหาระดมทุนยากขึ้น ทั้งรูปแบบกู้เงิน (ผ่านการออกหุ้นกู้) และการขายหุ้น IPO เข้าตลาดหลักทรัพย์ ตัวอย่างบริษัทกลุ่ม neocloud ได้แก่ CoreWeave, IREN, Nscale, Nebius, Lambda ซึ่งมีโมเดลธุรกิจคล้ายๆ กันคือระดมทุนซื้อจีพียูจำนวนมากๆ แล้วนำมาปล่อยให้บริษัทเทคโนโลยีเช่าต่ออีกที ในช่วงก่อนหน้านี้ที่วงการ AI เริ่มบูม ส่งผลให",
-   "title_th": "บริษัทกลุ่ม Neocloud เริ่มเผชิญความยากลำบากในการระดมทุน",
-   "summary_th": "ผู้ให้บริการคลาวด์ที่เน้นเช่าจีพียูหรือกลุ่ม Neocloud เริ่มประสบปัญหาในการระดมทุนทั้งผ่านการออกหุ้นกู้และการทำ IPO เนื่องจากสภาวะตลาดที่เปลี่ยนแปลงไป ส่งผลกระทบต่อโมเดลธุรกิจที่ต้องใช้เงินลงทุนสูงในการซื้อจีพียู",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "CoreWeave",
-    "Nebius",
-    "Lambda"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b35afb50f76b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljjf2/do_we_really_need_all_these_speed_posts/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-02T00:52:40+00:00",
-   "title": "Do we really need all these \"speed\" posts?",
-   "text": "I appreciate the research and development that is going into these open source tools. However, there appears to be multiple posts on a daily basis about reaching 300 t/s, and then reading into it: Running on Q1_XXXS REAP quant Greedy decoding TAIL_SKIP (I only have 5GB RAM, but if the API ignores all experts that are not in RAM, then I can still say I generated something and call a speed record. YAY! Without any KLD benchmark data being presented, are these posts really of value to this community? What are your thoughts? submitted by /u/PathfinderTactician [link] [comments]",
-   "title_th": "ข้อถกเถียงเรื่องความคุ้มค่าของการโพสต์สถิติความเร็ว LLM",
-   "summary_th": "มีการตั้งคำถามในชุมชนนักพัฒนาถึงความสำคัญของการโพสต์สถิติความเร็วในการประมวลผล LLM ที่เน้นตัวเลขสูงๆ แต่ขาดการทดสอบคุณภาพผลลัพธ์ที่แท้จริง ซึ่งอาจทำให้เกิดความเข้าใจผิดในประสิทธิภาพของโมเดล",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "598c6194c0d3",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "source": "OpenAI",
-   "published": "2026-11-02T00:00:00+00:00",
-   "title": "Qodo builds context into AI code review with Codex",
-   "text": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-   "title_th": "Qodo นำ Codex มาช่วยเพิ่มบริบทในการตรวจสอบโค้ดด้วย AI",
-   "summary_th": "Qodo ผสานความรู้ขององค์กรและมาตรฐานการเขียนโค้ดเข้ากับ Codex เพื่อช่วยให้นักพัฒนาสามารถตรวจพบปัญหาสำคัญใน Repository ได้ก่อนการทำ Pull Request",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Qodo",
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "ff138f709a7e",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "source": "OpenAI",
-   "published": "2026-11-02T00:00:00+00:00",
-   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "text": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-   "title_th": "OpenAI แต่งตั้ง Dan Driscoll เป็นที่ปรึกษาอาวุโสด้านความมั่นคงแห่งชาติ",
-   "summary_th": "OpenAI ดึงตัว Dan Driscoll เข้ามารับตำแหน่งที่ปรึกษาเพื่อดูแลด้านความมั่นคงปลอดภัยไซเบอร์และการทำงานร่วมกับพันธมิตรของสหรัฐฯ ในการพัฒนา AI อย่างมีความรับผิดชอบ",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "8b8c79857faf",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-01T22:56:19+00:00",
-   "title": "[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines",
-   "text": "Hey everyone! After sharing my previous 3D coding model, a lot of you asked about using it to generate assets for your games . That sounded like a fun direction to explore, so I started training a version focused on exactly that. The model writes Three.js scenes with GLB export , so you can take the generated assets into editors like Godot . The video shows some examples I've been testing, including assets imported into Godot. You don't need complicated prompts. Use the system prompt in the model card , then try a simple request like “Create a mana potion” or “Build a weathered frontier medic ",
-   "title_th": "เปิดตัว GLB-3D-Coder โมเดลขนาดเล็ก 4B สำหรับสร้างโมเดล 3D",
-   "summary_th": "โมเดลขนาดเล็กที่ถูกฝึกมาเพื่อเขียนโค้ดสร้างฉาก 3D และส่งออกเป็นไฟล์ GLB เพื่อนำไปใช้งานต่อในเอนจินเกมอย่าง Godot ได้โดยตรง ช่วยลดความซับซ้อนในการสร้างสินทรัพย์ดิจิทัล",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b23877b88e69",
-   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-   "source": "Hacker News",
-   "published": "2026-11-01T22:10:45+00:00",
-   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-   "text": "213 points, 210 comments on Hacker News (https://news.ycombinator.com/item?id=50330456)",
-   "title_th": "นักเศรษฐศาสตร์จาก Apollo ชี้ AI ยังไม่สร้างผลตอบแทนทางการเงินให้บริษัทส่วนใหญ่",
-   "summary_th": "รายงานระบุว่าการนำ AI มาใช้ในองค์กรส่วนใหญ่ยังไม่สามารถสร้างผลตอบแทนทางการเงินที่ชัดเจนได้ในขณะนี้ ซึ่งสะท้อนถึงความท้าทายในการวัดความคุ้มค่าของการลงทุนด้าน AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Apollo"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0dbf0226aa90",
-   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-01T21:55:23+00:00",
-   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "text": "Data centers are deeply unpopular. But what if we called them something else?",
-   "title_th": "OpenAI อาจเปลี่ยนชื่อเรียกศูนย์ข้อมูลเป็น AI compute campuses",
-   "summary_th": "มีรายงานว่า OpenAI กำลังพิจารณาเปลี่ยนชื่อเรียกศูนย์ข้อมูลใหม่เพื่อปรับภาพลักษณ์ให้สอดคล้องกับบทบาทด้านการประมวลผล AI มากขึ้น",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses"
-    }
-   ]
   }
  ]
 }

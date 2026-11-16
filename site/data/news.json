@@ -1,59 +1,45 @@
 {
- "version": 2,
- "updated_at": "2026-11-16T08:16:44+00:00",
+ "version": 3,
+ "updated_at": "2026-11-16T08:24:32+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-16T08:16:44+00:00",
-  "headline": "ตลาด AI คึกคักรับ IPO ของ Anthropic ท่ามกลางการแข่งขันด้านโมเดลภาษาที่ดุเดือดและการคุมเข้มความปลอดภัยทางไซเบอร์",
+  "generated_at": "2026-11-16T08:24:32+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญในอุตสาหกรรม AI ทั้งด้านการระดมทุนของ Anthropic การแข่งขันของโมเดลภาษาจาก Alibaba และมาตรการควบคุมชิป AI ของสหรัฐฯ",
   "points": [
    {
-    "text": "Anthropic เตรียมเข้าจดทะเบียนในตลาด Nasdaq วันที่ 19 พ.ย. นี้ โดยได้รับความสนใจจากนักลงทุนล้นหลามด้วยยอดจองเกินความต้องการกว่า 6 เท่า ท่ามกลางการจับตาดูทิศทางธุรกิจและความยั่งยืนในอนาคต",
+    "text": "Anthropic ได้รับความสนใจอย่างล้นหลามในการทำ IPO โดยมียอดจองเกินความต้องการกว่า 6 เท่า พร้อมขยายบริการ Claude Meetings และถูกจับตามองเรื่องรายได้จากธุรกิจ Cybersecurity",
     "ids": [
-     "cc9bb2f2b801",
-     "759eecfad530",
-     "c843a8699e89",
-     "71b92bc67d3c",
      "0ebbe548407b",
-     "203ddcee7dc7",
-     "60a7cda00ddb"
+     "60a7cda00ddb",
+     "92ad40d729a7",
+     "5c504c9cf4fa",
+     "3ff146502460",
+     "c3ff7cf652a4",
+     "025d7a45a859"
     ]
    },
    {
-    "text": "Alibaba เปิดตัวโมเดลเรือธง Qwen4-Max ที่เน้นประสิทธิภาพการเขียนโค้ดเหนือคู่แข่ง ลดต้นทุนการประมวลผลได้ 60% และยกระดับความปลอดภัยเพื่อท้าชนกับบริษัทเทคโนโลยีจากสหรัฐฯ",
+    "text": "Alibaba เปิดตัวโมเดลเรือธงรุ่นใหม่ Qwen3.8-Max และ Qwen4 Max เพื่อท้าชนกับผู้เล่นรายใหญ่จากสหรัฐฯ โดยเน้นประสิทธิภาพการประมวลผลที่รองรับ Context Window ขนาดใหญ่",
     "ids": [
-     "63332701aa71",
-     "0ff8b0fd7971",
-     "00ee20a98c4c",
-     "cda7eaa77a10",
-     "4e43a24bd154",
-     "23c498e4d20e",
-     "a2d9f6208cd8",
-     "e1e3ce3e3ac8",
-     "6032154a31be",
      "d8a6ca8809d6",
-     "3ae0be31a245"
+     "3ae0be31a245",
+     "cd5ff183e19f"
     ]
    },
    {
-    "text": "สหรัฐฯ เตรียมคุมเข้มการส่งออกและเช่าชิป AI ของจีนผ่านศูนย์ข้อมูลในภูมิภาคเอเชียตะวันออกเฉียงใต้ เพื่อป้องกันความเสี่ยงด้านความมั่นคงและจารกรรมข้อมูล",
+    "text": "สหรัฐฯ เตรียมยกระดับมาตรการควบคุมการส่งออกชิป AI และการเช่าใช้ผ่านศูนย์ข้อมูลในเอเชียตะวันออกเฉียงใต้เพื่อปิดช่องโหว่การเข้าถึงเทคโนโลยีของจีน",
     "ids": [
      "1207b5c1c70b",
      "8c264b660e08"
     ]
    },
    {
-    "text": "ความปลอดภัยทางไซเบอร์กลายเป็นประเด็นสำคัญ โดย Google Project Zero ลดเวลาเปิดเผยช่องโหว่เหลือ 30 วันเนื่องจาก AI เร่งความเร็วในการโจมตี และพบเหตุการณ์มัลแวร์ในส่วนขยาย Claude Code ของ Cursor",
-    "ids": [
-     "5d823a7e20a8",
-     "c0202ff277fc"
-    ]
-   },
-   {
-    "text": "ความก้าวหน้าด้าน AI อื่นๆ ที่น่าสนใจ ได้แก่ การใช้ GPT-6 Astra ช่วยพิสูจน์ทฤษฎีทางวิทยาศาสตร์, โครงการโมเดลโอเพนซอร์ส EUROPA ของสหภาพยุโรป และการใช้ Industrial AI ในภาคอุตสาหกรรม",
+    "text": "ความก้าวหน้าด้านการวิจัยและเทคนิคการพัฒนา AI มีความคืบหน้าอย่างต่อเนื่อง ทั้งการใช้ AI ช่วยงานวิจัยทางวิทยาศาสตร์ การปรับลดระยะเวลาเปิดเผยช่องโหว่ความปลอดภัย และการใช้โมเดลขนาดเล็กหรือ LoRA เพื่อเพิ่มประสิทธิภาพ",
     "ids": [
      "87d7014c15ee",
-     "e63a6281c50b",
-     "edb8f92cbf85"
+     "5d823a7e20a8",
+     "78ad1cede7eb",
+     "b97800e336aa"
     ]
    }
   ]
@@ -104,7 +90,7 @@
   {
    "name": "เปิดตัวโมเดลใหม่ (Google News)",
    "ok": true,
-   "count": 16,
+   "count": 17,
    "error": null
   },
   {
@@ -442,77 +428,33 @@
   "cc88166a8325",
   "f61f8a7895fa",
   "68431e57dcdc",
-  "e879c6fc35d4"
+  "e879c6fc35d4",
+  "6032154a31be",
+  "e1e3ce3e3ac8",
+  "a2d9f6208cd8",
+  "23c498e4d20e",
+  "4e43a24bd154",
+  "1101f486d77d",
+  "cda7eaa77a10",
+  "00ee20a98c4c",
+  "0ff8b0fd7971",
+  "63332701aa71",
+  "71b92bc67d3c",
+  "c843a8699e89",
+  "759eecfad530",
+  "cc9bb2f2b801",
+  "203ddcee7dc7",
+  "ed9f9b9c025e",
+  "90c005cc7663",
+  "627c324df106",
+  "ad639fbc6552",
+  "2a2bfff1121f",
+  "9a736294c460",
+  "69b43a95305b",
+  "951c84561943",
+  "4e379f6cb9d3"
  ],
  "items": [
-  {
-   "id": "cc9bb2f2b801",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXFROGVjckM5SkFPQ0xTMVpMWjFxaFJhSUtMcVlSaThBS004bFhaZ0NWc2JWM0tyclRXcFA1MG1wRFN6WVNCN2FVT1lWVTJQNHkydnVxSmVxRWhZY2lwUXJEc3ZEaHBSY3U1bUhtTWtlNmlHWGlRcERXOC1QRTRPZkhKRy1Bem9TOXNHVmI3YlBHX1hVY191YzFhM3hBTTA?oc=5",
-   "source": "CryptoPotato",
-   "published": "2026-11-16T08:08:00+00:00",
-   "title": "Anthropic IPO This Week: 3 Things Investors Need to Know Before Wednesday",
-   "text": "",
-   "title_th": "จับตา Anthropic เตรียม IPO สัปดาห์นี้ สิ่งที่นักลงทุนควรรู้ก่อนวันพุธ",
-   "summary_th": "Anthropic เตรียมเข้าสู่ตลาดหลักทรัพย์ผ่านการทำ IPO ในสัปดาห์นี้ ซึ่งเป็นเหตุการณ์สำคัญที่นักลงทุนในกลุ่มเทคโนโลยี AI ต้องติดตามอย่างใกล้ชิด",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 5,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "63332701aa71",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzJPTjdkVl9VdHd3MDM1eE1NS213bDdWdDc4X1VpdWFrRkl2N3pkcDg5a0t1bVBPQzVmT0JLeTlaU3plUnBNMDlsZ3ZQUzEtR21ZRlgzNm95SVUyc3NndmRJZS13bG5Jbmt0OFBid045V1ltYXZlMkxQMm80LThEamlta2dROXVJR2Y2emZIbHg0UQ?oc=5",
-   "source": "The Peninsula Qatar",
-   "published": "2026-11-16T08:02:20+00:00",
-   "title": "Alibaba launches new AI model Qwen4-max",
-   "text": "",
-   "title_th": "Alibaba เปิดตัวโมเดล AI ใหม่ Qwen4-max",
-   "summary_th": "Alibaba ประกาศเปิดตัว Qwen4-max ซึ่งเป็นโมเดล AI รุ่นล่าสุดของบริษัท เพื่อยกระดับขีดความสามารถด้านปัญญาประดิษฐ์",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Alibaba"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0ff8b0fd7971",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWV4Zm5Dek9XWmJ0cGJ2SUl6T3M5OUg3dnNfU0Nuek5Sb245R0dOdFl6RHdMbndFV0FoU3FwQllHYTNYSERUT1ZWZE9xdjBzb2QzdHJ0N0hRSVZraDR1MGxMRm1JYnVGWUIzRmJoajBQWEJVT0Nsa1lNWXJrNTQyN1dtdHFfb3B0YkQxZ2lVTHd1d3FYbUVYLWNHdUFlclptWnpwSEM5OVJDTDJ6R0FyRlZBME9aVVFacW4zYzAwSE45NnpTVHc4YTRoRzBtNk1IVk9HX2wtc2zSAd4BQVVfeXFMUExHVFoxUWhZSlpjdW9zRDctS3Q5R3FRQm9iWmc2dklqUjZZb19SaEFvbnBrUG9xNTNGaXl3NnFteXJUUHVGVS1jcmJjRkF0NHRFNWdVWU0zbkIwSWgwbE9nN3NYUFEzVGtDZF85SW1vdENLTWVqYkhhQlhrcDF0SlBwLXI5QXctSk13MEt5Ujl1akpQRkhtN3hxQzYzRUVlMmI4Um42M0taOUxLS2pRNEp5Q0hRMjlZcjg1Ul9RaWNCWTFYRnVDZ2xGLVlCMENPbFlwbFd6U0p4eVlJbjRB?oc=5",
-   "source": "Livemint",
-   "published": "2026-11-16T07:48:36+00:00",
-   "title": "Alibaba launches Qwen4-Max AI model, claims it beats GPT-6.1-Sol and Claude Opus 5.5 in coding",
-   "text": "",
-   "title_th": "Alibaba เปิดตัว Qwen4-Max อ้างประสิทธิภาพการเขียนโค้ดเหนือกว่า GPT-6.1-Sol และ Claude Opus 5.5",
-   "summary_th": "Alibaba เปิดตัวโมเดล Qwen4-Max โดยระบุว่ามีประสิทธิภาพในการเขียนโค้ดที่เหนือกว่าโมเดลคู่แข่งอย่าง GPT-6.1-Sol และ Claude Opus 5.5",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Alibaba"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "00ee20a98c4c",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGxCQnczZU1rVGg3WVBqVnJyMVhEM085Q1h4MTg4X2V1REtCNko2djZuMFNwTU00c3pQT0hlZVo1ak5kQjZSOGI4ZnFyc0p5Tk45c1FsbVRuWm1rMkdZcmZUZ09DNE5WdXJJaWNzQ29vN09jaXQ4RUJBcVd2LXV6UllHQUJlaGVSQmNDTHAwWWptcHdQVjljSTYxY1dLeDNvTm01X1E4VllFcjBCeFE?oc=5",
-   "source": "联合早报",
-   "published": "2026-11-16T07:45:25+00:00",
-   "title": "Alibaba unveils new flagship AI model with stronger cybersecurity defences",
-   "text": "",
-   "title_th": "Alibaba เผยโฉมโมเดล AI เรือธงรุ่นใหม่ เน้นความปลอดภัยทางไซเบอร์ที่แข็งแกร่งขึ้น",
-   "summary_th": "Alibaba เปิดตัวโมเดล AI เรือธงตัวใหม่ที่เน้นการปรับปรุงระบบป้องกันความปลอดภัยทางไซเบอร์ให้มีความรัดกุมมากยิ่งขึ้น",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Alibaba"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
   {
    "id": "edb8f92cbf85",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KMElHby02YnlpZVVaa2lYcG42SWlqMHg2QVJBQ1NraDFkdEhHYm55R2RXU0ZtVFQ0dUNUQ2ZVZTdYSlIxLUlkSUNieHJyRkdSblNBNHhR?oc=5",
@@ -567,36 +509,19 @@
    "dedup": true
   },
   {
-   "id": "cda7eaa77a10",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHl0ZVByMTFnMVVaU2h5UFBhMzFaVmFKQi1pcGhPb3lLeTdjdGh4TkpnU0FPUVAyMU9rYjV2UkhFdjhOUHRDVUFMRm9seUVzWDRzeno1YllqLVpmY3R6WmI5bnJSS1lkeFAzSm1lM1pkWnAtclpOQmxRWFVwMmZaVjE2cy1KYzRJcEw5RUVIbVExdlhveFJYLU1HRTFSVERTV2VzdHFtS1J2SE1PMjBFbVNYMFNRSmZmT3FtV2kxYUd0QmdBSkJMb3pGUWJTUGFzcC1wYtIB1AFBVV95cUxPWS1MdnU4cWMyN3ktNnVyR2Vtcnhqa1hUVHUxeUxTRDhIUVRjRkJsNmlIM1RDWUFGSkgxeHIxR0h2NUU4WUJ5d3h2eFhKVXU2ekdLRkhSbmpVdHVRaDJrOXhOTkpyOW4ya2dpdDVQb0JVd3Y3UXFfU19fLXNHelFNUnhncDMwTS1yQWFkc1F3SFZoM0ZMZGFIRGhwNS1CRzd4UXRXOUtnS21UMHRZLUNUNlp0cmZtMWVvRUhSaE53UFFrbmQ3SHRQaTRxUVRFVmE4VmZZdw?oc=5",
-   "source": "South China Morning Post",
-   "published": "2026-11-16T07:30:34+00:00",
-   "title": "Alibaba launches Qwen4-Max model with strict cybersecurity guardrails",
+   "id": "a6222e453ee6",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2RWT2RBMHZNd0xYeG1SRVI3UC0tYnp2M3NKNUVvZ2Y3d0NUSVVJd1BhcmNLOGYxbVdodU9yRWg3MUFBY0ZRQkZOZ1ZoTG1fRVhzT0Exak9yTkdub3E0UDVvZW14NXNQWERSR2dCM010VDdtaGFaLWFZMmJtbVBPUmtHNEcyenRBbWVOVzV5WW0zajFiandlTFpzeU8zeVlmUkHSAaIBQVVfeXFMTkNkVk9kQTB2TXdMWHhtUkVSN1AtLWJ6djNzSjVFb2dmN3dDVElVSXdQYXJjSzhmMW1XaHVPckVoNzFBQWNGUUJGTmdWaExtX0VYc09BMWpPck5Hbm9xNFA1b2VteDVzUFhEUkdnQjNNdFQ3bWhhWi1hWTJibW1QT1JrRzRHMnp0QW1lTlc1eVltM2oxYmp3ZUxac3lPM3lZZlJB?oc=5",
+   "source": "CIOL",
+   "published": "2026-11-16T06:59:44+00:00",
+   "title": "SquadStack Launches Maya, Sales AI Model That Takes On Global LLMs",
    "text": "",
-   "title_th": "Alibaba เปิดตัว Qwen4-Max พร้อมมาตรการป้องกันความปลอดภัยทางไซเบอร์ที่เข้มงวด",
-   "summary_th": "Alibaba เปิดตัวโมเดล Qwen4-Max โดยเน้นย้ำถึงการติดตั้งระบบป้องกันความปลอดภัยที่เข้มงวดเพื่อรองรับการใช้งานในระดับองค์กร",
-   "category": "โมเดลใหม่",
+   "title_th": "SquadStack เปิดตัว Maya โมเดล AI สำหรับงานขาย หวังท้าชน LLM ระดับโลก",
+   "summary_th": "SquadStack เปิดตัว Maya ซึ่งเป็นโมเดล AI ที่ออกแบบมาเพื่อรองรับงานด้านการขายโดยเฉพาะ โดยมุ่งเน้นการแข่งขันกับโมเดลภาษาขนาดใหญ่ (LLM) ที่มีอยู่ในตลาดโลกปัจจุบัน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [
-    "Alibaba"
+    "SquadStack"
    ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "759eecfad530",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlh0SmpGWU5FNUJ6eWowRHdVSjhCWXU5dXZBRDVHQW9leFJfNFBpS29jYmFubVJ4VWtTbG9mUjJxTDVPZl9FblVWZmo4VXppdDJXMXNDUWJMMTNlS0lMLUJiUUhrdHAwNWk0T1ctaDRBOTdLZUVxUmYyVTJlOHJSbTRaWUlxYmdHQmpqZkNvaDB6b243dmdOQ2hoLVpXVG15MGplUnFFQ2Y5VDBnVGl0YjZxbldCNDRTOU1wR1l3?oc=5",
-   "source": "TradingKey",
-   "published": "2026-11-16T07:03:22+00:00",
-   "title": "Anthropic IPO Nears: Claude Maker to Debut on Nasdaq Nov. 19, Key Watchpoints for ANT Listing",
-   "text": "",
-   "title_th": "Anthropic เตรียมเข้าตลาด Nasdaq 19 พ.ย. นี้ จับตาประเด็นสำคัญก่อนการซื้อขาย",
-   "summary_th": "Anthropic ผู้สร้าง Claude เตรียมนำหุ้นเข้าจดทะเบียนในตลาดหลักทรัพย์ Nasdaq ในวันที่ 19 พฤศจิกายนนี้ โดยนักลงทุนกำลังจับตาดูปัจจัยสำคัญต่างๆ",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 5,
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -618,75 +543,6 @@
    "dedup": true
   },
   {
-   "id": "4e43a24bd154",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmE2Yk45OUdZX3k2VGFwTVQyQXp1OHhYcjRYdnJLYTFfdm5kX3ExcnlmbWYwRzBaSE5HSHJIZjFVT1ZnU1hOaTF5enc2bExQR2R3Mkw5YkRmTWpfYzZDWUE3WTNqblp2YXRhYXRlekZNSmhBMlpSc001OTAxMmdySHhMd0VSNFRjVE5Bakp5YVRQdU9TVlhhYmd6SFA?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-16T06:02:58+00:00",
-   "title": "BABA Stock Edges Lower Overnight: Alibaba Reportedly Launches Most-Advanced AI Model That Cuts Task Costs By 60%",
-   "text": "",
-   "title_th": "Alibaba เปิดตัวโมเดล AI ขั้นสูง ช่วยลดต้นทุนการทำงานลง 60%",
-   "summary_th": "Alibaba เปิดตัวโมเดล AI รุ่นล่าสุดที่อ้างว่าสามารถลดต้นทุนในการประมวลผลงานต่างๆ ลงได้ถึง 60% ส่งผลให้ราคาหุ้นของบริษัทมีการเคลื่อนไหว",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Alibaba"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "23c498e4d20e",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYVdLQlh1SmJmQ2tsc0RqU1hLLVRvbDBjY0g1dTAxSlNielBWajQtT3pzcGNuVXUzWjV4c2o1YmIzM3Y4WnUwZU5zNUl4N2N6eUNaaERackVuUTdwMms1R2NnU3Fqa2sxdjhGY0NSUWNvWTNycVFkQ3pqTlp1YjNYOVROY2FIUVdKc2MzZ3dSbHNzdUxLc3czQ2Y5YUlEZmR2Qmk1TVJ4N1Q5SDdQSGJ1NVpQLUJTb1pEanlicjNtUndVX3g0Y1ZLWFo3WTRLM0RWTGRNWTREamV1bG9aMVI3RFM1c9IB3gFBVV95cUxONW1Fc3pfVFl2dHpPZU9LUWhOVGhLdk0tb0o2Sld1cjc4X0xra2gxcWxpSlpSUjd6WDNkQ0I2QW10NEJLX3lKbGNESmZIeXZJaFMybkJwYnRSNW5LNEVXWWFwQ0tHa0gwWV8yRjVpV19Db0xMbElrbzFMVG1lU1NOVlh4VTBQeFBMaTBxelFiRF9ZdWtQNHB6MHZjNmtaVVZlUGlZMWF2NEJGLXRXMEpSU2RTRDI1dWVBVTRfaUc0VzFBS1g5RFdhVzJsNHFrb196dEw5R2p4QWtjM1J4aHc?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-16T05:49:15+00:00",
-   "title": "Alibaba unveils new flagship AI model with safety upgrades",
-   "text": "",
-   "title_th": "Alibaba เปิดตัวโมเดล AI เรือธงพร้อมอัปเกรดระบบความปลอดภัย",
-   "summary_th": "Alibaba ยกระดับโมเดล AI เรือธงด้วยการเพิ่มฟีเจอร์ด้านความปลอดภัย เพื่อสร้างความมั่นใจให้แก่ผู้ใช้งานและองค์กร",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Alibaba"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c843a8699e89",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVmsyV0t3dkZ0WWJRS05wN0stbWRBUmNqNGlPZktXMVl0emI2VkF6b202QnluV2JWRGNhQ2RUNGluVDdmakRuS1E0VlVSRlo1TUZwU19qSnR3bDNyRENmeUtmMlc0V2tWZmg0ZzBVWE9Wbkt1UkZVaXlnRkdYVlVBU2xJUjNxZVg3S3RrTkZTQWJVdmpDa2NsaUJ0MmtiRzU1RS1aSWFqM2owY0stMjBkYmI0ZzY3SEtWVi1ra2hybTlwQ3luSC00SktrQXBDdGY0ZFNvRkVKeDNHbFZvcEw4ZmVuVThZYVZFM1pRNmtVa241LW9qdFRibDR4SWF2Z9IBgwJBVV95cUxOWlhwRDNnOW52SjZneE9YMUR1RUFab1FMOW9ZdlI5NUZrTjdGS051ekx4VlQ0VXc5OHN1ZjNtVmZqdEpjZkp4UlR3aUFFcW1RRGk2WnJrd0tncHAxZF9SMjJ3RFBFTzZiVHN1bThKOGRlSG82REhNckFmTUFZbjFCd0t4SGVJSjl2dy1UVmZZT0JJcnFGcDcxbzhNSXdkdWpfQnYyVUVDMVBXZzVlTHBmb0NTUnZ6SHlTWWVpYUF4OVZxWnpYNGw1WWRCeDRmQXRVS2xMVUlyczNkVUYwYy1EbHdZVmRMNEZpaThJUFhhNlNMX3FfTVBYcmtLWVJaVm5BN1lZ?oc=5",
-   "source": "Livemint",
-   "published": "2026-11-16T05:07:11+00:00",
-   "title": "Anthropic IPO: Why Google’s 13% stake and Big Tech’s $900-billion AI bet hinge on Claude maker’s success | Decoded",
-   "text": "",
-   "title_th": "วิเคราะห์ IPO ของ Anthropic กับเดิมพัน 9 แสนล้านดอลลาร์ของ Big Tech",
-   "summary_th": "การทำ IPO ของ Anthropic ถือเป็นจุดเปลี่ยนสำคัญที่เชื่อมโยงกับการลงทุนมหาศาลของบริษัทเทคโนโลยีขนาดใหญ่ รวมถึงสัดส่วนการถือหุ้น 13% ของ Google",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic",
-    "Google"
-   ],
-   "importance": 5,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a2d9f6208cd8",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc1R1RmhCZGdvR2xteG5KZVBvZ1h1S1JSOHphaUtZYk43YUlsZTB3WHk3Skw4ZHlQS2JEQ3dlZGpKQXpKS1VPV3ViY2lJNThMd1dvQUhZeFpENjRCTUZFcU83alJsWWItNFRKMnJQX0FyYmdpZVJFM0U2STVIWDVyTDh0WVZlbllTWUpV?oc=5",
-   "source": "Mezha.net",
-   "published": "2026-11-16T05:05:01+00:00",
-   "title": "Alibaba unveils flagship AI model with stronger safety protections",
-   "text": "",
-   "title_th": "Alibaba เปิดตัวโมเดล AI เรือธงพร้อมการป้องกันความปลอดภัยที่แข็งแกร่งขึ้น",
-   "summary_th": "Alibaba ประกาศเปิดตัวโมเดล AI รุ่นใหม่ที่เน้นการเพิ่มมาตรการป้องกันความปลอดภัยให้มีความแข็งแกร่งและน่าเชื่อถือมากขึ้น",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Alibaba"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "5c504c9cf4fa",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdlRTbTgxMXEtcUJadGlXdFdjdzdNY2dGZU11aUZtMDdOV0dBaXFfYjl2ZFhiZ19hdzFzVEhzM2VPUEFkUVM0VG9JTUdjdHNSbFc1Y3dHOXdWVzN0ajEwMVRMdkwzNFpoT0dQd1hmYmxjMl9wMzJZRVJ0b1dibDd1RHV2amtyUmgzSFNEZEM5c9IBnwFBVV95cUxNNTJWdG56cEJKTi1QWHZHR3FYNmJ0NmIxNnRkWm10QWt2X0hDYlg0dUR4bFlMRDdBTmR3SHN0RzVpNkQxZzV6WkNfUTFtVS01R3FfTzlJRmNtZzlwS2dkOTIwUTlOVVd2Y1JETFpOeC1iT1JhZjVhakJvZ0c2aTNYMkVkZmRVV1F0OGRCSnBfZk9wVlpIWmpKNGFjOW52ZFU?oc=5",
    "source": "The Korea Times",
@@ -700,40 +556,6 @@
     "Anthropic"
    ],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e1e3ce3e3ac8",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzh0VEs1VmtTY1BLTFZHbVZ4MnYzd194emRuaFlQZWQ3VEF5b2VJV2FFN3V2SXJjTExzTmw0YXhJb2lqekZ6N0Zpck11U19ONjNMQ09WcWtvVC1ad25WZlkyUXVjejEtM1dySkNzTm9id2daM1N4YXVSbWxXSnA5TXd4RFBicmJ2bUdyQmRDMkVTNWtqSlhqcUJ4elhvMW9lekpVUTln0gGrAUFVX3lxTFA4Nmk5eVVfWkZqSTJxZWpHUFVDcWNyS0xiSXJsdnduRkpYektia0FxSHJxdTZYQW9RdzlOLWhEcXl6X21OeWFqZThoRmZ1NzA4LWJiUnBMcHVuaGl5QkZxUV8tTE1WVE84TF9XX1RxVmx5alMyeGNpN0FKOUlnUHZsaUhoUEZjc3NqUFR0MnhEbHRJWnNfc2MzOS02SE1Bb0taOHFJRG1fVW5DMA?oc=5",
-   "source": "ThePrint",
-   "published": "2026-11-16T04:23:46+00:00",
-   "title": "Alibaba unveils new flagship AI model as US-China AI race accelerates",
-   "text": "",
-   "title_th": "Alibaba เปิดตัวโมเดล AI เรือธงรุ่นใหม่ ท่ามกลางการแข่งขัน AI ระหว่างสหรัฐฯ-จีน",
-   "summary_th": "Alibaba เปิดตัวโมเดล AI ระดับเรือธงรุ่นใหม่เพื่อแข่งขันในตลาดโลก ความเคลื่อนไหวนี้สะท้อนถึงการเร่งพัฒนาเทคโนโลยี AI ของจีนเพื่อท้าชนกับคู่แข่งจากสหรัฐฯ",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Alibaba"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "6032154a31be",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUy16TGpiV19KNWYyX0VGZ1RCZnR5T0phcjVCQ1ZFT1ZyRFg1dFlxdDhQVFV3Tl8ycFg3ZE1BUzJiWlk2c0VxZ216WEV1T01oZUVueEdEbEZfQkJtdlBILV9sdm1Od0taN2JDbENJOENJNWVEbkNmOWRZdmFuWG1nUjhUanJ5YUpFYzZzNWJUNkdzQQ?oc=5",
-   "source": "Tech in Asia",
-   "published": "2026-11-16T04:23:00+00:00",
-   "title": "Alibaba launches Qwen4-Max AI model, cutting task costs 60%",
-   "text": "",
-   "title_th": "Alibaba เปิดตัว Qwen4-Max ช่วยลดต้นทุนการทำงานลง 60%",
-   "summary_th": "Alibaba เปิดตัวโมเดล Qwen4-Max ซึ่งเน้นการเพิ่มประสิทธิภาพและลดค่าใช้จ่ายในการประมวลผลงานต่างๆ ลงถึง 60% ถือเป็นก้าวสำคัญในการแข่งขันด้านราคาและประสิทธิภาพของโมเดลภาษาขนาดใหญ่",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Alibaba"
-   ],
-   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -819,23 +641,6 @@
    "dedup": true
   },
   {
-   "id": "71b92bc67d3c",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEhOYlJvYTBPYkhSeUdDanpla0VMdTV4UkJVVno2cHRsNGljVlFDdVYxRnRCVFowTXRJYUNjd2lteWRlQUdJdlZtZTI5SFZ6WTJScktvYW1wMDJJcmxUR3NBSHBUdXhBQ0kwdV9CLWluY3lXRlVheE5pSGllYVNWbVAtNnBwRzBHWnQwWi1ieHlQMXlkSW1CdWtCMGo1UQ?oc=5",
-   "source": "Sri Lanka Guardian",
-   "published": "2026-11-16T03:36:44+00:00",
-   "title": "Anthropic’s $90 Billion IPO Tests Investor Confidence in the Global AI Boom",
-   "text": "",
-   "title_th": "IPO มูลค่า 9 หมื่นล้านดอลลาร์ของ Anthropic บททดสอบความเชื่อมั่นนักลงทุน",
-   "summary_th": "การเสนอขายหุ้น IPO ของ Anthropic กลายเป็นจุดสนใจของนักลงทุนทั่วโลก เพื่อวัดระดับความเชื่อมั่นที่มีต่อกระแสการเติบโตของอุตสาหกรรม AI ในปัจจุบัน",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 5,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "d8a6ca8809d6",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFdKOG5tbVJQbG43cVFoU24zS2JzMF9hVlh6MFBRZDJ1bzQ4QnAtdFVlQ0pZNHVIOVdPaXUxaUVQeDltTEU4QnNLcGpLdmNhdkR6R3A4a0xRaFBUYU05NTlMUjVtMnJqdU5qS2NzcUlQZGViSVZDZExyUE91YTJEVHB2b3dtWGhiWmN2VFBzV3ZEUm5QcjdqTFpkdDZfTXhQaWpoYg?oc=5",
    "source": "Crypto Briefing",
@@ -849,23 +654,6 @@
     "Alibaba",
     "Anthropic",
     "OpenAI"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "203ddcee7dc7",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUJNN1FNN184WnIzZlg1Q2RTeWtyeW9LQWk1RXJyWDQzdW9yR1FUcW5BVjUwbkNOdkZxRTZHTVVyOF9wQ3p6U0RJNkkwbzgtd0o1RGRvbFJUdGQtVnFiQ0s5a3JpM3h4MGQtNDBGZm1FSk9UeDZPcXluczVQcjh1TW5Zd1hfdGxxd09nY3lRdmEyM0t1V2JMRFVTRVNqdkJpVHlMa3dsZ2g4cktuYkItVy0zQ2FwV2ZOU2NQQ2NLbljSAcYBQVVfeXFMTzRZRGFFNE9CTS05c1drYl9vT3NORmN1SnBZYVBnSTBUTGJ3Sk5uWEZPSjI5STBnU2ItN1BYbW9XV1FnSHV4eHZMVmNRaG9FUWRyUzFWMS1ZSGVyejNNd09GRjlwRkExNGZ4eTFqSzduRVJ5LVFGY3pKT0xUamlyUmtNQ2xYYkRXRG9nZEwyM21yVW1hZ2J0WHNvZWpQVVktOW1JUURZUE5BMl9CenpqVDEzeGVGWURSenNHd2hCcVg1aTFuckFB?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-16T02:26:55+00:00",
-   "title": "Anthropic's record IPO faces some big questions",
-   "text": "",
-   "title_th": "IPO ของ Anthropic เผชิญคำถามสำคัญจากนักลงทุน",
-   "summary_th": "การเสนอขายหุ้น IPO ของ Anthropic กำลังถูกจับตามองอย่างใกล้ชิด โดยมีคำถามสำคัญเกี่ยวกับความยั่งยืนและทิศทางธุรกิจในอนาคต",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
    ],
    "importance": 4,
    "ai": true,
@@ -918,7 +706,49 @@
    ],
    "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Tech in Asia",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUy16TGpiV19KNWYyX0VGZ1RCZnR5T0phcjVCQ1ZFT1ZyRFg1dFlxdDhQVFV3Tl8ycFg3ZE1BUzJiWlk2c0VxZ216WEV1T01oZUVueEdEbEZfQkJtdlBILV9sdm1Od0taN2JDbENJOENJNWVEbkNmOWRZdmFuWG1nUjhUanJ5YUpFYzZzNWJUNkdzQQ?oc=5"
+    },
+    {
+     "source": "ThePrint",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzh0VEs1VmtTY1BLTFZHbVZ4MnYzd194emRuaFlQZWQ3VEF5b2VJV2FFN3V2SXJjTExzTmw0YXhJb2lqekZ6N0Zpck11U19ONjNMQ09WcWtvVC1ad25WZlkyUXVjejEtM1dySkNzTm9id2daM1N4YXVSbWxXSnA5TXd4RFBicmJ2bUdyQmRDMkVTNWtqSlhqcUJ4elhvMW9lekpVUTln0gGrAUFVX3lxTFA4Nmk5eVVfWkZqSTJxZWpHUFVDcWNyS0xiSXJsdnduRkpYektia0FxSHJxdTZYQW9RdzlOLWhEcXl6X21OeWFqZThoRmZ1NzA4LWJiUnBMcHVuaGl5QkZxUV8tTE1WVE84TF9XX1RxVmx5alMyeGNpN0FKOUlnUHZsaUhoUEZjc3NqUFR0MnhEbHRJWnNfc2MzOS02SE1Bb0taOHFJRG1fVW5DMA?oc=5"
+    },
+    {
+     "source": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc1R1RmhCZGdvR2xteG5KZVBvZ1h1S1JSOHphaUtZYk43YUlsZTB3WHk3Skw4ZHlQS2JEQ3dlZGpKQXpKS1VPV3ViY2lJNThMd1dvQUhZeFpENjRCTUZFcU83alJsWWItNFRKMnJQX0FyYmdpZVJFM0U2STVIWDVyTDh0WVZlbllTWUpV?oc=5"
+    },
+    {
+     "source": "The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYVdLQlh1SmJmQ2tsc0RqU1hLLVRvbDBjY0g1dTAxSlNielBWajQtT3pzcGNuVXUzWjV4c2o1YmIzM3Y4WnUwZU5zNUl4N2N6eUNaaERackVuUTdwMms1R2NnU3Fqa2sxdjhGY0NSUWNvWTNycVFkQ3pqTlp1YjNYOVROY2FIUVdKc2MzZ3dSbHNzdUxLc3czQ2Y5YUlEZmR2Qmk1TVJ4N1Q5SDdQSGJ1NVpQLUJTb1pEanlicjNtUndVX3g0Y1ZLWFo3WTRLM0RWTGRNWTREamV1bG9aMVI3RFM1c9IB3gFBVV95cUxONW1Fc3pfVFl2dHpPZU9LUWhOVGhLdk0tb0o2Sld1cjc4X0xra2gxcWxpSlpSUjd6WDNkQ0I2QW10NEJLX3lKbGNESmZIeXZJaFMybkJwYnRSNW5LNEVXWWFwQ0tHa0gwWV8yRjVpV19Db0xMbElrbzFMVG1lU1NOVlh4VTBQeFBMaTBxelFiRF9ZdWtQNHB6MHZjNmtaVVZlUGlZMWF2NEJGLXRXMEpSU2RTRDI1dWVBVTRfaUc0VzFBS1g5RFdhVzJsNHFrb196dEw5R2p4QWtjM1J4aHc?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmE2Yk45OUdZX3k2VGFwTVQyQXp1OHhYcjRYdnJLYTFfdm5kX3ExcnlmbWYwRzBaSE5HSHJIZjFVT1ZnU1hOaTF5enc2bExQR2R3Mkw5YkRmTWpfYzZDWUE3WTNqblp2YXRhYXRlekZNSmhBMlpSc001OTAxMmdySHhMd0VSNFRjVE5Bakp5YVRQdU9TVlhhYmd6SFA?oc=5"
+    },
+    {
+     "source": "Inshorts",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb0tMRXRRa1VRc3hkSDlpV01BMHJFaWNsU3ktZlBFcmZYbWVCM0dzQWVQMUZyeXlDT0dHZ2g0QVoxODlFWEY4VUI1eFNURnd6d2Fid1U0S2kwa1BJdDJacEdqNTVteGZGa3BIVEsyekE2ZnoxRlBiV2xhaGR6dDMwaUo5OWpqaWNrQVJXSm5rM0Myc0pYUHJrQm5jM1lDazZxWW51b3loZTRXQjJGS2J4NmxtNTl6aU9aSjZCNkdLSEzSAcABQVVfeXFMTW9LTEV0UWtVUXN4ZEg5aVdNQTByRWljbFN5LWZQRXJmWG1lQjNHc0FlUDFGcnl5Q09HR2doNEFaMTg5RVhGOFVCNXhTVEZ3endhYndVNEtpMGtQSXQyWnBHajU1bXhmRmtwSFRLMnpBNmZ6MUZQYldsYWhkenQzMGlKOTlqamlja0FSV0puazNDMnNKWFBya0JuYzNZQ2s2cVludW95aGU0V0IyRktieDZsbTU5emlPWko2QjZHS0hM?oc=5"
+    },
+    {
+     "source": "South China Morning Post",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHl0ZVByMTFnMVVaU2h5UFBhMzFaVmFKQi1pcGhPb3lLeTdjdGh4TkpnU0FPUVAyMU9rYjV2UkhFdjhOUHRDVUFMRm9seUVzWDRzeno1YllqLVpmY3R6WmI5bnJSS1lkeFAzSm1lM1pkWnAtclpOQmxRWFVwMmZaVjE2cy1KYzRJcEw5RUVIbVExdlhveFJYLU1HRTFSVERTV2VzdHFtS1J2SE1PMjBFbVNYMFNRSmZmT3FtV2kxYUd0QmdBSkJMb3pGUWJTUGFzcC1wYtIB1AFBVV95cUxPWS1MdnU4cWMyN3ktNnVyR2Vtcnhqa1hUVHUxeUxTRDhIUVRjRkJsNmlIM1RDWUFGSkgxeHIxR0h2NUU4WUJ5d3h2eFhKVXU2ekdLRkhSbmpVdHVRaDJrOXhOTkpyOW4ya2dpdDVQb0JVd3Y3UXFfU19fLXNHelFNUnhncDMwTS1yQWFkc1F3SFZoM0ZMZGFIRGhwNS1CRzd4UXRXOUtnS21UMHRZLUNUNlp0cmZtMWVvRUhSaE53UFFrbmQ3SHRQaTRxUVRFVmE4VmZZdw?oc=5"
+    },
+    {
+     "source": "联合早报",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGxCQnczZU1rVGg3WVBqVnJyMVhEM085Q1h4MTg4X2V1REtCNko2djZuMFNwTU00c3pQT0hlZVo1ak5kQjZSOGI4ZnFyc0p5Tk45c1FsbVRuWm1rMkdZcmZUZ09DNE5WdXJJaWNzQ29vN09jaXQ4RUJBcVd2LXV6UllHQUJlaGVSQmNDTHAwWWptcHdQVjljSTYxY1dLeDNvTm01X1E4VllFcjBCeFE?oc=5"
+    },
+    {
+     "source": "Livemint",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWV4Zm5Dek9XWmJ0cGJ2SUl6T3M5OUg3dnNfU0Nuek5Sb245R0dOdFl6RHdMbndFV0FoU3FwQllHYTNYSERUT1ZWZE9xdjBzb2QzdHJ0N0hRSVZraDR1MGxMRm1JYnVGWUIzRmJoajBQWEJVT0Nsa1lNWXJrNTQyN1dtdHFfb3B0YkQxZ2lVTHd1d3FYbUVYLWNHdUFlclptWnpwSEM5OVJDTDJ6R0FyRlZBME9aVVFacW4zYzAwSE45NnpTVHc4YTRoRzBtNk1IVk9HX2wtc2zSAd4BQVVfeXFMUExHVFoxUWhZSlpjdW9zRDctS3Q5R3FRQm9iWmc2dklqUjZZb19SaEFvbnBrUG9xNTNGaXl3NnFteXJUUHVGVS1jcmJjRkF0NHRFNWdVWU0zbkIwSWgwbE9nN3NYUFEzVGtDZF85SW1vdENLTWVqYkhhQlhrcDF0SlBwLXI5QXctSk13MEt5Ujl1akpQRkhtN3hxQzYzRUVlMmI4Um42M0taOUxLS2pRNEp5Q0hRMjlZcjg1Ul9RaWNCWTFYRnVDZ2xGLVlCMENPbFlwbFd6U0p4eVlJbjRB?oc=5"
+    },
+    {
+     "source": "The Peninsula Qatar",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzJPTjdkVl9VdHd3MDM1eE1NS213bDdWdDc4X1VpdWFrRkl2N3pkcDg5a0t1bVBPQzVmT0JLeTlaU3plUnBNMDlsZ3ZQUzEtR21ZRlgzNm95SVUyc3NndmRJZS13bG5Jbmt0OFBid045V1ltYXZlMkxQMm80LThEamlta2dROXVJR2Y2emZIbHg0UQ?oc=5"
+    }
+   ]
   },
   {
    "id": "f7214e14d1e1",
@@ -966,11 +796,42 @@
    "summary_th": "กระแสความต้องการหุ้น IPO ของ Anthropic พุ่งสูงเกินคาดหมาย โดยมียอดจองล่วงหน้าสูงกว่า 6 เท่า ซึ่งแซงหน้าความต้องการในหุ้นของบริษัทอย่าง SpaceX",
    "category": "ธุรกิจ/การลงทุน",
    "companies": [
-    "Anthropic"
+    "Anthropic",
+    "Google"
    ],
    "importance": 5,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Sri Lanka Guardian",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEhOYlJvYTBPYkhSeUdDanpla0VMdTV4UkJVVno2cHRsNGljVlFDdVYxRnRCVFowTXRJYUNjd2lteWRlQUdJdlZtZTI5SFZ6WTJScktvYW1wMDJJcmxUR3NBSHBUdXhBQ0kwdV9CLWluY3lXRlVheE5pSGllYVNWbVAtNnBwRzBHWnQwWi1ieHlQMXlkSW1CdWtCMGo1UQ?oc=5"
+    },
+    {
+     "source": "Livemint",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVmsyV0t3dkZ0WWJRS05wN0stbWRBUmNqNGlPZktXMVl0emI2VkF6b202QnluV2JWRGNhQ2RUNGluVDdmakRuS1E0VlVSRlo1TUZwU19qSnR3bDNyRENmeUtmMlc0V2tWZmg0ZzBVWE9Wbkt1UkZVaXlnRkdYVlVBU2xJUjNxZVg3S3RrTkZTQWJVdmpDa2NsaUJ0MmtiRzU1RS1aSWFqM2owY0stMjBkYmI0ZzY3SEtWVi1ra2hybTlwQ3luSC00SktrQXBDdGY0ZFNvRkVKeDNHbFZvcEw4ZmVuVThZYVZFM1pRNmtVa241LW9qdFRibDR4SWF2Z9IBgwJBVV95cUxOWlhwRDNnOW52SjZneE9YMUR1RUFab1FMOW9ZdlI5NUZrTjdGS051ekx4VlQ0VXc5OHN1ZjNtVmZqdEpjZkp4UlR3aUFFcW1RRGk2WnJrd0tncHAxZF9SMjJ3RFBFTzZiVHN1bThKOGRlSG82REhNckFmTUFZbjFCd0t4SGVJSjl2dy1UVmZZT0JJcnFGcDcxbzhNSXdkdWpfQnYyVUVDMVBXZzVlTHBmb0NTUnZ6SHlTWWVpYUF4OVZxWnpYNGw1WWRCeDRmQXRVS2xMVUlyczNkVUYwYy1EbHdZVmRMNEZpaThJUFhhNlNMX3FfTVBYcmtLWVJaVm5BN1lZ?oc=5"
+    },
+    {
+     "source": "TradingKey",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlh0SmpGWU5FNUJ6eWowRHdVSjhCWXU5dXZBRDVHQW9leFJfNFBpS29jYmFubVJ4VWtTbG9mUjJxTDVPZl9FblVWZmo4VXppdDJXMXNDUWJMMTNlS0lMLUJiUUhrdHAwNWk0T1ctaDRBOTdLZUVxUmYyVTJlOHJSbTRaWUlxYmdHQmpqZkNvaDB6b243dmdOQ2hoLVpXVG15MGplUnFFQ2Y5VDBnVGl0YjZxbldCNDRTOU1wR1l3?oc=5"
+    },
+    {
+     "source": "CryptoPotato",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXFROGVjckM5SkFPQ0xTMVpMWjFxaFJhSUtMcVlSaThBS004bFhaZ0NWc2JWM0tyclRXcFA1MG1wRFN6WVNCN2FVT1lWVTJQNHkydnVxSmVxRWhZY2lwUXJEc3ZEaHBSY3U1bUhtTWtlNmlHWGlRcERXOC1QRTRPZkhKRy1Bem9TOXNHVmI3YlBHX1hVY191YzFhM3hBTTA?oc=5"
+    },
+    {
+     "source": "The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUJNN1FNN184WnIzZlg1Q2RTeWtyeW9LQWk1RXJyWDQzdW9yR1FUcW5BVjUwbkNOdkZxRTZHTVVyOF9wQ3p6U0RJNkkwbzgtd0o1RGRvbFJUdGQtVnFiQ0s5a3JpM3h4MGQtNDBGZm1FSk9UeDZPcXluczVQcjh1TW5Zd1hfdGxxd09nY3lRdmEyM0t1V2JMRFVTRVNqdkJpVHlMa3dsZ2g4cktuYkItVy0zQ2FwV2ZOU2NQQ2NLbljSAcYBQVVfeXFMTzRZRGFFNE9CTS05c1drYl9vT3NORmN1SnBZYVBnSTBUTGJ3Sk5uWEZPSjI5STBnU2ItN1BYbW9XV1FnSHV4eHZMVmNRaG9FUWRyUzFWMS1ZSGVyejNNd09GRjlwRkExNGZ4eTFqSzduRVJ5LVFGY3pKT0xUamlyUmtNQ2xYYkRXRG9nZEwyM21yVW1hZ2J0WHNvZWpQVVktOW1JUURZUE5BMl9CenpqVDEzeGVGWURSenNHd2hCcVg1aTFuckFB?oc=5"
+    },
+    {
+     "source": "Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdkRIUk1sZkdTMXJTRk5VM05iZ1AzOFBGY1VtUUFCZTZmVUpFdWNacmNneXJCLWlQRmxGUUhmRnBISlpIc1dzZWNVbGVOeXpXT2dNMDlOei0xX1VMdHBmTTdyT3hXZF9UR3kzYjhsMk1ZeXhZSGN4VmotOWlvcS1USGRfcTBUdGFPajZGYl9WZFlEYXdrM3J2RUZ1Q2hSQdIBrgFBVV95cUxPWS12azhtU2xTUzV1anRxSTV3YUZJMzVZMDZyZmRnVV8tYU00dThkdVo0MDhUT2cwaDVWLVM3bktLVndRSGZCN2pnWE52MG9HM0pQTUc5dzYtN0lZZVdtY295Uk5kc3U3VVloQWZ4THc0TlNSUUUtRjlKbVQ5bHN4MG9HOEVncEtvd3poSHFYV1Y1NW9faGp0bVBBaklveU1vd2dUbklFb2RlS1RrVmc?oc=5"
+    },
+    {
+     "source": "ValueWalk",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEJfeEdETFRJbnFmZWhLUlBTYVZRaFdOcGxpTTkyY25Ibll3VTNuQUxrZnpRNml1cWcxWmZBNEZwbmpRc0JkWjZXaXlfcTVxcnBVdW5fR093bDh2eFkyQ3hCSVNGMzZmWE5PMTgxa2F5SzcwbGpTSjZteWVidDlMTXNnc0ROM3JSR1lLZE9B?oc=5"
+    }
+   ]
   },
   {
    "id": "09862cd7036c",
@@ -1830,23 +1691,6 @@
    "dedup": true
   },
   {
-   "id": "9a736294c460",
-   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-14T21:41:22+00:00",
-   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-   "text": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-   "title_th": "ผู้บริหารเทคโนโลยีร่วมลงชื่อเรียกร้องให้ Nvidia ดึงตัว Jensen Huang กลับมา",
-   "summary_th": "กลุ่มผู้บริหารในอุตสาหกรรมเทคโนโลยีรวมตัวกันล่ารายชื่อกว่า 115,000 คน เพื่อเรียกร้องให้ Nvidia พิจารณาให้ Jensen Huang กลับมาดำรงตำแหน่งผู้นำอีกครั้ง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Nvidia"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "b1e5bfa3505a",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/",
    "source": "r/LocalLLaMA",
@@ -1908,23 +1752,6 @@
     "Anthropic"
    ],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2a2bfff1121f",
-   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-14T16:34:15+00:00",
-   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-   "text": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-   "title_th": "รัฐบาลในเอเชียตอบสนองต่อการลาออกของ Jensen Huang ซีอีโอ Nvidia",
-   "summary_th": "รัฐบาลหลายประเทศในเอเชียกำลังติดตามผลกระทบต่อโครงการ AI ในท้องถิ่นและยืนยันข้อตกลงการจัดหาชิปหลังการลาออกของซีอีโอ Nvidia",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Nvidia"
-   ],
-   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -2235,23 +2062,6 @@
    "dedup": true
   },
   {
-   "id": "ad639fbc6552",
-   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-13T22:43:00+00:00",
-   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-   "text": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-   "title_th": "การลาออกของ Jensen Huang ส่งผลกระทบต่อเงินทุนสตาร์ทอัพ AI",
-   "summary_th": "นักลงทุนและผู้ก่อตั้งสตาร์ทอัพกังวลว่าการลาออกของซีอีโอ Nvidia จะทำให้การระดมทุนในอุตสาหกรรม AI ลดลงและมูลค่าบริษัทอาจต่ำลง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Nvidia"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "2bc265d529c4",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YWTVIaHFBZGp2SnNxSDM2TEU1YUdzZGZ1Zk5DUUtWTVJPTDFmZno5b0hKX0ZKZkJ3SU5EV212c0RXV0V6U3k1endpYUR3ZWJwR1ZDNDJILXJ2em1MWjdFQXdDaDdEenFj?oc=5",
    "source": "The New Stack",
@@ -2265,23 +2075,6 @@
     "Anthropic"
    ],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "951c84561943",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-   "source": "The Verge AI",
-   "published": "2026-11-13T20:45:10+00:00",
-   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-   "text": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
-   "title_th": "ChatGPT Wallet เปิดให้ AI Agents ของ OpenAI ทำการซื้อสินค้าแทนคุณได้",
-   "summary_th": "OpenAI เปิดตัว ChatGPT Wallet สำหรับผู้ใช้ ChatGPT Pro ในสหรัฐฯ เพื่อให้ AI Agents สามารถทำธุรกรรมซื้อสินค้าผ่านบัตรเครดิตได้",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -2378,23 +2171,6 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "627c324df106",
-   "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-   "source": "The Verge AI",
-   "published": "2026-11-13T19:17:15+00:00",
-   "title": "What’s really at stake in the Jensen Huang saga",
-   "text": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
-   "title_th": "ผลกระทบต่อเนื่องหลังการลาออกของ Jensen Huang",
-   "summary_th": "หลังการลาออกของซีอีโอ Nvidia ประเด็นที่น่าจับตามองคือความสัมพันธ์ทางการค้ากับจีนและท่าทีของรัฐบาลสหรัฐฯ ต่ออุตสาหกรรมชิป",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Nvidia"
-   ],
-   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -2547,23 +2323,6 @@
    "dedup": true
   },
   {
-   "id": "4e379f6cb9d3",
-   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-13T16:00:12+00:00",
-   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-   "text": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-   "title_th": "ChatGPT เปิดตัว Wallet ให้ AI Agent ช่วยช้อปปิ้งและชำระเงินแทนผู้ใช้",
-   "summary_th": "ChatGPT เพิ่มฟีเจอร์ Wallet ที่ช่วยให้ AI Agent สามารถดำเนินการซื้อสินค้าและชำระเงินแทนผู้ใช้ได้ โดยเริ่มเปิดให้ใช้งานในกลุ่มผู้ใช้ Pro ในสหรัฐอเมริกา",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "56623f1d9c94",
    "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
    "source": "TechCrunch AI",
@@ -2578,7 +2337,29 @@
    ],
    "importance": 5,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
+    }
+   ]
   },
   {
    "id": "ace7cac706df",
@@ -2674,7 +2455,17 @@
    ],
    "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    }
+   ]
   },
   {
    "id": "025a6c711bf8",
@@ -2741,23 +2532,6 @@
     "NVIDIA"
    ],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "69b43a95305b",
-   "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-13T12:28:23+00:00",
-   "title": "Jensen Huang didn’t show confidence in his successor, report says",
-   "text": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-   "title_th": "รายงานเผย Jensen Huang ไม่มั่นใจในตัวผู้สืบทอดตำแหน่ง",
-   "summary_th": "มีรายงานระบุว่า Jensen Huang เคยแสดงความไม่มั่นใจในตัวผู้สืบทอดตำแหน่งอย่าง Kress โดยเปรียบเทียบว่าเหมือนกวางที่ยืนนิ่งอยู่หน้าไฟหน้ารถในระหว่างการประชุม",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Nvidia"
-   ],
-   "importance": 2,
    "ai": true,
    "dedup": true
   },

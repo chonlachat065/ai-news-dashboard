@@ -28,6 +28,8 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # ใช้ข้อมูลข่าวล่าสุดเสมอ แม้เป็นการกดรันซ้ำของ commit เก่า
 
       - uses: actions/setup-python@v5
         with:
@@ -54,7 +56,8 @@ jobs:
             echo "ไม่มีข่าวใหม่"
           else
             git commit -m "อัปเดตข่าว $(date -u +'%Y-%m-%d %H:%M') UTC"
-            git pull --rebase --autostash
+            # มีรอบอื่น push ข้อมูลระหว่างรัน → ใช้ข้อมูลของรอบนี้ (ใหม่กว่า) แทนการล้มเพราะ conflict
+            git pull --rebase --autostash -X theirs
             git push
           fi
 

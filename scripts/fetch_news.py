@@ -4,6 +4,7 @@
 ไม่มี key: ยังดึงข่าวได้ แต่ใช้คำโปรยต้นฉบับแทนสรุป (ไว้ทดสอบ) — รอบถัดไปที่มี key จะสรุปให้ย้อนหลัง
 ใช้แค่ standard library ไม่ต้อง pip install
 """
+import collections
 import concurrent.futures
 import gzip
 import hashlib
@@ -35,9 +36,11 @@ API_KEY = env("GEMINI_API_KEY", "")
 MODEL_ENV = env("GEMINI_MODEL", "")
 MAX_AGE_DAYS = env("MAX_AGE_DAYS", 3, int)          # ข่าวเก่ากว่านี้ไม่รับเข้า
 KEEP_DAYS = env("KEEP_DAYS", 14, int)               # เก็บไว้ในไฟล์กี่วัน
-MAX_NEW = env("MAX_NEW_PER_RUN", 90, int)           # ส่งให้ Gemini สรุปได้สูงสุดกี่ข่าวต่อรอบ (คุมงบ)
+MAX_NEW = env("MAX_NEW_PER_RUN", 150, int)          # ส่งให้ Gemini สรุปได้สูงสุดกี่ข่าวต่อรอบ (คุมงบ)
 BATCH = env("BATCH_SIZE", 15, int)                  # กี่ข่าวต่อการเรียก API หนึ่งครั้ง
 CALL_GAP = env("CALL_GAP_SEC", 5.0, float)          # เว้นระหว่างการเรียก (free tier จำกัดครั้ง/นาที)
+
+DATA_VERSION = 2  # 2 = กติการวมข่าวซ้ำแบบเข้ม (ข้อมูลรุ่น 1 จะถูกแตกการ์ดและตรวจใหม่หนึ่งครั้ง)
 
 API_BASE = "https://generativelanguage.googleapis.com/v1beta"
 FALLBACK_MODEL = "gemini-2.5-flash-lite"
@@ -198,14 +201,55 @@ def parse_hn(raw, feed):
     return out
 
 
+def parse_openrouter(raw, feed):
+    """โมเดลที่เพิ่งเปิดให้ใช้บน OpenRouter — สัญญาณเร็วสุดว่ามีโมเดลใหม่ออก"""
+    out, seen = [], set()
+    for m in sorted(json.loads(raw).get("data", []), key=lambda m: m.get("created", 0), reverse=True):
+        base = m.get("id", "").split(":")[0]  # รวม :free / :batch / :thinking เป็นตัวเดียว
+        if not base or base in seen:
+            continue
+        seen.add(base)
+        name = re.sub(r"\s*\((free|batch|thinking|beta)\)$", "", m.get("name") or base)
+        ctx = m.get("context_length")
+        out.append({
+            "title": f"New model on OpenRouter: {name}",
+            "url": f"https://openrouter.ai/{base}",
+            "source": feed["name"],
+            "text": clean_text(m.get("description")) + (f" (context {ctx:,} tokens)" if ctx else ""),
+            "published": datetime.fromtimestamp(m.get("created", 0), timezone.utc),
+        })
+    return out
+
+
+def parse_hf_models(raw, feed):
+    """โมเดลที่กำลังมาแรงบน Hugging Face (เรียงตาม trending) เฉพาะที่มีคนกดถูกใจถึงเกณฑ์"""
+    out = []
+    for m in json.loads(raw):
+        if m.get("likes", 0) < feed.get("min_likes", 100):
+            continue
+        out.append({
+            "title": f"Trending on Hugging Face: {m['id']}",
+            "url": f"https://huggingface.co/{m['id']}",
+            "source": feed["name"],
+            "text": f"{m.get('pipeline_tag') or 'model'} · {m.get('likes', 0):,} likes · trending score {m.get('trendingScore', 0)}",
+            "published": parse_date(m.get("createdAt")),
+        })
+    return out
+
+
 def fetch_feed(feed):
     kind, url = feed.get("type", "rss"), feed["url"]
     if kind == "hn":  # Hacker News ผ่าน Algolia API: เฉพาะเรื่องที่คะแนนถึงเกณฑ์ใน MAX_AGE_DAYS วันล่าสุด
         since = int(time.time()) - MAX_AGE_DAYS * 86400
         url += f"&hitsPerPage=50&numericFilters=points>{feed.get('min_points', 100)},created_at_i>{since}"
     raw = http_get(url)
-    parser = {"hf_papers": parse_hf_papers, "hn": parse_hn}.get(kind, parse_rss)
-    return parser(raw, feed)[: feed.get("limit", 10)]
+    parser = {"hf_papers": parse_hf_papers, "hn": parse_hn, "openrouter": parse_openrouter,
+              "hf_models": parse_hf_models}.get(kind, parse_rss)
+    items = parser(raw, feed)
+    if kind == "rss":  # Google News เรียงตามความเกี่ยวข้อง ไม่ใช่วันที่ → เรียงใหม่ก่อนตัด ไม่งั้นได้ข่าวเก่า
+        oldest = datetime.min.replace(tzinfo=timezone.utc)
+        items.sort(key=lambda x: x["published"] or oldest, reverse=True)
+    return items[: feed.get("limit", 10)]
 
 
 # ---------- Gemini ----------
@@ -296,7 +340,8 @@ SUMMARY_SCHEMA = {
 SUMMARY_PROMPT = """คุณคือบรรณาธิการข่าว AI สำหรับคนทำงานด้าน AI ในไทย
 สำหรับข่าวแต่ละชิ้นด้านล่าง ให้ตอบเป็นรายการ JSON ชิ้นละหนึ่งรายการ:
 - id: ตามที่ให้มา
-- relevant: true ถ้าเป็นข่าวเกี่ยวกับ AI / ML / LLM จริง, false ถ้าไม่เกี่ยวหรือเป็นโฆษณา
+- relevant: true ถ้าเป็นข่าวเกี่ยวกับ AI / ML / LLM รวมถึงโมเดลใหม่ (แม้เป็นแค่ชื่อโมเดลบน OpenRouter หรือ Hugging Face)
+  ธุรกิจ หุ้น การลงทุน คดี และระบบล่มของบริษัท AI · false เฉพาะข่าวที่ไม่เกี่ยวกับ AI เลย, สแปม, หรือโฆษณา
 - title_th: หัวข้อภาษาไทยกระชับ ไม่เกิน 90 ตัวอักษร คงชื่อเฉพาะและชื่อโมเดลเป็นภาษาอังกฤษ
 - summary_th: สรุปภาษาไทย 2–3 ประโยค บอกว่าเกิดอะไรขึ้นและสำคัญอย่างไร ใช้เฉพาะข้อมูลที่มีในต้นฉบับ ห้ามเติมตัวเลขหรือข้อเท็จจริงเอง
 - category: เลือกหนึ่งหมวดที่ตรงที่สุด
@@ -338,21 +383,28 @@ DEDUP_SCHEMA = {
             "type": "ARRAY",
             "items": {
                 "type": "OBJECT",
-                "properties": {"ids": {"type": "ARRAY", "items": {"type": "STRING"}}},
-                "required": ["ids"],
+                "properties": {"event": {"type": "STRING"}, "ids": {"type": "ARRAY", "items": {"type": "STRING"}}},
+                "required": ["event", "ids"],
             },
         },
     },
     "required": ["groups"],
 }
 
-DEDUP_PROMPT = """ด้านล่างคือรายการข่าว AI (id, หัวข้อ, แหล่ง, วันที่) บางชิ้นเป็นเหตุการณ์เดียวกันที่รายงานจากคนละสำนัก
-จับกลุ่มเฉพาะข่าวที่รายงาน "เหตุการณ์หรือประกาศเดียวกัน" เช่น การเปิดตัวโมเดลตัวเดียวกัน ดีลเดียวกัน คดีเดียวกัน
-ห้ามรวมข่าวที่แค่พูดถึงบริษัทหรือหัวข้อเดียวกันแต่เป็นคนละเหตุการณ์ ถ้าไม่แน่ใจให้แยกไว้
-ตอบเฉพาะกลุ่มที่มีตั้งแต่ 2 ข่าวขึ้นไป ข่าวที่ไม่ซ้ำกับใครไม่ต้องใส่
+DEDUP_PROMPT = """ด้านล่างคือรายการข่าว AI (id, หัวข้อ, หมวด, แหล่ง, วันที่) บางชิ้นเป็นข่าวเดียวกันที่รายงานจากคนละสำนัก
+จับกลุ่มเฉพาะข่าวที่รายงาน "เหตุการณ์เดียวกันเป๊ะ" เช่น ประกาศเปิดตัวโมเดลตัวเดียวกัน ดีลเดียวกัน คำตัดสินคดีเดียวกัน
+กติกา:
+- ห้ามรวมข่าวที่แค่พูดถึงบริษัท บุคคล หรือเรื่องราวต่อเนื่องเดียวกัน แต่เป็นคนละเหตุการณ์
+  (เช่น "บริษัท A เปิดตัวโมเดล X" กับ "บริษัท A เข้าตลาดหุ้น" เป็นคนละข่าว · ข่าวความคืบหน้าแต่ละวันของเรื่องเดียวกันเป็นคนละข่าว)
+- ข่าวเปิดตัวผลิตภัณฑ์หรือโมเดลต่างตัวกัน ห้ามรวมกันเด็ดขาด
+- event: เขียนเหตุการณ์ที่ทุกข่าวในกลุ่มรายงานตรงกันในประโยคเดียว ถ้าเขียนให้เป็นเหตุการณ์เดียวไม่ได้ แปลว่าไม่ควรรวม
+- ถ้าไม่แน่ใจให้แยกไว้ ตอบเฉพาะกลุ่มที่มีตั้งแต่ 2 ข่าวขึ้นไป
 
 ข่าว:
 """
+DEDUP_MAX_GROUP = 6          # กลุ่มใหญ่กว่านี้มักเป็น "หัวข้อเดียวกัน" ไม่ใช่ "ข่าวเดียวกัน" → ไม่รวม
+DEDUP_MAX_ALSO = 8           # การ์ดหนึ่งเก็บลิงก์แหล่งอื่นได้ไม่เกินนี้
+DEDUP_WINDOW = timedelta(hours=48)
 
 
 def dedupe(items, now):
@@ -364,37 +416,40 @@ def dedupe(items, now):
     ref = sorted((it for it in items.values() if it["ai"] and it.get("dedup") and it["published"] >= since),
                  key=lambda it: it["published"], reverse=True)[:150]
     pool = ref + fresh
-    payload = [{"id": it["id"], "title": it["title_th"], "source": it["source"], "date": it["published"][:10]} for it in pool]
+    payload = [{"id": it["id"], "title": it["title_th"], "category": it["category"], "source": it["source"],
+                "date": it["published"][:10]} for it in pool]
     groups = generate(DEDUP_PROMPT + json.dumps(payload, ensure_ascii=False), DEDUP_SCHEMA).get("groups", [])
 
     fresh_ids = {it["id"] for it in fresh}
-    alias, removed = {}, []
-
-    def root(i):
-        while i in alias:
-            i = alias[i]
-        return i
-
+    touched, removed = set(), []
     for g in groups:
-        raw = g.get("ids", [])
-        ids = list(dict.fromkeys(root(i) for i in raw if root(i) in items))
-        if len(ids) < 2 or not fresh_ids.intersection(raw):
+        # ไม่รวมต่อทอด: ข่าวที่อยู่ในกลุ่มอื่นของรอบนี้แล้วไม่นับซ้ำ (เดิมการต่อทอดทำให้การ์ดเดียวกลืนข่าว 30 ชิ้น)
+        ids = [i for i in dict.fromkeys(g.get("ids", [])) if i in items and i not in touched]
+        if not 2 <= len(ids) <= DEDUP_MAX_GROUP or not fresh_ids.intersection(ids):
             continue
+        group = [items[i] for i in ids]
+        # หมวดต่างกันมักแปลว่ารวมผิด (เช่นข่าวเปิดตัวโมเดลกับข่าวหุ้น) → เก็บเฉพาะหมวดที่มากสุดในกลุ่ม
+        top_cat = collections.Counter(it["category"] for it in group).most_common(1)[0][0]
+        group = [it for it in group if it["category"] == top_cat]
         # การ์ดเดิมที่แสดงอยู่แล้วเป็นหลัก ไม่งั้นเลือกข่าวที่สำคัญสุด แล้วข่าวที่ออกก่อน (มักเป็นต้นทาง)
-        group = sorted((items[i] for i in ids), key=lambda it: (not it.get("dedup"), -it["importance"], it["published"]))
+        group.sort(key=lambda it: (not it.get("dedup"), -it["importance"], it["published"]))
         primary = group[0]
-        seen = {primary["url"]} | {a["url"] for a in primary.get("also", [])}
+        t0 = datetime.fromisoformat(primary["published"])
+        group = [primary] + [it for it in group[1:] if abs(datetime.fromisoformat(it["published"]) - t0) <= DEDUP_WINDOW]
+        if len(group) < 2:
+            continue
         also = primary.setdefault("also", [])
+        seen = {primary["url"]} | {a["url"] for a in also}
         for it in group[1:]:
             for a in [{"source": it["source"], "url": it["url"]}, *it.get("also", [])]:
-                if a["url"] not in seen:
+                if a["url"] not in seen and len(also) < DEDUP_MAX_ALSO:
                     seen.add(a["url"])
                     also.append(a)
             primary["importance"] = max(primary["importance"], it["importance"])
             primary["companies"] = list(dict.fromkeys(primary["companies"] + it["companies"]))[:4]
             del items[it["id"]]
-            alias[it["id"]] = primary["id"]
             removed.append(it["id"])
+        touched.update(it["id"] for it in group)
     for it in fresh:
         if it["id"] in items:
             it["dedup"] = True
@@ -432,12 +487,23 @@ def main():
     old = json.loads(OUT_FILE.read_text(encoding="utf-8")) if OUT_FILE.exists() else {}
     items = {it["id"]: it for it in old.get("items", [])}
     skipped = list(old.get("skipped_ids", []))
+    version = old.get("version", 1) if old else DATA_VERSION
+    max_new, lookback = MAX_NEW, MAX_AGE_DAYS
+    if API_KEY and version < 2:
+        # รุ่น 1 รวมข่าวผิดเยอะ (ข่าวโมเดลใหม่ถูกกลืนเข้าการ์ดอื่น) → แตกการ์ดที่รวมไว้ ปล่อยให้ข่าวที่ถูกกลืนถูกดึงกลับมา
+        # แล้วตรวจข่าวซ้ำใหม่ทั้งหมดด้วยกติกาที่เข้มขึ้น · รอบนี้ย้อนหลัง 7 วันและสรุปได้มากกว่าปกติ
+        restore = {item_id(a["url"]) for it in items.values() for a in it.pop("also", [])}
+        skipped = [i for i in skipped if i not in restore]
+        for it in items.values():
+            it["dedup"] = False
+        max_new, lookback, version = 400, 7, 2
+        log(f"ย้ายข้อมูลเป็นรุ่น 2: แตกการ์ดที่รวมไว้ {len(restore)} ลิงก์")
     skipped_set = set(skipped)
     titles = {title_key(it["title"]) for it in items.values()}
 
     log(f"ดึงข่าวจาก {len(feeds)} แหล่ง…")
     sources, fresh = [], []
-    cutoff = now - timedelta(days=MAX_AGE_DAYS)
+    cutoff = now - timedelta(days=lookback)
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
         futures = {pool.submit(fetch_feed, f): f for f in feeds}
         for fut in concurrent.futures.as_completed(futures):
@@ -474,7 +540,7 @@ def main():
     digest = old.get("digest")
     if API_KEY:
         model = pick_model()
-        pending = sorted((it for it in items.values() if not it["ai"]), key=lambda it: it["published"], reverse=True)[:MAX_NEW]
+        pending = sorted((it for it in items.values() if not it["ai"]), key=lambda it: it["published"], reverse=True)[:max_new]
         log(f"สรุปด้วย {model}: {len(pending)} ชิ้น ({-(-len(pending) // BATCH)} ครั้ง)")
         for i in range(0, len(pending), BATCH):
             batch = pending[i : i + BATCH]
@@ -519,6 +585,7 @@ def main():
     keep_from = (now - timedelta(days=KEEP_DAYS)).isoformat()
     kept = sorted((it for it in items.values() if it["published"] >= keep_from), key=lambda it: it["published"], reverse=True)
     out = {
+        "version": version,
         "updated_at": now.isoformat(),
         "model": model,
         "digest": digest,

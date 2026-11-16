@@ -1,11 +1,11 @@
 # ข่าววงการ AI (AI News Dashboard)
 
-หน้าเว็บรวมข่าว AI จาก 15 แหล่ง สรุปเป็นภาษาไทยด้วย Gemini อัปเดตเองทุก 4 ชั่วโมง
+หน้าเว็บรวมข่าว AI จาก 19 แหล่ง (รวมแหล่งติดตามโมเดลใหม่: OpenRouter, Hugging Face trending) สรุปเป็นภาษาไทยด้วย Gemini อัปเดตเองทุก 2 ชั่วโมง
 **ค่าใช้จ่ายมีแค่ Gemini API** ส่วนอื่นใช้ของฟรีทั้งหมด (GitHub Actions + GitHub Pages)
 
 ```
 feeds.json ──► scripts/fetch_news.py ──► Gemini (สรุปไทย/จัดหมวด/ให้คะแนน) ──► site/data/news.json ──► site/ (หน้าเว็บ static)
-              (GitHub Actions ทุก 4 ชม.)                                                               (GitHub Pages)
+              (GitHub Actions ทุก 2 ชม.)                                                               (GitHub Pages)
 ```
 
 ## ติดตั้ง (ครั้งเดียว ~10 นาที)
@@ -20,7 +20,7 @@ feeds.json ──► scripts/fetch_news.py ──► Gemini (สรุปไท�
 5. แท็บ **Actions → อัปเดตข่าว AI → Run workflow** เพื่อรันรอบแรก
    เสร็จแล้วลิงก์เว็บจะขึ้นในหน้ารันนั้น (`https://<user>.github.io/<repo>/`)
 
-หลังจากนี้ระบบรันเองทุก 4 ชั่วโมง ไม่ต้องทำอะไรเพิ่ม
+หลังจากนี้ระบบรันเองทุก 2 ชั่วโมง (GitHub อาจเลื่อนหรือข้ามบางรอบตอนคิวแน่น) ไม่ต้องทำอะไรเพิ่ม
 
 ## รันในเครื่อง
 
@@ -49,9 +49,9 @@ python -m http.server 8000 --directory site
 
 | ต้องการ | แก้ที่ |
 |---|---|
-| เพิ่ม/ลบแหล่งข่าว | `feeds.json` (รองรับ RSS/Atom, Hacker News, HF Daily Papers · ตัดสำนักข่าวที่ไม่ต้องการด้วย `exclude_sources`) |
+| เพิ่ม/ลบแหล่งข่าว | `feeds.json` (รองรับ RSS/Atom, Hacker News, HF Daily Papers, OpenRouter, Hugging Face trending models · ตัดสำนักข่าวที่ไม่ต้องการด้วย `exclude_sources`) |
 | ความถี่ในการอัปเดต | `cron` ใน `.github/workflows/update-news.yml` |
-| จำกัดงบต่อรอบ / ขนาดชุด | Variable `MAX_NEW_PER_RUN` (90), `BATCH_SIZE` (15), `CALL_GAP_SEC` (5) |
+| จำกัดงบต่อรอบ / ขนาดชุด | Variable `MAX_NEW_PER_RUN` (150), `BATCH_SIZE` (15), `CALL_GAP_SEC` (5) |
 | เก็บข่าวย้อนหลังกี่วัน | Variable `KEEP_DAYS` (14) · รับข่าวที่อายุไม่เกิน `MAX_AGE_DAYS` (3) |
 
 ค่าทั้งหมดตั้งที่ GitHub: **Settings → Secrets and variables → Actions** — `GEMINI_API_KEY` เป็น Secret ที่เหลือเป็น Variable
@@ -61,7 +61,7 @@ python -m http.server 8000 --directory site
 ## ขึ้นเซิร์ฟเวอร์ทีมแทน GitHub Pages
 
 หน้าเว็บเป็นไฟล์ static ทั้งหมดใน `site/` จึงวางหลัง web server ใดก็ได้ (path ย่อยก็ได้ ใช้ลิงก์แบบ relative หมด)
-ต้องตั้ง cron บนเครื่องให้รัน `python scripts/fetch_news.py` ทุก 4 ชั่วโมง โดยมี `GEMINI_API_KEY` ใน environment
+ต้องตั้ง cron บนเครื่องให้รัน `python scripts/fetch_news.py` ทุก 2 ชั่วโมง โดยมี `GEMINI_API_KEY` ใน environment
 
 ## ข้อควรรู้
 

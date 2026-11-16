@@ -40,7 +40,7 @@ MAX_NEW = env("MAX_NEW_PER_RUN", 150, int)          # ส่งให้ Gemini 
 BATCH = env("BATCH_SIZE", 15, int)                  # กี่ข่าวต่อการเรียก API หนึ่งครั้ง
 CALL_GAP = env("CALL_GAP_SEC", 5.0, float)          # เว้นระหว่างการเรียก (free tier จำกัดครั้ง/นาที)
 
-DATA_VERSION = 2  # 2 = กติการวมข่าวซ้ำแบบเข้ม (ข้อมูลรุ่น 1 จะถูกแตกการ์ดและตรวจใหม่หนึ่งครั้ง)
+DATA_VERSION = 3  # 2 = แตกการ์ดที่รวมผิดของรุ่น 1 · 3 = ตรวจข่าวซ้ำ 4 วันล่าสุดใหม่หลังขยายขนาดกลุ่ม (ทำครั้งเดียว)
 
 API_BASE = "https://generativelanguage.googleapis.com/v1beta"
 FALLBACK_MODEL = "gemini-2.5-flash-lite"
@@ -402,8 +402,8 @@ DEDUP_PROMPT = """ด้านล่างคือรายการข่า�
 
 ข่าว:
 """
-DEDUP_MAX_GROUP = 6          # กลุ่มใหญ่กว่านี้มักเป็น "หัวข้อเดียวกัน" ไม่ใช่ "ข่าวเดียวกัน" → ไม่รวม
-DEDUP_MAX_ALSO = 8           # การ์ดหนึ่งเก็บลิงก์แหล่งอื่นได้ไม่เกินนี้
+DEDUP_MAX_GROUP = 15         # กลุ่มใหญ่กว่านี้มักเป็น "หัวข้อเดียวกัน" ไม่ใช่ "ข่าวเดียวกัน" → ไม่รวม
+DEDUP_MAX_ALSO = 10          # การ์ดหนึ่งเก็บลิงก์แหล่งอื่นได้ไม่เกินนี้ (ส่วนเกินยังถูกรวม แค่ไม่เก็บลิงก์)
 DEDUP_WINDOW = timedelta(hours=48)
 
 
@@ -498,6 +498,14 @@ def main():
             it["dedup"] = False
         max_new, lookback, version = 400, 7, 2
         log(f"ย้ายข้อมูลเป็นรุ่น 2: แตกการ์ดที่รวมไว้ {len(restore)} ลิงก์")
+    if API_KEY and version < 3:
+        # รุ่น 2 ไม่รวมกลุ่มเกิน 6 ข่าว ข่าวใหญ่ที่ทุกสำนักลง (เช่นเปิดตัว Qwen4-Max) จึงขึ้นซ้ำหลายการ์ด → ตรวจ 4 วันล่าสุดใหม่
+        recent = (now - timedelta(days=4)).isoformat()
+        for it in items.values():
+            if it["published"] >= recent:
+                it["dedup"] = False
+        version = 3
+        log("ย้ายข้อมูลเป็นรุ่น 3: ตรวจข่าวซ้ำ 4 วันล่าสุดใหม่")
     skipped_set = set(skipped)
     titles = {title_key(it["title"]) for it in items.values()}
 

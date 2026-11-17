@@ -1,58 +1,59 @@
 {
  "version": 3,
- "updated_at": "2026-11-17T04:29:19+00:00",
+ "updated_at": "2026-11-17T15:57:52+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-17T04:29:19+00:00",
-  "headline": "อุตสาหกรรม AI เผชิญความท้าทายด้านความปลอดภัยและกฎระเบียบ ควบคู่ไปกับการเร่งพัฒนาฮาร์ดแวร์และโมเดลประสิทธิภาพสูง",
+  "generated_at": "2026-11-17T15:57:52+00:00",
+  "headline": "ความเคลื่อนไหวครั้งใหญ่ในอุตสาหกรรม AI ทั้งการเตรียม IPO ของ Anthropic ความก้าวหน้าด้านฮาร์ดแวร์จาก Nvidia และ Intel รวมถึงประเด็นความปลอดภัยและจริยธรรมของ AI ที่เข้มข้นขึ้น",
   "points": [
    {
-    "text": "OpenAI เผชิญแรงกดดันด้านกฎหมายและความปลอดภัย หลังถูกอัยการรัฐแคลิฟอร์เนียฟ้องกรณี AI Agent และต้องเร่งปรับปรุงระบบตรวจสอบความปลอดภัยร่วมกับหน่วยงานภายนอก รวมถึงเปิดตัวเครื่องมือตรวจจับภาพละเมิดเด็ก",
+    "text": "Anthropic เตรียมเข้าตลาดหุ้นในวันพฤหัสบดีนี้ด้วยความมั่นใจจากตลาด โดยคาดการณ์ราคา IPO ไว้ที่ระดับสูงสุด พร้อมสัดส่วนการถือหุ้นของ Amazon และ Google ประมาณ 28% และมีการปรับนโยบายความปลอดภัยให้โปร่งใสขึ้น",
     "ids": [
-     "773cc78ee17a",
-     "99f66f454c3b",
-     "ea6ee25fa2b6",
-     "5f72fbdc79b9",
-     "ebd9eb949639"
+     "f0834218f9a2",
+     "c7d9c2a531ad",
+     "8b951e8561e2",
+     "cfbe3444ffa3"
     ]
    },
    {
-    "text": "Nvidia เดินหน้าครองตลาดด้วยการเปิดตัวแพลตฟอร์ม Vera Rubin, GPU รุ่นใหม่ และชุดพัฒนา DGX Spark พร้อมรับมือกับความท้าทายภายในองค์กรและประเด็นการควบคุมการส่งออกชิปของสหรัฐฯ",
+    "text": "Nvidia เผชิญความท้าทายด้านการบริหารภายในท่ามกลางการรายงานผลประกอบการ แต่ยังคงเดินหน้าเปิดตัวเทคโนโลยีใหม่ เช่น แพลตฟอร์ม Vera Rubin และ GPU รุ่น Rubin HPC พร้อมจัดตั้งคณะกรรมการดูแลความมั่นคงแห่งชาติ",
     "ids": [
-     "0f2a855bc6a8",
-     "6cab091c059a",
-     "8617ffe05c73",
      "bd7cc537cd57",
      "51273f0e0cc7",
-     "772ccdf8e8c7",
-     "2b2bb87b4857",
-     "2453547dcede"
+     "2a8f3e96bb72",
+     "0f2a855bc6a8",
+     "6cab091c059a",
+     "2b2bb87b4857"
     ]
    },
    {
-    "text": "บริษัทเทคโนโลยีชั้นนำอย่าง Tencent และ Alibaba เปิดตัวโมเดล AI รุ่นใหม่ที่เน้นความคุ้มค่าและประสิทธิภาพด้านต้นทุน เพื่อตอบโจทย์การใช้งานในระดับองค์กร",
+    "text": "การแข่งขันด้านโมเดล AI รุนแรงขึ้นด้วยการเปิดตัว Qwen 3.5 จาก Alibaba, Gemini 4 Hydrogen จาก Google, Hy4 flash จาก Tencent และโมเดลใหม่จาก Nvidia และ SenseNova รวมถึง Intel ที่เปิดตัว GPU รุ่น D270 มาท้าชน",
     "ids": [
+     "f5b06d18915b",
+     "c6a092f28daa",
      "060aaf235d44",
-     "fd623b70dc5a",
-     "b15a9966cf1a"
+     "d90297486654",
+     "ef144ec543ff",
+     "73913a5e381c"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวในภาคธุรกิจ AI ยังคงคึกคัก ทั้งการระดมทุนของสตาร์ทอัพด้านความปลอดภัยไซเบอร์อย่าง Corma และการนำ AI ไปประยุกต์ใช้ในงานสาธารณสุขและสื่อมวลชน",
+    "text": "ประเด็นความปลอดภัยและจริยธรรม AI กลายเป็นจุดสนใจหลัก หลัง OpenAI ถูกฟ้องร้องกรณี AI Agent และพบปัญหาโมเดลระบุเป้าหมายทางทหารผิดพลาด รวมถึงการใช้เครื่องมือ AI ในทางที่ผิดและการร่วมมือกับ NATO เพื่อเสริมความปลอดภัย",
     "ids": [
-     "bec78e9702b1",
-     "b0ded74e06b0",
-     "cfcc7acb02e9",
-     "91e58e2ea930",
-     "600acd7501fc"
-    ]
-   },
-   {
-    "text": "ประเด็นด้านโครงสร้างพื้นฐานและภัยคุกคามทางไซเบอร์ยังคงเป็นที่จับตา ทั้งการใช้พลังงานมหาศาลของศูนย์ข้อมูล และการเตือนภัยจาก FBI เรื่องการใช้เครื่องมือโอเพนซอร์สโจมตีเครือข่าย",
-    "ids": [
-     "0873131c018e",
-     "94e979efd738",
+     "773cc78ee17a",
+     "3482eac695ff",
+     "590cb0b9c5dd",
+     "5f72fbdc79b9",
+     "99f66f454c3b",
+     "ea6ee25fa2b6",
      "030a040e02b2"
+    ]
+   },
+   {
+    "text": "ความเคลื่อนไหวในกลุ่มสตาร์ทอัพและธุรกิจยาด้วย AI มีความคืบหน้าสำคัญ โดย Isomorphic Labs ระดมทุน 5 พันล้านดอลลาร์เพื่อการทดลองทางคลินิก และ Corma สตาร์ทอัพด้านความปลอดภัยไซเบอร์มีมูลค่าบริษัทแตะ 1 พันล้านดอลลาร์",
+    "ids": [
+     "ed47f6db4915",
+     "bec78e9702b1"
     ]
    }
   ]
@@ -96,9 +97,9 @@
   },
   {
    "name": "Anthropic (Google News)",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 20,
+   "error": null
   },
   {
    "name": "เปิดตัวโมเดลใหม่ (Google News)",
@@ -169,7 +170,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": null
   }
  ],
@@ -497,9 +498,743 @@
   "b2c7469dc201",
   "2f1f5cbf7ce8",
   "21a6fc2b55ff",
-  "a59424729711"
+  "a59424729711",
+  "66133ec2e652",
+  "a127bdd6bea9",
+  "6755813e5cbe",
+  "afafc998efae",
+  "684b759b3ae3",
+  "ae3ee0f483ed",
+  "e0838cef6836",
+  "a6b0eb79c7a5",
+  "cf29998a22bc",
+  "733faed5f8c4",
+  "4cdbdf6efd16",
+  "59dbdac240e7",
+  "c888e622e243",
+  "90e26cdbc6a1",
+  "862ce56f0074",
+  "feb655f31432",
+  "77cb1c18e58d",
+  "5a429270b13b",
+  "b59f15d232da"
  ],
  "items": [
+  {
+   "id": "cfbe3444ffa3",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd2ptRk5pdHFCQjZ0ZktIYTh1ZEd3VkZGQXRTZmtCQl9SeDhDU3FHZEc5WkpCaF9kdzJfajBrZTF1YmYwRHllS0d3VFdWVHRaYng1S05RbE1hNU5OX3hyLU5sWVdsY1VsemV6aUhnRERQcXdyQ3R1ck1RV0c5bC1QRjdUVEE0SHRla1VBeGtNZUg2RG81cGJ3MkNPYUFsM3RJYTRpSEZxZ2JyYzc1Yk53RWo5ZFFaZzJaUXNmSXRPTkp0Vy11SklXYi1rOVRraFhRekRjMGRwaURJX3psNXlDbE9hS3hmZ3BZcHc?oc=5",
+   "source": "The Globe and Mail",
+   "published": "2026-11-17T15:32:08+00:00",
+   "title": "Anthropic's Quarterly Revenue Jumped 47% to $17 Billion Ahead of Its IPO",
+   "text": "",
+   "title_th": "Anthropic ลดระยะเวลาการเปิดเผยข้อมูลช่องโหว่ร้ายแรงเหลือ 30 วัน",
+   "summary_th": "Anthropic ปรับนโยบายใหม่โดยลดระยะเวลาในการแจ้งเตือนช่องโหว่ด้านความปลอดภัยที่ร้ายแรงลงเหลือ 30 วัน เพื่อเพิ่มความโปร่งใสและความปลอดภัยให้กับผู้ใช้งาน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2d7ce6a674ee",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcHQ3M0N6OTJNbHFoV1Fabmk4cmVidzZiRkhQX2dKWVN1YjFDZHZMQlhLSlBlSTBBY3gyQl9vdHZjWGVwN0x6UE8telFZUFlNVWx0dU1jVnJtWjIzTEVWQkxJVmluTjdwWEZSb1BmTTVOUzI5WlVoUFhHVWlPMTlMVHlB?oc=5",
+   "source": "Infosecurity Magazine",
+   "published": "2026-11-17T15:30:00+00:00",
+   "title": "Anthropic Cuts Disclosure Deadline to 30 Days For Serious Bugs",
+   "text": "",
+   "title_th": "Anthropic Cuts Disclosure Deadline to 30 Days For Serious Bugs",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "ef144ec543ff",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T15:14:24+00:00",
+   "title": "SenseNova-Loop-9B vs its own Preview: AutomationBench 14.33 to 36.67, GAIA 37.86 to 69.90 (9B Looped Transformer)",
+   "text": "https://huggingface.co/sensenova/SenseNova-Loop-9B The Preview was posted here a few times over the last weeks. This is the full release, same design: 32 layers stored, 24 of them run twice, so a forward pass does 56 layers of work on about 9B params. Apache 2.0. What moved is the scores. Per their README it's ahead of the Preview on all seven benchmarks in the chart, e.g. AutomationBench 14.33 to 36.67, Terminal-Bench 2.1 40.45 to 59.55 and GAIA 37.86 to 69.90. That 36.67 is also what they list for Qwen3.8-27B. 4-bit weights are about 4.9 GB. Code plus the vLLM and SGLang setup: https://githu",
+   "title_th": "เปิดตัว SenseNova-Loop-9B โมเดล 9B ที่ใช้เทคนิค Looped Transformer",
+   "summary_th": "SenseNova-Loop-9B เป็นโมเดลโอเพนซอร์สที่ใช้สถาปัตยกรรม Looped Transformer โดยมีการนำเลเยอร์มาประมวลผลซ้ำเพื่อเพิ่มประสิทธิภาพ ผลการทดสอบในหลายเกณฑ์มาตรฐานดีขึ้นอย่างเห็นได้ชัดเมื่อเทียบกับรุ่นพรีวิว",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3189e4dabd37",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZDluYUVDS05CNGNvaFdLeW9JR2ppU3IwVlBZVnpOcHJMckExZjVqWDNKVzBzZEFkYWRsSllYS2NKeU5XZnBjS0tRVUFSaTJxSUN0dDZwS3lnX1pESXh5NXNrbU9RU19fVWg5b242OVU2d0d1aURwaGNETTBfeUVEVW5BUHNuRlZmUE1lSnJ0QlVjeFRENVdITDcyWTlpTVdSZlU1REZqbzNGUUtDVVc3ZEVkeVI4VXF0c3RfY21zRWVjVDhzMGhDWE5yd0FaWFhUUGREWDhKa3diUzJOVXhya3JIS3ByUmJ0Yk9KMjBQU2loRUU?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-17T15:02:44+00:00",
+   "title": "Steve Eisman Says Anthropic IPO Is ‘Not Important Anymore,’ Points To Data Center Slowdown, Revenue Risk",
+   "text": "",
+   "title_th": "Steve Eisman มอง IPO ของ Anthropic ไม่น่าสนใจอีกต่อไป",
+   "summary_th": "นักลงทุนชื่อดังแสดงความกังวลต่อการ IPO ของ Anthropic โดยชี้ไปที่ปัญหาการชะลอตัวของศูนย์ข้อมูลและความเสี่ยงด้านรายได้ในอนาคต",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1e73ab6678be",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUFdBdHRlY2RNQm5RQ3kwMlN5SDBQeG1BM3JjZlBnTXdaNXBKeE9Kc2dmbEd5QXctRHQxQzNoeU1mZlZCLXI0SzY2X0ZlMlo3ZGpvOHA4S2VwbUNLMldIeHkwMVNJbUgtbF8tLUw4cTJidGh4Z0djSlVhUlg3SmRrMHRn?oc=5",
+   "source": "TechRepublic",
+   "published": "2026-11-17T15:01:13+00:00",
+   "title": "Claude for Excel Can Fix Your Formulas — but Who Checks Claude?",
+   "text": "",
+   "title_th": "Claude for Excel ช่วยแก้สูตรคำนวณ แต่ใครจะเป็นผู้ตรวจสอบความถูกต้อง?",
+   "summary_th": "การนำ Claude มาใช้ใน Excel ช่วยอำนวยความสะดวกในการแก้ไขสูตรคำนวณ แต่ยังคงมีคำถามสำคัญเรื่องความน่าเชื่อถือและการตรวจสอบผลลัพธ์ที่ AI สร้างขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3482eac695ff",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSS1jZVhGcHo5bUV2U1RFTmhhaVpURXhZSXVwcFUxYkpLcHAzUG1yclpmNmxkQVR3SS1ndWprbGdZYThiRm12b2lMWmkzaUliVWRCSUs0QkVpZGFUUVQtUm9MUzg5QkhQaDlEcmVfakwzUE5yY0xNdUZOZkVxYTltMXRWbXBCb1pjZ0V2cll3bmtYRE1HQVZzbno0UWd1Q0tkd2hYWkFhSERSUGZjaldCdldaa2FsX2gyYmFIQzFkUQ?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-17T15:00:38+00:00",
+   "title": "Anthropic, Other AI Models Regularly Identify Civilians as Military Targets in Tests",
+   "text": "",
+   "title_th": "ผลทดสอบพบโมเดล AI หลายค่ายระบุพลเรือนเป็นเป้าหมายทางทหารผิดพลาด",
+   "summary_th": "มีการตรวจพบว่าโมเดล AI หลายรุ่นมักระบุพลเรือนเป็นเป้าหมายทางทหารในการทดสอบ ซึ่งสะท้อนถึงความเสี่ยงด้านจริยธรรมและความแม่นยำของ AI ในบริบทที่ละเอียดอ่อน",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "df92921082e9",
+   "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-17T15:00:00+00:00",
+   "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+   "text": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a specialized travel-planning agent can […]",
+   "title_th": "Voyage Labs ระดมทุน 12 ล้านดอลลาร์ พัฒนา AI ช่วยวางแผนการเดินทาง",
+   "summary_th": "สตาร์ทอัพใหม่ที่ก่อตั้งโดยอดีตพนักงาน Google Maps ระดมทุนเพื่อสร้าง AI ผู้ช่วยเฉพาะทางสำหรับการวางแผนการท่องเที่ยวโดยเฉพาะ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Voyage Labs",
+    "Google"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ed47f6db4915",
+   "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-17T14:50:58+00:00",
+   "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+   "text": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+   "title_th": "Isomorphic Labs ระดมทุน 5 พันล้านดอลลาร์ มุ่งหน้าสู่การทดลองทางคลินิก",
+   "summary_th": "บริษัทด้านการค้นพบยาด้วย AI ซึ่งแยกตัวมาจาก DeepMind ของ Google ประสบความสำเร็จในการระดมทุนรอบ Series C เพื่อนำยาที่พัฒนาไปสู่ขั้นตอนการทดลองทางคลินิก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Isomorphic Labs",
+    "Google",
+    "DeepMind"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c7d9c2a531ad",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmszbVZ1SUxDZmp2RFdENXZ2TlozWDgyeXpSQU11ZlVoRGRsdXRzNFk5eHoxRFRYUFdpMG9UZE9MYm9sZmlBRmdmRzcwTEdLOWFhdWJScVgxOEhSSHJ6cEtrY09sMFVOdWttTnloNGdzM1dESEt6eWptN3hna1loVUFPbzNiRXUxZ1lRRVFES19zSkUyQ0lkWFRJcng5N290STZCRVBCcUd0eVdzUDhReDlR?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-17T14:45:22+00:00",
+   "title": "Anthropic Said to Guide IPO Price to Top of Range or Above",
+   "text": "",
+   "title_th": "Anthropic คาดการณ์ราคา IPO อยู่ในระดับสูงสุดของช่วงราคาหรือสูงกว่า",
+   "summary_th": "มีรายงานว่า Anthropic กำหนดทิศทางราคาหุ้นสำหรับการเสนอขาย IPO ไว้ที่ระดับสูงสุดของช่วงราคาที่ประเมินไว้ สะท้อนความมั่นใจของตลาด",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8b951e8561e2",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTVjYUJNX2VCTXhSNl96ZFNrRDllSnNGazFzVFRwVDREZmdXLUtaWGd6cnhGejVDQ1NlY2FTc3FING5PUVNUS0p3UmdVTF9VLU1WSUFuV0lJZ0pYczJ3dktrTVMzNnZjclJwX3prNHFrb1l1MUR5R2JEN2tfakRPRENoX2pYTFZfTVgwS0RYeUdPSHdtN1NSNkxpTExrWXI5Y1ZqNG5uRjltdmFmRTFJancxSzVaOVHSAbwBQVVfeXFMT1NIVE5ZWXFfazRiWWZHdDY1dWRlU2t4blhVenFWdVBZNU5kdHlZc1FtM2xrWF9rdlpncko0UEhyaFV5dnVCUTZSbTRRM1NZTzBIa1ZIZ1o1TGtYRmxmZ1pwbjVpLTZQNFEtX0c4WlQ2OVY0NHVZS0dtYUQ4bF9tOXMyQjBHYlVlcldzLWpsaU1SUWt2cnBWNl9iM3N2WVI3TXl5aS16Y3FjTXliVVNtMjZxOG5NY0xKdkV1YmY?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-17T14:30:44+00:00",
+   "title": "Amazon, Google to have about 28% of Anthropic stock after IPO",
+   "text": "",
+   "title_th": "Amazon และ Google คาดถือหุ้น Anthropic ประมาณ 28% หลัง IPO",
+   "summary_th": "สัดส่วนการถือหุ้นของยักษ์ใหญ่เทคโนโลยีอย่าง Amazon และ Google ใน Anthropic จะอยู่ที่ประมาณ 28% หลังจากการเสนอขายหุ้น IPO",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Amazon",
+    "Google",
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a24ce5e3608f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xylrup/everyones_hyped_about_chatgpt_dots_and_claude/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T14:26:03+00:00",
+   "title": "everyone's hyped about ChatGPT Dots and Claude Duet. I'm a local guy, so I built an open source one that runs on my GPU",
+   "text": "Dodaios is a locally installed, open-source Python program that runs as a desktop app or as a headless server with a browser UI on Windows, macOS and Linux. It turns a personal AI assistant into the control center for the work you do on your computer. At its core is a \"lead\" assistant you can talk to by voice (wake word, dictation, real-time spoken conversation and, as an early preview, phone calls), by chat or from a paired phone. It isn't tied to one provider and works with Claude, OpenAI, Gemini or local Ollama models. It handles tasks itself through tools, computer use, plugins, CLIs and M",
+   "title_th": "เปิดตัว Dodaios โปรแกรม AI โอเพนซอร์สสำหรับรันบน GPU ส่วนตัว",
+   "summary_th": "Dodaios เป็นโปรแกรมโอเพนซอร์สที่ติดตั้งบนเครื่องคอมพิวเตอร์ส่วนตัวเพื่อทำหน้าที่เป็นศูนย์กลางควบคุมงานต่างๆ โดยรองรับการเชื่อมต่อกับโมเดลจากหลายผู้ให้บริการ",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Anthropic",
+    "OpenAI",
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f0834218f9a2",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXlsR2lwUDZQTnV5RGhrQjIwNG1TbzlKY2tsbHVzN2NiNmsxbGtQeWtxRTZXUFpvSFRHUVhweU95RzBrVzN5YXd6YzloVUdBeUtnM2xiQVlsdnBJYWpSemVRTkhWb1FFMDlLd1BORi1LYXJJVk5Bc3BnN1ZwekVxZVF1bExoQWtUc3RKYQ?oc=5",
+   "source": "Critical Hit",
+   "published": "2026-11-17T14:20:21+00:00",
+   "title": "Anthropic IPO: Claude’s Maker Heads for Thursday Debut",
+   "text": "",
+   "title_th": "Anthropic เตรียมเข้าตลาดหุ้นวันพฤหัสบดีนี้",
+   "summary_th": "บริษัทผู้พัฒนา Claude เตรียมตัวเข้าสู่ตลาดหลักทรัพย์อย่างเป็นทางการในวันพฤหัสบดีนี้ ซึ่งถือเป็นเหตุการณ์สำคัญของวงการ AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "357aa42f9e67",
+   "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+   "source": "Hacker News",
+   "published": "2026-11-17T14:19:59+00:00",
+   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+   "text": "109 points, 107 comments on Hacker News (https://news.ycombinator.com/item?id=50531751)",
+   "title_th": "ซีอีโอ Baidu และ Xiaomi เตือนถึงช่องว่างที่กว้างขึ้นระหว่างกระแส AI และผลตอบแทนจริง",
+   "summary_th": "ผู้บริหารระดับสูงของ Baidu และ Xiaomi ออกมาแสดงความกังวลเกี่ยวกับความแตกต่างระหว่างความคาดหวังในตลาด AI กับผลกำไรที่เกิดขึ้นจริง ซึ่งสะท้อนถึงความท้าทายในการเปลี่ยนผ่านเทคโนโลยีสู่ธุรกิจที่ทำกำไรได้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Baidu",
+    "Xiaomi"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a7bfc034a666",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyllk7/are_those_that_advocate_against_open_weight/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T14:18:43+00:00",
+   "title": "Are those that advocate against open weight models public enemy #1 ?",
+   "text": "Dario says you can't allow open weight models because they are too dangerous: https://x.com/vikktorrrre/status/2122353364306374986 What are arguments against this line of thinking? We prefer democracy over the government controlling what is safe? Who wants to trust trump? LOL submitted by /u/Terminator857 [link] [comments]",
+   "title_th": "ข้อถกเถียงเรื่องความปลอดภัยของโมเดลแบบ Open Weights",
+   "summary_th": "เกิดการวิพากษ์วิจารณ์มุมมองของ Dario Amodei ที่มองว่าโมเดลแบบ Open Weights มีความเสี่ยงเกินไป โดยชุมชนผู้ใช้งานตั้งคำถามถึงความสมดุลระหว่างความปลอดภัยและการเปิดกว้างทางประชาธิปไตย",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2a8f3e96bb72",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-17T14:05:30+00:00",
+   "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+   "text": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+   "title_th": "Nvidia จัดตั้งคณะกรรมการดูแลความมั่นคงแห่งชาติหลังการเปลี่ยนผ่านผู้บริหาร",
+   "summary_th": "Nvidia ประกาศจัดตั้งคณะกรรมการชุดใหม่เพื่อกำกับดูแลนโยบายความมั่นคงแห่งชาติ การปฏิบัติตามกฎระเบียบการส่งออก และความเสี่ยงทางการค้าทั่วโลก",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Nvidia"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "47464bcdd529",
+   "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-17T14:00:00+00:00",
+   "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+   "text": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+   "title_th": "Spotify เปิดตัวเครื่องมือป้องกัน Deepfake เลียนแบบศิลปิน",
+   "summary_th": "Spotify พัฒนาเครื่องมือใหม่เพื่อป้องกันไม่ให้เพลงที่สร้างจาก AI ถูกระบุว่าเป็นผลงานของศิลปินจริง ท่ามกลางปัญหาการละเมิดลิขสิทธิ์เพลง Deepfake จำนวนมหาศาลที่ค่ายเพลงต้องเผชิญ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Spotify",
+    "Sony Music"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2c26b301a2f8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T13:48:41+00:00",
+   "title": "[Harness Adapters] Fine tune Qwen3.8-27B for Pi Agents",
+   "text": "Hey folks! Aritra here from Hugging Face. In the last week we released a blog post about harness adapters . The idea was to train adapters (LoRA) on models to be more efficient with specific harness. Today we release a LoRA adapter on the Qwen3.8-27B model for Pi agents. You can run it locally like so: ```bash hf download ggml-org/Qwen3.8-27B-GGUF Qwen3.8-27B-Q8_0.gguf --local-dir . hf download harness-hub/Qwen3.8-27B-pi-GGUF Qwen3.8-27B-pi-lora-F16.gguf --local-dir . llama serve -m Qwen3.8-27B-Q8_0.gguf --lora Qwen3.8-27B-pi-lora-F16.gguf \\ --chat-template-kwargs '{\"enable_thinking\": false}' ",
+   "title_th": "Hugging Face ปล่อย LoRA adapter สำหรับโมเดล Qwen3.8-27B เพื่อใช้งาน Pi agents",
+   "summary_th": "ทีมงานจาก Hugging Face เปิดตัว LoRA adapter ที่ช่วยให้โมเดล Qwen3.8-27B ทำงานได้อย่างมีประสิทธิภาพมากขึ้นสำหรับงานเฉพาะทางอย่าง Pi agents โดยสามารถรันได้ในเครื่องของผู้ใช้งานเอง",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Hugging Face"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6016f83e09b1",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRlh1ckJKV0NOb2hRUWhia2M2YzVndE03NEtXcGRiTmJPRHlRX1E3ZDJzWV9XTzBJVzdKMHhYVl8wdlFSY1JVczlYRTBBN0hvUEdOOU9saTBMSXBHQjE5VW4yTjRQQzI4ZHdZWjhCbFZnTXY1bE4wNnFZRjVfZXNfYVFBbFpOU2o4djRBb1dlaWtpdEtIUUdPT0RtV0ZQTllCdzlpMjVMUXR0WkJUdDFMMWdsYkNBbXdWOUdYN0UwUjd4YnFuSjNrajBqcTlkbWx0OU5pS3hrbHJNUmZyMmd3aloyNVFfYTNTY25nemhqMGh4QXRWVVV6czhmdWJHUFFVMlJ6Yjg5Z1l6ZXfSAZACQVVfeXFMTVNvY2FVRmlaemVOUGhOVktxb1Fqd1l5TkdPM1h0dWlaVFZqWkxGT3lsUERRVm1CdVJiMDBLYWxmaDFnRTFqTmdSU2hRWU5aR3Rrd1llLTRpaWx3el8zdl9wSnhHdk5iVkxBbW83elNoNU9kZTBRcXhLZm14aktod08zODdqRTBrZ3oxNVBYR09sQVNxM1h6Qm1XUmQ3LXNqclAzSjZIWkcwR0ktckNmczFwVmNIT1VGV05FcjFEVW1UUDBfUFdWS3UzaGhUdmtnSFp5ckJzaFJZVnV1RlpGVG5QT0VQNTJlbjlSWmxNY1JUUVZrVjItR1JEeW9aQmRZTTI5ekhoczAzUUN6aXRWRVA?oc=5",
+   "source": "This is Money",
+   "published": "2026-11-17T13:46:36+00:00",
+   "title": "UK armchair investors may miss out in scramble for Anthropic shares as AI giant is tipped for $1.75trillion valuation despite crisis at Nvidia",
+   "text": "",
+   "title_th": "นักลงทุนรายย่อยในอังกฤษอาจพลาดโอกาสลงทุนใน Anthropic ท่ามกลางมูลค่าบริษัทที่พุ่งสูง",
+   "summary_th": "Anthropic ถูกคาดการณ์ว่าจะมีมูลค่าบริษัทสูงถึง 1.75 ล้านล้านดอลลาร์ แม้ว่าตลาดหุ้นกลุ่มเทคโนโลยีอย่าง Nvidia จะเผชิญกับวิกฤตก็ตาม",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Nvidia"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "46b944dd9d3f",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXlrX2MzQU9hakFSTmRJM0RrYTNCYkZBQmNHc3loc3BFdjlrQUNXR2k2aWFwN3dKc1VFNGJ1YUFfc3FLMU1RSzJsc0t3dTNHd2JTZl9uMnYyQ3lEOU1sTHBNNzRiUloyRE1WaEFmMXlCa3VEY3B2dVNNa3o0YlBvX0JXRjFfY25SR1pHc2ZLREFrZzkwZ1lfTXFibzhDZ3hCQXhEUjFZdENGTmVp?oc=5",
+   "source": "The Guardian",
+   "published": "2026-11-17T13:45:00+00:00",
+   "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
+   "text": "",
+   "title_th": "คำแนะนำสำหรับนักลงทุนที่สนใจซื้อหุ้น IPO ของ Anthropic",
+   "summary_th": "บทความวิเคราะห์ถึงความเป็นไปได้และวิธีการเข้าถึงหุ้นของ Anthropic สำหรับนักลงทุนทั่วไปที่สนใจในบริษัท AI ยักษ์ใหญ่รายนี้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f682c4f7ef31",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xykjuy/the_upcoming_open_weight_small_qwen_models_are/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T13:33:05+00:00",
+   "title": "The upcoming open weight small Qwen models are likely going to lack training data related to offensive cyber capabilities.",
+   "text": "With the release of Qwen 4 Max, they claim that training data related to offensive capabilities has been removed, is this largely a placebo/nothingburger or does it have the capability to genuinely lobotomize a model's capabilities in cyber? submitted by /u/Rare_Subject2343 [link] [comments]",
+   "title_th": "ข้อสงสัยเกี่ยวกับประสิทธิภาพของโมเดล Qwen 4 Max หลังตัดข้อมูลด้านไซเบอร์ออก",
+   "summary_th": "ชุมชนผู้ใช้งานตั้งคำถามว่าการนำข้อมูลที่เกี่ยวข้องกับความสามารถด้านไซเบอร์ออกจากโมเดล Qwen 4 Max จะส่งผลกระทบต่อประสิทธิภาพการทำงานจริง หรือเป็นเพียงมาตรการเชิงสัญลักษณ์เท่านั้น",
+   "category": "งานวิจัย",
+   "companies": [
+    "Alibaba"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f7192e3515be",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T12:48:09+00:00",
+   "title": "Gemma on a printer",
+   "text": "Now you can run Gemma locally on your printer (from u/hackerllama ) https://x.com/osanseviero/status/2122646098418491739 submitted by /u/jacek2023 [link] [comments]",
+   "title_th": "นักพัฒนาทดลองรันโมเดล Gemma บนเครื่องพิมพ์",
+   "summary_th": "มีการสาธิตการรันโมเดล AI ขนาดเล็กอย่าง Gemma บนเครื่องพิมพ์ ซึ่งแสดงให้เห็นถึงความสามารถในการนำโมเดลไปใช้งานบนอุปกรณ์ฮาร์ดแวร์ทั่วไป",
+   "category": "อื่นๆ",
+   "companies": [
+    "Google"
+   ],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b09461ea69e7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T12:15:13+00:00",
+   "title": "GPU prices - Big \"discounts\"",
+   "text": "Discounts in quotes because these are still over MSRP, but my local Microcenter has the deepest \"discounts\" (sorry, I just can't call an over MSRP price a discount without quotes) I've seen in months on a lot of the AI cards. Pro4500 around 40% \"off\", Pro6000's 4K off with plenty of stock for both at my local (Charlotte) store. Pro 5000 72GB at 9K. Now, don't get me wrong, all these prices are still awful. But they are a little \"less awful\" than they were a month ago! It's still an awful time to buy any of this gear IMHO, but if you're desperate and need it, seems like we're finally starting t",
+   "title_th": "ราคาการ์ดจอสำหรับ AI เริ่มปรับตัวลดลงเล็กน้อยในตลาดค้าปลีก",
+   "summary_th": "ราคาการ์ดจอระดับมืออาชีพที่ใช้สำหรับงาน AI เริ่มมีการลดราคาในร้านค้าปลีก แม้ว่าราคาโดยรวมจะยังคงสูงกว่าราคาแนะนำของผู้ผลิตก็ตาม",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d68de631f7cf",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa09GbnFKUk1fTE9YQVhmb3o0MzFWLXVKQ19tSGVqUTFURXNQSHZXYVZISmxuSGlxRy1hQVZNU0d5bGNKVWJtcnBDQlE1N25MS2Z1dE1fZDRHdS1CTG5GR2UwYU92WjVNT2NGWnRtcUtIYW9VbmV5YTBYcHozdTZweENQU2NjS1dObFE3LU5fX3NpaWpBY0tNOG0xOWZIXy1aUGxObzdZcWNBbWZ0a1hDc3lvVXJTZndhY3Jr?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-17T12:10:03+00:00",
+   "title": "Hedge Fund Coatue’s AI Bet Pays Off With $10 Billion Anthropic Stake",
+   "text": "",
+   "title_th": "กองทุน Coatue ทำกำไรมหาศาลจากการลงทุนใน Anthropic",
+   "summary_th": "กองทุนเฮดจ์ฟันด์ Coatue ประสบความสำเร็จจากการลงทุนใน Anthropic โดยมีมูลค่าการถือครองสูงถึง 1 หมื่นล้านดอลลาร์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f71fc6f284ed",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0FuQlctZVYyaFpteXJldm9aTTNYVlVqN0xiNldUQU5fcmZDU1hjdmpSeC1DdXA2OEkwOHFTdEp4QlphUUYwTWRmdnJEbUdHLWhvZ3hRNkV5WE9IQzJIZ21zOUxoTEtFc19KMG5HazhlRmJIQmx6RTloV3FHQndtV2Y2SmczNWZ5cExCTFp4cWZBcWs?oc=5",
+   "source": "Pasquale Pillitteri",
+   "published": "2026-11-17T12:08:47+00:00",
+   "title": "NYT reveals why Silicon Valley turned on Anthropic's Amodei",
+   "text": "",
+   "title_th": "NYT เผยสาเหตุที่ Silicon Valley เริ่มตีตัวออกห่างจาก Dario Amodei แห่ง Anthropic",
+   "summary_th": "รายงานจาก New York Times ระบุถึงความขัดแย้งและมุมมองที่เปลี่ยนไปของกลุ่มผู้มีอิทธิพลใน Silicon Valley ที่มีต่อผู้บริหารของ Anthropic",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "73913a5e381c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T12:02:09+00:00",
+   "title": "Intel Shares First Benchmarks of Its Next-Gen Crescent Island \"D270\" GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 As Xe3P Goes Big On FP64",
+   "text": "The title talks about FP64. For local inference this info from the content is relevant: \"In AI benchmarks, Intel's D270 GPU offered 29% lower latency and 1.12x throughput versus the RTX PRO 6000 Blackwell.\" Maybe we are getting a good RTX PRO 6000 alternative... submitted by /u/pulse77 [link] [comments]",
+   "title_th": "Intel เผยผลทดสอบ GPU รุ่นถัดไป D270 ประสิทธิภาพเหนือกว่า RTX PRO 6000",
+   "summary_th": "Intel เปิดเผยผลทดสอบ GPU รุ่นใหม่ Crescent Island D270 ที่มีประสิทธิภาพในการประมวลผล AI สูงกว่า RTX PRO 6000 ของ Nvidia ในด้านความหน่วงและปริมาณงาน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Intel",
+    "Nvidia"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2f7d18775968",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T11:34:46+00:00",
+   "title": "Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp",
+   "text": "Significant prompt processing speedup with long contexts gpu_info model_type n_prompt n_gen n_depth Master (t/s) PR (t/s) Speed-up NVIDIA GeForce RTX 5090 qwen35 27B Q4_K - Medium 512 0 131072 1290.10833 1822.36027 1.41 NVIDIA GeForce RTX 5090 qwen35 27B Q4_K - Medium 512 0 65536 2030.31282 2527.97409 1.25 NVIDIA GeForce RTX 5090 qwen35 27B Q4_K - Medium 512 0 32768 2931.96118 3142.20539 1.07 NVIDIA GeForce RTX 5090 qwen35 27B Q4_K - Medium 512 0 16384 3562.18311 3573.59336 1.00 NVIDIA GeForce RTX 5090 qwen35 27B Q4_K - Medium 512 0 8192 3854.83184 3850.97547 1.00 NVIDIA GeForce RTX 5090 qwen3",
+   "title_th": "llama.cpp อัปเดตเพิ่มประสิทธิภาพการประมวลผล Prompt ด้วยการปรับ K/V Cache",
+   "summary_th": "มีการปรับปรุงการอ่าน K/V Cache ใน llama.cpp เพื่อเพิ่มอัตราการเข้าถึง L2 cache ส่งผลให้ความเร็วในการประมวลผล Prompt ยาวๆ เพิ่มขึ้นอย่างมีนัยสำคัญบนฮาร์ดแวร์ NVIDIA",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d3d4d3896a2d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T11:29:34+00:00",
+   "title": "nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+   "text": "Looks pretty interesting! Also sorry if the \"new model\" flair is inappropiate here, wasn't sure if I should pick that or \"discussion\". submitted by /u/Kahvana [link] [comments]",
+   "title_th": "เปิดตัวโมเดลใหม่ nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+   "summary_th": "มีการเปิดตัวโมเดล AI ใหม่ในชื่อ Qwen3.8-Flash-Next-NVFP4-QAD ซึ่งได้รับความสนใจในชุมชนนักพัฒนาโมเดลภาษาขนาดใหญ่",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a28359981da7",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oWUZPaW9vekJ5TERVXzdscG1jVnZuYWVCZHdEdkxHdFZNbV9wcTdKZFhtVGQ1SzJIcVlaczk2NjZmNlFSRTFsdVJlS1VNY3IwdmM4dTlhTHhya2s?oc=5",
+   "source": "Investing.com UK",
+   "published": "2026-11-17T10:57:20+00:00",
+   "title": "Anthropic IPO: Trading ANT CFDs on Plus500",
+   "text": "",
+   "title_th": "กระแสข่าวการ IPO ของ Anthropic บนแพลตฟอร์ม Plus500",
+   "summary_th": "มีการพูดถึงการซื้อขายสัญญาซื้อขายส่วนต่าง (CFD) ของหุ้น Anthropic บนแพลตฟอร์ม Plus500 ท่ามกลางความคาดหวังเรื่องการเสนอขายหุ้น IPO",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Plus500"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4f763cff3c09",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUktCZU1QSTRmVXFiNUthcEdBUFA3TU1xQjZTMkRGTm5jSXoyQjVRTVNZMUVHU3hjT2xVR2dyNU53VGl1SjZXV1JqZXhHWGZ0MTRSTV9RVC1QQi1ZdkxvM01WWkM1Y1NLNnJpcUxybEwwM2xUNnVLZE5WT2IyRndpR3pHQVZWU2NLMFdnVkVGajdkRnZJcjVoMGc5Y3A5NWFuVmFRc19pNGhBSnNITmw5Z1N5SFhja2xUNV8wSzZJUU56Y2k2TUlLbmI4cGVzTVRrOExGZGxVNXJDZElzQ1loUjFFdWRuVV94?oc=5",
+   "source": "www.marketscreener.com",
+   "published": "2026-11-17T10:50:21+00:00",
+   "title": "Infobip Expands Collaboration with Anthropic and Launches Infobip Message Connector in Claude Marketplace",
+   "text": "",
+   "title_th": "Infobip จับมือ Anthropic เปิดตัว Message Connector ใน Claude Marketplace",
+   "summary_th": "Infobip ขยายความร่วมมือกับ Anthropic โดยการเปิดตัวเครื่องมือเชื่อมต่อข้อความใน Claude Marketplace เพื่อเพิ่มช่องทางการใช้งาน AI ในระดับองค์กร",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Infobip",
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4984c32c8c0a",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2t5UkFLRWhRMnpNUEo3VnBzd003RS1XemtYUFNxR04ydktPVjVIT1VtM2JjcnA4QllVU2lhTThqbmtBcVp4Q09QRHhzcGtpeW1ndGhVTkhNdVhuLUJTeXdmd21SMnBuNTdCUzRhVVNyNXR3c2FHdW1OZnlhaHhGTVpDbnk5Z2xZbFNXRFIzU1RPYnhQUm1PRktYU1BRd3JnZm56QllpVllmSm5rV2RxeE5mVmZYc3NQcVI1YWVNRWZCdw?oc=5",
+   "source": "The Brussels Times",
+   "published": "2026-11-17T10:45:27+00:00",
+   "title": "French company launches AI model Olala as rival to US and Chinese competitors",
+   "text": "",
+   "title_th": "บริษัทฝรั่งเศสเปิดตัวโมเดล AI ชื่อ Olala หวังท้าชนคู่แข่งจากสหรัฐฯ และจีน",
+   "summary_th": "บริษัทเทคโนโลยีในฝรั่งเศสได้เปิดตัวโมเดล AI ตัวใหม่ที่ชื่อว่า Olala เพื่อเป็นทางเลือกและแข่งขันกับโมเดล AI จากบริษัทชั้นนำในสหรัฐอเมริกาและจีน",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a1a3153f55f1",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWJZZzRsTU5pWllRaFRHZzlXUzRaT1dXcWFuZ1BteEt1NGxrclhWRjE2c1IyYml0cVZVQzlSMzJOUWFQRDlURzk2dTJkenJjTUFuSkZkUndKLVNqNzdtYXhIX1JKSk04dnhlSUREVl9WdEVJcmVYa1RuSllMTy1qcm5aTjN0LVNqVzh2Sk5R?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-11-17T10:43:02+00:00",
+   "title": "OPM’s IT Office Funds Anthropic Software Order Through Carahsoft",
+   "text": "",
+   "title_th": "สำนักงาน IT ของ OPM สั่งซื้อซอฟต์แวร์ Anthropic ผ่าน Carahsoft",
+   "summary_th": "สำนักงานเทคโนโลยีสารสนเทศของ OPM ได้ดำเนินการจัดซื้อซอฟต์แวร์จาก Anthropic ผ่านตัวแทนจำหน่าย Carahsoft เพื่อนำมาใช้งานในหน่วยงาน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Carahsoft"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7e4c9f77767e",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNHVfUWd2XzRubVhPX1ZMUW1CQTZKVTJvaGZYbXozQkEydGRYem81endINGROczR5R3pOZ0pFLURfZmluQWFkSGo4N0lWWHRTQlVoWi0ycmNEZVF1MWNrVXYtc3JHMFAyVFljTzV6REU1dzYzX2RnX08yaXpOMmtocG8wUGZJdUx6YjkyREdNSU5OQ3RHOHdibkt1UlZwMWo1NTAxN1dZRUE3bDA2aWktdDlWV2Z4R1ZqN3BZTUlDQmhXQm51YW14TWhXV3dyOXJtR0Rra0pFWmNXZHc?oc=5",
+   "source": "MLQ.ai",
+   "published": "2026-11-17T10:35:47+00:00",
+   "title": "Claude has less than a tenth of Copilot's weekly users inside Microsoft Office, Microsoft data shows, The Information reports",
+   "text": "",
+   "title_th": "ข้อมูลเผย Claude มีผู้ใช้งานน้อยกว่า Copilot ใน Microsoft Office",
+   "summary_th": "ข้อมูลจาก Microsoft ระบุว่าจำนวนผู้ใช้งานรายสัปดาห์ของ Claude ภายในระบบ Microsoft Office ยังคงมีสัดส่วนน้อยกว่าเมื่อเทียบกับ Copilot",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Microsoft"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "767e2ba851e0",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVV1F6ajhKVnJad0c3QTJwSEZiZ0V4aE9mMXVXVGwxQmVrRjNtQzVfNENfcVFhdGlnMTJxU0J0cVZaQlNDOXRuWlNyS05uQW9QR19YS0k3TTQyaUoyQ3RVY0x6dHZEOVk?oc=5",
+   "source": "CTech",
+   "published": "2026-11-17T10:08:00+00:00",
+   "title": "Anthropic IPO could make its employees worth an average of $41 million",
+   "text": "",
+   "title_th": "คาดการณ์พนักงาน Anthropic อาจมีมูลค่าหุ้นเฉลี่ย 41 ล้านดอลลาร์หลัง IPO",
+   "summary_th": "มีการวิเคราะห์ว่าการเสนอขายหุ้น IPO ของ Anthropic อาจส่งผลให้พนักงานได้รับผลตอบแทนจากมูลค่าหุ้นเฉลี่ยสูงถึง 41 ล้านดอลลาร์ต่อคน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f5b06d18915b",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XcmlsbmdGUEF5YnpzX3Jld2d1dkwwSXZjdlItVEo3VWR2TWk0MWk5aGU1R05IMnFMNFdQUENUZGFMc3o0SVdGS1U4dGJET3JDelcyNkNneDVPaDg5NU9vWlZYbzVjRUVsVWgxWDFFR00?oc=5",
+   "source": "TechJuice",
+   "published": "2026-11-17T09:11:58+00:00",
+   "title": "Alibaba Launches Qwen 3.5 AI Model and Free Consumer App to Challenge ChatGPT",
+   "text": "",
+   "title_th": "Alibaba เปิดตัวโมเดล Qwen 3.5 และแอปผู้บริโภคฟรี ท้าชน ChatGPT",
+   "summary_th": "Alibaba เปิดตัวโมเดล AI ใหม่ในชื่อ Qwen 3.5 พร้อมแอปพลิเคชันสำหรับผู้ใช้งานทั่วไป เพื่อแข่งขันกับ ChatGPT ในตลาด AI ระดับโลก",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Alibaba"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c6a092f28daa",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rSnBnR3JraDZDTEZpRUVKcG5uRmk0NFk4b2l6UTJid0VBY0E4NDk5M3h0U2hkbXNtcTVvdVdIeTNBQ29GV2pnSTVYRzRIUXNYTnNjaGRfNG9ETlVTN1NnU1NLdVBkNGZTaEQ4SDBqUjZJcGRr?oc=5",
+   "source": "Mashable",
+   "published": "2026-11-17T09:03:43+00:00",
+   "title": "Google unveils Gemini 4 Hydrogen, its new AI model built for speed",
+   "text": "",
+   "title_th": "Google เปิดตัว Gemini 4 Hydrogen เน้นความเร็วในการประมวลผล",
+   "summary_th": "Google เผยโฉม Gemini 4 Hydrogen ซึ่งเป็นโมเดล AI รุ่นใหม่ที่ถูกออกแบบมาเพื่อเพิ่มประสิทธิภาพด้านความเร็วในการทำงานโดยเฉพาะ",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Google"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e07ab0b95efd",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3EyZ0c5a1V0UEJxNzVBSGtxMW1sRUUwTy1qcDNTbGs0TG1uNkpoNEstZG1tNWt0aU4wTW9uUXRiSTFTWDFxQUIxUWVWanA1TWw3RGN6MUl1SnJpYVI2YmsybEV1S0dFVGFLbjFncWtoN09abk8wWU9kbWt5cnFfQVdrUXVDVDFienpIZl9PNUdmclpqcHl1WDhhYUhKZnJmUTlLZUVoeHZFSms?oc=5",
+   "source": "www.marketscreener.com",
+   "published": "2026-11-17T07:17:34+00:00",
+   "title": "OVH launches its first LLM family with Olala mini 7A1B",
+   "text": "",
+   "title_th": "OVH เปิดตัวตระกูล LLM แรกด้วยรุ่น Olala mini 7A1B",
+   "summary_th": "OVH ประกาศเปิดตัวกลุ่มโมเดลภาษาขนาดใหญ่รุ่นแรกของบริษัท โดยเริ่มจากรุ่น Olala mini 7A1B",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "OVH",
+    "OVHcloud"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "ActuIA",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGFqM04tbmxCZk5LdC1GYUROSy1Lb0pmelU2a2d0akhodXl4OElJWm9sUWNrcmx4NHI5bkZrS1RUODdCZjllSHpFOW50bFpwdjdtUWZrY2Q0Y0xDbTlWWEkwOHNTYWRjcDZVNGtFQXV4Vm1jdTlkNTRXV1lLNnFKQ0R6ZnE1ZTVJeXBiZks0UzIwOWFl?oc=5"
+    },
+    {
+     "source": "IT Pro",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3lwNFZ4TGFxcnVRVm1RYTE4aXdDdkFxNE5XWHAyc3JfWTk1TzExR1NMUGZBRzRFR2lBaUNKSngzOHRvYVdkeHUwWTE1N081ZW1OYXFJdGF5anN6SllpQWRrRk1PWDVBajNBZWVJVHRWbG1PQ1p5OWwyN2tzcGg2eVFGZUdZRDlkVWlOd01OdWhGWFN0MXFTeXRVNC05b1U?oc=5"
+    },
+    {
+     "source": "IT Brief UK",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRzdJYVRqRjN5NTZneFJLNVJ4M2htaXpxeE9Ka1k2U2tCVjZUUXdnRjVCZzV5djZfWGJrWHBYZzktNHp5V1M1WmhMMDJhdmJ2QjJ1N1k5SVlMSWhVWkFSU3ZzMF82ZzNrMDFveVhVZDAxWGJubU1nM0dEcld4Rlp1QVJQVXpwdw?oc=5"
+    },
+    {
+     "source": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "3fb8991d743e",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMW5iQjdpRjhVazJHTGxvNUlvWTVlZVdnWFd6WWZWbzdYT2pVRFFjU1dVdWpUX2tmYzU4OHI0QTBadnpzdHpuSExLRnJYYlJKUDc1RFEyNUhCSGJhdlBySGtoMjV2ZDh3WU15Y2NtODR0RTBWUTBNZnQ1c0YwLVRPZElDS0Q0R3BsdUFrRWY2SENfTGZnbnUxWW5HVGdqZkxFWnlPbWZrUVlPallHX2gtWmYwUWlfTC1XY2lybFdHN28yQ0Nla0tHaHh0N0VTTjkwQVNJOEFDSnBDdi1vMkpGd3VR0gHnAUFVX3lxTE5VQVowU2xveE5fMjlGckhmVkpnbHZqZ2ZWYzg2YnA4VUx2d19rZUR6WnhuN1pGS0lFVkJZQ01sOU1lZUtNUHpEY25IT0lLVHE1TFg5TmV3NzNTX0tXMUs3UGxGeXVZb2FWRDRFcXJybldXYnhCN01uLUpYSGliWFlqVHhkaW9EWFFMM0xKX25zUlpjX0tJOHNrbjZyV3lNWHZPT3FoTHdwZGYxOTFiT2tVZlhEOGZfemk0VGpaRUUtOVM4NU56cmloQlZnSGRrTmZONFRUZkcwZXpXUTRvSUVnWEprRzZTOA?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-11-17T06:51:32+00:00",
+   "title": "KiteFishAI launches NanoI1, an open-weight AI model for specialised applications",
+   "text": "",
+   "title_th": "KiteFishAI เปิดตัว NanoI1 โมเดลแบบ Open-weight สำหรับงานเฉพาะทาง",
+   "summary_th": "KiteFishAI ได้เปิดตัว NanoI1 ซึ่งเป็นโมเดล AI แบบ open-weight เพื่อรองรับการประยุกต์ใช้งานในรูปแบบเฉพาะทาง",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "KiteFishAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "NewsBytes",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN3hnQTBpUVdSV2xmU2lIRkptQ1AtdUNqOElhbmRBRXNpdjlwelY2WEt0ejVHV1VrbWdYY2IwZWc5VEU2eTdKTW02MFhyakRJYWRTNE82bnN2SEtMTmZBS3dLT2d4Y3Z3VmEwVzI0Z0RhZDdGSUp4Wl83VUZmNXplN05oZHNIUS1ob0xQTTRNWFZGTGJyZnZiUndCM1VkVVhGTTZBU1lCWFZiQXdsMENuNXRjS1FlNmxrVGFZVnk2VGdNZEE?oc=5"
+    },
+    {
+     "source": "Moneycontrol.com",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS3pTVjFobDJOblR3MURNb196cUhtbUFSb2tPUU9Kd2hRb21UQy1UMkFwRF9vY2lRMkRRZ3RaRFJFT1E0ZV9NaklZNFNDajZ3bGphQm5lTGxSbTJuWGhHdzZ2TzhQeV9tdGU0UVh4cHVHdWp4RXVYZno3UHotVzdlTUJmdVp0aUhhNjk4RVBlVm5rOThBendLbWFWOERuRHpBY2RqRENzWmVUQjVraHMwRDZVX2J0ZWQyZVNLdDBfaUtLMWJ6ZjkxUTMzR0pyQlNqV2s0U1RQaFBPSDA3QzB0eFJPSU1rTFhmT3lkX9IB8gFBVV95cUxOZnh1RDkwR29xUzRqbGs2Qnp0S0hfWjRTZHpMWElIM0JZRV95Ykt5UUdERUpWN0d4aTZfMjVQMkNqc2hIdXhFLTI3b1J5S19sU3dTNFJTWC0wUzVPTTZIM0NjcC1XRDhLWXIxckx4SWg2WEhnYkM5a3oyUXdJa1gxV1Q5N3F6X3lwdW9ZQ0Q3LW9CRndrN3Q4ZTR2UFNxU00yR0ItZ29hQlo0eGxqcF9vRTRHQkFRMWtHek1oQWJHeHFWTFFyVF83TGVITDI0aFlQWU92ZmpSRkRkU3BFSjNnanpOV2RfMGhVOGNybnhRaDVQdw?oc=5"
+    },
+    {
+     "source": "CNBC TV18",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUlPTERWYmtreHg5aHlQUFFZT3JqRTE4VEktdEFyR21NNEFETUMwa29fcXRDVzlyRVVYRXE2YVQxbzg0X1luYWhKS0Z0NFNrMXprZlk0YzJUTVpKakNySGtfYy1aTVRpSl9uUmdQS3VReFdlNzZSdUYxTGZPN0FtSTdjcFJUb0l5NGhfek5GR3Jaa2lLUnN3NUhEWVBHdlY2Ykx0M1FpSzNoWC1fLXlCU01OWnZKaGo5NzdGWTVvWWpDeTlneW1KZFpfSFVSZXVTeHc0eWRNNNIB3AFBVV95cUxQM1JjTWFzUVpJcjFOOVdJSHJPYkxZWkhtc2E2QmF3MHJlUDZxM0dGVWlPTXhOLWduR2lvUHA3UDNPbXNDUjlqbUI1ell2QkFJdFlMUmk5Vm82MlZsYmZHUE5UVjczQXNKS3MtU2RkakFFUlhuWnBIVzlqLVJ4MmNsTzAteGdkZFlSVHEzcEVQeExOTDR5YXJCRTRFSnFvNGpINDlKMUhQTzVEaEhzZkZlUjRRb2VzVHk2OGpyaEd2eXA3ZzA5S2RQZmk5UlJVNVN4ckRkYkpRNENISUZx?oc=5"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "9e9ed6ac89c3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T06:03:25+00:00",
+   "title": "DSpine - Updates on PR & GGUFs",
+   "text": "Previous thread on DSpine : [Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent GGUFs : Found below GGUFs & model cards has more details including comparison with DFlash2. https://huggingface.co/aj9o9/Qwen3.8-27B-DSpine-b16-GGUF (This Post's image is from this GGUF) https://huggingface.co/generalinference/Qwen3.8-27B-DSpine-b16-GGUF llama.cpp Open PR for DSpine : https://github.com/ggml-org/llama.cpp/pull/31941 submitted by /u/pmttyji [link] [comments]",
+   "title_th": "อัปเดต DSpine สำหรับการทำ Speculative Decoding",
+   "summary_th": "มีการอัปเดตเกี่ยวกับ DSpine ซึ่งเป็นเทคนิคการทำ Speculative Decoding พร้อมไฟล์ GGUF สำหรับนำไปใช้งานบน llama.cpp",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Tencent"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "61dd02b29967",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T04:35:28+00:00",
+   "title": "Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public",
+   "text": "Disclosure: I’m with the team that built this. Wanted to share something a little different from the usual finetune drop. Clover 2 keeps a base model and 7 trained LoRA adapters (roleplay, general assistant, security, math, long-document, efficiency, knowledge) separate at inference time. A trained router picks the right expert(s) per token live, with a null slot that falls back to plain base when nothing specialized applies. So it’s not a merged blend, the model actually makes a decision at every token. Real benchmark gains over the untouched base: meaningful jumps on GSM8K/MATH-500/GSM-Hard,",
+   "title_th": "เปิดตัว Clover 2 โมเดล 27.8B ที่ใช้ LoRA experts แบบเลือกใช้งานรายโทเค็น",
+   "summary_th": "Clover 2 เป็นโมเดลที่ใช้สถาปัตยกรรมแบบ LoRA experts 7 ตัว โดยมีระบบ router คอยเลือกผู้เชี่ยวชาญที่เหมาะสมที่สุดสำหรับแต่ละโทเค็นในการประมวลผล",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6776b588c928",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T04:04:39+00:00",
+   "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
+   "text": "Model Introduction Maxwell-V1.0-Flash is a next-generation, high-performance Mixture-of-Experts (MoE) language model developed by the Maxwell Team, with 35B total parameters and 3B active parameters per token (both excluding embeddings) and support for context lengths up to 256K tokens. It is designed for strong reasoning, agentic, and long-context capabilities at a practical inference cost. Key Features Maxwell Block Sparse Attention (MBSA). Each KV group keeps fixed coverage of 8 prefix and 8 local 128-token blocks and adds up to 16 remote blocks chosen by a learned indexer, bounding main at",
+   "title_th": "Maxwell-V1-Flash โมเดล MoE ประสิทธิภาพสูงสำหรับงานใช้เหตุผล",
+   "summary_th": "Maxwell-V1-Flash เป็นโมเดล Mixture-of-Experts ขนาด 35B ที่ออกแบบมาเพื่อรองรับบริบทที่ยาวถึง 256K และเน้นงานด้านการใช้เหตุผล",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "600acd7501fc",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSUVtVThBS2hnUDFDT205QjIxa1luNFR2VGtGcXg0ZFVMVzE3VHI2NnZ5WHFvZVJaU2E2NEZTM2tONzFlZzFLTUNEY3IyenR0NnZWY0ZQUXhERmxoX05qZXVKZ3YzbjU3dWdBWlBRYzZBUWRRdVBKOThVczFHRnE0ZlNNMG0xeVV5aWlOOHF2S1FkWTN3V1ktV2VUUU1VUzBrc2JBdTN2QjJnT3RfamdNNzJwTnhWbkt2Z0ljLWZfcXNMTk9HU1BhZEZjamhvY1JqbGtnQnU4LXB4bkFxamxzckZPUjUtai05WktMVlI1WWzSAfYBQVVfeXFMTkRST1ZiTGhmcUNJSUoyYzB0QUZyTWwzbFlhYkM3M19uLW5IZWNMbUJEa0NEdEhvenhOSmNuOXJrVXo0ZVh2MnRpRm5MWFdpMThXaXlDcTZjZC1VOFhTb3M2N09vMGNhd2haOGtPYWtxOVJKN2lycXRLLXlvaDgtQVZmeEduM0h5YUl5Yko4U1BNN05POE9WdjZSaDlJczBfc21BRUJ2R05zemFUZDFYOVM2MVBCckpueXFjWWdNTFhRbXRjaHdmRkxJSEUwc0JsTHhzeDVsZXl6UkttRk9JOElwZ1pIVU9sUkNTTEdCYk9scGFLTkxR?oc=5",
@@ -518,6 +1253,24 @@
    "dedup": true
   },
   {
+   "id": "76dc89c52c83",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/",
+   "source": "r/LocalLLaMA",
+   "published": "2026-11-17T03:16:54+00:00",
+   "title": "Hugging Face switched its language model inference routing to OpenRouter",
+   "text": "Hugging Face announced on November 16, 2026, that requests to language models through Inference Providers now go through OpenRouter instead of Hugging Face's own router. OpenRouter picks a provider for each call based on live price, speed, and reliability, and retries on another provider if the first one fails. The same Hugging Face token still works, and the company says it does not add a markup on top of the provider's price. You can still pin a provider or a policy with a suffix on the model id, such as :fastest, :cheapest, or a specific provider name. OpenRouter currently serves more than ",
+   "title_th": "Hugging Face เปลี่ยนระบบ Routing โมเดลไปใช้ OpenRouter",
+   "summary_th": "Hugging Face ประกาศเปลี่ยนระบบจัดการคำขอโมเดลผ่าน Inference Providers ไปใช้ OpenRouter เพื่อเพิ่มความยืดหยุ่นด้านราคาและความเร็ว",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Hugging Face",
+    "OpenRouter"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "a521ccf29291",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9e24/you_vs_the_guy_she_told_you_not_to_worry_about/",
    "source": "r/LocalLLaMA",
@@ -529,6 +1282,41 @@
    "category": "อื่นๆ",
    "companies": [],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "590cb0b9c5dd",
+   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "source": "OpenAI",
+   "published": "2026-11-17T00:00:00+00:00",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "text": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+   "title_th": "OpenAI ร่วมมือกับ NATO เสริมความปลอดภัยทางไซเบอร์ด้วย AI",
+   "summary_th": "OpenAI ประกาศความร่วมมือกับ NATO และหน่วยงานด้านไซเบอร์เพื่อช่วยตรวจหาช่องโหว่และปกป้องระบบโครงสร้างพื้นฐานที่สำคัญ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI",
+    "NATO"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "58da9c66b145",
+   "url": "https://openai.com/index/introducing-openai-for-chile",
+   "source": "OpenAI",
+   "published": "2026-11-17T00:00:00+00:00",
+   "title": "Introducing OpenAI for Chile",
+   "text": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+   "title_th": "OpenAI จับมือรัฐบาลชิลี สนับสนุนการใช้ AI อย่างรับผิดชอบ",
+   "summary_th": "OpenAI ร่วมมือกับรัฐบาลชิลีเพื่อส่งเสริมการนำ AI มาใช้ในภาครัฐ พัฒนาทักษะบุคลากร และสนับสนุนสตาร์ทอัพในท้องถิ่นให้สร้างแอปพลิเคชัน AI",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -716,6 +1504,10 @@
     {
      "source": "The Verge AI",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152188"
     }
    ]
   },
@@ -1566,7 +2358,17 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Pasquale Pillitteri",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2d2M3RkbkFDVWx3TWhVc1ZzT1VDQWV3YWlicnZwR2o3SUFWMFlMWE9LN2dZeHBjR1V3TGNnQzBIRGtMVU9nNlhJVzBpREcxMk1KQ2ZaenJzYTRYcGpJODgtQVFuU0lPMXBNc2tDNm5FVG1YQm8yaDR2enVsMDNUdWJXem4teHU3OXRZNDJ2MlI?oc=5"
+    },
+    {
+     "source": "www.trendingtopics.eu",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyTTVTRVFhWjB1RjB4TE8wZV96UHQ3QVNoV0JWcmZlTFhXYnh4cDZZRDNUd0hSVnhBb2ZVZ0RpYTFOZ3pLNHctWTU2Snp2OVZkb3diTjdsdWl4OXV0TGJhVlY0enRfSzNEYUNLbXUxUk1aOUJwVkE?oc=5"
+    }
+   ]
   },
   {
    "id": "559eed5db33b",
@@ -1911,8 +2713,34 @@
     {
      "source": "OpenRouter (โมเดลใหม่)",
      "url": "https://openrouter.ai/tencent/hy4-flash"
+    },
+    {
+     "source": "Tech in Asia",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1VaSlUwYWdFSTU0MUJhM053M3V4bmR2bzZVQ0dQaVhKSU9DYkh3clBYTURva19melhUQ1hCeFVDTnlmWlVvSjgxOFl5ajhnQmQwYmI1M2tTUThXQXRYbk1jaloxSnp1LUZWNC1DbXVBUVdwWVhxRXZENWV5Nkd1Y1AyWQ?oc=5"
+    },
+    {
+     "source": "Dataconomy",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnNERENicE5mMHltVHZOZ1I2OTRJSEMwaWlHMTJaeUhidjVrZktwLXZYY2hBdHpvY2VMNUJBOTlRT0F1a1VESXdndWJyWDFzN29KcGViOEFWNHROWjF6dHBHbFdBMW5jR1ZHWU5JQnpMbVJMeXlGakp3ekFqNXdDSXVGQkZKRXdJU1ViaWMzMUhYOGFUSE44cWhKcw?oc=5"
     }
    ],
+   "dedup": true
+  },
+  {
+   "id": "f054a54f8228",
+   "url": "https://openai.com/business/customer-stories/revolut",
+   "source": "OpenAI",
+   "published": "2026-11-16T09:30:00+00:00",
+   "title": "How Revolut raises ambition without lowering the bar",
+   "text": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+   "title_th": "Revolut ใช้โมเดล OpenAI เพิ่มประสิทธิภาพการเขียนโค้ดและตรวจสอบอาชญากรรมการเงิน",
+   "summary_th": "Revolut นำโมเดล OpenAI และ Codex มาช่วยลดเวลาในการเขียนโค้ดและเพิ่มประสิทธิภาพในการตรวจสอบอาชญากรรมทางการเงินโดยยังคงความปลอดภัยไว้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Revolut",
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
    "dedup": true
   },
   {
@@ -2759,6 +3587,68 @@
    "dedup": true
   },
   {
+   "id": "c618f0b74f32",
+   "url": "https://huggingface.co/papers/2611.21072",
+   "source": "HF Daily Papers",
+   "published": "2026-11-15T19:00:00+00:00",
+   "title": "Sage S2.1 Flash Technical Report",
+   "text": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we construct verifiable environments for tool use, search, and coding, as well as spec",
+   "title_th": "เปิดตัว Sage S2.1 Flash โมเดล Mixture-of-Experts ขนาด 320 พันล้านพารามิเตอร์",
+   "summary_th": "Sage S2.1 Flash เป็นโมเดล MoE ขนาดใหญ่ที่ออกแบบมาเพื่อใช้เหตุผลด้านวิทยาศาสตร์และทำงานในสภาพแวดล้อมเชิงโต้ตอบ โดยรองรับข้อมูลโมเลกุลและลำดับทางชีวภาพ",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "15712514dcdf",
+   "url": "https://huggingface.co/papers/2611.21218",
+   "source": "HF Daily Papers",
+   "published": "2026-11-15T19:00:00+00:00",
+   "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+   "text": "Advancing medical AI for inclusive healthcare requires evaluation across diverse healthcare roles, tasks, and care settings, but benchmark coverage remains uneven. We introduce InclusionMed, an open medical AI evaluation initiative for inclusive healthcare. The InclusionMed Atlas organizes benchmarks across three healthcare roles and three AI capabilities. For the first release, we selected four public benchmarks from 388 candidates through structured audits and independent reproduction. With InclusionMed-DxFiles, our private diagnostic reasoning benchmark, the Atlas contains five benchmarks c",
+   "title_th": "เปิดตัว InclusionMed โครงการประเมิน AI ทางการแพทย์เพื่อความเท่าเทียม",
+   "summary_th": "InclusionMed เป็นโครงการริเริ่มใหม่สำหรับการประเมิน AI ทางการแพทย์ที่เน้นความครอบคลุม โดยมีการจัดหมวดหมู่เกณฑ์มาตรฐานตามบทบาทและความสามารถของ AI",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e1f0b0269911",
+   "url": "https://huggingface.co/papers/2611.21003",
+   "source": "HF Daily Papers",
+   "published": "2026-11-15T19:00:00+00:00",
+   "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+   "text": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model u",
+   "title_th": "เปิดตัว K2-Horizon ชุดโมเดลภาษา Open Source ประสิทธิภาพสูง",
+   "summary_th": "K2-Horizon คือชุดโมเดลภาษาแบบเปิด 6 รุ่นที่ออกแบบมาเพื่อการใช้เหตุผลและงานด้านเอเจนต์ พร้อมเทคนิค Mixture-of-Value Attention เพื่อเพิ่มประสิทธิภาพการประมวลผล",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0904df37e969",
+   "url": "https://huggingface.co/papers/2611.21607",
+   "source": "HF Daily Papers",
+   "published": "2026-11-15T19:00:00+00:00",
+   "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
+   "text": "Frontier Vision-Language Models (VLMs) such as GPT-6 Astra have demonstrated remarkable capabilities in robot control, suggesting that broad pretraining provides knowledge valuable for physical action. Yet most Vision-Language-Action (VLA) policies still rely on much smaller VLM backbones, leaving this potential largely untapped. We ask whether frontier-scale representations can provide a stronger foundation for robot learning. We introduce ScaleVLA, which connects a 552B DeepSeek-V4.1-Flash backbone to a trainable action DiT, and systematically compare VLMs from 2B to 552B under a shared trai",
+   "title_th": "ScaleVLA โมเดล Vision-Language-Action ขนาด 552 พันล้านพารามิเตอร์",
+   "summary_th": "ScaleVLA เป็นโมเดลที่เชื่อมต่อกับ DeepSeek-V4.1-Flash เพื่อยกระดับความสามารถในการควบคุมหุ่นยนต์ผ่านการเรียนรู้จากโมเดลขนาดใหญ่",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "DeepSeek"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "ce022ea0978f",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/",
    "source": "r/LocalLLaMA",
@@ -3325,6 +4215,36 @@
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7057ef2f1228",
+   "url": "https://huggingface.co/papers/2611.19937",
+   "source": "HF Daily Papers",
+   "published": "2026-11-14T19:00:00+00:00",
+   "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+   "text": "Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives. We present AllocFlow, an end-to-end flow-matching framework that directly generates joint portfolio allocations from raw multi-asset market histories. To capture dependencie",
+   "title_th": "AllocFlow เฟรมเวิร์กใหม่สำหรับการจัดการพอร์ตการลงทุนอัตโนมัติ",
+   "summary_th": "AllocFlow นำเสนอแนวทางแบบ End-to-End เพื่อเปลี่ยนข้อมูลตลาดดิบให้เป็นการตัดสินใจจัดสรรสินทรัพย์โดยตรง ช่วยลดช่องว่างระหว่างการพยากรณ์และการดำเนินการ",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b88709aa5efa",
+   "url": "https://huggingface.co/papers/2611.20218",
+   "source": "HF Daily Papers",
+   "published": "2026-11-14T19:00:00+00:00",
+   "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
+   "text": "A coding agent working within a software organization must establish what to build, collaborate with colleagues, and verify what it delivers. We introduce SWE-CoWork, a benchmark comprising 101 development assignments across 101 real repositories, 11 programming languages, and 12 application domains. Each assignment places an agent in a simulated engineering organization with 26 colleagues who have distinct responsibilities, bounded knowledge, and controlled collaboration behavior. Starting from a brief handoff, agents must recover requirements distributed across colleagues and workplace recor",
+   "title_th": "SWE-CoWork เกณฑ์มาตรฐานใหม่สำหรับทดสอบ AI Coding Agent ในองค์กร",
+   "summary_th": "SWE-CoWork เป็นชุดทดสอบที่จำลองสภาพแวดล้อมการทำงานในองค์กรซอฟต์แวร์ เพื่อประเมินความสามารถของ AI ในการทำงานร่วมกับเพื่อนร่วมงานจำลอง",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -11099,309 +12019,6 @@
    "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [
     "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "dde5f3bd6293",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-   "source": "The Verge AI",
-   "published": "2026-11-03T15:52:53+00:00",
-   "title": "Apple is all in on AI — its own and everyone else’s",
-   "text": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a […]",
-   "title_th": "Apple เผยผลประกอบการแข็งแกร่งพร้อมกลยุทธ์ลงทุน AI แบบเน้นประสิทธิภาพ",
-   "summary_th": "Apple รายงานผลประกอบการไตรมาสล่าสุดที่เติบโตอย่างต่อเนื่อง โดยเน้นการใช้ประโยชน์จาก AI ทั้งของตนเองและผู้อื่นโดยไม่ทุ่มงบประมาณโครงสร้างพื้นฐานมากเกินไป",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Apple"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b20c657114df",
-   "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-03T15:38:27+00:00",
-   "title": "Apple restricts dating apps and AI companions to users 18 and up",
-   "text": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-   "title_th": "Apple ออกกฎใหม่จำกัดอายุผู้ใช้แอปหาคู่และ AI เพื่อนคุย",
-   "summary_th": "Apple ปรับกฎ App Store ใหม่โดยกำหนดให้แอปหาคู่และ AI ที่มีเนื้อหาทางเพศหรือโรแมนติกต้องจำกัดอายุผู้ใช้งานที่ 18 ปีขึ้นไป",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Apple"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "eb3661170b1d",
-   "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-   "source": "Hacker News",
-   "published": "2026-11-03T14:14:12+00:00",
-   "title": "Just a little AI resistance, as a treat",
-   "text": "178 points, 108 comments on Hacker News (https://news.ycombinator.com/item?id=50352257)",
-   "title_th": "กระแสการต่อต้าน AI ในมุมมองของผู้ใช้งาน",
-   "summary_th": "การพูดคุยบน Hacker News เกี่ยวกับประเด็นการต่อต้านการใช้งาน AI ในสังคม",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "469e1e1d98ee",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnpwS0FzRk9KWUhPNC1rT3JnNWdLN1NhTWM0VU5zWHkyZEo5NVR1dXJhTWdVY2R0ZGEwcVhDTGZ3TkR5SGRIemoyenlCUU1TV2xMTzNBa0xtZDJSb1hGeUVqVlhBVmJNRVFkVS1qb21LdmtqOUxmWEtVOEgwd3JnRnNJMHJIQXdfYndBMUpjZWNPaGRwSW55ZWJsdEk?oc=5",
-   "source": "The Information",
-   "published": "2026-11-03T14:00:00+00:00",
-   "title": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors",
-   "text": "",
-   "title_th": "Anthropic นำเสนอความสามารถด้านการออกแบบชิปของ Claude แก่นักลงทุน",
-   "summary_th": "Anthropic ใช้ความสามารถของ Claude ในการออกแบบชิปเป็นจุดขายสำคัญในการดึงดูดนักลงทุนก่อนการทำ IPO",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "8437d721a3cf",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00S0lXVE1UVDl2VnluQzE0Z1NVbDlBQmktT3NKRnVZaGFuSmlMdENzaUFKSGcwTjZQTGFNMjJlMmkyMExNQUp3OVdhbVJLR29jOE41Y3JzZlY0WWRpeG5oQzhOS0pWeXM?oc=5",
-   "source": "The New Stack",
-   "published": "2026-11-03T13:50:46+00:00",
-   "title": "Anthropic speeds up Claude Code with message threads. But your token bill stays the same.",
-   "text": "",
-   "title_th": "Anthropic อัปเดต Claude Code เพิ่มฟีเจอร์จัดการเธรดข้อความ",
-   "summary_th": "Anthropic เพิ่มความเร็วให้กับ Claude Code ผ่านการจัดการเธรดข้อความ โดยที่ค่าใช้จ่ายด้านโทเค็นยังคงเท่าเดิม",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "358a04f01824",
-   "url": "https://huggingface.co/papers/2611.05320",
-   "source": "HF Daily Papers",
-   "published": "2026-11-03T13:25:14+00:00",
-   "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
-   "text": "Teleoperation remains the default way to collect robot demonstrations, but every episode costs robot and operator time, and every new task starts from scratch. We ask whether a coding agent can take over the teleoperator's job. In our DataFarm, the agent receives a data request and one calibration episode of the robot in the target scene and rebuilds the task in simulation: it writes the scene, an expert controller, and a success judge. The simulator supplies exact actions, and a video model conditioned on real images renders each rollout as photographic video, generating all camera views toge",
-   "title_th": "PyRUA-DataFarm ใช้ LLM Agent ช่วยเก็บข้อมูลหุ่นยนต์อย่างคุ้มค่า",
-   "summary_th": "งานวิจัยนำเสนอการใช้ LLM Agent มาทำหน้าที่แทนมนุษย์ในการควบคุมหุ่นยนต์เพื่อเก็บข้อมูลการสาธิต ช่วยลดเวลาและค่าใช้จ่ายในการฝึกฝนหุ่นยนต์ผ่านการจำลองสถานการณ์",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7a2d99808199",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-03T12:58:05+00:00",
-   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
-   "text": "MIT CSAIL had GPT-6 Astra fix Qwen3.5-0.8B's reasoning loops by editing 0.016% of its weights (MATH-500 went from 7.9% to 48.1%). They released the diff, so the edit can be rebuilt exactly and run locally. I took it a step further and had Claude look at Qwen with Anthropic's Jacobian lens. At the token where the model decides to write \"Wait\" again, the lens reads \"Wrong\", \"Nope\" and \"Hmm\" from about 60% depth on, even though the answer is already written out. At real stopping points it reads \"</think>\", \"Answer\" and \"Output\". With the edit applied, the lens at the same token shows \"Verificatio",
-   "title_th": "วิเคราะห์สาเหตุที่โมเดล Qwen ติดลูปการตอบคำถามซ้ำๆ และแนวทางการแก้ไข",
-   "summary_th": "มีการวิเคราะห์ปัญหาการติดลูปคำตอบของโมเดล Qwen โดยใช้เทคนิคการแก้ไขน้ำหนักโมเดลและการตรวจสอบผ่าน Jacobian lens เพื่อทำความเข้าใจกระบวนการตัดสินใจของโมเดล",
-   "category": "งานวิจัย",
-   "companies": [
-    "MIT",
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "737f581b9d8a",
-   "url": "https://www.blognone.com/node/152090",
-   "source": "Blognone",
-   "published": "2026-11-03T12:02:05+00:00",
-   "title": "Palantir ไตรมาส 3/2026 รายได้จากภาคเอกชนสหรัฐสูงกว่าหน่วยงานรัฐเป็นครั้งแรก",
-   "text": "Body Palantir Technologies รายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้รวม 2.313 พันล้านดอลลาร์ เพิ่มขึ้น 96% หากเทียบกับปีก่อน และเพิ่มขึ้น 20% เมื่อเทียบกับไตรมาสก่อนหน้านี้ โดยแบ่งเป็นรายได้จากในสหรัฐอเมริกา 1.937 พันล้านดอลลาร์ เพิ่มขึ้น 119% เทียบกับปีก่อน ซึ่ง Palantir บอกว่าประเด็นน่าสนใจคือรายได้จากภาคเอกชนสหรัฐแซงรายได้จากหน่วยงานรัฐแล้ว โดยภาคเอกชนอยู่ที่ 984 ล้านดอลลาร์ และภาครัฐ 953 ล้านดอลลาร์ ส่วนกำไรสุทธิในไตรมาสอยู่ที่ 1.128 พันล้านดอลลาร์ ในไตรมาสที่ผ่านมา Palantir ปิดสัญญาโครงการระดับ 1 ล้านดอลลาร์",
-   "title_th": "Palantir รายงานรายได้ไตรมาส 3/2026 เติบโตสูง",
-   "summary_th": "Palantir รายงานผลประกอบการที่เติบโตอย่างมาก โดยรายได้จากภาคเอกชนในสหรัฐฯ แซงหน้ารายได้จากภาครัฐเป็นครั้งแรก",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Palantir"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "26c6032e1d26",
-   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-   "source": "OpenAI",
-   "published": "2026-11-03T12:00:00+00:00",
-   "title": "Accelerating engineering for the physical world",
-   "text": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-   "title_th": "OpenAI เผยการใช้ ChatGPT และ Codex เร่งงานวิศวกรรม",
-   "summary_th": "OpenAI แสดงให้เห็นว่า ChatGPT และ Codex ช่วยเพิ่มความเร็วในงานออกแบบ CAD, PCB และการจำลองสถานการณ์สำหรับงานวิศวกรรมในโลกจริงได้อย่างไร",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "81bd5929347d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-03T11:40:16+00:00",
-   "title": "RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech",
-   "text": "submitted by /u/MundanePercentage674 [link] [comments]",
-   "title_th": "ลือ RTX 5090 อาจมาพร้อม VRAM สูงสุด 96GB",
-   "summary_th": "มีข้อมูลจากช่างซ่อม GPU ระบุว่าการ์ดจอ RTX 5090 อาจมีรุ่นที่มาพร้อมหน่วยความจำ VRAM ขนาด 64GB และ 96GB",
-   "category": "อื่นๆ",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0611338b13eb",
-   "url": "https://www.blognone.com/node/152089",
-   "source": "Blognone",
-   "published": "2026-11-03T11:24:35+00:00",
-   "title": "Salesforce ซื้อกิจการ Cresta แพลตฟอร์ม Voice Agent สำหรับงานบริการลูกค้า",
-   "text": "Body Salesforce ประกาศบรรลุข้อตกลงเพื่อซื้อกิจการ Cresta แพลตฟอร์มสำหรับงานให้บริการลูกค้าที่ทำงานด้วยเสียงเป็นหลัก (voice-first) มูลค่าดีลไม่มีการเปิดเผยอย่างเป็นทางการ แต่มีตัวเลขว่าอยู่ที่ราว 2.7 พันล้านดอลลาร์ Cresta เป็นผู้พัฒนาแพลตฟอร์มสำหรับงานบริการลูกค้า ด้วยจุดเด่นเรื่องความสามารถในการแก้ไขปัญหาให้ลูกค้าได้แบบจบที่ระดับ Agent แม้เป็นคำถามที่ซับซ้อน มีระบบทบทวนและถามกลับลูกค้าเพื่อให้วิเคราะห์สิ่งที่เกิดขึ้นได้แม่นยำขึ้น มีลูกค้ารายใหญ่เช่น Marriott, Comcast และ Alaska Airlines Salesforce มีแผนนำความสามารถของระบบ",
-   "title_th": "Salesforce เข้าซื้อกิจการ Cresta แพลตฟอร์ม Voice Agent สำหรับงานบริการลูกค้า",
-   "summary_th": "Salesforce ประกาศเข้าซื้อกิจการ Cresta ซึ่งเป็นแพลตฟอร์มที่เน้นงานบริการลูกค้าด้วยเสียง เพื่อเสริมความสามารถในการแก้ไขปัญหาที่ซับซ้อนผ่านระบบ AI อัตโนมัติ",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Salesforce",
-    "Cresta"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0e022216c2cb",
-   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-   "source": "MIT Technology Review",
-   "published": "2026-11-03T10:43:41+00:00",
-   "title": "How “reverse game theory” could keep AI agents in check",
-   "text": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
-   "title_th": "แนวทาง Reverse Game Theory เพื่อควบคุมความปลอดภัยของ AI Agents",
-   "summary_th": "นักวิจัยนำเสนอแนวคิด Reverse Game Theory เพื่อสร้างแรงจูงใจให้โมเดล AI ปฏิบัติตามกฎเกณฑ์อย่างมีเหตุผล เพื่อป้องกันไม่ให้ AI Agents ทำงานนอกเหนือการควบคุมหรือผิดกฎหมาย",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "08b710f1e780",
-   "url": "https://openai.com/index/heimstaden",
-   "source": "OpenAI",
-   "published": "2026-11-03T08:00:00+00:00",
-   "title": "Heimstaden is changing residential real estate management with AI",
-   "text": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-   "title_th": "Heimstaden นำ ChatGPT Enterprise มาใช้บริหารจัดการอสังหาริมทรัพย์",
-   "summary_th": "Heimstaden บริษัทอสังหาริมทรัพย์ในยุโรปนำ ChatGPT Enterprise และ Codex มาใช้เพื่อเพิ่มประสิทธิภาพการทำงาน ลดต้นทุน และสนับสนุนการทำงานของพนักงาน",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Heimstaden",
-    "OpenAI"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a2357e701f02",
-   "url": "https://openai.com/index/cisco-cyber",
-   "source": "OpenAI",
-   "published": "2026-11-03T08:00:00+00:00",
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "text": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-   "title_th": "Cisco ผนึกกำลัง OpenAI ยกระดับระบบรักษาความปลอดภัยองค์กร",
-   "summary_th": "Cisco นำโมเดลของ OpenAI มาใช้ร่วมกับระบบ Network Intelligence เพื่อสร้างการป้องกันภัยคุกคามทางไซเบอร์ที่ปรับตัวได้รวดเร็วขึ้น",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Cisco",
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "27b1d1875833",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-03T07:07:11+00:00",
-   "title": "DeepSeek V5 is planned to be pre-trained on Huawei Ascend chips.",
-   "text": "Source: https://mp.weixin.qq.com/s/R-1u2exLwZMOu7AITyU5kg A reporter from STAR Market Daily has learned from multiple sources within the industry supply chain that DeepSeek’s next-generation large model, DeepSeek V5, is planned to be pre-trained using Ascend chips. Previously, Huawei’s Ascend chips were primarily utilized for inference tasks for DeepSeek’s large models. According to publicly available information, the first large-scale deployment of DeepSeek models on the Ascend platform took place around the 2025 Spring Festival. In his book The Rise of Ascend , Fang Xingdong—Executive Dean o",
-   "title_th": "DeepSeek วางแผนใช้ชิป Huawei Ascend ในการเทรนโมเดลรุ่นถัดไป",
-   "summary_th": "มีรายงานว่า DeepSeek เตรียมใช้ชิปประมวลผล Ascend ของ Huawei ในการเทรนโมเดล DeepSeek V5 หลังจากที่เคยใช้ชิปดังกล่าวสำหรับการอนุมาน (Inference) มาก่อน",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "DeepSeek",
-    "Huawei"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "4d836f21a02f",
-   "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-   "source": "NVIDIA",
-   "published": "2026-11-03T07:00:12+00:00",
-   "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-   "text": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]",
-   "title_th": "NVIDIA ผลักดันการใช้ Physical และ Agentic AI เพื่อพัฒนาบริการในเมือง",
-   "summary_th": "NVIDIA นำเสนอการใช้ Physical และ Agentic AI เพื่อช่วยให้เมืองต่างๆ เปลี่ยนข้อมูลจากเซนเซอร์และกล้องให้เป็นข้อมูลเชิงลึกสำหรับการวางแผนโครงสร้างพื้นฐานและการบริการสาธารณะ",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0f27d8809d54",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TalJtQXR3Y0dVWUhVX3NhZVZ4OE1DNDU4SHcxNFZscmNrQ3VJdF9veE9rMHBjRTRwYXVwUGNMaUpqSjhocjR0aWtrOHl2RGx6MzhIQ00wWm5VeWVuVXhXT2JSNA?oc=5",
-   "source": "thestandard.co",
-   "published": "2026-11-03T06:08:40+00:00",
-   "title": "AI เขย่าตลาดแรงงานปี 2027 จับตาอนาคตวิศวกร Coding และทักษะอะไรที่ AI ยังแทนไม่ได้",
-   "text": "",
-   "title_th": "จับตาตลาดแรงงานปี 2027: อนาคตของวิศวกร Coding และทักษะที่ AI ยังแทนไม่ได้",
-   "summary_th": "รายงานวิเคราะห์ผลกระทบของ AI ต่อตลาดแรงงานในอนาคต โดยเน้นไปที่บทบาทของวิศวกรซอฟต์แวร์และการปรับตัวของทักษะแรงงานท่ามกลางการเปลี่ยนแปลงของเทคโนโลยี ข้อมูลนี้มีความสำคัญต่อการเตรียมความพร้อมของบุคลากรในสายงานเทคโนโลยี",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a19d731a67f8",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
-   "source": "Anthropic",
-   "published": "2026-11-03T04:43:45+00:00",
-   "title": "Progress on provable inference for large language models",
-   "text": "",
-   "title_th": "ความคืบหน้าด้าน Provable Inference สำหรับโมเดลภาษาขนาดใหญ่",
-   "summary_th": "Anthropic เผยแพร่ความคืบหน้าเกี่ยวกับการพัฒนาวิธีการอนุมานที่สามารถพิสูจน์ได้ (provable inference) เพื่อเพิ่มความน่าเชื่อถือให้กับโมเดลภาษาขนาดใหญ่",
-   "category": "งานวิจัย",
-   "companies": [
-    "Anthropic"
    ],
    "importance": 3,
    "ai": true,

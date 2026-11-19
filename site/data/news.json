@@ -1,52 +1,54 @@
 {
  "version": 3,
- "updated_at": "2026-11-19T10:18:25+00:00",
+ "updated_at": "2026-11-19T20:34:05+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-19T10:18:25+00:00",
-  "headline": "Anthropic สร้างประวัติศาสตร์หน้าใหม่ด้วยการทำ IPO ครั้งใหญ่ที่สุดในโลกด้วยมูลค่าบริษัทสูงถึง 1.5 ล้านล้านดอลลาร์",
+  "generated_at": "2026-11-19T20:34:05+00:00",
+  "headline": "Anthropic สร้างประวัติศาสตร์หน้าใหม่ในตลาดหุ้นด้วยการทำ IPO ครั้งใหญ่ที่สุดและมูลค่าบริษัทที่พุ่งสูงถึง 2 ล้านล้านดอลลาร์ในวันแรก",
   "points": [
    {
-    "text": "Anthropic ประสบความสำเร็จในการเข้าจดทะเบียนในตลาดหลักทรัพย์ Nasdaq อย่างเป็นทางการ โดยระดมทุนได้สูงถึง 8.13 หมื่นล้านดอลลาร์ ซึ่งทำลายสถิติเดิมของ SpaceX ลงได้สำเร็จ",
+    "text": "Anthropic ประสบความสำเร็จในการเข้าจดทะเบียนในตลาดหลักทรัพย์ Nasdaq ภายใต้ชื่อย่อ ANT โดยสามารถระดมทุนได้สูงถึง 8.1 หมื่นล้านดอลลาร์ ซึ่งถือเป็นการทำลายสถิติเดิมของ SpaceX",
     "ids": [
+     "f483f03885a3",
+     "fd07260e21f8",
+     "3588a37f0aa9",
      "fbb468cd2303",
      "ce5f83b8c20b",
      "379b21a3ed98",
      "ffd335c1ccb3",
      "83137f60a288",
-     "0e72b3df1a5d",
+     "d0946e26531a",
      "36cd002954f2",
      "37d71dc80ea2",
-     "d510b75fcd06",
-     "fbbed3c9c642"
-    ]
-   },
-   {
-    "text": "ความต้องการของนักลงทุนที่มีต่อหุ้น ANT สูงมาก ส่งผลให้ราคาหุ้นพุ่งสูงขึ้นจากราคาเสนอขายเริ่มต้น และดันมูลค่าบริษัทรวมแตะระดับ 1.5 ล้านล้านดอลลาร์",
-    "ids": [
-     "7200eff301ae",
+     "0e72b3df1a5d",
      "e08726c78228",
-     "481b7848ff84",
-     "b3f80fe4c3fe",
-     "143956d1e8b4",
+     "7200eff301ae",
      "70a321db6911",
-     "c612fa41fe41",
-     "38174ad81a5c",
-     "91d5d0e5ae3a"
+     "143956d1e8b4",
+     "481b7848ff84",
+     "b3f80fe4c3fe"
     ]
    },
    {
-    "text": "Google เปิดตัวโมเดล AI ใหม่ ได้แก่ Gemini 4 Neon และ Genie 4 สำหรับสร้างโลกเสมือนจริง ในขณะที่ OpenAI ปล่อย Astra 6.2 ที่เน้นความเร็วและราคาที่เข้าถึงง่ายกว่า",
+    "text": "ราคาหุ้นของ Anthropic ปรับตัวสูงขึ้นอย่างรวดเร็วในวันแรกของการซื้อขาย ส่งผลให้มูลค่าตลาดของบริษัทพุ่งแตะระดับ 2 ล้านล้านดอลลาร์ สะท้อนถึงความเชื่อมั่นของนักลงทุนที่มีต่ออุตสาหกรรม AI",
+    "ids": [
+     "ac8f1947a809",
+     "5a185a8f31a6",
+     "754b9e643400",
+     "f0d0f469e0bf"
+    ]
+   },
+   {
+    "text": "แม้จะประสบความสำเร็จอย่างสูงในตลาดทุน แต่ Anthropic ยังคงเผชิญกับความท้าทายสำคัญในการรักษาจุดยืนด้านความปลอดภัยของ AI ซึ่งเป็นหัวใจหลักของบริษัท",
+    "ids": [
+     "0b3a38ae0a19"
+    ]
+   },
+   {
+    "text": "ความเคลื่อนไหวอื่นๆ ในอุตสาหกรรม AI ได้แก่ การเปิดตัวโมเดล Gemini 4 Neon จาก Google DeepMind และการขยายความร่วมมือด้านคอมพิวเตอร์ประสิทธิภาพสูงระหว่าง NVIDIA และ Microsoft",
     "ids": [
      "b898a1b2127c",
-     "c7cf9be4658a",
-     "209fe474a0e9"
-    ]
-   },
-   {
-    "text": "มีรายงานความกังวลด้านจริยธรรมเกี่ยวกับโมเดล AI จากบริษัทชั้นนำอย่าง Anthropic, OpenAI และ Google ที่ระบุเป้าหมายโดรนผิดพลาดในสถานการณ์สำคัญ",
-    "ids": [
-     "288ef8cb12cd"
+     "1a7867b3a729"
     ]
    }
   ]
@@ -139,7 +141,7 @@
   {
    "name": "Hacker News",
    "ok": true,
-   "count": 17,
+   "count": 23,
    "error": null
   },
   {
@@ -163,7 +165,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 6,
+   "count": 4,
    "error": null
   }
  ],
@@ -572,9 +574,785 @@
   "bd35fd39b7fd",
   "629d6f739b24",
   "210bcf9251db",
-  "15fbb2ec46b7"
+  "15fbb2ec46b7",
+  "88ae40f03632",
+  "077c77d35c1e",
+  "d5319be365d4",
+  "baa754261624",
+  "e8317b3f6c78",
+  "25322f5e501e",
+  "aab28313c34d",
+  "47c3f543c906",
+  "4865bfc49c67",
+  "3a8e3e86cdea",
+  "107fe1bfa1e2"
  ],
  "items": [
+  {
+   "id": "b0341a0ae375",
+   "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+   "source": "The Verge AI",
+   "published": "2026-11-19T20:22:17+00:00",
+   "title": "Meta’s Muse Charm might cost $300",
+   "text": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
+   "title_th": "Meta เตรียมวางจำหน่ายอุปกรณ์ Muse Charm ราคา 300 ดอลลาร์",
+   "summary_th": "Meta มีแผนวางจำหน่าย Muse Charm อุปกรณ์ขนาดเล็กที่มีหน้าจอสำหรับสนทนากับ Muse AI agent โดยคาดว่าจะเริ่มจัดส่งในช่วงเทศกาลปลายปีนี้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6900f6014b2a",
+   "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+   "source": "The Verge AI",
+   "published": "2026-11-19T20:14:34+00:00",
+   "title": "Google is putting AI chats right on the homepage",
+   "text": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
+   "title_th": "Google เพิ่มฟีเจอร์แชท AI บนหน้าโฮมเพจ",
+   "summary_th": "Google อัปเดตหน้าโฮมเพจให้รองรับการค้นหาด้วย AI โดยผู้ใช้สามารถเปิดแถบด้านข้างเพื่อดูและสนทนาต่อกับ AI ได้โดยตรง",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f483f03885a3",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJ6NFR4LTlLMExLZlFScnZxc250VGNfRGMxOHhIdUZ3bFc5Uk5wOTJ3c01PTFFqYlp5Y1V1aklXYlB2TzlwRXcxdnhWMnBNcjN0UVhXWlNvMTRxMmJyVjB1R3FoVHFxM3B6Vml6OWp0eUpHdEJlR2xqMmpKellVd3dyR1h1TkFzdGRUUWF6QVFybG1KOFJKWFhtMG1oNUttbm44cXdEdDkzWG1KMDM2OHQ3elVvMC1vMTdSU0lzZ1JNdw?oc=5",
+   "source": "The Washington Post",
+   "published": "2026-11-19T20:08:40+00:00",
+   "title": "What to know about Anthropic's massive IPO as it breaks records on Wall Street",
+   "text": "",
+   "title_th": "สิ่งที่ควรรู้เกี่ยวกับการทำ IPO ครั้งใหญ่ของ Anthropic",
+   "summary_th": "Anthropic สร้างสถิติใหม่บนตลาดหุ้น Wall Street ด้วยการทำ IPO ครั้งใหญ่ ซึ่งเป็นเหตุการณ์สำคัญที่น่าจับตามองในวงการ AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c67b5c15de7b",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFlBOVBhNXFlbXFacjhWNTBDNnJuY0JXY2Zwdk1BbjBScUVKMFFzdmVMZEdWVXFCYjFackJwNENFam1sUk12SVVWSEh3Z1pLNGwzazlkWFU0UzlWQ01nNjFhT2lFc3FWZEJoanRfYjBhMFYxSnNkeTZ1Nl9iSjBST3JrNGVuYWht?oc=5",
+   "source": "Financial Post",
+   "published": "2026-11-19T20:06:51+00:00",
+   "title": "Will Anthropic follow the SpaceX IPO ‘roadmap’?",
+   "text": "",
+   "title_th": "Anthropic จะเดินตามรอยเส้นทาง IPO ของ SpaceX หรือไม่",
+   "summary_th": "มีการวิเคราะห์ถึงความเป็นไปได้ที่ Anthropic จะใช้แนวทางการทำ IPO ในรูปแบบเดียวกับ SpaceX หลังจากความสำเร็จในการเข้าสู่ตลาดหุ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "SpaceX"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1a7867b3a729",
+   "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+   "source": "NVIDIA",
+   "published": "2026-11-19T20:00:15+00:00",
+   "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+   "text": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to […]",
+   "title_th": "NVIDIA และ Microsoft ขยายความร่วมมือด้านคอมพิวเตอร์ประสิทธิภาพสูง",
+   "summary_th": "NVIDIA และ Microsoft ขยายความร่วมมือเพื่อช่วยองค์กรพัฒนาและปรับใช้แอปพลิเคชันอัจฉริยะ ตั้งแต่โครงสร้างพื้นฐานบน Azure ไปจนถึงระบบอุตสาหกรรมและ Windows PC",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "NVIDIA",
+    "Microsoft"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "96b6d2430f92",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZSm5oT3NRXzRGcFdjMVd4Y1J6R2xBZXBSMDAzTDlDRG1PVGI0TF9ZR3NyN0FQVzA0Rm4yY1NKQnFBNXB2N1RvOFlZbHh5aVVNNmlXbmUtazJxcmlRUTlhRkZXeGZYTlFCZ25MVldjd2cxam5FOWs5bXNhREUzQ03SAYQBQVVfeXFMUE4xR1hWd1JTMjZuRFliMTVqMWlKSnVtZ3c0bE1ocWdZT0JHZUZ2TU5SYmg4Ylczc0ZyaE1ZWGVIc2RCNlJKb3JiUmtjSENRb2NOTk8xalk4UE4wdl9pWjVuV3FGTFdVUzdrZ0RpSVh6N09EUjFxWHJ2V08xM1VySk5RakFl?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published": "2026-11-19T19:55:13+00:00",
+   "title": "Who is Dario Amodei, the CEO of Anthropic?",
+   "text": "",
+   "title_th": "Dario Amodei ซีอีโอของ Anthropic คือใคร",
+   "summary_th": "บทความนำเสนอข้อมูลเกี่ยวกับ Dario Amodei ผู้ก่อตั้งและซีอีโอของ Anthropic ท่ามกลางความสนใจที่เพิ่มขึ้นหลังการทำ IPO",
+   "category": "อื่นๆ",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "16d0db70de77",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeVB2RHJ6SzNQNm5BV25hRGRZdnAxT0FET1UwVUFqWW9pRHdPMU8wYmhlUGJKMThtSDZ4U2pRcWtXeGd5WURXREhXZHIwOFBfa0VjNS1vUFRSWUVLa2JyeUR1QVdTYWZFbkZyZFFCektKaUN2RTFOOVh6d0x2X1M5ZjBteDQwT0l2amtfcEdEYlhObmQ2ZndNRDVoUzh2Y0RwVnNsYUdyOHN0OWI4UHRqS3lCYy1UVEd1SUNQU0NZcGZHZGZIdzBKRjJQcG1QTVpVaTUxTnQtNzNEbDB1VWYxS09wWVdtOGc?oc=5",
+   "source": "Inc.com",
+   "published": "2026-11-19T19:41:15+00:00",
+   "title": "Following Anthropic's Massive IPO, This Is the Number AI Leaders Are Watching Carefully—And It's Not the Stock Price",
+   "text": "",
+   "title_th": "ตัวเลขสำคัญที่ผู้นำ AI ต้องจับตามองหลัง Anthropic ทำ IPO",
+   "summary_th": "หลังจากการทำ IPO ครั้งใหญ่ของ Anthropic มีการชี้ให้เห็นถึงตัวเลขสำคัญที่ผู้นำในอุตสาหกรรม AI ควรให้ความสนใจมากกว่าเพียงแค่ราคาหุ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0b3a38ae0a19",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+   "source": "The Verge AI",
+   "published": "2026-11-19T19:10:57+00:00",
+   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+   "text": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […]",
+   "title_th": "การทำ IPO ครั้งใหญ่ของ Anthropic กับความท้าทายด้านภาพลักษณ์",
+   "summary_th": "Anthropic ระดมทุนได้มหาศาลจากการทำ IPO ซึ่งถือเป็นก้าวสำคัญของบริษัท แต่ก็มาพร้อมกับความท้าทายในการรักษาจุดยืนด้านความปลอดภัยที่เป็นหัวใจหลักของบริษัท",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e22812a5ccc9",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-19T19:10:45+00:00",
+   "title": "Anthropic’s IPO could deliver $156 billion to charity",
+   "text": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+   "title_th": "IPO ของ Anthropic อาจส่งผลให้มีการบริจาคเงินเข้าการกุศลถึง 1.56 แสนล้านดอลลาร์",
+   "summary_th": "การทำ IPO ของ Anthropic คาดว่าจะสร้างมูลค่ามหาศาลให้กับมูลนิธิสาธารณประโยชน์ของบริษัท รวมถึงเงินบริจาคจากพนักงานและส่วนสมทบของบริษัท",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a628e3d51eab",
+   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+   "source": "The Verge AI",
+   "published": "2026-11-19T19:07:41+00:00",
+   "title": "Gemini on Mac can now use your computer",
+   "text": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]",
+   "title_th": "Gemini บน Mac สามารถควบคุมการใช้งานคอมพิวเตอร์ได้แล้ว",
+   "summary_th": "แอป Gemini บน macOS เพิ่มความสามารถในการควบคุมคอมพิวเตอร์ เพื่อช่วยทำงานหลายขั้นตอนผ่านไฟล์ท้องถิ่น แอปพลิเคชัน และเว็บเบราว์เซอร์",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "24e12c6e3e09",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVhYTmU0Nk5XQ2xRQTdHaERhZkVWd0d6TUhxb09YNW1IT2o0bGdKZGFYdHcwdGtFUXQ4QXV3Y1hvQUtsQVpEU3k2UWNtcFBjR19xYllWXzNTSVBrWW1iaDhiVUZtazdzUkNfZllvZ041Q1FvSUZZcWU2cUc4aXVuaEcyTmk?oc=5",
+   "source": "shattered.io",
+   "published": "2026-11-19T19:02:11+00:00",
+   "title": "Gemini CLI vs Claude Code: $3/$15 vs $8/$40 Tokens",
+   "text": "",
+   "title_th": "เปรียบเทียบ Gemini CLI และ Claude Code",
+   "summary_th": "บทความเปรียบเทียบการใช้งานระหว่าง Gemini CLI และ Claude Code โดยเน้นไปที่โครงสร้างราคาของโทเค็นที่แตกต่างกัน",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Google",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "eb99ecd623c5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzMHBGT2Q4WmV0SmZrMmFBMVQ1Zy1sN25qeVhVbUF0ckFjUm42OVpHLTRGS0Z1cVlaWDBGNHczMl8xdE9STlRKVlkxb1N4VnFwNkJpdjN2ZUF1SVFIUnRqVkMzN3RnWVB3czFwc2h1LXFHQjFLUGc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-19T18:55:00+00:00",
+   "title": "Anthropic Seeks Its Own Data Centers as $81 Billion IPO Tests AI Appetite",
+   "text": "",
+   "title_th": "Anthropic วางแผนสร้างศูนย์ข้อมูลของตนเองหลังทำ IPO",
+   "summary_th": "Anthropic กำลังมองหาแนวทางในการสร้างศูนย์ข้อมูลเป็นของตัวเอง ท่ามกลางความต้องการใช้งาน AI ที่เพิ่มสูงขึ้นหลังการทำ IPO มูลค่า 8.1 หมื่นล้านดอลลาร์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1d8caa6d9a01",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQWJwVUlwdmtZbDNTYTROSWRVa0J1aHBScENiRjJWdXhGTDNiS0k5RDNwTWtYN1NyRUNxVDcta1J2TjNDWFpMU2c2OW5PVnpUQzh3ZkVMazZLaC14TXVIdnhsUkZFSmhVZHZYYUVscEsxa05kaVBHZXNKc0xaeGJ6NExhU09ScG9RSHhNM3FINDNpQkthQTdneDkzc19SSkN4STdaT0Z3eWhrOVlhaW1PVHpn0gG4AUFVX3lxTE1ZSG1zOWhrZW9oWnpRRUlibk5wNjBIR0puTUZpNWNBcV9qVkk4SnRZRTUtWVZhV1JZSEZiYzRuYUFGd2hDaU93MHVfOS1HRnYzYU1EZFFSRzJadEQyNjlFWFM4akgzV2I4bjd0Nm02TFBzRmZ3aVdjcG4weDQ0NkZwWWF0cHFXd19RZXRWenZZcEZVUVM5Y1RBRXEwZkZOMlpQNkM0TDEtWWJQLVdXWWdod184R2t3REI?oc=5",
+   "source": "The Hindu",
+   "published": "2026-11-19T18:54:49+00:00",
+   "title": "Anthropic soars in Wall Street debut despite AI jitters",
+   "text": "",
+   "title_th": "หุ้น Anthropic พุ่งสูงในการเปิดตัวบน Wall Street แม้มีความกังวลเรื่อง AI",
+   "summary_th": "หุ้นของ Anthropic ได้รับการตอบรับที่ดีในการเปิดตัวบนตลาดหุ้น แม้ว่านักลงทุนจะยังมีความกังวลเกี่ยวกับภาพรวมของอุตสาหกรรม AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d224bf89ec24",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnRVhUN1Jwai0wLXJEbmlYVGtreThnVGxBMjRvTFlHakFiaVNVWlVmLXZ3Yy1SVnZaNlVmWl9PQjdrVnJ5OXBHZ3ZfOV9mZzlGMHkzNS1yQkU4bFMyUTkwVzJGaGxpSnpU?oc=5",
+   "source": "Kingy AI",
+   "published": "2026-11-19T18:53:19+00:00",
+   "title": "Will Claude cost more after Anthropic’s IPO?",
+   "text": "",
+   "title_th": "Claude จะมีราคาแพงขึ้นหรือไม่หลัง Anthropic ทำ IPO",
+   "summary_th": "มีการตั้งคำถามถึงผลกระทบของการทำ IPO ต่อโครงสร้างราคาค่าบริการของ Claude ในอนาคต",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "52204a5d4873",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFZHRzItQU43cVpRUk9vYkJNVC13TFA2dHpUR0ZjRDhFbldQV0V5OEVrOHZpSTMwYlhwOEQ4aFVVQ0lDc0pJR1hyYzRLeVU3ZE1KNUZhOEdOLWZoUjR6NXlpanFUVWw2UWNEZ3NVQXZBSDFONGxkalRwNVNJeGRzdA?oc=5",
+   "source": "Crypto Briefing",
+   "published": "2026-11-19T18:49:21+00:00",
+   "title": "Anthropic’s Claude Fable 5.2 takes the top spot on Code Arena’s WebDev leaderboard",
+   "text": "",
+   "title_th": "Claude Fable 5.2 จาก Anthropic ขึ้นแท่นอันดับ 1 บน Code Arena WebDev",
+   "summary_th": "โมเดล Claude Fable 5.2 ของ Anthropic ทำผลงานได้ดีเยี่ยมจนขึ้นเป็นผู้นำบนกระดานผู้นำด้านการพัฒนาเว็บของ Code Arena สะท้อนถึงความสามารถในการเขียนโค้ดที่โดดเด่น",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fd07260e21f8",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd3lGZXhxZTMwTDJsRnBXR3VWNlk4Nmw0dmdzSXBOcjNicHlpcTJkMXdyR1VqendQVnJjRzdLaUt1cE5MRU1MNTY0aDIzeG1oM0l1cTBpM1dEMWRSUW1VODFvX25UamJyVFQtaHBzSHdkdzlkYkRNc0JIMzRVMDVaOHNGTFdWR1NwOXhxX2lVV0pUajh2dV9IVmd4Y0tONUdsdHBuZV85SzZHeHQtTWM4V0NuS2ZaUDg2MGJrMFV1RTRjTXFFR081V1dROEpWanhneHNVbnVMcDNfUUtyYmFRWWk4U1M3N1ZhaGF5Q0VmNA?oc=5",
+   "source": "WHAS11",
+   "published": "2026-11-19T18:20:00+00:00",
+   "title": "Anthropic, company behind Claude AI, goes public with record-breaking $81 billion IPO",
+   "text": "",
+   "title_th": "Anthropic ผู้พัฒนา Claude AI เข้าตลาดหุ้นด้วยมูลค่า IPO สูงเป็นประวัติการณ์",
+   "summary_th": "Anthropic บริษัทผู้อยู่เบื้องหลัง Claude AI ได้เข้าจดทะเบียนในตลาดหลักทรัพย์อย่างเป็นทางการด้วยมูลค่าการเสนอขายหุ้น IPO ที่สูงเป็นประวัติการณ์ถึง 8.1 หมื่นล้านดอลลาร์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6d6821f501bb",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-19T18:09:11+00:00",
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "text": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+   "title_th": "Google อัปเดต Gemini ให้เป็น AI Agent บน Mac ช่วยจัดการงานอัตโนมัติ",
+   "summary_th": "Google เพิ่มความสามารถให้ Gemini สามารถทำงานบน Mac ได้โดยตรง ช่วยผู้ใช้จัดการไฟล์ กรอกแบบฟอร์ม และดำเนินงานหลายขั้นตอนให้สำเร็จได้โดยอัตโนมัติ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cab595fd8738",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbHRvTlBCaXZWS05BdDJUVGZ1OXdnX0YtbWZHckNqbzFYb0NSQ25DOVVoMVFYMzY0R1JmaXZLX0c4Tjd4QS04NjZLUS1BaWNzb1BjT0cxSXVCbnk0MlYzanl4WmJkUEtNT0k0SFNadW0yNXJTcHEzak94WHBlZjhab085Z1NXUmIxNU9ibERNZUtZZlN2LU5Pa3U1LTZadzkzaHV0S3B1Zkx6Vm9GTXB4c2QyRFFyNERsbWtCakF3UThCVnBSRFc5Q1l2Tms2V19PRG13eXl3bTZEdw?oc=5",
+   "source": "24/7 Wall St.",
+   "published": "2026-11-19T18:07:00+00:00",
+   "title": "Anthropic Jumps 17% in Record Nasdaq Debut but Fades From $111.50 Open; Alphabet Ticks Up, Amazon Dips",
+   "text": "",
+   "title_th": "หุ้น Anthropic พุ่ง 17% ในวันแรกที่เข้าเทรด Nasdaq ก่อนปรับตัวลงจากราคาเปิด",
+   "summary_th": "หุ้นของ Anthropic เปิดตัวอย่างร้อนแรงในตลาด Nasdaq โดยราคาพุ่งขึ้น 17% ก่อนจะมีการปรับตัวลงจากราคาเปิดตัวที่ 111.50 ดอลลาร์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Alphabet",
+    "Amazon"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ac8f1947a809",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QNDdrQkl6VXJ6SlZVOG9SOWdnNnAtN05ZRXZiT2NjU0VnbTlzVldtdkxyWl9hX3JhcjItMDA5UGtibzA1WlA1WTJKWnVIQldLMTRyRWFJaUFwLTFkNkc5R3FOV2JHczh1aGFyVEd2U0FSOXZCUnc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-19T18:05:00+00:00",
+   "title": "Anthropic Jumps 34% in Nasdaq Debut as $2 Trillion AI Giant Caps Record $81.3 Billion IPO",
+   "text": "",
+   "title_th": "Anthropic ทะยาน 34% ในวันแรกที่เข้าตลาดหุ้น มูลค่าบริษัทแตะ 2 ล้านล้านดอลลาร์",
+   "summary_th": "หุ้น Anthropic ปรับตัวสูงขึ้น 34% ในการเข้าซื้อขายวันแรก ส่งผลให้บริษัท AI ยักษ์ใหญ่รายนี้มีมูลค่าตลาดสูงถึง 2 ล้านล้านดอลลาร์หลังจบ IPO",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b00f82b6db94",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "source": "Google AI Blog",
+   "published": "2026-11-19T18:00:00+00:00",
+   "title": "Introducing Tool Retrieval in the Gemini API",
+   "text": "Gemini spark on a space background",
+   "title_th": "Google เปิดตัวฟีเจอร์ Tool Retrieval ใน Gemini API",
+   "summary_th": "Google ประกาศเพิ่มความสามารถ Tool Retrieval เข้าสู่ Gemini API เพื่อช่วยให้นักพัฒนาสามารถเรียกใช้เครื่องมือต่างๆ ได้อย่างมีประสิทธิภาพมากขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5ee73a9b0bf5",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0hadXpsX0QyNnNhb3RxbElnaTdTaDVIN18tY2xYWUQzOVZTbk9PNURNS1pBVTF5alo4WEFuMGtHdlUydXRydVhhS2ZlamFHZFRfVW42MVo0VEQzQmtleFdtVGNvMDdIdEFHN25hMDVORll5T196MzRqaEFkX1BJU1JLb1R5eTN5NnJvbThZMWRYczA0b253dUV1bnBzZTRJMERsaUFPZEpfOWktRlYxRkt3?oc=5",
+   "source": "GeekWire",
+   "published": "2026-11-19T17:54:05+00:00",
+   "title": "Amazon’s $18B bet on Anthropic tops $200B in the Claude maker’s historic market debut",
+   "text": "",
+   "title_th": "การลงทุน 1.8 หมื่นล้านดอลลาร์ของ Amazon ใน Anthropic ทะลุ 2 แสนล้านหลังเข้าตลาด",
+   "summary_th": "มูลค่าการลงทุนของ Amazon ใน Anthropic เพิ่มขึ้นอย่างมหาศาลเกิน 2 แสนล้านดอลลาร์ หลังจากการเข้าจดทะเบียนในตลาดหลักทรัพย์ที่ประสบความสำเร็จของบริษัท",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Amazon",
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "b3c998128a58",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmxydTh5WjlHcm1EQVpLREwtNnh4R0hCYkdydkhNSVo5dE1Sb1IwSkpCaUNiUEZFaGxDb0U1MVJrZS10Y0RpOEpXQ1Fmd0J6YmJLVU4zdGFYLWREdk5reENiakI4T1VCcVZCa1ZSSDRadjB0WDRuSWstOXFYMmpDUWtGVzQzTVhnZmlaWndiS2E0VVNXeUdleWgtcEg4ZV9faEl6RjRB?oc=5",
+   "source": "Al-Monitor",
+   "published": "2026-11-19T17:45:48+00:00",
+   "title": "What Anthropic’s record $81 billion IPO means for Gulf investors",
+   "text": "",
+   "title_th": "วิเคราะห์ผลกระทบ IPO มูลค่า 8.1 หมื่นล้านดอลลาร์ของ Anthropic ต่อกลุ่มนักลงทุนอ่าวอาหรับ",
+   "summary_th": "การเข้าตลาดหุ้นครั้งใหญ่ของ Anthropic สร้างความสนใจอย่างมากในกลุ่มนักลงทุนจากภูมิภาคอ่าวอาหรับ ซึ่งสะท้อนถึงความเชื่อมั่นในอุตสาหกรรม AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "72cb337f86b5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yVmdfQkhfWnpvb255NnZWSDg3U2NyeC1WWG1qLXpmb3NnS2plWW1zWkMwVFFqMnBmT3FBU0R2MGpESEpxNG50T21oOEo1SXNRTFpQTG9YcWVQVDBhSXN4OXZ3?oc=5",
+   "source": "Ynetnews",
+   "published": "2026-11-19T17:39:17+00:00",
+   "title": "Anthropic's $2 trillion debut comes with a $900 billion AI bet",
+   "text": "",
+   "title_th": "การเปิดตัวของ Anthropic ด้วยมูลค่า 2 ล้านล้านดอลลาร์ มาพร้อมการเดิมพัน AI 9 แสนล้าน",
+   "summary_th": "การเข้าตลาดหุ้นของ Anthropic ด้วยมูลค่า 2 ล้านล้านดอลลาร์ ถือเป็นหมุดหมายสำคัญที่มาพร้อมกับการลงทุนมหาศาลในอุตสาหกรรม AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5a185a8f31a6",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWhibjRleXhzNDh3LXhEVFRZWEUyeXJackVaTEI1RFN4UFRDdC1fQlNiQmFlX245cjc3OE1pWnlRQ09ZVk9HVHFFQjdhcng0bzlWc3Z2Q19UT2ZMN0tiZGRuUmtkYlljZHY4UTVZTWtPWHhNZmRDN25wa2ZOUGUzYVFfS0xJOUxoOUV2Z3ZiZjdsemdFV2tuRTBB?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-11-19T17:38:43+00:00",
+   "title": "Anthropic Hits $2 Trillion Market Cap in Blockbuster IPO Debut",
+   "text": "",
+   "title_th": "Anthropic สร้างปรากฏการณ์มูลค่าตลาด 2 ล้านล้านดอลลาร์ในการเข้าเทรดวันแรก",
+   "summary_th": "Anthropic ประสบความสำเร็จอย่างสูงในการเข้าจดทะเบียนในตลาดหลักทรัพย์ โดยมูลค่าตลาดพุ่งแตะ 2 ล้านล้านดอลลาร์ทันทีในวันแรก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d9d2fba47fd3",
+   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-19T17:38:40+00:00",
+   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+   "text": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+   "title_th": "รายงานเผย AI Agent Muse ของ Meta แสดงข้อมูลส่วนตัวผู้ใช้ผิดพลาด",
+   "summary_th": "มีรายงานว่า Muse AI ของ Meta แสดงข้อมูลส่วนตัวที่ไม่เกี่ยวข้องกับผู้ใช้ เช่น ข้อความสนทนาและยอดเงินในบัญชีธนาคาร ซึ่งสร้างความกังวลเรื่องความเป็นส่วนตัว",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3588a37f0aa9",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFB6b1BzUHMwSFh1d0Y5RDJXVy1tbTNacFRoUkZCVUFMYl9RSVd6SGdvS0tKYlFnMDdRbzg3V0xuc2E5Y3ZLUTREUG43OHRvWDAyMWZsMkhySnJSOU9iemhhRFRDS0s2cHc4TFRWbDhkYnNpWkZBbGliMkpSZ1hTR1IzNEx0eGpBZFE?oc=5",
+   "source": "shattered.io",
+   "published": "2026-11-19T17:30:55+00:00",
+   "title": "Anthropic IPO: Opens Above $2T, Raises $81B",
+   "text": "",
+   "title_th": "สรุป IPO ของ Anthropic: เปิดตัวเหนือ 2 ล้านล้านดอลลาร์ ระดมทุนได้ 8.1 หมื่นล้าน",
+   "summary_th": "Anthropic เข้าจดทะเบียนในตลาดหลักทรัพย์ด้วยมูลค่าบริษัทเกิน 2 ล้านล้านดอลลาร์ และสามารถระดมทุนได้ถึง 8.1 หมื่นล้านดอลลาร์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5e4f59f02b42",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BUGNCMzZ0MWhXZndWTDhIeUxyX3Q5eWNWQWo5UHZPVjlJQjh2TFMzbnNFa1RhZmg2bzFFSFlacUlsUnh0VEoyaTExQjV2cDRmaVpGdVV3clRITHc?oc=5",
+   "source": "BBC",
+   "published": "2026-11-19T17:25:06+00:00",
+   "title": "Brighton Anthropic founder to become billionaire",
+   "text": "",
+   "title_th": "ผู้ก่อตั้ง Anthropic จาก Brighton เตรียมก้าวขึ้นเป็นมหาเศรษฐีพันล้าน",
+   "summary_th": "ความสำเร็จจากการเข้าตลาดหุ้นของ Anthropic ส่งผลให้ผู้ก่อตั้งบริษัทเตรียมก้าวขึ้นเป็นมหาเศรษฐีพันล้านอย่างเป็นทางการ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fbf64b0ecb2a",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUFFOEVwdllvLWRkWm5mYUNFM0xtemZfUExmSlVuRkp2UnNrV2kzMzFmY0ZEcWpCX1YzLXI3VWRzY0pCcElmUFZXOUhHdHU5UVF3cWlZQ0tpc3pyQVhQUjhDRUQzdGxJR2RQc3czbmxHQ3dLbW15Mk84QV9NeDdLQWJ2QndLMEZaZ1hZYWRKa0twVWJXTmp1Sk56WQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-19T17:18:21+00:00",
+   "title": "Should You Buy Anthropic Stock Now That It's Public?",
+   "text": "",
+   "title_th": "วิเคราะห์ความน่าสนใจในการลงทุนหุ้น Anthropic หลังเข้าตลาดหลักทรัพย์",
+   "summary_th": "บทวิเคราะห์ชวนตั้งคำถามว่านักลงทุนควรเข้าซื้อหุ้นของ Anthropic หรือไม่ หลังจากที่บริษัทได้เข้าจดทะเบียนในตลาดหลักทรัพย์เป็นที่เรียบร้อยแล้ว",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "754b9e643400",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHR2LW5hM095VHZ0ZzFzTW9xUlVkMTByVUpkOTMwbG54N1ZuLUg3dnZiZzQ0MmxBQTNEcmhfN0dxUUVEVGU2MWVIeW9CNTJ1SVJoeldrbDVidEtIYjRaSFBIU2U2eXJMbTBzUEtUUGs2bk1qZHpLOGYwRGRuaFBQVGFDUlZ6SjhMRGtpLUc2VXVGZUY1M2FvZlNBZGdJaFRSXy15T2FuODFVZTFUN19NNlpoajNJMlhNbXpDUQ?oc=5",
+   "source": "Anadolu Ajansı",
+   "published": "2026-11-19T17:16:16+00:00",
+   "title": "Anthropic shares rise over 30% in market debut, valuing Claude maker at about $2T",
+   "text": "",
+   "title_th": "หุ้น Anthropic พุ่งกว่า 30% ในวันแรก ดันมูลค่าบริษัทแตะ 2 ล้านล้านดอลลาร์",
+   "summary_th": "หุ้นของผู้พัฒนา Claude อย่าง Anthropic ปรับตัวสูงขึ้นกว่า 30% ในการซื้อขายวันแรก ส่งผลให้มูลค่าบริษัทพุ่งแตะระดับ 2 ล้านล้านดอลลาร์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f0d0f469e0bf",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "source": "Hacker News",
+   "published": "2026-11-19T17:02:40+00:00",
+   "title": "Anthropic hits $2T in Nasdaq debut",
+   "text": "534 points, 843 comments on Hacker News (https://news.ycombinator.com/item?id=50562754)",
+   "title_th": "Anthropic เข้าจดทะเบียนในตลาดหลักทรัพย์ Nasdaq ด้วยมูลค่า 2 ล้านล้านดอลลาร์",
+   "summary_th": "Anthropic ประสบความสำเร็จในการเข้าสู่ตลาดหลักทรัพย์ Nasdaq โดยมีมูลค่าบริษัทพุ่งสูงถึง 2 ล้านล้านดอลลาร์ในวันแรกของการซื้อขาย สะท้อนถึงความเชื่อมั่นของนักลงทุนในอุตสาหกรรม AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d0946e26531a",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+   "source": "The Verge AI",
+   "published": "2026-11-19T17:01:00+00:00",
+   "title": "Anthropic starts trading on Wall Street",
+   "text": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]",
+   "title_th": "Anthropic เริ่มซื้อขายหุ้นบน Wall Street อย่างเป็นทางการ",
+   "summary_th": "Anthropic เข้าจดทะเบียนในตลาดหลักทรัพย์ Nasdaq ภายใต้ชื่อย่อ ANT โดยราคาหุ้นเปิดตัวที่ 111.50 ดอลลาร์ต่อหุ้น สูงกว่าราคา IPO ที่ตั้งไว้ ซึ่งถือเป็นก้าวสำคัญของบริษัท AI ในตลาดทุน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1112027d5901",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "source": "NVIDIA",
+   "published": "2026-11-19T17:00:35+00:00",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "text": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+   "title_th": "นักพัฒนาใช้ AI Agents ร่วมกับ NVIDIA Omniverse เพื่อสร้างแบบจำลอง",
+   "summary_th": "นักพัฒนาซอฟต์แวร์กำลังนำโมเดล AI ขั้นสูงมาผสานกับไลบรารีของ NVIDIA Omniverse เพื่อสร้างเอเจนต์ AI สำหรับช่วยงานจำลองสถานการณ์และปรับปรุงการออกแบบให้มีประสิทธิภาพยิ่งขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "NVIDIA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2adef6bfeca0",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+   "source": "Google AI Blog",
+   "published": "2026-11-19T17:00:00+00:00",
+   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+   "text": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+   "title_th": "Walter Isaacson ร่วมสนทนากับ Google เรื่องความคิดสร้างสรรค์ในยุค AI",
+   "summary_th": "Walter Isaacson นักเขียนชื่อดังร่วมพูดคุยกับ Google เกี่ยวกับบทบาทของความอยากรู้อยากเห็นและการตัดสินใจของมนุษย์ท่ามกลางการเติบโตของเทคโนโลยี AI",
+   "category": "อื่นๆ",
+   "companies": [
+    "Google"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e71232150b49",
+   "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-19T16:59:23+00:00",
+   "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+   "text": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+   "title_th": "หุ้น Anthropic พุ่ง 33% เหนือราคา IPO ในวันแรกที่ Nasdaq",
+   "summary_th": "Anthropic เข้าซื้อขายในตลาด Nasdaq โดยราคาหุ้นปรับตัวสูงขึ้น 33% จากราคา IPO ที่ 83 ดอลลาร์ สะท้อนถึงกระแสความสนใจอย่างมากในบริษัท AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "32cca7ee5709",
+   "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+   "source": "Hacker News",
+   "published": "2026-11-19T16:30:18+00:00",
+   "title": "Fuck Your AI Safeguards",
+   "text": "282 points, 103 comments on Hacker News (https://news.ycombinator.com/item?id=50562262)",
+   "title_th": "ประเด็นถกเถียงเรื่องมาตรการความปลอดภัยของ AI บน Hacker News",
+   "summary_th": "เกิดการวิพากษ์วิจารณ์เกี่ยวกับมาตรการความปลอดภัยของ AI ในชุมชนนักพัฒนาบน Hacker News ซึ่งสะท้อนถึงความกังวลและมุมมองที่หลากหลายต่อการควบคุม AI",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3e5d1a7c85bc",
+   "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-19T16:19:41+00:00",
+   "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+   "text": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+   "title_th": "CEO ของ Anthropic ยืนยันความมุ่งมั่นในการควบคุมจังหวะการพัฒนา AI",
+   "summary_th": "Dario Amodei ซีอีโอของ Anthropic ย้ำจุดยืนในการพัฒนา AI อย่างมีความรับผิดชอบและเป็นจังหวะที่เหมาะสม โดยไม่หวั่นต่อแรงกดดันทางธุรกิจหรือการเมือง",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "849bf67a7068",
+   "url": "https://thedataexchange.media/pete-warden-moonshine/",
+   "source": "Hacker News",
+   "published": "2026-11-19T15:38:12+00:00",
+   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+   "text": "170 points, 156 comments on Hacker News (https://news.ycombinator.com/item?id=50561508)",
+   "title_th": "Pete Warden กับมุมมองเรื่อง Local AI และอนาคตของฮาร์ดแวร์",
+   "summary_th": "Pete Warden แบ่งปันมุมมองเกี่ยวกับความสำคัญของ AI ที่รันบนอุปกรณ์ (Local AI), โมเดลแบบเปิด และทิศทางของฮาร์ดแวร์ในอนาคต",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2600860578f3",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+   "source": "The Verge AI",
+   "published": "2026-11-19T15:16:45+00:00",
+   "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+   "text": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or […]",
+   "title_th": "ChatGPT เพิ่มฟีเจอร์ Live Dictation ถอดความเสียงพูดแบบเรียลไทม์",
+   "summary_th": "OpenAI อัปเดต ChatGPT ให้รองรับฟีเจอร์ Live Dictation ที่สามารถถอดความเสียงพูดได้ทันทีโดยไม่ต้องรอให้บันทึกเสร็จสิ้น พร้อมใช้งานแล้วบนทุกแพลตฟอร์ม",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "824e87dcfa8e",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-19T14:54:39+00:00",
+   "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+   "text": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+   "title_th": "การเข้าตลาดหุ้นของ Anthropic กับความท้าทายด้านเงินทุนในอุตสาหกรรม AI",
+   "summary_th": "การ IPO ของ Anthropic เผยให้เห็นถึงภาระด้านการประมวลผลมหาศาล โดยมีพันธมิตรอย่าง Amazon และ Google ที่ยังคงได้รับประโยชน์จากโครงสร้างพื้นฐาน AI แม้การแข่งขันจะเข้มข้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Amazon",
+    "Google"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "31d9585f0caf",
+   "url": "https://www.blognone.com/node/152210",
+   "source": "Blognone",
+   "published": "2026-11-19T14:34:31+00:00",
+   "title": "กูเกิลเปิดแอพสร้างโลกเสมือน Project Genie ให้ลูกค้า Google AI Ultra ใช้งาน",
+   "text": "Body กูเกิลขยายบริการ แอพสร้างโลกเสมือน Project Genie ที่เปิดตัวแบบจำกัดในเดือนมกราคม ให้กับลูกค้า Google AI Ultra ใช้งานแล้ว Project Genie เวอร์ชันเดือนพฤศจิกายน 2026 สามารถใช้ได้ทั้ง โมเดลสร้างโลก Genie 4 ตัวใหม่ล่าสุด ความสามารถเยอะที่สุด และ โมเดลรุ่นก่อนหน้า Genie 3 เวอร์ชันอัพเกรดจากเดิม ขยายอายุของโลกจาก 60 วินาทีเป็น 3 นาที (ต่อการสั่งหนึ่งครั้ง) เชื่อมหลายโลกเข้าด้วยกันได้ มีกิจกรรมเกิดขึ้นในโลกเสมือนแบบเรียลไทม์ได้ การสร้างโลกเสมือนใน Project Genie สามารถใช้ได้ทั้งผ่านข้อความ รูปภาพ หรือจะใช้ agent คอยสั่งโมเด",
+   "title_th": "Google เปิดให้ลูกค้า Google AI Ultra ใช้งาน Project Genie สร้างโลกเสมือน",
+   "summary_th": "Google ขยายบริการ Project Genie ให้ลูกค้า Google AI Ultra ใช้งานได้ โดยมาพร้อมโมเดล Genie 4 ใหม่ล่าสุดที่สร้างโลกเสมือนได้นานขึ้นและซับซ้อนขึ้นผ่านข้อความหรือรูปภาพ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "db66ab464505",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BLV9WOVJTQ25vYTFoZ0JvX3VfYUhuWjJCbjl5MFliVUFUYnRUcVd6M1BhZkZMRGVjS0xtV2U4TS1tby1vb2dJSUlLLTN5U3MyTVR2dmRtTEE?oc=5",
+   "source": "EurekAlert!",
+   "published": "2026-11-19T14:16:35+00:00",
+   "title": "The internal metaphysics of an LLM (IMAGE)",
+   "text": "",
+   "title_th": "สำรวจกลไกภายในและอภิปรัชญาของ LLM",
+   "summary_th": "บทความวิเคราะห์การทำงานเชิงลึกและแนวคิดเบื้องหลังของโมเดลภาษาขนาดใหญ่ เพื่อทำความเข้าใจว่าโมเดลเหล่านี้ประมวลผลข้อมูลอย่างไรในระดับโครงสร้าง",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "97ccf1ecd5ed",
+   "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-19T14:00:00+00:00",
+   "title": "Superhuman pushes its Go assistant everywhere",
+   "text": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+   "title_th": "Superhuman ขยายการใช้งาน AI Assistant 'Go' ไปยัง Docs และ Mail",
+   "summary_th": "Superhuman ยกระดับ Go ให้เป็น AI ผู้ช่วยหลักและเปิดให้ใช้งานได้ภายในบริการ Docs และ Mail เพื่อเพิ่มประสิทธิภาพการทำงานของผู้ใช้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Superhuman"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fdfefb89d613",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+   "source": "The Verge AI",
+   "published": "2026-11-19T13:08:05+00:00",
+   "title": "Canva adds an AI ‘off’ button",
+   "text": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered […]",
+   "title_th": "Canva เพิ่มตัวเลือกให้ผู้ใช้ปิดฟีเจอร์ AI",
+   "summary_th": "Canva เปิดตัวฟีเจอร์ใหม่ที่อนุญาตให้ผู้ใช้สามารถปิดการทำงานของเครื่องมือ Generative AI ต่างๆ บนแพลตฟอร์มได้ตามความต้องการ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Canva"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "97b20df2e79d",
+   "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+   "source": "Hacker News",
+   "published": "2026-11-19T12:17:10+00:00",
+   "title": "The AI Superintelligence Debate Has Serious Flaws",
+   "text": "101 points, 155 comments on Hacker News (https://news.ycombinator.com/item?id=50559140)",
+   "title_th": "ข้อถกเถียงเรื่อง AI Superintelligence ยังมีช่องโหว่สำคัญ",
+   "summary_th": "บทวิเคราะห์ชี้ให้เห็นว่าการถกเถียงเรื่องปัญญาประดิษฐ์ระดับสูง (Superintelligence) ในปัจจุบันยังมีประเด็นที่บกพร่องและขาดความชัดเจนในหลายด้าน",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "65b1b6e22b9a",
+   "url": "https://www.blognone.com/node/152207",
+   "source": "Blognone",
+   "published": "2026-11-19T11:45:38+00:00",
+   "title": "Lenovo รายงานผลประกอบการไตรมาส เติบโตทำสถิติสูงสุดในทุกกลุ่มธุรกิจ",
+   "text": "Body Lenovo รายงานผลการดำเนินงานของไตรมาสที่ 2 ตามปีการเงินบริษัท 2026/27 สิ้นสุดเดือนกันยายน รายได้รวมเติบโตทำสถิติสูงสุด 30,238 ล้านดอลลาร์ เพิ่มขึ้น 48% จากช่วงเวลาเดียวกันในปีก่อน การเติบโตมาจากทุกกลุ่มธุรกิจ ซึ่งต่างทำสถิติรายได้สูงสุดเช่นกัน กลุ่ม Intelligent Devices รายได้เพิ่มขึ้น 15% เป็น 1.74 หมื่นล้านดอลลาร์ ธุรกิจพีซียังครองส่วนแบ่งเป็นอันดับ 1, กลุ่ม Infrastructure Solutions รายได้โต 178% เป็น 1.13 หมื่นล้านดอลลาร์ เฉพาะเซิร์ฟเวอร์จีพียูรายได้โต 300% มีกำไรจากการดำเนินงานมากกว่า 1 พันล้านดอลลาร์ เป็นครั้งแรก และกลุ",
+   "title_th": "Lenovo รายงานผลประกอบการไตรมาสเติบโตสูงสุดจากธุรกิจเซิร์ฟเวอร์จีพียู",
+   "summary_th": "Lenovo เผยรายได้รวมเติบโตทำสถิติสูงสุด โดยได้รับแรงหนุนสำคัญจากกลุ่มธุรกิจ Infrastructure Solutions และยอดขายเซิร์ฟเวอร์จีพียูที่พุ่งสูงขึ้นอย่างมาก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Lenovo"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "9ce62d7a92f2",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSm0wZ2dDejFzMFR2QjhfQVhMS0FXNmU3X3hnRFpEOGcwcko0aU5ES2ctNWdWS1RBaF85bmR0eU1vcUxFU0hOZVZCTGlZQ2pDYVF0MWV2QzdrTnVGTURXWnpzR1R3OFRrRVdpeDM1ZU1uWW1hMFJaNlNoRk1mV1dOSmx3SEQ4NGJWZ1Y3c0NyVUx5c3dub0JtZFcyUFRJQ29va2FHNFYxMmlzUm5YclRHY2FSaHhxSzF4Nkk3bFBybXZVMlZVTVBHNk5WR1VWOGl1alo1V0ZFdw?oc=5",
@@ -870,6 +1648,23 @@
    "dedup": true
   },
   {
+   "id": "6687f7be62c3",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "source": "OpenAI",
+   "published": "2026-11-19T08:00:00+00:00",
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "text": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+   "title_th": "OpenAI เผยเบื้องหลัง Performance Factory ช่วยให้ ChatGPT ทำงานรวดเร็ว",
+   "summary_th": "OpenAI อธิบายการทำงานของระบบ Performance Factory ที่ใช้เวิร์กโฟลว์จาก Codex ในการตรวจจับและแก้ไขปัญหาประสิทธิภาพ เพื่อรักษาความเร็วในการตอบสนองของ ChatGPT",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "fbbed3c9c642",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXdUdVYyRklwcFRuaUM4MVhJVTZVY3B1MERYQzJVV1pvWU9ISmFtX0ZPcGd5TVY5OUJkRzRhdnI0X1dxNm9mM0ZaNFBNNVRnVUJCTGhWRGpQZk5QYW5uRFVoZkllWW90UXlhXzUwOElLbkN5eGxvOE9GTmUtck9WcHlYZzhycjVGREtpYXpIZXpvc0FZeU02ajJaUmZTX3lFRlUxUnRvONIBrAFBVV95cUxPaGxtVDV5ZzJLYVVDdWc2OHo2bTlhYUdaN01ubWhnMEUtSTd6am9MRU5jNGVhY2YxOWlkVk1vSnhuTlRiWDRjVV9lT1RHM29pd0lQWmhhNTdXc2VDUFBxWWZpRFlMOE8ta3dJNEdBcEZBV3VyVlBxUzdnUGVtUGNucTBoUi1uU25tbWwxZk5GRWFLUDdhZklXMXllSWJtdmxRY1Z4NHZPTG1QYWR1?oc=5",
    "source": "Al Jazeera",
@@ -1024,6 +1819,21 @@
    "dedup": true
   },
   {
+   "id": "07bd5650afd3",
+   "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+   "source": "Hacker News",
+   "published": "2026-11-19T01:51:28+00:00",
+   "title": "AI will not make you rich (2025)",
+   "text": "105 points, 68 comments on Hacker News (https://news.ycombinator.com/item?id=50555093)",
+   "title_th": "มุมมองต่อการใช้ AI เพื่อสร้างความมั่งคั่งในปี 2025",
+   "summary_th": "บทความวิพากษ์วิจารณ์ความเชื่อที่ว่าการใช้ AI จะนำไปสู่ความร่ำรวย โดยชี้ให้เห็นถึงความเป็นจริงและข้อจำกัดในการนำเทคโนโลยีมาใช้สร้างรายได้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "481b7848ff84",
    "url": "https://www.blognone.com/node/152203",
    "source": "Blognone",
@@ -1037,6 +1847,21 @@
     "Anthropic"
    ],
    "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d3a31f422832",
+   "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+   "source": "Hacker News",
+   "published": "2026-11-19T00:57:20+00:00",
+   "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+   "text": "108 points, 81 comments on Hacker News (https://news.ycombinator.com/item?id=50554641)",
+   "title_th": "นักเรียนฟ้องร้องหลัง AI ระบุถุงขนมผิดว่าเป็นอาวุธปืน",
+   "summary_th": "เกิดกรณีฟ้องร้องทางกฎหมายหลังจากระบบ AI ตรวจจับภาพผิดพลาด โดยระบุว่าถุงขนม Doritos เป็นอาวุธปืน ส่งผลกระทบต่อกลุ่มนักเรียนมัธยมปลาย",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -1265,6 +2090,24 @@
    "dedup": true
   },
   {
+   "id": "029ded4e9a8f",
+   "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+   "source": "The Verge AI",
+   "published": "2026-11-18T22:31:27+00:00",
+   "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+   "text": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
+   "title_th": "ทดสอบการใช้งาน AI สรุปชีวิตประจำวันผ่านอุปกรณ์สวมใส่",
+   "summary_th": "การทดสอบใช้งานฟีเจอร์ AI บนอุปกรณ์สวมใส่อย่าง Apple Watch Ultra 4 และ Amazon Bee Frontier ที่คอยดักฟังและสรุปบทสนทนาในชีวิตประจำวันของผู้ใช้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple",
+    "Amazon"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "fa0dd7b45c72",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYnd0VmVlQXlhS1pyaHI2RGxhVWg5RTM4OGJZb0c1S09wYW5VRTJfcGVJQ1BtdXFWZTVKbk95VHRPRWN5OF9adWE3U0RlLUFzYndKcVFmLV9oUmRma0hoeEVIS0h2Q29SdzZ1aUZ3aTNpc01uUzJfSm0xT0d6c092X1lvd1UyVk1UR0ZidnJ1Q2hKQ2ZzaVdKdzladF9IaU5pLVlvRTNMLVlicmJKNFJqU1loTW01dms4LTJHTU5Wa25lNEJq?oc=5",
    "source": "425 Business",
@@ -1455,6 +2298,18 @@
     {
      "source": "SSBCrack",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUEFSQnN4MXRJdlEyVjJlZXUyWXYwcHIxZnFJYjBzZjN1SUUyaFNFVXRBcWYySXdMc2VpRE9vQ2VHRFJpRTdhb3hydy10REJfXy1ZZ3FMZEctbjhJX0xBQ1hCV0VGT0xndDlSRjQ2a2dFU0lKQW91M3NVR1pmakJTeXlELVJiNFprNTRvX0ZFT1VrOWFnNVNUU0dpczlIV3Q0SWE0eDZYeDE?oc=5"
+    },
+    {
+     "source": "Blognone",
+     "url": "https://www.blognone.com/node/152208"
+    },
+    {
+     "source": "Technetbook",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSEMya3IwOGJfV0pfM2taaVJfYVh0OC1aX2FoY1JHX2ZFTHFDT2NLZDRacUUtMVc2ZkNiWEhJWFpqM3c4QmowVkw2WHdjZ2xkZjZrTDItdmIxWDNNSDE5MDhXb2piSVFxSjRWbDJ5bFNWRGJlUHZhWEI0SGZEcmNQR19aZ1Y0aXc?oc=5"
+    },
+    {
+     "source": "Deccan Herald",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNE9kdzNjLUJ0bzJOQ0dkYnNGRDh2YUFZaEhybmw4YTR6UWxKTmFSbkpYaTNpa2QxR3M3SjUyeUx3QWJsT3lyUk5YSDNtV0lrQnBnMlRRQzB4Z2o2RWFlNkt2TTdkMC0zTFh6Tm8yLXRILURweDRSTUktbGppLUpOOHhmcmZUS3g1bXVxNDUtb29UclJHRmFKUzRhRjJtZFFQWkxrLVBucU5XOUkzeFdMQ3VzeU1WN3PSAcQBQVVfeXFMTjBVOFJxaFB2cGJPNzl2TWVfU3h4YlgybXpmOVJNb3lkWUQ3S0M0UFUzYkV5cDVFb09hZzh6ZGxKRTZBSko5QXVva1EwM211Tnh5TG56aDctRVloYWN5OVB4MXRSV2hueUh5UW5GUXNudTdqMjV2RUtoQWpKdG1rWDhjeWJrYUZHUHI3amE1TlB0ZDJhdi1Bc0U0eUpQcTVmTjAwaUhQNXZBd1R0RkFxRUpLa0d4Q1J6WjBOZkJDellKZUY5cw?oc=5"
     }
    ],
    "dedup": true
@@ -1707,6 +2562,21 @@
     "OpenAI"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "21efcf41c872",
+   "url": "https://news.ycombinator.com/item?id=50548660",
+   "source": "Hacker News",
+   "published": "2026-11-18T16:53:42+00:00",
+   "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+   "text": "135 points, 41 comments on Hacker News (https://news.ycombinator.com/item?id=50548660)",
+   "title_th": "เปิดตัว Mastra Factory เครื่องมือโอเพนซอร์สสำหรับสร้าง Mastra",
+   "summary_th": "Mastra Factory เป็นซอฟต์แวร์โอเพนซอร์สที่ทีมผู้พัฒนาใช้ในการสร้าง Mastra ซึ่งเป็นเฟรมเวิร์กสำหรับการพัฒนาแอปพลิเคชัน AI การเปิดตัวนี้ช่วยให้นักพัฒนาสามารถเข้าถึงเครื่องมือที่ใช้ในการสร้างระบบดังกล่าวได้โดยตรง",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -3145,6 +4015,21 @@
    "text": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world models must follow user-defined rules beyond real-world behaviors. However, realizing user-defined rules presents two challenges: Rule-State Persistence and Rule-to-Visual Realization. The former requires preserving rule definitions, dependencies, and world states across saving and loading, so that restored worlds follow the established rules. The latter requires accurately realizing rule-induced cha",
    "title_th": "WorldRuler: โมเดลโลกเชิงโต้ตอบที่ปรับแต่งกฎได้",
    "summary_th": "งานวิจัยนำเสนอ WorldRuler ซึ่งเป็นโมเดลโลกที่สามารถปรับเปลี่ยนพฤติกรรมตามกฎที่ผู้ใช้กำหนด เพื่อสร้างประสบการณ์การเล่นเกมที่ยืดหยุ่นและปรับแต่งได้",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ab298121176b",
+   "url": "https://huggingface.co/papers/2611.24789",
+   "source": "HF Daily Papers",
+   "published": "2026-11-17T19:00:00+00:00",
+   "title": "HINT-WAM: Hindsight-Informed Training for World Action Models",
+   "text": "World action models (WAMs) have shown promising generalization and data efficiency in robot manipulation by coupling action generation with predictions of future visual dynamics. Translating these capabilities into reliable task execution, however, remains a challenge for existing post-training methods. Offline supervised fine-tuning provides dense supervision on expert trajectories, but its flow-matching action expert is trained only on noised demonstration actions and never on the intermediate states produced by its own sampler; task-specific adaptation can also compromise pretrained capabil",
+   "title_th": "HINT-WAM: การฝึกฝนโมเดล World Action Models ด้วยข้อมูลย้อนหลัง",
+   "summary_th": "งานวิจัยนำเสนอ HINT-WAM ซึ่งเป็นวิธีการฝึกฝนโมเดล World Action Models เพื่อเพิ่มประสิทธิภาพในการควบคุมหุ่นยนต์ โดยเน้นการแก้ปัญหาการนำโมเดลไปใช้งานจริงผ่านการปรับจูนข้อมูลย้อนหลัง ช่วยให้หุ่นยนต์ทำงานได้แม่นยำขึ้น",
    "category": "งานวิจัย",
    "companies": [],
    "importance": 3,
@@ -13433,596 +14318,6 @@
     "Anthropic"
    ],
    "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e7c62756ba5f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-05T20:09:52+00:00",
-   "title": "Appreciation post for OrcaCyber-Nano-1.0",
-   "text": "I haven't see anyone post about this gem of a finetune. So I wanted to appreciate the team and bring some attention to it. OrcaCyber-Nano-1.0 for me is the best finetune I have used so far. I have tried quite a few like AREX or Swift or Peculiar Ragdoll's Spark chat template etc. But this model is on par with my experience with frontiers. (I may not be doing complicated stuff). Here are my experiences with this: It almost always one shots the bash command chains. Same resilience as base Qwen 3.8 27B but this gets to the answer faster. I have used it to plan and implement stuff. I uploaded the ",
-   "title_th": "ผู้ใช้งานชื่นชมโมเดล OrcaCyber-Nano-1.0 ว่ามีประสิทธิภาพสูง",
-   "summary_th": "ผู้ใช้งานในชุมชน AI แบ่งปันประสบการณ์การใช้โมเดล OrcaCyber-Nano-1.0 โดยระบุว่ามีประสิทธิภาพเทียบเท่ากับโมเดลระดับแนวหน้าในงานบางประเภท",
-   "category": "โมเดลใหม่",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "acbe6f399f61",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-05T20:06:15+00:00",
-   "title": "Z.ai chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B)",
-   "text": "Smaller GLM models are coming! GLM 5.5 will have a 32B model! submitted by /u/wapswaps [link] [comments]",
-   "title_th": "เผยรายละเอียดการฝึกโมเดล GLM-5.5 รุ่นใหม่จาก Z.ai",
-   "summary_th": "Z.ai เตรียมเปิดตัวโมเดล GLM-5.5 โดยมีขนาดให้เลือกตั้งแต่ 32B, 122B ไปจนถึง 256B ซึ่งถือเป็นการขยายไลน์อัปโมเดลขนาดเล็กให้มีประสิทธิภาพมากขึ้น",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Z.ai"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7eab5dddcfa7",
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-   "source": "NVIDIA",
-   "published": "2026-11-05T20:00:41+00:00",
-   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-   "text": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
-   "title_th": "NVIDIA เปิดตัว Vera CPU เพื่อประสิทธิภาพสูงสุดสำหรับ AI Agents",
-   "summary_th": "NVIDIA นำเสนอ Vera CPU ที่ออกแบบมาเพื่อรองรับการทำงานของ AI Agents ที่ต้องสลับการประมวลผลระหว่าง GPU และ CPU อย่างต่อเนื่อง เพื่อเพิ่มประสิทธิภาพในการประมวลผลข้อมูล",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c88b52d0b210",
-   "url": "https://openai.com/index/cultfit-builds-with-codex",
-   "source": "OpenAI",
-   "published": "2026-11-05T20:00:00+00:00",
-   "title": "Cult.fit builds operational muscle with Codex",
-   "text": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-   "title_th": "Cult.fit นำ Codex มาช่วยเพิ่มประสิทธิภาพการทำงานในองค์กร",
-   "summary_th": "Cult.fit เลือกใช้ Codex ของ OpenAI เพื่อช่วยทีมงานสร้างเครื่องมือภายในและเร่งความเร็วในการทำงานให้มีประสิทธิภาพยิ่งขึ้น",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Cult.fit",
-    "OpenAI"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e8690f74b67f",
-   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-   "source": "Hugging Face",
-   "published": "2026-11-05T19:35:16+00:00",
-   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-   "text": "",
-   "title_th": "NVIDIA เปิดตัวโมเดลโอเพนซอร์ส Cosmos 3 สำหรับจำลองโลกเสมือน",
-   "summary_th": "NVIDIA ปล่อยโมเดลใหม่ Cosmos 3 แบบโอเพนซอร์ส เพื่อใช้สำหรับการจำลองโลกเสมือนแบบโต้ตอบ",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2e06a7a163b7",
-   "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-05T19:12:39+00:00",
-   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-   "text": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-   "title_th": "Meta เตือนกระแสต่อต้านศูนย์ข้อมูลอาจกระทบการขยายตัวของ AI",
-   "summary_th": "Meta แสดงความกังวลว่าการต่อต้านจากชุมชนในประเด็นศูนย์ข้อมูลอาจกลายเป็นอุปสรรคต่อการลงทุนและขยายโครงสร้างพื้นฐานด้าน AI ในอนาคต",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Meta"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c6134d61030c",
-   "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-   "source": "The Verge AI",
-   "published": "2026-11-05T19:07:13+00:00",
-   "title": "Muse has a voice mode now",
-   "text": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of […]",
-   "title_th": "Muse AI จาก Meta รองรับการสนทนาด้วยเสียงแบบเรียลไทม์แล้ว",
-   "summary_th": "Mark Zuckerberg ประกาศเปิดตัวฟีเจอร์สนทนาด้วยเสียงแบบเรียลไทม์สำหรับ Muse AI บนแอปพลิเคชัน iOS",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Meta"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "dc08f45f6de8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-05T18:23:22+00:00",
-   "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
-   "text": "Big update to the Delta Inference Engine, you guys asked for more features, more benchmarks and less clickbait. I'm here to deliver The short version: I've added almost everything requested and more. Delta Inference Engine now supports 64/96/128 GB of RAM and fully supports the new Unsloth quants. Unsloth IQ2 runs at the same 41 tok/s (192 GB RAM) using a new native reader for the Engram tables and some clever CPU kernel work. Compared to the old default model on my 99-question benchmark it went from 52 to 57 correct, against 59 for the full model. It's no full deepseek model quant, but they'r",
-   "title_th": "อัปเดต Delta Inference Engine v0.93 รองรับ Unsloth quants เต็มรูปแบบ",
-   "summary_th": "Delta Inference Engine ปล่อยอัปเดตใหญ่เพิ่มประสิทธิภาพการรันโมเดลบนฮาร์ดแวร์ทั่วไป รองรับ RAM สูงสุด 128GB และปรับปรุงความเร็วในการประมวลผลโทเค็นแรกให้เร็วขึ้น",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "cfd1704d56b5",
-   "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-05T18:02:27+00:00",
-   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-   "text": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-   "title_th": "OpenAI อาจพร้อมเข้าตลาดหุ้น IPO ในปี 2027",
-   "summary_th": "ประธานของ OpenAI ระบุว่าบริษัทอาจมีความพร้อมสำหรับการเสนอขายหุ้น IPO ในปี 2027 โดยเน้นการเติบโตในตลาดองค์กรที่กำลังแข่งขันกับ Anthropic",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "OpenAI",
-    "Anthropic"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "f49d817c3fd3",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-   "source": "The Verge AI",
-   "published": "2026-11-05T17:49:25+00:00",
-   "title": "Claude AI can plug directly into your bank account",
-   "text": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview […]",
-   "title_th": "Claude เชื่อมต่อบัญชีธนาคารเพื่อจัดการการเงินส่วนบุคคลได้แล้ว",
-   "summary_th": "Anthropic เปิดตัวฟีเจอร์ใหม่ที่ให้ Claude เชื่อมต่อกับบัญชีธนาคารผ่าน Plaid เพื่อช่วยผู้ใช้สรุปและวิเคราะห์ข้อมูลการเงินส่วนบุคคล",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic",
-    "Plaid"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d7e9e3e89ee7",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-   "source": "Google AI Blog",
-   "published": "2026-11-05T17:00:00+00:00",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "text": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
-   "title_th": "Google เปิดตัว Gemini Omni 1.2 Flash เน้นความเร็วและประหยัดต้นทุน",
-   "summary_th": "Google แนะนำ Gemini Omni 1.2 Flash โมเดลรุ่นใหม่ที่เน้นประสิทธิภาพด้านความเร็วและความคุ้มค่าในการใช้งาน พร้อมรองรับการประมวลผลคลิปวิดีโอที่ยาวขึ้น",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Google"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b58fee4edbbb",
-   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-   "source": "OpenAI",
-   "published": "2026-11-05T17:00:00+00:00",
-   "title": "Australian universities are creating AI-native graduates",
-   "text": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-   "title_th": "มหาวิทยาลัยในออสเตรเลียเร่งสร้างบัณฑิตที่เชี่ยวชาญด้าน AI",
-   "summary_th": "สถาบันการศึกษาในออสเตรเลียขยายการเข้าถึง ChatGPT และนำ AI เข้าสู่กระบวนการเรียนการสอน เพื่อเตรียมความพร้อมให้นักศึกษาเข้าสู่ตลาดแรงงานยุค AI",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "5119dee545ce",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96ZFpXWDV4eEVBb0RhNW9Eb0xGcjY1Uk9HZGQ0MEc2MnFjZ2JGbjVUbno5aldlYTZLcnQ0NDQxNTlJczZHX3VlbHhkb1Z5WVRtREt0YTNVR3lURTJfX2llXw?oc=5",
-   "source": "ผู้จัดการออนไลน์",
-   "published": "2026-11-05T16:57:00+00:00",
-   "title": "AI Expo Thailand 2026 ปัญญาประดิษฐ์เฉพาะทางมาแรง Mobile Expo 2026 ผงาดคนไทยแห่ผ่อนมือถือ",
-   "text": "",
-   "title_th": "AI Expo Thailand 2026 ชูเทรนด์ AI เฉพาะทางมาแรง",
-   "summary_th": "งาน AI Expo Thailand 2026 เน้นย้ำถึงความสำคัญของปัญญาประดิษฐ์เฉพาะทางที่กำลังได้รับความนิยมในตลาดปัจจุบัน",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d4f3e6b69f9a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-05T16:17:42+00:00",
-   "title": "[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier",
-   "text": "We introduce FireFlash , a 300B-scale model tailored for long-horizon agentic tasks. FireFlash excels as a terminal and coding agent, achieving 46.2% on Terminal-Bench 4.0 1 , putting it on par with Fable 5 and GPT-6 Sol, while costing over 30× less per task than Fable 5 at maximum effort (Figure 1). These gains also transfer to software engineering benchmarks, including DeepSWE v1.1 2 and SWE-Bench Pro Verified 3 (Table 1). While frontier labs scale reinforcement learning across thousands of GPUs, we reach the performance-cost Pareto frontier under 5 days using 64 NVIDIA B300 GPUs . Three key",
-   "title_th": "เปิดตัว FireFlash โมเดล 300B สำหรับงาน Agentic ที่เน้นความคุ้มค่า",
-   "summary_th": "FireFlash เป็นโมเดลขนาด 300B ที่ออกแบบมาเพื่อทำงานซับซ้อนและงานเขียนโปรแกรม โดยให้ประสิทธิภาพเทียบเท่าโมเดลระดับแนวหน้าแต่มีต้นทุนการใช้งานที่ต่ำกว่ามาก",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2846e03446f4",
-   "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-05T16:16:45+00:00",
-   "title": "Axiom Math wants to keep AI slop out of mathematics",
-   "text": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-   "title_th": "Axiom Math ใช้ AI Agent ตรวจสอบความถูกต้องของงานวิจัยคณิตศาสตร์",
-   "summary_th": "Axiom Math นำ AI Agent มาใช้ตรวจสอบความถูกต้องของงานวิจัยทางคณิตศาสตร์เพื่อป้องกันข้อมูลที่ไม่น่าเชื่อถือ โดยล่าสุดได้ตรวจสอบ Stacks Project ซึ่งเป็นหนึ่งในคลังความรู้ที่ใหญ่ที่สุดในสาขานี้",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Axiom Math"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "477cff6d6b4c",
-   "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
-   "source": "NVIDIA",
-   "published": "2026-11-05T16:00:05+00:00",
-   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-   "text": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
-   "title_th": "NVIDIA สนับสนุนการพัฒนา AI แบบ Open Weights ให้เข้าถึงง่าย",
-   "summary_th": "วิศวกรจาก NVIDIA เน้นย้ำถึงความสำคัญของการสนับสนุนเทคโนโลยี AI แบบโอเพนซอร์ส เพื่อให้เหล่านักพัฒนาสามารถนำโมเดลภาษาขนาดใหญ่ไปใช้งานจริงได้อย่างมีประสิทธิภาพ",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "3df4d68063a5",
-   "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
-   "source": "NVIDIA",
-   "published": "2026-11-05T16:00:00+00:00",
-   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-   "text": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. […]",
-   "title_th": "NVIDIA เผยกลยุทธ์ Full-Stack Codesign รับมือความท้าทายด้านหน่วยความจำ AI",
-   "summary_th": "NVIDIA นำเสนอแนวทางการออกแบบระบบแบบ Full-Stack เพื่อแก้ปัญหาข้อจำกัดด้านหน่วยความจำ GPU ที่เพิ่มขึ้นตามขนาดโมเดลและบริบทที่ยาวขึ้น โดยเน้นการนำเทคโนโลยี HBM3e และ HBM4 มาใช้",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "4bad3535d40f",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3JXMmhWdWpKOXBXd3IzMFl3akZud1NzUjU4dzZqYVlKaWEtalNWYWdaU3ZpSTh5V09GZGtGQ1FoZXlaQzJCS1d2LTVwUGQzX2hocDNxdElTUTFFUWpFeHRUTUFubjl4M3ZwYWNiUldvZ3RpeHdxNk5jT1d2UGh3MFNyTjRlTGRqa2JvXzc2SThsNkNyYmdkaXpzRGtVc2oyeFVUU2xEalRTMWFheDh1bzBkbWNFcGdxeVQwVGp1c3RlRWhl?oc=5",
-   "source": "Microsoft",
-   "published": "2026-11-05T16:00:00+00:00",
-   "title": "Bringing Claude models in Microsoft Copilot into the EU Data Boundary",
-   "text": "",
-   "title_th": "Microsoft นำโมเดล Claude เข้าสู่ EU Data Boundary",
-   "summary_th": "Microsoft ขยายขอบเขตการใช้งานโมเดล Claude ใน Copilot ให้สอดคล้องกับข้อกำหนดด้านข้อมูลของสหภาพยุโรป",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Microsoft",
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "aecc9a23fd3c",
-   "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-05T15:19:05+00:00",
-   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-   "text": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-   "title_th": "Dropbox เข้าซื้อกิจการ Tigris Data มูลค่า 350 ล้านดอลลาร์",
-   "summary_th": "Dropbox เข้าซื้อกิจการ Tigris Data เพื่อเสริมความแข็งแกร่งด้านโครงสร้างพื้นฐาน AI และสนับสนุนการพัฒนา DBX Agent Cloud ซึ่งเป็นแพลตฟอร์มจัดเก็บข้อมูลสำหรับนักพัฒนา AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Dropbox",
-    "Tigris Data"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "4fc4625abcfc",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMDFpTC1odkNLZ3AxZk5sMUplMXhyU2MtSll2Z3J6a20tN3p5UjJuTF83T2xaNzlTbDJGQ1J6ckk2TUcyTWVRSUNETjZQbjhBa2R3cHcyQi1CRVJSQ3BmTHBYb1gtT2JNemw3bmt3?oc=5",
-   "source": "Anthropic",
-   "published": "2026-11-05T15:07:56+00:00",
-   "title": "AI for scientific discovery How researchers use Claude",
-   "text": "",
-   "title_th": "Anthropic เผยแนวทางการใช้ Claude เพื่อการค้นพบทางวิทยาศาสตร์",
-   "summary_th": "Anthropic นำเสนอตัวอย่างการใช้งานโมเดล Claude ในหมู่นักวิจัยเพื่อช่วยเร่งกระบวนการค้นพบทางวิทยาศาสตร์",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "f8f8c085e2e5",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-   "source": "The Verge AI",
-   "published": "2026-11-05T14:47:10+00:00",
-   "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-   "text": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly. As part of the partnership, SoundCloud Artist Pro subscribers are also getting three months […]",
-   "title_th": "SoundCloud จับมือ ElevenLabs เปิดให้โพสต์เพลงจาก AI ได้โดยตรง",
-   "summary_th": "SoundCloud เพิ่มฟีเจอร์เชื่อมต่อกับ ElevenLabs ช่วยให้ผู้ใช้งานสามารถเผยแพร่ผลงานเพลงที่สร้างจาก AI ไปยังแพลตฟอร์มได้ทันทีโดยไม่ต้องดาวน์โหลดไฟล์ก่อน",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "SoundCloud",
-    "ElevenLabs"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c9efcd5ee343",
-   "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-05T14:42:00+00:00",
-   "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "text": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-   "title_th": "Aina เปิดตัวแหวนอัจฉริยะพร้อมหน้าจอและไมค์สำหรับคุยกับ AI Agent",
-   "summary_th": "Aina เปิดตัวแหวนอัจฉริยะที่มีหน้าจอ จอยสติ๊ก และไมโครโฟนในตัว เพื่ออำนวยความสะดวกในการโต้ตอบกับ AI Agent และช่วยในการสั่งงานด้วยเสียง",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Aina"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "411b7ce49468",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04am00bW9tVlJuMC1pcWVkQ0dyUlNxdjdsTWFkMFRVT0lubFU1YUExTTBRMDI4dVluc3lQcjhmckhETk1jMm1zUFRFQmN3UVpaS2o2MA?oc=5",
-   "source": "Unite.AI",
-   "published": "2026-11-05T14:23:03+00:00",
-   "title": "Finn Carrow, ปัญญาประดิษฐ์ในการประกันภัยและการบริหารความเสี่ยง ตัวแทนการวิจัย AI",
-   "text": "",
-   "title_th": "Finn Carrow กับบทบาท AI ในงานประกันภัยและการบริหารความเสี่ยง",
-   "summary_th": "บทความกล่าวถึงการนำปัญญาประดิษฐ์มาประยุกต์ใช้ในอุตสาหกรรมประกันภัยและการบริหารความเสี่ยงผ่านงานวิจัยของ Finn Carrow",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7c602b8d39c1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-05T14:17:46+00:00",
-   "title": "NVIDIA RTX PRO 5500 Blackwell appears at $17,999 MSRP, higher than RTX PRO 6000 at $16,000 MSRP set some months ago by NVIDIA - VideoCardz",
-   "text": "submitted by /u/panchovix [link] [comments]",
-   "title_th": "NVIDIA เปิดตัว RTX PRO 5500 Blackwell ในราคา 17,999 ดอลลาร์",
-   "summary_th": "NVIDIA ประกาศราคาการ์ดจอ RTX PRO 5500 สถาปัตยกรรม Blackwell ซึ่งมีราคาสูงกว่ารุ่นก่อนหน้าอย่าง RTX PRO 6000",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "56c190950731",
-   "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-   "source": "The Verge AI",
-   "published": "2026-11-05T14:03:27+00:00",
-   "title": "The hidden supply chain costs of the AI boom",
-   "text": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through […]",
-   "title_th": "เจาะลึกต้นทุนห่วงโซ่อุปทานที่ซ่อนอยู่เบื้องหลังการเติบโตของ AI",
-   "summary_th": "บทวิเคราะห์เกี่ยวกับผลกระทบทางเศรษฐกิจและห่วงโซ่อุปทานระดับโลกที่ได้รับผลกระทบจากการขยายตัวอย่างรวดเร็วของเทคโนโลยี AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "588776d5fd50",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-   "source": "NVIDIA",
-   "published": "2026-11-05T14:00:34+00:00",
-   "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-   "text": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions […]",
-   "title_th": "Hogwarts Legacy อัปเกรด NVIDIA DLSS 5 บน GeForce NOW",
-   "summary_th": "เกม Hogwarts Legacy ได้รับการอัปเกรดเทคโนโลยี NVIDIA DLSS 5 พร้อมระบบ 3D-Guided Neural Rendering เพื่อเพิ่มคุณภาพแสงและวัสดุให้สมจริงยิ่งขึ้นบนบริการ GeForce NOW",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "NVIDIA",
-    "Ubisoft",
-    "Blizzard Entertainment"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "5ea6f104b1e8",
-   "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-05T14:00:00+00:00",
-   "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-   "text": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-   "title_th": "Box เปิดตัวระบบดึงข้อมูลด้วย AI โดยใช้ Nvidia Nemotron",
-   "summary_th": "Box นำโมเดล Nemotron ของ Nvidia มาใช้ในระบบค้นหาข้อมูลแบบเน้นเอเจนต์ ช่วยให้ตอบคำถามได้รวดเร็วขึ้น ลดข้อผิดพลาด และประหยัดการใช้โทเคนลงอย่างมาก",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Box",
-    "Nvidia"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "4dac3d0c60c6",
-   "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-   "source": "The Verge AI",
-   "published": "2026-11-05T13:31:36+00:00",
-   "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-   "text": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on […]",
-   "title_th": "Grimes ร่วมแสดงในภาพยนตร์ที่สร้างด้วย AI เรื่องแรกที่จะฉายในโรง",
-   "summary_th": "ภาพยนตร์ไซไฟเรื่อง Gods Don't Give Gifts ซึ่งสร้างโดยใช้ AI ได้ดึงตัวศิลปินชื่อดังอย่าง Grimes มาร่วมแสดง ถือเป็นกรณีศึกษาสำคัญในการทดสอบศักยภาพเชิงพาณิชย์ของภาพยนตร์ที่สร้างด้วย AI",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b2543e6c2c06",
-   "url": "https://www.blognone.com/node/152103",
-   "source": "Blognone",
-   "published": "2026-11-05T13:16:55+00:00",
-   "title": "กูเกิลจับมือ Henry Cavill สาธิตการสร้างเกมด้วย Googlebook",
-   "text": "Body กูเกิลออกคลิปโฆษณา Googlebook ร่วมกับพระเอกคนดัง Henry Cavill ซึ่งมีชื่อเสียงในฐานะที่เขาเป็น \"เกมเมอร์ตัวยง\" คลิปโฆษณานี้ Cavill โชว์การสร้างเกมแบบ 16-bit ชื่อ Mustache Protocol ตามที่เขากำลังไว้หนวดอยู่ในตอนนี้ กระบวนการสร้างเกมใช้ Antigravity (ที่ใช้จากอุปกรณ์ใดก็ได้) แต่ระหว่างทางก็สาธิตฟีเจอร์เฉพาะของ Googlebook เช่น การลากไฟล์ภาพถ่ายจากมือถือ Pixel, ฟีเจอร์ Magic Pointer เขย่าเมาส์เรียก Gemini, พูดสั่งงานด้วย Rambler ที่พูดๆ ไปเปลี่ยนใจ AI ก็เข้าใจได้ว่าต้องการอะไร กูเกิลบอกว่าจะออกคลิปของ Cavill ไปเรื่อยๆ เพื่อโชว์ว่าเกมของเ",
-   "title_th": "Google สาธิตการสร้างเกมด้วยฟีเจอร์ AI บน Googlebook ร่วมกับ Henry Cavill",
-   "summary_th": "Google ร่วมมือกับ Henry Cavill โชว์การใช้งานฟีเจอร์ AI บนอุปกรณ์ Googlebook เช่น การเรียก Gemini ผ่านเมาส์และการสั่งงานด้วยเสียงผ่าน Rambler เพื่อช่วยในการสร้างเกม",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Google"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "fd04855a6f41",
-   "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-05T13:00:00+00:00",
-   "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-   "text": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-   "title_th": "สตาร์ทอัพ YC ทุ่มเงิน 1 ล้านดอลลาร์แก้โจทย์วัสดุศาสตร์ด้วย AI",
-   "summary_th": "สตาร์ทอัพในโครงการ Y Combinator สนับสนุนเงินทุนเพื่อแก้ไขปัญหาทางวัสดุศาสตร์ที่ยังไม่มีคำตอบ โดยมุ่งเน้นการใช้ AI เข้ามาช่วยวิเคราะห์ฟิสิกส์ขั้นสูง",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Y Combinator"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "af009059638d",
-   "url": "https://www.blognone.com/node/152102",
-   "source": "Blognone",
-   "published": "2026-11-05T12:14:24+00:00",
-   "title": "OpenAI เปิดตัวโมเดล GPT Images 2.6 สร้างภาพแบบ GIF ได้แล้ว",
-   "text": "Body OpenAI เปิดตัวโมเดลสร้างรูปภาพ GPT Images 2.6 มีจุดเด่นคือสร้างรูปเร็วขึ้น 50% เทียบกับเวอร์ชัน 2.5 และสามารถสร้างภาพเคลื่อนไหวเป็น GIF ได้แล้ว GPT Images 2.6 แบ่งเป็น 2 โมเดลย่อย (เฉพาะการเรียกผ่าน API) คือ Flare เน้นทำงานเร็ว และ Sunburst เน้นคุณภาพสูง ฟีเจอร์อื่นที่น่าสนใจคือการกำหนดค่าที่ทำได้ละเอียดขึ้น และ API รองรับ image markup ที่ระบุเจาะจงได้ว่าให้ปรับแก้ตรงจุดไหน (ของเดิมทำได้เฉพาะผ่านแอพ ไม่รองรับ API) OpenAI ยังให้ข้อมูลว่า มีผู้ใช้งานสั่งสร้างรูปภาพบนแพลตฟอร์มตัวเอง (ChatGPT, Codex, API) รวมกันเกิน 4 พันล้านภาพต่อสัป",
-   "title_th": "OpenAI เปิดตัวโมเดล GPT Images 2.6 สร้างภาพเคลื่อนไหว GIF ได้แล้ว",
-   "summary_th": "OpenAI อัปเดตโมเดลสร้างรูปภาพเป็นเวอร์ชัน 2.6 โดยเพิ่มความเร็วขึ้น 50% และรองรับการสร้างภาพเคลื่อนไหวแบบ GIF พร้อมเปิดตัวโมเดลย่อย Flare และ Sunburst สำหรับการใช้งานผ่าน API ที่ปรับแต่งได้ละเอียดขึ้น",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d94f47b36633",
-   "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-05T12:00:00+00:00",
-   "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-   "text": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-   "title_th": "Agility Robotics เข้าจดทะเบียนในตลาดหลักทรัพย์ Nasdaq",
-   "summary_th": "Agility Robotics กลายเป็นบริษัทหุ่นยนต์ฮิวแมนนอยด์เต็มตัวแห่งแรกที่เข้าซื้อขายในตลาดหลักทรัพย์ Nasdaq",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Agility Robotics"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "1c44f2822479",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-05T11:46:10+00:00",
-   "title": "Quantization livestream with goats of inference",
-   "text": "Hey folks, it's Merve from Hugging Face. Title of this post is super self explanatory, we are doing a quantization workshop livestream with Michael Goin (lead maintainer of vLLM at RedHat), Colin Kealty (aka bartowski at RedHat), Maxime Labonne and Aditya Tadimeti. I will shortly teach you how quantization works, modern ideas (double quantization, calibration) and llama.cpp quants (k-quants, i-quants) so even if you don't have an idea, feel free to chime in. Everything is on Hugging Face YT, X, LI where you can set reminders. Looking forward to see y'all! submitted by /u/unofficialmerve [link]",
-   "title_th": "Hugging Face จัดไลฟ์สดสอนเทคนิค Quantization สำหรับโมเดล AI",
-   "summary_th": "ผู้เชี่ยวชาญจาก Hugging Face และ RedHat ร่วมจัดเวิร์กชอปออนไลน์สอนเทคนิคการทำ Quantization เพื่อเพิ่มประสิทธิภาพการรันโมเดลภาษาขนาดใหญ่",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Hugging Face",
-    "RedHat"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "3a9607df50a3",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUYtTno4SXVsVUZhWDFNOFBIOTh0N054TjhDbzRlM0pnSVE5dnF2SFJsQXc0NGw4aTIzaGNXZjdTX29IUGJEM0RlakxHLVBkUTItbHI0UEhGWDFYTUliMHN4Mm5YX2NNTXhORHNnS3doVm53a1NVOU53ZnBKbW1XS01QMFo?oc=5",
-   "source": "The Business Journals",
-   "published": "2026-11-05T11:00:00+00:00",
-   "title": "Addgene partners with Anthropic to integrate plasmid catalog into Claude",
-   "text": "",
-   "title_th": "Addgene จับมือ Anthropic นำฐานข้อมูลพลาสมิดเข้าสู่ Claude",
-   "summary_th": "Addgene ประกาศความร่วมมือกับ Anthropic เพื่อนำข้อมูลแคตตาล็อกพลาสมิดมาบูรณาการเข้ากับโมเดล Claude เพื่อช่วยให้นักวิจัยเข้าถึงข้อมูลทางชีวภาพได้สะดวกขึ้น",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Addgene",
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b8c0e66ba855",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-   "source": "The Verge AI",
-   "published": "2026-11-05T10:35:19+00:00",
-   "title": "Big Tech’s big AI buildout will not end until someone stops it",
-   "text": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also […]",
-   "title_th": "บริษัทเทคโนโลยีรายใหญ่ยังคงลงทุนในศูนย์ข้อมูล AI อย่างต่อเนื่อง",
-   "summary_th": "บริษัทเทคโนโลยีขนาดใหญ่ยังคงทุ่มงบประมาณมหาศาลในการสร้างศูนย์ข้อมูลสำหรับ AI แม้ว่าผลตอบแทนจากการลงทุนจะยังไม่ชัดเจนในขณะนี้",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [],
-   "importance": 3,
    "ai": true,
    "dedup": true
   }

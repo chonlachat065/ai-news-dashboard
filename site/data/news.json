@@ -1,54 +1,49 @@
 {
  "version": 3,
- "updated_at": "2026-11-19T20:34:05+00:00",
+ "updated_at": "2026-11-20T03:11:54+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-19T20:34:05+00:00",
-  "headline": "Anthropic สร้างประวัติศาสตร์หน้าใหม่ในตลาดหุ้นด้วยการทำ IPO ครั้งใหญ่ที่สุดและมูลค่าบริษัทที่พุ่งสูงถึง 2 ล้านล้านดอลลาร์ในวันแรก",
+  "generated_at": "2026-11-20T03:11:54+00:00",
+  "headline": "Anthropic เข้าจดทะเบียนในตลาดหลักทรัพย์ Nasdaq อย่างยิ่งใหญ่ด้วยมูลค่าบริษัทพุ่งแตะ 2 ล้านล้านดอลลาร์ในวันแรก",
   "points": [
    {
-    "text": "Anthropic ประสบความสำเร็จในการเข้าจดทะเบียนในตลาดหลักทรัพย์ Nasdaq ภายใต้ชื่อย่อ ANT โดยสามารถระดมทุนได้สูงถึง 8.1 หมื่นล้านดอลลาร์ ซึ่งถือเป็นการทำลายสถิติเดิมของ SpaceX",
+    "text": "Anthropic ประสบความสำเร็จในการทำ IPO ครั้งประวัติศาสตร์ด้วยยอดระดมทุนกว่า 8.1 หมื่นล้านดอลลาร์ ทำลายสถิติเดิมของ SpaceX และส่งผลให้มูลค่าบริษัทพุ่งสูงถึง 2 ล้านล้านดอลลาร์ในวันแรกของการซื้อขาย",
     "ids": [
-     "f483f03885a3",
+     "c7db6092ee97",
+     "1cf56b0890f4",
      "fd07260e21f8",
+     "ac8f1947a809",
+     "5a185a8f31a6",
      "3588a37f0aa9",
+     "754b9e643400",
+     "f0d0f469e0bf",
+     "d0946e26531a",
      "fbb468cd2303",
      "ce5f83b8c20b",
      "379b21a3ed98",
      "ffd335c1ccb3",
      "83137f60a288",
-     "d0946e26531a",
-     "36cd002954f2",
-     "37d71dc80ea2",
+     "7200eff301ae",
      "0e72b3df1a5d",
      "e08726c78228",
-     "7200eff301ae",
-     "70a321db6911",
-     "143956d1e8b4",
-     "481b7848ff84",
-     "b3f80fe4c3fe"
+     "211e9c6afb7c"
     ]
    },
    {
-    "text": "ราคาหุ้นของ Anthropic ปรับตัวสูงขึ้นอย่างรวดเร็วในวันแรกของการซื้อขาย ส่งผลให้มูลค่าตลาดของบริษัทพุ่งแตะระดับ 2 ล้านล้านดอลลาร์ สะท้อนถึงความเชื่อมั่นของนักลงทุนที่มีต่ออุตสาหกรรม AI",
+    "text": "ความสำเร็จของ Anthropic สะท้อนถึงความเชื่อมั่นของนักลงทุนในเทคโนโลยี AI และสร้างผลตอบแทนมหาศาลให้แก่ผู้ก่อตั้งทั้ง 7 ราย แต่ก็สร้างความผันผวนในตลาดหุ้นกลุ่มเทคโนโลยีเอเชียและนำมาซึ่งความท้าทายในการรักษาจุดยืนด้านความปลอดภัย",
     "ids": [
-     "ac8f1947a809",
-     "5a185a8f31a6",
-     "754b9e643400",
-     "f0d0f469e0bf"
+     "0bd86e0ad68c",
+     "f483f03885a3",
+     "0b3a38ae0a19",
+     "89a73cc0b855",
+     "7b27fbb8a3ee",
+     "4aacf31011a3"
     ]
    },
    {
-    "text": "แม้จะประสบความสำเร็จอย่างสูงในตลาดทุน แต่ Anthropic ยังคงเผชิญกับความท้าทายสำคัญในการรักษาจุดยืนด้านความปลอดภัยของ AI ซึ่งเป็นหัวใจหลักของบริษัท",
+    "text": "ในขณะเดียวกัน Apple กำลังเดินหน้าพัฒนา AI Agent เพื่อเพิ่มขีดความสามารถในการแข่งขันในตลาด AI โดยมุ่งเน้นการใช้งานบนอุปกรณ์ Mac",
     "ids": [
-     "0b3a38ae0a19"
-    ]
-   },
-   {
-    "text": "ความเคลื่อนไหวอื่นๆ ในอุตสาหกรรม AI ได้แก่ การเปิดตัวโมเดล Gemini 4 Neon จาก Google DeepMind และการขยายความร่วมมือด้านคอมพิวเตอร์ประสิทธิภาพสูงระหว่าง NVIDIA และ Microsoft",
-    "ids": [
-     "b898a1b2127c",
-     "1a7867b3a729"
+     "2ed09bbf2a0c"
     ]
    }
   ]
@@ -141,7 +136,7 @@
   {
    "name": "Hacker News",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": null
   },
   {
@@ -165,7 +160,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": null
   }
  ],
@@ -585,9 +580,526 @@
   "47c3f543c906",
   "4865bfc49c67",
   "3a8e3e86cdea",
-  "107fe1bfa1e2"
+  "107fe1bfa1e2",
+  "cb527e26ac8f"
  ],
  "items": [
+  {
+   "id": "e486efe85b2a",
+   "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+   "source": "Simon Willison",
+   "published": "2026-11-20T02:49:57+00:00",
+   "title": "Token fraud is here and it’s BAD (YouTube)",
+   "text": "Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial enterprises on top of the ChatPRD agent. I am funding a international Roblox and Fortnite map stu",
+   "title_th": "ปัญหาการฉ้อโกง Token ในแพลตฟอร์ม AI",
+   "summary_th": "ผู้ก่อตั้ง ChatPRD เผยพบการฉ้อโกง Token จำนวนมากจากกลุ่มผู้ใช้งานที่ละเมิดระบบทดลองใช้ฟรี เพื่อนำไปใช้บริการ AI ฟรีหรือนำไปขายต่อเชิงพาณิชย์ สะท้อนถึงความท้าทายในการจัดการทรัพยากรสำหรับผู้พัฒนาแพลตฟอร์ม AI",
+   "category": "อื่นๆ",
+   "companies": [
+    "ChatPRD"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "89a73cc0b855",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTUJnNUhrY0ctakJ3NExmNVhYTVFXck5UMUMyeFlXVTVVNkNLekRsemlWOGRWdUZ6dURUbVNtYnlSREFvaDVSbTNWMVc2LVUySFZMbTg0OXRUMUtYeWhjdmo4aU1EanRYY295WnkwOU93YzdXNmdMa2plaUY1dTJZQm9rWUpnREpFcnd4RU1ESVdHR1U1?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-11-20T02:46:05+00:00",
+   "title": "SoftBank Crashes 16% as Anthropic IPO Sparks Asian AI Rout",
+   "text": "",
+   "title_th": "หุ้น SoftBank ร่วง 16% หลังการ IPO ของ Anthropic กระทบตลาด AI ในเอเชีย",
+   "summary_th": "ราคาหุ้น SoftBank ปรับตัวลดลงอย่างหนักท่ามกลางความผันผวนของตลาดหุ้นกลุ่มเทคโนโลยีและ AI ในเอเชีย ซึ่งได้รับผลกระทบจากการเข้าจดทะเบียนในตลาดหลักทรัพย์ของ Anthropic",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "SoftBank",
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "69c01d260af8",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUlI0dGVrX0xGYXFpU0U1cHFjUU5xbGp3Z1JsbXZTcUF5UmhvbFdZNnpTaVdqRFB4S1JDOEdrZm9Tb1lQSGNwNXRfbjIyZXFKVThPT3k5cTc5ZGU4cGwtak9uUTZaR1V4MFZHa2lITHJIUjhOb1RySXJSNzdib0hydzEtMFVzWUVsMmQ2ZjlYcGl2LS1wYmhZRW1IbXJyRzU5TGFkYkgyOEx0eTU1ZHpN?oc=5",
+   "source": "Nacionale",
+   "published": "2026-11-20T02:43:57+00:00",
+   "title": "Why did Alphabet stock fall on Anthropic's IPO day? Google's big stake was mostly priced in",
+   "text": "",
+   "title_th": "วิเคราะห์สาเหตุหุ้น Alphabet ร่วงในวัน IPO ของ Anthropic",
+   "summary_th": "ราคาหุ้น Alphabet ปรับตัวลดลงในวันเดียวกับที่ Anthropic เข้าตลาดหลักทรัพย์ โดยนักวิเคราะห์มองว่าตลาดได้รับรู้ข่าวการถือหุ้นของ Google ใน Anthropic ไปก่อนหน้านี้แล้ว",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Alphabet",
+    "Google",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7b27fbb8a3ee",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMzFidXlMQW9ERUxOSkwzUUlrY0Yyd1Y4NXEzQUdBeEJZdmd1VHhhMmRkMnNLeXdZS3NSSVpWWWJYZ3B1WGMtMmp0aEhLdjJQcHVXN09PUFlDVDRBb3FJdkQwb0hCekJ1eWdrdW9fX2tXa0FJZjFBYnZXeV82bHpvd1QtYzdJSU5lX1huQ0ROYTdQc3lMc2JLOWMtSVhSTXZURDlxajU4NUdDNHNDWXRCS0N6Z1BIQldiamo5WE5neUtwTTlNUi1XMENzN1pnbG9fekNNWTMxQnFHSjZRS3NCZnQwTXJRaUt5NkFPMXNXZkdYN1JMT2ZpNHB0bHhpM1MzOElHUTFGby1OYWhNNjZ2NU9xN1dESHc0dWc?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-20T02:23:00+00:00",
+   "title": "How High Can ANT Stock Go? Wall Street Debut Sparks Valuation Debate – One Analyst Sees Amazon-Google Scale Opportunity In Anthropic",
+   "text": "",
+   "title_th": "จับตาอนาคตหุ้น ANT หลังเปิดตัวในตลาด Wall Street",
+   "summary_th": "การเข้าจดทะเบียนในตลาดหลักทรัพย์ของ Anthropic สร้างความตื่นตัวใน Wall Street โดยนักวิเคราะห์มองเห็นโอกาสเติบโตในระดับเดียวกับ Amazon และ Google",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Amazon",
+    "Google"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2ed09bbf2a0c",
+   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-20T00:56:01+00:00",
+   "title": "Apple may be developing its own AI agent that runs your Mac",
+   "text": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+   "title_th": "Apple ซุ่มพัฒนา AI Agent สำหรับควบคุมการใช้งานบน Mac",
+   "summary_th": "Apple กำลังพัฒนา AI Agent เพื่อแข่งขันกับผู้เล่นรายใหญ่ในตลาด โดยมุ่งเน้นการสร้างระบบที่สามารถทำงานแทนผู้ใช้บนอุปกรณ์ Mac ได้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple",
+    "Meta",
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d64a7ee7a29f",
+   "url": "https://openrouter.ai/mistralai/pixtral-large-2502",
+   "source": "OpenRouter (โมเดลใหม่)",
+   "published": "2026-11-20T00:51:05+00:00",
+   "title": "New model on OpenRouter: Mistral: Pixtral Large 2502",
+   "text": "Pixtral Large 2502 is the February 2025 version of Mistral AI's large multimodal model, following [Pixtral Large 2411](https://openrouter.ai/mistralai/pixtral-large-2411). It accepts text and image input, including documents, charts, and natural images,... (context 128,000 tokens)",
+   "title_th": "Mistral เปิดตัวโมเดล Multimodal ใหม่ Pixtral Large 2502 บน OpenRouter",
+   "summary_th": "Mistral AI อัปเดตโมเดลขนาดใหญ่รุ่นใหม่ Pixtral Large 2502 ซึ่งรองรับทั้งข้อความและรูปภาพ รวมถึงเอกสารและแผนภูมิ โดยมีความสามารถในการประมวลผลบริบทที่กว้างขวาง",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Mistral AI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4aacf31011a3",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-20T00:43:50+00:00",
+   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "text": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+   "title_th": "ผู้ก่อตั้ง Anthropic ทั้ง 7 รายทำเงินเกือบ 2 พันล้านดอลลาร์จากการ IPO",
+   "summary_th": "หลังจากการเข้าจดทะเบียนในตลาดหลักทรัพย์ที่ราคาหุ้นพุ่งสูงขึ้น ผู้ก่อตั้งทั้ง 7 คนของ Anthropic ได้รับผลตอบแทนรวมเกือบ 2 พันล้านดอลลาร์ ในขณะที่บริษัทมีมูลค่าเพิ่มขึ้นอย่างมหาศาล",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "211e9c6afb7c",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUZUdEFXMzFRcV9QMzQ0ZjJoTV9UdFc1QXdod0tuUk9IUGI2T3lHdUp6YlhOVk11WTc5RjlRQ2xVQ0VTZkdEM3BIdHFWcXVNbl9Qa1pqdWZYMFh1ZHBJSUxTLWt4bEpMZ0dvYmswU3M2UUFweUV5YU5xaGNRN01BVmR5UlZKemhuc2xPSmw0cUxzUzdNam1PUWFpT2FLWm5jNXpOTTM3R0tIcFlhSnNueVdPaEM2MHNxdkJMenNORQ?oc=5",
+   "source": "Korea JoongAng Daily",
+   "published": "2026-11-20T00:05:06+00:00",
+   "title": "Anthropic pulled off the biggest IPO ever. What that means, by the numbers.",
+   "text": "",
+   "title_th": "สรุปตัวเลขสำคัญจากการ IPO ครั้งใหญ่ที่สุดของ Anthropic",
+   "summary_th": "การเข้าจดทะเบียนในตลาดหลักทรัพย์ของ Anthropic ถือเป็นเหตุการณ์สำคัญทางเศรษฐกิจในวงการ AI โดยมีการวิเคราะห์ตัวเลขความสำเร็จและผลกระทบที่เกิดขึ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ace511aef795",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVM0ams5ZktGWERYUzFCUzA0RV9QQ1dVaTMxSUxWckc5ajhvYzN3M1hHdndzTTZmbGhlR0h1QmN5bzlBSHJZanJ2U0psNzNWb3VvS0UzYjduZjE1b3R2SUgtXzlZTXpTT0tXNndUQkpNNU9rZm1aV2E4bm1sRzFUMTJUUnl5V3ViQTlkYzM4RjJQQUtqUzVKVDdFLUlTQVFkaWdNWGZHTjM1ZXpQMlhBOVVaZ9IBuAFBVV95cUxOZDgwUXlYS0RFaGNtVHRobkcxcEs5WHRJSWtUaEZMNU9GVVcxNXFoM3Fpckk3NHhhZUdXYmkxYzdEM0w5d29QQnVEUzVvdkh5QnliSF9JeEpnTE9ZX01lNnM3MzA1SlFxU2tEQmVEdEJIV3RqSGZzVmUtSWh2VEVyb3RuclZONFF6RlZzeGoxUE04UnZRek1JUWlqZGFQYmFVR2hkX3N6NGg1bmxkQnRNV0RmcXZjbHBJ?oc=5",
+   "source": "Fox Business",
+   "published": "2026-11-20T00:05:00+00:00",
+   "title": "Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say",
+   "text": "",
+   "title_th": "พนักงานเทคโนโลยีจำนวนมากกลายเป็นเศรษฐีหลัง Anthropic IPO",
+   "summary_th": "รายงานระบุว่าการเข้าตลาดหลักทรัพย์ของ Anthropic ส่งผลให้พนักงานจำนวนมากได้รับผลตอบแทนจากหุ้นจนกลายเป็นเศรษฐีในชั่วข้ามคืน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a8b77f5eacc7",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05eHJUaHBsZHJBaHJGVVhLV1ptdUxrYm9yTTZtX1BtZGF0UW9YSU9mTmhnMU54UWFTLUJsejRWeVVWU0g4cTZkUGxNRWN3M3RfVkxF?oc=5",
+   "source": "36Kr",
+   "published": "2026-11-20T00:02:21+00:00",
+   "title": "Anthropic Drops Below IPO Opening Price, Claude Faces Sudden Performance Degradation on Launch Day: Trillion-Dollar Valuation Fueled by Unemployment Anxiety Must Hit the Brakes",
+   "text": "",
+   "title_th": "หุ้น Anthropic ร่วงต่ำกว่าราคาเปิดตัว พร้อมปัญหาประสิทธิภาพของ Claude",
+   "summary_th": "ราคาหุ้น Anthropic ปรับตัวลดลงต่ำกว่าราคาเปิดตัวในวันแรก พร้อมกับมีรายงานปัญหาประสิทธิภาพของ Claude ทำให้เกิดความกังวลเกี่ยวกับมูลค่าบริษัทที่สูงเกินจริง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "332322ca65a8",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFJKN3YyY1VSdzVpb1FjQUgzWU15dFBQdEJRejB5ZUx0YW11b19jdjI0bXcyaDFoNEdCeUtrVEh2dWM0NmE1VWl0VF9hbDNkbzFzTVRVZUVDc3lJYzRyUHhYX2M5M3Fsc05ta3Z6NTlLMVNfTTF6OWRMekRtaEpmSzI4dmtIMi1JTzJhcElRaWNkYzlmVXJoUW5PdjZEOU1nR2ZrQWdwdFJEQQ?oc=5",
+   "source": "explainx.ai",
+   "published": "2026-11-20T00:00:00+00:00",
+   "title": "Claude Chat Reported to FBI? Claimed vs Verified (2026)",
+   "text": "",
+   "title_th": "ข้อเท็จจริงกรณีการร้องเรียน Claude ต่อ FBI",
+   "summary_th": "มีการตรวจสอบข้อเท็จจริงเกี่ยวกับรายงานการร้องเรียนการใช้งาน Claude ต่อ FBI ว่าเป็นเรื่องจริงหรือเพียงการกล่าวอ้าง",
+   "category": "อื่นๆ",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "05d97ce7afba",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPckx2b2tGYjRHR01ZSjFVN1dzNlFsTHlST1Fidjh2V1ZsVzFwWGl1R3pZUl9Zc2JKOTFvTjA4OGNaQ3VXNFNNZ0JKNXJIWHM4Zk5wcHJQckpzQWtmTVEtUWxjclZ1S0tUSGhJTmZVQkN1ZVRGWGRuVmxLbUpjd1A3RXl3?oc=5",
+   "source": "Mashable",
+   "published": "2026-11-19T23:24:51+00:00",
+   "title": "Anthropic IPO details: Price, valuation, stock ticker, more",
+   "text": "",
+   "title_th": "รายละเอียดการ IPO ของ Anthropic: ราคา มูลค่า และข้อมูลหุ้น",
+   "summary_th": "รวบรวมข้อมูลสำคัญเกี่ยวกับการเข้าจดทะเบียนในตลาดหลักทรัพย์ของ Anthropic ทั้งราคาหุ้น มูลค่าบริษัท และสัญลักษณ์ในการซื้อขาย",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c7db6092ee97",
+   "url": "https://www.blognone.com/node/152212",
+   "source": "Blognone",
+   "published": "2026-11-19T23:16:42+00:00",
+   "title": "Anthropic ขายหุ้น IPO วันแรก ราคา +17%, ขึ้นเป็นบริษัทใหญ่อันดับ 12 ของโลก",
+   "text": "Body เมื่อคืนนี้ (19 พ.ย. ตามเวลาสหรัฐ) บริษัท Anthropic ขายหุ้น IPO เข้าตลาดหลักทรัพย์ Nasdaq เป็นวันแรก ใช้ตัวย่อว่า ANT โดยตั้งราคาที่หุ้นละ 83 ดอลลาร์ ผลเป็นไปตามคาดคือ ราคาหุ้นพุ่งขึ้นไปถึงสูงสุด 111.50 ดอลลาร์ (สูงกว่าราคาเปิดตัว 34%) ก่อนปิดตลาดที่ 97.17 ดอลลาร์ (สูงกว่า 17%) มูลค่าบริษัทตามราคาหุ้นหรือ market cap ที่ประมาณ 1.27 ล้านล้านดอลลาร์ ใกล้เคียงกับมูลค่าของ Meta (1.52 ล้านล้านดอลลาร์), Tesla (1.48 ล้านล้านดอลลาร์) และสูงกว่า Berkshire Hathaway (1.21 ล้านล้านดอลลาร์) เล็กน้อย ถือเป็นบริษัทที่มีมูลค่าสูงเป",
+   "title_th": "Anthropic เข้าตลาดหุ้นวันแรก ราคาพุ่ง 17% ขึ้นแท่นบริษัทใหญ่ระดับโลก",
+   "summary_th": "Anthropic เข้าจดทะเบียนในตลาด Nasdaq ด้วยตัวย่อ ANT โดยราคาหุ้นปิดตลาดสูงกว่าราคาเปิดตัว 17% ส่งผลให้บริษัทมีมูลค่าตลาดสูงถึง 1.27 ล้านล้านดอลลาร์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Meta",
+    "Tesla"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a22c687c439c",
+   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "source": "The Verge AI",
+   "published": "2026-11-19T23:13:01+00:00",
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "text": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+   "title_th": "Apple ประกาศรับสมัครวิศวกรพัฒนา AI Agent ของตนเอง",
+   "summary_th": "Apple กำลังเร่งพัฒนา AI Agent ที่สามารถทำงานแทนผู้ใช้ได้หลากหลายรูปแบบ เช่น การท่องเว็บ การเขียนโค้ด และการเรียกใช้บริการต่างๆ ผ่านการรับสมัครวิศวกรระดับหัวหน้าทีม",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Apple"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0bd86e0ad68c",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUktONjA5QVoxTnFzb2t0UGV5cmZNejBoN1dNQ091SUhMZDdPYk1sb3dWTHhNYkJEcDUxR2x1MEFMWGR4eFV2MExGck1LTjZ3ajgtSjk1X2RkbEFJQ2x6RzJUZ196LW5nMndNcEtnMzdtUndSckFmdUg2RXNEd3FHV2dMZ0hmV214QUNqVEwzOS1zb0dzU0hqLWF4ZHNNRzZwR05MUzF3?oc=5",
+   "source": "Nacionale",
+   "published": "2026-11-19T22:57:53+00:00",
+   "title": "What is Anthropic? The company behind Claude, whose stock closed up 17% on its first day",
+   "text": "",
+   "title_th": "ทำความรู้จัก Anthropic ผู้อยู่เบื้องหลัง Claude กับการเปิดตัวหุ้นวันแรกที่พุ่ง 17%",
+   "summary_th": "Anthropic บริษัทผู้พัฒนาโมเดล Claude ประสบความสำเร็จอย่างสูงในการนำบริษัทเข้าตลาดหลักทรัพย์ โดยราคาหุ้นปิดตัวเพิ่มขึ้น 17% ในวันแรกของการซื้อขาย สะท้อนถึงความเชื่อมั่นของนักลงทุนที่มีต่อเทคโนโลยี AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4f595cc3b860",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZE5vcUdvQk40ZHhGMjJJYlN1ZmZrT3IxLVNlSFh4N0F3TkJlVXRsNk9Hd3d1Q215VFg5LVBJQjhpVGtMLVN2NEx6RVpFWW9BV295bF82WVRrS3VydlpLWnFuSDBQWHJSWnVVcjE1M05WTVR4bGNGTDlXenRuQTN3T0Y1YUhmVmZiTDg1aVpsT0JiMGtDMDNrUWhtUnFXcVNodl9uUU9XWEpvNFF4alN0MWRjZXhMR0ZXSnJNZ080Qlc1a2lPVnhROExDYw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-19T22:40:59+00:00",
+   "title": "How does Anthropic make money? Inside the business of AI.",
+   "text": "",
+   "title_th": "เจาะลึกโมเดลธุรกิจของ Anthropic และการทำเงินจาก AI",
+   "summary_th": "บทวิเคราะห์เจาะลึกถึงวิธีการสร้างรายได้และโมเดลธุรกิจของ Anthropic ในฐานะผู้เล่นสำคัญในอุตสาหกรรม AI ซึ่งเป็นข้อมูลสำคัญสำหรับผู้ที่ต้องการเข้าใจทิศทางธุรกิจของบริษัท AI ชั้นนำ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "39a225094bf6",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RUluZV9sUTc4THM3ckNieTJLcUxDbjlNeG0xcFF4cDh5dkI4amJmbTQ5OWFCUENHaWEwSkgxTzVCd092RlRyVDVtTUc1QUExSmx3bF9KLWxfcWJmVU1RcE1pZEhlbGNyalh4RWtaR00?oc=5",
+   "source": "Crypto Briefing",
+   "published": "2026-11-19T22:34:12+00:00",
+   "title": "Menlo Ventures’ Matt Murphy on Anthropic’s record IPO and ‘selling intelligence’",
+   "text": "",
+   "title_th": "มุมมองจาก Menlo Ventures ต่อการ IPO ครั้งประวัติศาสตร์ของ Anthropic",
+   "summary_th": "Matt Murphy จาก Menlo Ventures ให้ความเห็นเกี่ยวกับการนำบริษัทเข้าตลาดหลักทรัพย์ของ Anthropic และกลยุทธ์การขายความฉลาดของ AI ซึ่งเป็นประเด็นที่น่าสนใจสำหรับนักลงทุนและคนในวงการ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Menlo Ventures"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1cf56b0890f4",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmxDQ3djbV91aHBTN3l6R01zSUxINEJpV3YwQXpFanhmY2tuZ2k2LXFzbldqN21ILXV1UGhrVkhCUFBvZGdSUG9nNEJBMHAzb3k4S044T2JnVHpTbXZHTjFYTUF4RFRqVU1qZDV0X0lHOXhTSFl6MUdyM2NBRVo3dEF5NDk1VFF6RVdWdw?oc=5",
+   "source": "Yahoo",
+   "published": "2026-11-19T22:14:24+00:00",
+   "title": "Anthropic IPO breaks records on Nasdaq debut: Claude AI service valued near $1.8T",
+   "text": "",
+   "title_th": "Anthropic สร้างสถิติใหม่ในการ IPO บน Nasdaq ด้วยมูลค่าบริษัทใกล้แตะ 1.8 ล้านล้านดอลลาร์",
+   "summary_th": "การเข้าตลาดหลักทรัพย์ของ Anthropic ประสบความสำเร็จอย่างถล่มทลาย โดยมีมูลค่าบริษัทพุ่งสูงขึ้นจนใกล้เคียง 1.8 ล้านล้านดอลลาร์ ถือเป็นหมุดหมายสำคัญของบริษัทผู้ให้บริการ AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6e701b04f99c",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tRzBTbHlpNUt0RElJNUNOQnNfLWxmcjZjV1E2anlJODJ6LXVGbHJQcjN0NFFYRlVBZ21TMnhoeUR0LVdDR09TQmN5QnJuTmd0ZXVEZkloZTBOOVU3MXo3SEExN19HQXl3LV9kVi1GUXhDWkl0VGc?oc=5",
+   "source": "CNN",
+   "published": "2026-11-19T22:10:04+00:00",
+   "title": "Anthropic passed the IPO test. Now comes the hard part.",
+   "text": "",
+   "title_th": "ความท้าทายครั้งใหม่ของ Anthropic หลังผ่านด่านการ IPO",
+   "summary_th": "แม้การเปิดตัวในตลาดหลักทรัพย์จะประสบความสำเร็จ แต่ Anthropic ยังคงต้องเผชิญกับความท้าทายในการดำเนินธุรกิจและการรักษาการเติบโตในระยะยาวท่ามกลางการแข่งขันที่ดุเดือด",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a96b15ff3548",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTlFCY3JUaEhRYnNLTmJEazM2UU0xUUJPLVRCdkpfQXR3a1JXVDY5SVRqdDZqaFNwNTlULTR6TzRhdGVhN1FjME95MlNwQ0dHN1dzWmk3NTZWdkpiRlNzQXR4RUVvOEN6b1JMbncyWTJ3eFpFYkQ1czl3eHctc2VJR0RXbmVDY01IUmJFZQ?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-11-19T22:04:46+00:00",
+   "title": "Anthropic Closes Up 17% at $97.17 in Hot AI IPO Debut",
+   "text": "",
+   "title_th": "หุ้น Anthropic ปิดบวก 17% ที่ 97.17 ดอลลาร์ ในวันแรกของการเปิดตัว",
+   "summary_th": "Anthropic ปิดการซื้อขายวันแรกในตลาดหลักทรัพย์ด้วยราคาหุ้นที่แข็งแกร่ง สะท้อนถึงความสนใจอย่างมากจากนักลงทุนในกลุ่มเทคโนโลยี AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "74e2df778984",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+   "source": "The Verge AI",
+   "published": "2026-11-19T21:59:35+00:00",
+   "title": "A brief history of Nvidia’s recent stock fluctuations",
+   "text": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
+   "title_th": "สรุปความผันผวนของราคาหุ้น Nvidia ในช่วงที่ผ่านมา",
+   "summary_th": "ราคาหุ้นของ Nvidia เผชิญกับความผันผวนอย่างหนัก โดยลดลงเกือบ 40% จากจุดสูงสุดเมื่อเดือนตุลาคม แม้บริษัทจะพยายามสร้างความเชื่อมั่นผ่านการรายงานผลประกอบการไตรมาสที่สาม",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Nvidia"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e60f4e5e7cf4",
+   "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-19T21:58:06+00:00",
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "text": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+   "title_th": "อุปกรณ์ AI สวมใส่รุ่นใหม่ Muse Charm จาก Meta อาจมีราคาอยู่ที่ 300 ดอลลาร์",
+   "summary_th": "มีรายงานว่า Meta กำลังพัฒนาอุปกรณ์ AI สวมใส่รุ่นใหม่ในชื่อ Muse Charm โดยคาดการณ์ว่าจะมีราคาเปิดตัวอยู่ที่ 300 ดอลลาร์ ซึ่งทางบริษัทระบุว่าจะมีการเปิดเผยข้อมูลเพิ่มเติมในเร็วๆ นี้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "52653ae3ad73",
+   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-19T21:42:31+00:00",
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "text": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+   "title_th": "ผู้เชี่ยวชาญเตือนเหตุระบบล่มในอุตสาหกรรมต่างๆ อาจเกี่ยวข้องกับ AI Agent",
+   "summary_th": "เหตุการณ์ระบบล่มในสายการบิน ธนาคาร และแพลตฟอร์มการทำงานในช่วงนี้ถูกตั้งข้อสังเกตโดยผู้เชี่ยวชาญด้านความปลอดภัยไซเบอร์ว่าอาจมีความเชื่อมโยงกับระบบ AI Agent ที่ซับซ้อนขึ้น",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "63518af2f563",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN3loOXEyak1QRFdSMjRXMEFUVkRFX3RZQi1PdHMyWUpTUkZkZW1iSEZ3b2UtZmhzT0ZYc0prcUtUQVBxVy1rb2h0M3FpMkNQTlBFRmRucEtlNUdwc1JNSkRLbi1HcFRyVGpZTVlZOHczc2pKRGZKTEo2TjZtV183WG1kYlRQVy01WHY2Wk8wUXhNU29WWFh3V0ZQTnZwWnNYY1FNdjRDRG1NZ1BEeTBqdUJvTldWamgzRU1FcUw2UnRzZ1YyWFpJc1lHcGkwQXV2WEVz?oc=5",
+   "source": "Facebook",
+   "published": "2026-11-19T21:40:04+00:00",
+   "title": "Anthropic instantly became one of the world’s most valuable public companies after its stock market debut on Thursday. Take a closer look at the company’s valuation compared to other tech IPOs. https://nyti.ms/4zYR5Ur",
+   "text": "",
+   "title_th": "Anthropic ขึ้นแท่นบริษัทมหาชนที่มีมูลค่าสูงที่สุดแห่งหนึ่งของโลกหลัง IPO",
+   "summary_th": "หลังการเปิดตัวในตลาดหลักทรัพย์ Anthropic กลายเป็นหนึ่งในบริษัทที่มีมูลค่าสูงสุดอย่างรวดเร็ว โดยมีการเปรียบเทียบมูลค่ากับบริษัทเทคโนโลยีอื่นๆ ที่เคยเข้าตลาดหลักทรัพย์มาก่อน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "324c56dc6ec2",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUtGUlZ3dENxOGJhcndFYzR3YVRwcmhoSHphWERoN3l6WXFlS0duX1NNZ04wSXJhWW16U09vRTc1MWdISDFKVWZTV2ltUy1fOTFVRTcxNkxfQ21aS1pWVUVzOXB3RnpTWmRiOEo2M1NEWWVFX3cydGJkVGw3ZF9hWjdob21FSHB2UkxOT3ZpMmFPRXk2TXBQdHlmM2Q0aVdxUzRv0gGoAUFVX3lxTE1INU5RWThyaV9RR0hTZHQwM19VVHZhelFabnpYZy1ablRsT2YwTUg4SFh0MUIwbXg2ak4wR0dIRWppNk9Jd0Vnd3BXWm9UUmE3ZHNOY3owTkhJY3lMakVHcURqRy1DZHZ2OFBOVVhKeXhmTkt4SmFaZzREeW85dmVhcEhpdzVEbDlpNFZBQUh3cUxZODJaX1ZkMDZVdTFKd05LWUZKaWNXdA?oc=5",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T21:32:18+00:00",
+   "title": "Anthropic starts trading in the US after blockbuster IPO",
+   "text": "",
+   "title_th": "Anthropic เริ่มซื้อขายในตลาดสหรัฐฯ หลังการ IPO ครั้งใหญ่",
+   "summary_th": "Anthropic ได้เริ่มต้นการซื้อขายหุ้นอย่างเป็นทางการในตลาดหลักทรัพย์สหรัฐฯ หลังจากกระแสตอบรับการ IPO ที่คึกคักและเป็นที่จับตามองของนักลงทุนทั่วโลก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7528880e6722",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0hvWDBvSHdERDJGMkR5SG9lWnd3SGRzYmV3bXhQNW53MGFHRUFnODZXa2hCLVEyaXNZUlJfblYyakVkdEF0TnJwQVZBQlhVa2JXanMyTEtvQlFwS3lMZFhiSTZnMTJocEszRDRrN3E0SG5uNkN4Zkg4UjRzWFJ6a2lGRQ?oc=5",
+   "source": "TechRepublic",
+   "published": "2026-11-19T21:30:25+00:00",
+   "title": "Anthropic IPO: Claude Maker Opens at $111.50 in Record Nasdaq Debut",
+   "text": "",
+   "title_th": "หุ้น Anthropic เปิดตัวที่ 111.50 ดอลลาร์ ในการเข้าตลาด Nasdaq ครั้งประวัติศาสตร์",
+   "summary_th": "ผู้พัฒนา Claude อย่าง Anthropic เปิดตัวหุ้นในตลาด Nasdaq ด้วยราคา 111.50 ดอลลาร์ ถือเป็นการเริ่มต้นที่สร้างสถิติใหม่ให้กับบริษัท AI ในตลาดทุน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "728b1700f429",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlhtbGlWVGR2LWY3ZGw5OFhRNFUwSUJWLVdCODdHY09BTk8zMUtCbTg3anhlSV9zQk1PV3NKclVlbXdDVkZHX0VrNFRnOEVvcmt4N2NTSFM3VTJzUVVySENjYmhqTl9LY2EzM1JGMXlkRWZMcXFpNzlDQjFmbHdCeXJtR05KNGh2Sms1YVE0RE5RdGtPcEdZTUZDUUNnaXQ3V0k3NEpHUlNSYmdSbDd3TTdMMjk5V0xxMk9MUXgzMjE?oc=5",
+   "source": "Superpower Daily",
+   "published": "2026-11-19T21:09:34+00:00",
+   "title": "Anthropic sets December 1 default switch to combined Claude chat and tasks for Team plans",
+   "text": "",
+   "title_th": "Anthropic เตรียมปรับค่าเริ่มต้นเป็น Claude แบบรวมแชทและงานสำหรับ Team plans ในเดือนธันวาคม",
+   "summary_th": "Anthropic ประกาศอัปเดตการใช้งานสำหรับผู้ใช้กลุ่ม Team plans โดยจะเปลี่ยนค่าเริ่มต้นเป็นการใช้งาน Claude แบบรวมฟีเจอร์แชทและงานเข้าด้วยกันตั้งแต่วันที่ 1 ธันวาคมเป็นต้นไป",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cb25684472c7",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EM3V4Z1Z2c3o5UEw2eDBKR1FsZmhtaW9rcWZPUzhYZUZhSlVQV2prNEM3X1p6aFA5eTZrRVR5Ri0zWkJic1RrVXBhWXg0VmxwSUNLbVpRZURaMXNDSUhxWlg1ZjVMNzVhOGRjektrVEdaTjBt?oc=5",
+   "source": "The Korea Daily",
+   "published": "2026-11-19T21:09:13+00:00",
+   "title": "Anthropic IPO — Claude Developer Closes First Day at $97.17",
+   "text": "",
+   "title_th": "สรุปวันแรกของการซื้อขายหุ้น Anthropic ปิดที่ 97.17 ดอลลาร์",
+   "summary_th": "การเข้าตลาดหลักทรัพย์ของ Anthropic ผู้พัฒนา Claude ปิดฉากวันแรกด้วยราคาหุ้นที่ 97.17 ดอลลาร์ ท่ามกลางความสนใจอย่างล้นหลามจากนักลงทุน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8988a28159e6",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXdWYUhMUkhOenJvZlB5dmhuTzUzcUVqR0FGWW5iYXRQS21LZDVIbzNOVTNqUWVkVnhKc0V1SEhBYWR1MjRNXzZWRVpKQTBDQWdVbUdhcnBUbUFKRThBMjA4MVE3T1pnd19rM2YyQTlpNDZBSVdHQnVaR2pub2UtVFR4dVBycmp6YnlUakpfbkZoWUFzelh2bzdPR2ZrOWxRbzRyeEJsR3ZSUGRXTEE?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-19T21:08:26+00:00",
+   "title": "Watch Claude Users Excited to Invest in Anthropic, Says Ann Berry",
+   "text": "",
+   "title_th": "Ann Berry ชี้ผู้ใช้ Claude ตื่นเต้นกับการลงทุนใน Anthropic",
+   "summary_th": "Ann Berry ให้ความเห็นว่าผู้ใช้งาน Claude จำนวนมากมีความสนใจและตื่นเต้นที่จะลงทุนในหุ้นของ Anthropic ซึ่งสะท้อนถึงความผูกพันระหว่างผู้ใช้กับแบรนด์ AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4ba1303d2ee2",
+   "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+   "source": "Simon Willison",
+   "published": "2026-11-19T20:43:57+00:00",
+   "title": "PostgreSQL 19 Released",
+   "text": "Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, PostgreSQL 19 adds \"read-your-writes\" consistency with the new WAIT FOR LSN command. A session on a standby can use WAIT FOR LSN to wait until the standby has replayed the write-ahead log (WAL) up to a spec",
+   "title_th": "PostgreSQL 19 เปิดตัวพร้อมฟีเจอร์ใหม่และการจัดการช่องโหว่ด้านความปลอดภัย",
+   "summary_th": "PostgreSQL 19 เปิดตัวอย่างเป็นทางการโดยเน้นการแก้ไขปัญหาช่องโหว่ด้านความปลอดภัยที่เกี่ยวข้องกับ AI พร้อมเพิ่มฟีเจอร์ใหม่ WAIT FOR LSN เพื่อรองรับความสอดคล้องของข้อมูลแบบ read-your-writes สำหรับการอ่านข้อมูลจาก standby",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "b0341a0ae375",
    "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
@@ -1173,6 +1685,38 @@
    "dedup": true
   },
   {
+   "id": "3c558e421a8c",
+   "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+   "source": "Hacker News",
+   "published": "2026-11-19T16:54:25+00:00",
+   "title": "Chrome AI features wasting much bandwidth",
+   "text": "127 points, 48 comments on Hacker News (https://news.ycombinator.com/item?id=50562636)",
+   "title_th": "ผู้ใช้พบฟีเจอร์ AI ใน Chrome กินแบนด์วิดท์สูงเกินความจำเป็น",
+   "summary_th": "มีการวิพากษ์วิจารณ์บน Hacker News เกี่ยวกับฟีเจอร์ AI ในเบราว์เซอร์ Chrome ที่ใช้ปริมาณการรับส่งข้อมูลสูงผิดปกติ ซึ่งส่งผลกระทบต่อการใช้งานของผู้ใช้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4fbc02245f26",
+   "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+   "source": "Hacker News",
+   "published": "2026-11-19T16:45:50+00:00",
+   "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+   "text": "121 points, 60 comments on Hacker News (https://news.ycombinator.com/item?id=50562500)",
+   "title_th": "มุมมองต่อผลกระทบของ AI ที่เปลี่ยนงานประจำให้กลายเป็นงานรับจ้างรายได้ต่ำ",
+   "summary_th": "บทความวิเคราะห์ว่า AI อาจไม่ได้เข้ามาแทนที่งานทั้งหมดโดยตรง แต่กำลังเปลี่ยนลักษณะงานให้กลายเป็นงานรับจ้างอิสระที่มีค่าตอบแทนต่ำลง ซึ่งเป็นประเด็นที่กำลังถูกถกเถียงในวงกว้าง",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "32cca7ee5709",
    "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
    "source": "Hacker News",
@@ -1301,6 +1845,21 @@
     "Superhuman"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "78fced8fed31",
+   "url": "https://foolscap.works/",
+   "source": "Hacker News",
+   "published": "2026-11-19T13:21:20+00:00",
+   "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+   "text": "103 points, 84 comments on Hacker News (https://news.ycombinator.com/item?id=50559749)",
+   "title_th": "เปิดตัว Foolscap แอปเขียนหนังสือที่เน้นการอ่านและไม่เขียนแทนผู้ใช้",
+   "summary_th": "Foolscap เป็นแอปพลิเคชันช่วยเขียนหนังสือที่ใช้ AI ในการอ่านเนื้อหาของผู้ใช้เพื่อช่วยวิเคราะห์ แต่มีจุดยืนชัดเจนว่าจะไม่เขียนเนื้อหาแทนผู้ใช้ เพื่อรักษาเอกลักษณ์ของงานเขียน",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -1879,6 +2438,74 @@
     "Microsoft"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4b08ec50268e",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "source": "OpenAI",
+   "published": "2026-11-19T00:00:00+00:00",
+   "title": "Deploying Daybreak Red",
+   "text": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+   "title_th": "OpenAI เผยสถาปัตยกรรมอ้างอิง Daybreak Red สำหรับงานตรวจสอบความปลอดภัย",
+   "summary_th": "OpenAI นำเสนอสถาปัตยกรรมอ้างอิง Daybreak Red เพื่อช่วยในการตรวจสอบความปลอดภัยแบบมีผู้ดูแล โดยครอบคลุมทั้งการควบคุมความปลอดภัย การตั้งค่า และการตรวจสอบผลลัพธ์",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cb99e2baa62e",
+   "url": "https://openai.com/business/learn/pr-scans-demo",
+   "source": "OpenAI",
+   "published": "2026-11-19T00:00:00+00:00",
+   "title": "See PR scans in action",
+   "text": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+   "title_th": "OpenAI สาธิตการใช้งาน PR scans ในเวิร์กโฟลว์การพัฒนา",
+   "summary_th": "วิดีโอสาธิตการใช้งาน PR scans ของ OpenAI แสดงให้เห็นถึงขั้นตอนการตรวจสอบผลลัพธ์จากการสแกนภายใน Pull Request เพื่อเพิ่มประสิทธิภาพและความปลอดภัยในการเขียนโค้ด",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e29ac258c013",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "source": "OpenAI",
+   "published": "2026-11-19T00:00:00+00:00",
+   "title": "Explore the Codex Security Plugin",
+   "text": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+   "title_th": "สาธิตการใช้งาน Codex Security Plugin จาก OpenAI",
+   "summary_th": "วิดีโอแนะนำการใช้งาน Codex Security Plugin ตั้งแต่ขั้นตอนการเริ่มต้นใช้งานไปจนถึงการตรวจสอบผลลัพธ์ที่ได้จากการสแกนความปลอดภัยในโปรเจกต์",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a2fb00344062",
+   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "source": "OpenAI",
+   "published": "2026-11-19T00:00:00+00:00",
+   "title": "Get started with Daybreak Blue",
+   "text": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+   "title_th": "OpenAI แนะนำการเริ่มต้นใช้งาน Daybreak Blue",
+   "summary_th": "วิดีโอแนะนำการเริ่มต้นใช้งาน Daybreak Blue โดยเน้นไปที่ประสบการณ์การตั้งค่าเบื้องต้นเพื่อให้ผู้ใช้สามารถเริ่มใช้งานระบบได้อย่างรวดเร็ว",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -14164,160 +14791,6 @@
    "category": "โมเดลใหม่",
    "companies": [],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "07d8be2258f4",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12NXJCUGxfclRPOFFtYUh5WXBxZ0tjVmZsUzJaN3ZBRUlWMDN6NFc4dm51X3FodlJiSUR0UGhKLV8tRGxJS3lPNm13Z2VHUQ?oc=5",
-   "source": "Hoonsmart",
-   "published": "2026-11-06T01:50:52+00:00",
-   "title": "ดาวโจนส์ปิดดิ่งแรง 1,833 จุด ขายหุ้นชิป-AI กังวลเจอกฎเกณฑ์เข้ม",
-   "text": "",
-   "title_th": "ตลาดหุ้นดาวโจนส์ร่วงหนัก หลังนักลงทุนกังวลกฎเกณฑ์คุมเข้ม AI",
-   "summary_th": "ดัชนีหุ้นดาวโจนส์ปรับตัวลดลงอย่างรุนแรงจากการเทขายหุ้นกลุ่มชิปและ AI เนื่องจากความกังวลเกี่ยวกับกฎระเบียบและข้อบังคับที่เข้มงวดขึ้นในอนาคต",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "NVIDIA",
-    "Amazon"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "8a865cdcf78c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-06T00:43:25+00:00",
-   "title": "CCORE GLB-3D-Coder dataset is here: 3,918 rendered and tested examples across 40 domains",
-   "text": "As promised in my previous posts, I’m releasing the dataset used to train CCORE GLB-3D-Coder , my small 4B model for creating 3D assets with Three.js and GLB export. The dataset contains 3,918 examples across 40 domains , including characters, creatures, vehicles, laboratory equipment, musical instruments, architecture, machinery, nature, and everyday props. The grid shows 256 examples. Every example was tested and rendered, and its exported GLB was validated before inclusion. What’s included: Complete con",
-   "title_th": "ปล่อยชุดข้อมูล CCORE GLB-3D-Coder สำหรับสร้างโมเดล 3D",
-   "summary_th": "มีการเปิดตัวชุดข้อมูลสำหรับการฝึกสอนโมเดลขนาดเล็ก 4B เพื่อสร้างโมเดล 3D ในรูปแบบ GLB โดยประกอบด้วยตัวอย่างที่ผ่านการทดสอบและตรวจสอบแล้วกว่า 3,918 รายการ",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "85f398082dad",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-   "source": "The Verge AI",
-   "published": "2026-11-06T00:37:56+00:00",
-   "title": "OpenAI is stepping back from NDAs for data center projects",
-   "text": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]",
-   "title_th": "OpenAI ประกาศเลิกใช้ข้อตกลงรักษาความลับ (NDA) ในโครงการศูนย์ข้อมูล",
-   "summary_th": "OpenAI ประกาศนโยบายใหม่โดยจะไม่ใช้ข้อตกลงรักษาความลับกับเจ้าหน้าที่รัฐในโครงการศูนย์ข้อมูล เพื่อตอบสนองต่อกระแสคัดค้านจากชุมชนในพื้นที่",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "82196d4ece0a",
-   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-   "source": "Hugging Face",
-   "published": "2026-11-06T00:00:00+00:00",
-   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-   "text": "",
-   "title_th": "เพิ่มภาษาอังกฤษสำเนียงอียิปต์และไนจีเรียบน Open ASR Leaderboard",
-   "summary_th": "มีการอัปเดตกระดานผู้นำ Open ASR Leaderboard โดยเพิ่มการรองรับภาษาอังกฤษสำเนียงอียิปต์และไนจีเรีย เพื่อขยายขีดความสามารถในการจดจำเสียงให้ครอบคลุมมากขึ้น",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Hugging Face"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "cfd4354afa14",
-   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-   "source": "OpenAI",
-   "published": "2026-11-06T00:00:00+00:00",
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "text": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-   "title_th": "OpenAI เปิดตัว BioBasicsBench วัดความสามารถ AI ในงานห้องปฏิบัติการ",
-   "summary_th": "OpenAI นำเสนอ BioBasicsBench ซึ่งเป็นชุดทดสอบ 100 งาน เพื่อวัดประสิทธิภาพของ AI agents ในการตีความข้อมูลการทดลองดิบและจัดการงานในห้องปฏิบัติการวิทยาศาสตร์ทั่วไป",
-   "category": "งานวิจัย",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "6f78e24cdb5b",
-   "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-   "source": "Hacker News",
-   "published": "2026-11-05T23:09:57+00:00",
-   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-   "text": "457 points, 212 comments on Hacker News (https://news.ycombinator.com/item?id=50385870)",
-   "title_th": "ข้อกล่าวหา Facebook ปล่อยโฆษณา Deepfake หลอกลวง",
-   "summary_th": "มีรายงานข้อกล่าวหาว่า Facebook ปล่อยให้มีการรันโฆษณา Deepfake หลอกลวงบนแพลตฟอร์ม ซึ่งสร้างรายได้จากการฉ้อโกงจำนวนมหาศาล",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Meta"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "1eac7fe42e87",
-   "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-05T22:40:55+00:00",
-   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-   "text": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-   "title_th": "Airbnb ยืนยันเตรียมเปิดตัว AI Travel Agent ในช่วงครึ่งแรกของปี 2027",
-   "summary_th": "Airbnb เตรียมเปิดตัวเครื่องมือ AI Agent ที่ช่วยอำนวยความสะดวกให้นักเดินทางตั้งแต่การวางแผน เปรียบเทียบตัวเลือก ไปจนถึงการจัดการการจองและการดูแลตลอดการเข้าพัก",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Airbnb"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "8e75ec02fc50",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-   "source": "The Verge AI",
-   "published": "2026-11-05T22:26:50+00:00",
-   "title": "Perplexity launches its own take on AI agents for work",
-   "text": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]",
-   "title_th": "Perplexity เปิดตัว AI Agent สำหรับการทำงานแข่งกับ OpenAI และ Anthropic",
-   "summary_th": "Perplexity เปิดตัว Teammates ซึ่งเป็น AI Agent ที่ทำงานได้ตลอดเวลาและสามารถรับบทบาทต่างๆ ในพื้นที่ทำงาน พร้อมเชื่อมต่อกับเครื่องมือและข้อมูลเดิมของผู้ใช้",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Perplexity",
-    "OpenAI",
-    "Anthropic"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "818f38db2719",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU5MeHUxWDhnY0d4UE9OUFVjSWpLVnd1UEw4a1ZiY2EzaU85b2Q0NHFlRkFGMk9OakM1VjVVTzB1NnktZ3RKaW9MQ3ZlOTItV21ZcUd6WU9zQVRyZmRvN0FPYXRFbEZ6aDBCdENjZHRoV3pFWUJoelZEN2xaNkFKZUYxVXFhUWtjTjEtbTdKMnBxRVBUMFUwMmo3Q0ZhZw?oc=5",
-   "source": "AP News",
-   "published": "2026-11-05T21:50:00+00:00",
-   "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-   "text": "",
-   "title_th": "กลุ่มวิจัยชี้ Anthropic เร่งพัฒนา AI อย่างรวดเร็วท่ามกลางกระแสเรียกร้องให้ชะลอตัว",
-   "summary_th": "รายงานจากกลุ่มวิจัยภายนอกระบุว่า Anthropic กำลังเร่งความเร็วในการพัฒนา AI อย่างต่อเนื่อง แม้จะมีเสียงเรียกร้องจากหลายฝ่ายให้ชะลอการพัฒนาลงก็ตาม",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 4,
    "ai": true,
    "dedup": true
   }

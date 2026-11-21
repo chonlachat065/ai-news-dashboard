@@ -1,59 +1,59 @@
 {
  "version": 3,
- "updated_at": "2026-11-20T21:48:51+00:00",
+ "updated_at": "2026-11-21T03:12:28+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-20T21:48:51+00:00",
-  "headline": "Anthropic สร้างประวัติศาสตร์ IPO ครั้งใหญ่ท่ามกลางความผันผวนของตลาด AI และความก้าวหน้าของ Claude ในงานวิจัยคณิตศาสตร์",
+  "generated_at": "2026-11-21T03:12:28+00:00",
+  "headline": "ความก้าวหน้าครั้งสำคัญของ AI ในงานวิจัยคณิตศาสตร์ระดับโลกและการเข้าตลาดหลักทรัพย์ของ Anthropic",
   "points": [
    {
-    "text": "Anthropic เข้าจดทะเบียนในตลาด Nasdaq อย่างร้อนแรงด้วยมูลค่าบริษัทมหาศาล แต่ราคาหุ้นยังคงมีความผันผวนและปรับตัวลดลงในเวลาต่อมา",
+    "text": "โมเดล Claude ของ Anthropic สร้างความฮือฮาด้วยความสามารถในการช่วยนักคณิตศาสตร์พิสูจน์สมมติฐานระดับโลก เช่น Riemann Hypothesis และแก้โจทย์คณิตศาสตร์ที่ซับซ้อนได้สำเร็จ",
+    "ids": [
+     "632b9b19196a",
+     "bc28b368db41",
+     "fba8e310738b",
+     "b8e1839046bc",
+     "9679c7ca5b10",
+     "ff67c2d7ada0",
+     "14a72f53a54d",
+     "f3abcc0f4175",
+     "d7470a983d26",
+     "262c471e0c9e",
+     "55a34ee619ba"
+    ]
+   },
+   {
+    "text": "Anthropic เข้าจดทะเบียนในตลาดหลักทรัพย์ Nasdaq ด้วยมูลค่ามหาศาลและราคาหุ้นที่ผันผวนอย่างหนักในวันแรกของการซื้อขาย ท่ามกลางแรงเทขายในกลุ่มหุ้น AI ทั่วโลก",
     "ids": [
      "9ad155f0b4b8",
      "3ed4aa703189",
      "63ef11654a35",
      "a4eb5c45f421",
-     "c7db6092ee97",
-     "0bd86e0ad68c",
-     "1cf56b0890f4",
      "fd2811614640",
      "c6d650610595",
-     "f3d2e7c059ea",
-     "a150127377c1"
+     "f3d2e7c059ea"
     ]
    },
    {
-    "text": "Claude โมเดลของ Anthropic สร้างความฮือฮาด้วยความสามารถในการพิสูจน์ Riemann Hypothesis และไขปริศนาทางคณิตศาสตร์และหลุมดำที่ซับซ้อน",
-    "ids": [
-     "b8e1839046bc",
-     "14a72f53a54d",
-     "d7470a983d26",
-     "262c471e0c9e",
-     "55a34ee619ba",
-     "321bf9e3c390"
-    ]
-   },
-   {
-    "text": "ความเคลื่อนไหวสำคัญในอุตสาหกรรม AI ได้แก่ การเปิดตัว Gemini 4 Neon ของ Google, โมเดล Hy4 flash ของ Tencent, และการขยายบริการ AI Agent ของ OpenAI",
+    "text": "ความเคลื่อนไหวของบริษัทเทคโนโลยีรายใหญ่ ได้แก่ Google เปิดตัว Gemini 4 Neon และร่วมมือกับ Blue Origin พัฒนาศูนย์ข้อมูล AI บนอวกาศ ส่วน Tencent ปล่อยโมเดล Hy4 flash ขนาด 7.7 แสนล้านพารามิเตอร์",
     "ids": [
      "be21c29ceac7",
-     "58523d7ff082",
-     "1d2aa077a3fb"
+     "b36437053092",
+     "58523d7ff082"
     ]
    },
    {
-    "text": "นโยบายและกลยุทธ์ของบริษัทเทคโนโลยีระดับโลกมีการเปลี่ยนแปลง ทั้งการขู่เก็บภาษีศูนย์ข้อมูลนอกสหรัฐฯ ของ Trump, การจำกัดขายชิปของ Nvidia ในจีน และความร่วมมือด้านอวกาศของ Google",
+    "text": "OpenAI ขยายบริการ AI Agent 'Dots' ให้ผู้ใช้ ChatGPT Plus ใช้งานได้แล้ว ในขณะที่ Palo Alto Networks เข้าซื้อกิจการ Applied Compute เพื่อเสริมความปลอดภัยให้โมเดล AI",
+    "ids": [
+     "1d2aa077a3fb",
+     "cf6a4cdd750d"
+    ]
+   },
+   {
+    "text": "สถานการณ์ด้านนโยบายและธุรกิจของ Nvidia เผชิญความท้าทายจากมาตรการควบคุมการขายชิปในจีน และนโยบายภาษีของสหรัฐฯ ที่ขู่เก็บภาษีบริษัทที่ย้ายศูนย์ข้อมูล AI ออกนอกประเทศ",
     "ids": [
      "3a0cb236fd32",
-     "f0e77c900b9f",
-     "b36437053092"
-    ]
-   },
-   {
-    "text": "มีการพัฒนาด้านโครงสร้างพื้นฐานและฮาร์ดแวร์ AI เช่น การเข้าซื้อกิจการของ Palo Alto Networks และการเปิดตัวสถาปัตยกรรม CPU Frostbite ที่ออกแบบโดย AI",
-    "ids": [
-     "cf6a4cdd750d",
-     "000028228240"
+     "f0e77c900b9f"
     ]
    }
   ]
@@ -146,7 +146,7 @@
   {
    "name": "Hacker News",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": null
   },
   {
@@ -170,7 +170,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 4,
+   "count": 6,
    "error": null
   }
  ],
@@ -617,9 +617,172 @@
   "6900f6014b2a",
   "d62c0e489c86",
   "d708d8bb969b",
-  "a0ebc9ee452b"
+  "a0ebc9ee452b",
+  "e16511bc8571",
+  "3c553006bf66",
+  "a00cd625d95c",
+  "321bf9e3c390",
+  "e8a1ef87e623",
+  "a6303604ad2b",
+  "90e1af5b0ea1",
+  "6b2368f40bde",
+  "9b6fdee22039",
+  "64eedcf67a8f",
+  "e305334b570b",
+  "67c4c2c31439"
  ],
  "items": [
+  {
+   "id": "22f0b59f6c06",
+   "url": "https://www.blognone.com/node/152226",
+   "source": "Blognone",
+   "published": "2026-11-21T01:29:47+00:00",
+   "title": "Anthropic ปรับลดระยะเวลาเปิดเผยช่องโหว่เหลือ 30 วัน",
+   "text": "Body Anthropic ประกาศปรับลดระยะเวลาเปิดเผยช่องโหว่ จากเดิมให้เวลา 90 วันตามมาตรฐาน มาเป็น 30 วันสำหรับช่องโหว่ร้ายแรงสูงและร้ายแรงวิกฤติ ส่วนช่องโหว่อื่นๆ ยังให้เวลา 45 วัน นอกจากการลดระยะเวลาเปิดเผยช่องโหว่ ทางบริษัทยังลดเวลาเปิดเผยข้อมูลวงปิดให้กับผู้ประสานงานอื่น ในกรณีที่ผู้รับผิดชอบโครงการโดยตรงไม่ตอบสนองต่อรายงาน โดยลดเหลือ 15 วัน ตอนนี้มีช่องโหว่ระดับร้ายแรงสูงและระดับวิกฤติจำนวนหนึ่งที่ทางบริษัทรอมาเกิน 90 วันแล้ว โครงการเหล่านี้จะได้เวลาเพิ่มรอบสุดท้าย 30 วันและเปิดเผยช่องโหว่ออกทั้งหมด แนวทางของ Anthropic ใกล้เคียงกับแนวทางของ Proje",
+   "title_th": "Anthropic ปรับลดระยะเวลาเปิดเผยช่องโหว่เหลือ 30 วัน",
+   "summary_th": "Anthropic ประกาศนโยบายใหม่โดยลดระยะเวลาการเปิดเผยช่องโหว่ความปลอดภัยระดับวิกฤติเหลือ 30 วัน เพื่อเร่งการแก้ไขปัญหาให้รวดเร็วยิ่งขึ้น",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5cfda21f9d5b",
+   "url": "https://openrouter.ai/radixark/daisyrose-27b",
+   "source": "OpenRouter (โมเดลใหม่)",
+   "published": "2026-11-21T00:49:48+00:00",
+   "title": "New model on OpenRouter: RadixArk: DaisyRose 27B",
+   "text": "DaisyRose 27B is an open-weight multimodal reasoning model from RadixArk, trained from [Qwen3.8 27B](https://openrouter.ai/qwen/qwen3.8-27b) using reinforcement learning only on long-horizon agent tasks, with no supervised fine-tuning or distillation. It is... (context 262,144 tokens)",
+   "title_th": "เปิดตัว DaisyRose 27B โมเดล multimodal จาก RadixArk",
+   "summary_th": "RadixArk เปิดตัว DaisyRose 27B ซึ่งเป็นโมเดลที่ฝึกด้วย reinforcement learning สำหรับงานด้าน agent โดยเฉพาะ ไม่ผ่านการทำ supervised fine-tuning",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "RadixArk"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "632b9b19196a",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLTJQUlhBUlJHekNCeDFtVW9oUjEwaFpTWFZrUllzclQwenRYMXc5S0ZVdDJBQnR5TGgyOXpQcndxczhuX3ZqRVRCOU5jbUFjd21oRURvMHBpenB4Y0lHOWc4eGZnTjhxeVNEaFlMX25TVXNyd0FVWmF0aFRhMWJMMnNWN3hEQ0Z3Y2Y1cWJnYThURWlETldKZlozdVluOUJoMThvMGxZYzNUOTh4T3hqUHA2MG9PQlhLTGZzcjF1UllYMXpGSFdFRkd0TU1kSFdHZG9KejY4LVQ4dw?oc=5",
+   "source": "KGW",
+   "published": "2026-11-21T00:34:00+00:00",
+   "title": "Anthropic mathematician says AI helped solve one of math's most famous unsolved problems",
+   "text": "",
+   "title_th": "นักคณิตศาสตร์เผย AI ช่วยแก้โจทย์คณิตศาสตร์ระดับโลก",
+   "summary_th": "มีการยืนยันจากนักคณิตศาสตร์ว่า AI มีส่วนสำคัญในการช่วยแก้ปัญหาทางคณิตศาสตร์ที่โด่งดังและยากที่สุดปัญหาหนึ่งของโลก",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "998c00834b43",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLRkMzRTZiMGk0R1NLVHZ0T212Z1hMUnR1alZVY1cySHlFOGtTakdYUWlFY2s1OGFVbHA1bUo0UjlDcXBCWnhBanhWMTNxZHAyOWJNTjJvcXJ0bUh1dlF2TEJPdDZPR214?oc=5",
+   "source": "bangkokbiznews",
+   "published": "2026-11-20T23:21:00+00:00",
+   "title": "ทองคำร่วงหนักต่อเนื่อง หลังนักลงทุนเทขายหุ้นปัญญาประดิษฐ์ AI",
+   "text": "",
+   "title_th": "ตลาดหุ้นผันผวนหลังนักลงทุนเทขายหุ้นกลุ่ม AI",
+   "summary_th": "เกิดความเคลื่อนไหวในตลาดการเงินเมื่อนักลงทุนตัดสินใจเทขายหุ้นในกลุ่มบริษัทปัญญาประดิษฐ์ ส่งผลกระทบต่อราคาทองคำ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bc28b368db41",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Bb1piT1o1MksyOHJFX1Z2WXM3WVpqcDNGd0czODZyN1Iyd1JYRmlTWDFPWmxNSlFmeWRuQWFvNTBDcmRseWtHR05FMlg2XzV0Ny1iazhwdlFKaXpqQkE?oc=5",
+   "source": "BBC",
+   "published": "2026-11-20T23:08:57+00:00",
+   "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+   "text": "",
+   "title_th": "Anthropic อาจเป็นผู้แก้โจทย์คณิตศาสตร์ที่ใหญ่ที่สุดในปีนี้",
+   "summary_th": "สื่อต่างประเทศรายงานถึงความสำเร็จของ Anthropic ในการใช้ AI ช่วยแก้ปัญหาทางคณิตศาสตร์ที่สำคัญที่สุดปัญหาหนึ่งของโลก",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fba8e310738b",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2JvS2Q4cjJsVTZsX2pEQ1Y5UVpfNzR5cG5LLTRQM1Y2dU1LRjNrZXZiak9BNm55SUxodGtiSFB3RnJYZzJyRUhvVGphZUJJbDdxN0VsTHJCWF9FQS11Q2VHMGVwQ3hNaWx1ZG44eE9TZ2paZ3B4MHVadXVtdGtKci1HTVFERjlHTHFJRTdKU2dBY1dxTHZYUw?oc=5",
+   "source": "Newser",
+   "published": "2026-11-20T22:51:00+00:00",
+   "title": "Mathematician Says Claude Helped Solve Famed Hypothesis",
+   "text": "",
+   "title_th": "นักคณิตศาสตร์ระบุ Claude ช่วยแก้สมมติฐานดังได้",
+   "summary_th": "มีการยืนยันว่าโมเดล AI อย่าง Claude มีส่วนช่วยในการพิสูจน์สมมติฐานทางคณิตศาสตร์ที่มีชื่อเสียงได้สำเร็จ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "971e450a0737",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWwxQjNCMkNST2pGM2hjZ2xkbW43dE1PWlN2dkkyNDgwcUlwckRGS3p2SzFEQzIxY2ROVDFvdXJmVU9hLWM3SjhaejdFS04yUVpxSjNxUmU5cFdSRWdJVFd0emJ3cjNIMEVFZUdSWlFONzlzZk0tbXBQVThDc1ppWklrLXpja1dXb29XQ0lXWklzTDBCaUY4TFQyWWstMjg4VU1wMU02OHFGYjEyemNKNg?oc=5",
+   "source": "Renaissance Capital",
+   "published": "2026-11-20T22:48:10+00:00",
+   "title": "IPO News - US IPO Weekly Recap: Anthropic seesaws in record debut",
+   "text": "",
+   "title_th": "สรุปข่าว IPO สัปดาห์นี้: Anthropic กับการเปิดตัวที่ผันผวน",
+   "summary_th": "รายงานสรุปสถานการณ์การเสนอขายหุ้น IPO ในสหรัฐฯ โดยระบุถึงความเคลื่อนไหวของ Anthropic ในตลาดทุน ข้อมูลนี้สะท้อนถึงความสนใจของนักลงทุนที่มีต่อบริษัท AI ชั้นนำ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9679c7ca5b10",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRG9na1Q2RkhRVjc5WWY0UUMzMkJTWlREQmpJNWVMNHJ5Qjl0ZXNHbUlxMGRTQWdKaFh5TWZSaWs0M3BPVEg5WlE2TzVqb2h4bXFJTkRqZHJIcEQ2dzROdXhCX0FaQ0JhMnZqWDFlTEFpR2pKUWJ0MVFKd0JSdjVlcWs3eTBDWVppMGJnVUNBbWlnYlctRGpTRURhSE1nTVNuUXVHUTVZYU8tdjVfWnFURDRzaUs5V0lCc0MtNGtzU1NuaS1MQVZrMzdRWjdZeW9ka0t2NlFabDl1dnBObC1xT0tUQXA?oc=5",
+   "source": "Winnipeg Sun",
+   "published": "2026-11-20T22:10:13+00:00",
+   "title": "Anthropic researcher says Claude solved math's greatest riddle",
+   "text": "",
+   "title_th": "นักวิจัย Anthropic เผย Claude แก้ปริศนาคณิตศาสตร์ที่ยิ่งใหญ่ที่สุดได้",
+   "summary_th": "มีการรายงานข่าวเกี่ยวกับนักวิจัยของ Anthropic ที่ระบุว่า Claude สามารถแก้โจทย์คณิตศาสตร์ที่ยากที่สุดได้สำเร็จ สร้างความฮือฮาในวงการ AI และคณิตศาสตร์",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ff67c2d7ada0",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmszZTVxRUgzTnVvWEtsMERLOGhRc05UeW84Zjc0UThnLUEwNk9pYWszbVhPdDBnS2dxenhfLW5hODdmLU9ycm5HVnBSWmtRem1tVE9rTlB2ZWlnY1RBMWUtQ0hqRVEzZnhMaTFIMGg2WmdiQUt3Ujg5NThtb3hHeldkeXVEOEVlRXpYWUkwcmxTQU5zUXNQTVpGLVNXSk05anVPTQ?oc=5",
+   "source": "tovima.com",
+   "published": "2026-11-20T21:43:51+00:00",
+   "title": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math",
+   "text": "",
+   "title_th": "นักคณิตศาสตร์ของ Anthropic เผย AI แก้ปัญหาคณิตศาสตร์ที่โด่งดังที่สุดได้",
+   "summary_th": "นักวิจัยจาก Anthropic อ้างว่า AI สามารถไขปริศนาทางคณิตศาสตร์ที่สำคัญที่สุดได้สำเร็จ ข่าวดังกล่าวกลายเป็นประเด็นที่ถูกพูดถึงอย่างกว้างขวางในสื่อต่างประเทศ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "14a72f53a54d",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BcUpoNWJPdGpzVUl6bXA1TW0zMFdycGxueDM3aEd1c2c4TmFWeGNHMzh5TGtHVkE1RGw0UXZZd2NiUmZUN2htVVZncHlZbFZ6OFV3c2lYUUdyQmlIbnVmbWtreHB3LTB6WFp5dFk4OVFmX1l1Z1IxMGp2RlNRZw?oc=5",
@@ -634,6 +797,41 @@
     "Anthropic"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f3abcc0f4175",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0tWdWs1Z04zbnI3OHkyWkRoQ3dYZDNiQVhhMXpNUmllUjhFQ1Q3M09qTWR3T0hfMUh0S3F1ZjNackRSeHY3eWRNa01ONFE0Q1h6R3ZpWjEzT29fRGIwVXdwZm84ekZjeTc1Yks0cll2YzVJSnZjd3JiNlJVT3RoRF9XaXRnRkY4SG1BN09sRHdXVmdXODJUWUV1OA?oc=5",
+   "source": "Gizmodo",
+   "published": "2026-11-20T21:35:30+00:00",
+   "title": "Anthropic Researcher Claims AI Has Solved Math’s Greatest Mystery",
+   "text": "",
+   "title_th": "นักวิจัย Anthropic อ้าง AI แก้ปริศนาคณิตศาสตร์ที่ยิ่งใหญ่ที่สุดได้",
+   "summary_th": "ข้อกล่าวอ้างจากนักวิจัยของ Anthropic เกี่ยวกับความสามารถของ AI ในการแก้โจทย์คณิตศาสตร์ระดับตำนานกำลังเป็นที่ถกเถียงและได้รับความสนใจอย่างมาก",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8487c2f3d84d",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1hlSGswVU5JSFdqNEhpR2pHMGFqZHlYYmlOVVZPSWdiREFYNjY0dnV1MTVEUElva0Jqby1GMndFbktGTDM1VXNyNFRKSTVEekYtNHR5a1Jka2NFU2lMVkhubnZfSFd4M3g5d3JjMkxTMUNzODJ4el80ZG5EUkZ4c05aLWItOXlORTBYSTcwZUZIZ05UZXRodlNlZGlGbUNTSUJpeDdxMy1GdTZJX3loT0Y1Si1nUDhZRVpnYw?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-20T21:33:01+00:00",
+   "title": "Take-Two Interactive vs. Anthropic: Which Market-Moving Stock Is the Better Buy?",
+   "text": "",
+   "title_th": "เปรียบเทียบหุ้น Take-Two Interactive และ Anthropic ตัวไหนน่าลงทุนกว่ากัน?",
+   "summary_th": "บทวิเคราะห์เปรียบเทียบความน่าสนใจในการลงทุนระหว่างหุ้นของ Take-Two Interactive และ Anthropic เพื่อช่วยให้นักลงทุนตัดสินใจเลือกหุ้นที่ขับเคลื่อนตลาดได้ดีกว่า",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Take-Two Interactive",
+    "Anthropic"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -790,21 +988,6 @@
    "dedup": true
   },
   {
-   "id": "321bf9e3c390",
-   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-20T19:32:08+00:00",
-   "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
-   "text": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-   "title_th": "ข้อถกเถียงเรื่องการพิสูจน์ Riemann Hypothesis ด้วย AI และมนุษย์",
-   "summary_th": "เกิดกระแสฮือฮาในวงการคณิตศาสตร์หลังมีการอ้างว่า AI สามารถพิสูจน์ Riemann Hypothesis ได้สำเร็จ ในขณะเดียวกันก็มีข้อเสนอการพิสูจน์จากมนุษย์ที่เกิดขึ้นในช่วงเวลาเดียวกัน",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "81ce5b24dd89",
    "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
    "source": "Simon Willison",
@@ -846,6 +1029,23 @@
    "category": "งานวิจัย",
    "companies": [
     "METR"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "16d25feac59d",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbUpLRTdrdUpBTDA4bXBZTC04R0FPVU51QmNud1V2STVQWE5oLXg4dnBfRGg2VWh6OFFFQmNIaGR6YUMtLXNzeC1PUTJvbUJtUFNUSEprdHQ4UkJpdmxYRDBUcGhRMVozRFFNR3l3S2lCS080VWtId2JudkZJbzhaaWFRczl4M0t1NTRudEJxZ2VpdGVBbE1PU1lUTU90bEtxcC1CaEFzazB1Qmhqbm1ESGxsc3ItOG9fbktFa2k4NGREYUVrQXU4?oc=5",
+   "source": "Moomoo",
+   "published": "2026-11-20T17:50:00+00:00",
+   "title": "อุตสาหกรรมที่น่าจับตามองในวันนี้: Micron Technology นำดิ่งในกลุ่มหุ้นปัญญาประดิษฐ์ (AI)",
+   "text": "",
+   "title_th": "หุ้นกลุ่ม AI ผันผวน: Micron Technology นำดิ่งตลาดวันนี้",
+   "summary_th": "รายงานความเคลื่อนไหวของตลาดหุ้นกลุ่มปัญญาประดิษฐ์ โดยระบุว่าหุ้นของ Micron Technology ปรับตัวลดลงอย่างมีนัยสำคัญ ส่งผลกระทบต่อภาพรวมของกลุ่มเทคโนโลยี",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Micron Technology"
    ],
    "importance": 3,
    "ai": true,
@@ -925,6 +1125,23 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3djZGxrMkxtN253TUtiMXU0VU9qZDllb0dvOVVuUXNGRGhsVTZ5WmM3WktBcERoVkJvMXBKVlp2UEFuMmoybzRseHprQlE1Ym1aaTNLenFUX0U4MUljcUkyLVdlMjE2MUg0WkV4bVBjMEt4Y1p4QVR4aTQyY1VlSlk5TEhGT0k5UFVKX0p3bVYzQUp2ajg4cUs1MVZieTZsVUNDSFpORk90cFNyQWd0Xw?oc=5"
     }
    ],
+   "dedup": true
+  },
+  {
+   "id": "c12256d2b2de",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FbnZ5d1lObXFFUzRUWldfLTFoRlZPSW9fb2ZUMDh2cGpYSHU1aHZwUmlXQV8zdkZNRVhlMWhNQjN3QmFoc1otX2NIbmh0ZUhRUmVEN3hJbllVdjVnS0lHWllYRzgxUm54?oc=5",
+   "source": "Samsung Magazine",
+   "published": "2026-11-20T15:58:58+00:00",
+   "title": "Google กำลังเปลี่ยนแปลงหน้าแรกและเพิ่มปัญญาประดิษฐ์ (AI)",
+   "text": "",
+   "title_th": "Google ปรับโฉมหน้าแรกพร้อมเพิ่มฟีเจอร์ AI",
+   "summary_th": "Google กำลังดำเนินการเปลี่ยนแปลงหน้าแรกของบริการตนเองโดยการเพิ่มความสามารถด้านปัญญาประดิษฐ์เข้าไป เพื่อยกระดับประสบการณ์การใช้งานของผู้ใช้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
    "dedup": true
   },
   {
@@ -1312,6 +1529,21 @@
     "Meta"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c4ca83ba5741",
+   "url": "https://signal.org/blog/protecting-your-privacy/",
+   "source": "Hacker News",
+   "published": "2026-11-20T09:42:16+00:00",
+   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "text": "523 points, 309 comments on Hacker News (https://news.ycombinator.com/item?id=50572348)",
+   "title_th": "การจำกัด AI Agents บนระบบปฏิบัติการมือถือจากการเก็บข้อมูล",
+   "summary_th": "ประเด็นถกเถียงบน Hacker News เกี่ยวกับการควบคุมและจำกัดการเข้าถึงข้อมูลของ AI Agents บนแพลตฟอร์มระบบปฏิบัติการมือถือเพื่อความเป็นส่วนตัว",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -1789,13 +2021,24 @@
    "title_th": "เปิดตัว Inkling 2 Mini โมเดลประสิทธิภาพสูงสำหรับรันบนเครื่องส่วนตัว",
    "summary_th": "Inkling 2 Mini ถูกเปิดตัวเพื่อเป็นทางเลือกสำหรับผู้ที่ต้องการรันโมเดลประสิทธิภาพสูงบนโครงสร้างพื้นฐานภายในเครื่องของตนเอง",
    "category": "โมเดลใหม่",
-   "companies": [],
-   "importance": 2,
+   "companies": [
+    "Thinking Machines",
+    "Hugging Face"
+   ],
+   "importance": 3,
    "ai": true,
    "also": [
     {
      "source": "Hacker News",
      "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+    },
+    {
+     "source": "OpenRouter (โมเดลใหม่)",
+     "url": "https://openrouter.ai/thinkingmachines/inkling-2-mini"
+    },
+    {
+     "source": "Hugging Face (โมเดลมาแรง)",
+     "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF"
     }
    ],
    "dedup": true
@@ -2392,6 +2635,25 @@
     "Anthropic"
    ],
    "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bd79a45529e4",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5leTNZUllHczUwRWdtbGhDT09oaFhWZnF1Vml3d05YNElqZjlwb0YyWlpPSVhoNk80NUhRY2ZTdXU2N2FfOHpKeGxpZU1jRHJDeGhXams5OGZ0ZHduVDZEVGVoYkdHakJyeFpfR0JfSEZzZXBXc25DZ2NWSdIBe0FVX3lxTE5leTNZUllHczUwRWdtbGhDT09oaFhWZnF1Vml3d05YNElqZjlwb0YyWlpPSVhoNk80NUhRY2ZTdXU2N2FfOHpKeGxpZU1jRHJDeGhXams5OGZ0ZHduVDZEVGVoYkdHakJyeFpfR0JfSEZzZXBXc25DZ2NWSQ?oc=5",
+   "source": "MarkTechPost",
+   "published": "2026-11-19T18:13:21+00:00",
+   "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
+   "text": "",
+   "title_th": "13 สุดยอด Agent Gateways สำหรับปี 2026",
+   "summary_th": "รวบรวมรายชื่อ Agent Gateways ที่ดีที่สุดสำหรับจัดการทราฟฟิก MCP, A2A และ LLM ในปี 2026 เช่น Kong, Bifrost, AgentCore และ Arcade",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Kong",
+    "Bifrost",
+    "AgentCore"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -15351,159 +15613,6 @@
     "Anthropic"
    ],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e8c0296c7565",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T02:41:59+00:00",
-   "title": "Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1 & Deep SWE 1.1",
-   "text": "submitted by /u/Izento [link] [comments]",
-   "title_th": "Harness Leaderboard เผยผลทดสอบโมเดลภาษาขนาดใหญ่ด้านการเขียนโค้ด",
-   "summary_th": "มีการนำโมเดลชื่อดังหลายตัวมาทดสอบประสิทธิภาพผ่าน Terminal Bench 2.1 และ Deep SWE 1.1 เพื่อเปรียบเทียบความสามารถในการเขียนโปรแกรม",
-   "category": "งานวิจัย",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "929b8650bc40",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RWXl0T0lpR1J0WE1VZ050anMwUlhTeUEzVGtGcDhYUTNKUnpsMDlkZHV2ZEpGanBNc0Vxb3VueVBYQ19pc2xlWTVvdw?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-11-07T02:03:13+00:00",
-   "title": "Anthropic News: Latest Updates on the AI Company Behind Claude - Bloomberg",
-   "text": "",
-   "title_th": "สรุปความเคลื่อนไหวล่าสุดของ Anthropic ผู้สร้าง Claude",
-   "summary_th": "รายงานสรุปสถานการณ์และอัปเดตล่าสุดของบริษัท Anthropic ซึ่งเป็นผู้พัฒนาโมเดลภาษาขนาดใหญ่ Claude ในแวดวงอุตสาหกรรม AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "c2107a5a7cf6",
-   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-07T01:40:28+00:00",
-   "title": "Crusoe sells troubled Wyoming data center project to Google",
-   "text": "The deal highlights the challenges of developing massive AI data centers.",
-   "title_th": "Crusoe ขายโครงการศูนย์ข้อมูลใน Wyoming ให้กับ Google",
-   "summary_th": "Crusoe ตัดสินใจขายโครงการศูนย์ข้อมูลที่ประสบปัญหาให้กับ Google ซึ่งสะท้อนให้เห็นถึงความท้าทายในการพัฒนาโครงสร้างพื้นฐานขนาดใหญ่เพื่อรองรับ AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Crusoe",
-    "Google"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "666606bcae3d",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHNiU2w4UlN0ZmswWlFZZHBCTFpzZW02U3RNQ29wVUJKQ2NsM2xjV1d4U0dtYjVhWUpmM1N3dm5HYkg3a1ZaMWlYUVdSMFN1SjlfOEt1bVZGNWdMLXFNcGpIZnhjT1FqNVZHdWR0QU40YWs5NlFzY01aekNoaTBja2lfUjRlODJ0c29ObjU2b2c2OHc0OTZQTzFZNNIBoAFBVV95cUxNdFdUcWN0blhrMU85WE55cGo2aldZRTIwT1lxZlA1a2tSS3lUNnJPTFlwRktnZlR0alhrNjlCX1J4T21CMlUwZEItRGhuVTZOajNpNHRoczNsek5nS2RuSTQ4MFFzZUFHRl9Ja01UVUg2VTlUVVozWFA3TVExSWp3d0daZm5KNWY1OHJWNTZEdHZ4ajlYdVF2aFJjVFRTcHZn?oc=5",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "2026-11-07T01:38:20+00:00",
-   "title": "Anthropic says it blocked potential AI bioweapon misuse",
-   "text": "",
-   "title_th": "Anthropic ระบุว่าได้สกัดกั้นการใช้ AI ในทางที่ผิดเพื่อสร้างอาวุธชีวภาพ",
-   "summary_th": "Anthropic ออกมาให้ข้อมูลว่าบริษัทสามารถตรวจพบและป้องกันการนำโมเดล AI ไปใช้ในทางที่ผิดเพื่อสร้างอาวุธชีวภาพได้สำเร็จ",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2552a343058d",
-   "url": "https://www.blognone.com/node/152118",
-   "source": "Blognone",
-   "published": "2026-11-07T00:32:55+00:00",
-   "title": "Discord เขียนไคลเอนต์ใหม่ด้วย Rust แทน Electron กินแรมเพียง 290MB",
-   "text": "Body Stanislav Vishnevskiy ผู้ร่วมก่อตั้งและซีทีโอของ Discord โชว์ไคลเอนต์ Discord for PC เวอร์ชันใหม่ โค้ดเนม Discord Phoenix เขียนใหม่ด้วย Rust และ เฟรมเวิร์ค GPUI สำหรับสร้าง UI ความน่าตกตะลึงคือใช้แรมเพียง 290MB ไคลเอนต์ Discord for PC เวอร์ชันปัจจุบันเขียนอยู่บน Electron ที่แปลว่ากินแรมมหาศาล เพราะอยู่บนเทคโนโลยีเว็บ ปกติแล้วกินแรมประมาณ 1-2GB หรือบางครั้งอาจพุ่งขึ้นไปถึง 4GB เลยก็เคยเกิดขึ้นมาแล้ว Vishnevskiy โพสต์ว่า Discord เริ่มใช้ Rust มาตั้งแต่ปี 2018 แต่ที่ผ่านมาใช้กับงานฝั่งหลังบ้านเป็นหลัก ตอนนี้ขยับมาใช้ Rust กับฝ",
-   "title_th": "Discord เขียนไคลเอนต์ใหม่ด้วย Rust ลดการใช้แรมเหลือเพียง 290MB",
-   "summary_th": "Discord พัฒนาไคลเอนต์เวอร์ชันใหม่ด้วยภาษา Rust และเฟรมเวิร์ค GPUI เพื่อแก้ปัญหาการกินทรัพยากรเครื่องที่สูงเกินไปจากเทคโนโลยี Electron เดิม",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Discord"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d5aa8b511552",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-06T23:03:21+00:00",
-   "title": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
-   "text": "submitted by /u/chemist_slime [link] [comments]",
-   "title_th": "ฮาร์ดแวร์ NVIDIA มูลค่า 11.4 ล้านดอลลาร์ถูกขโมยระหว่างขนส่งไปเท็กซัส",
-   "summary_th": "เกิดเหตุโจรกรรมฮาร์ดแวร์ประมวลผลของ NVIDIA จำนวนมากระหว่างการขนส่ง ซึ่งส่งผลกระทบต่อห่วงโซ่อุปทานของอุปกรณ์ที่จำเป็นสำหรับการทำ AI",
-   "category": "อื่นๆ",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "118369de89f0",
-   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-06T22:53:46+00:00",
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "text": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-   "title_th": "OpenAI ระดมทุนเพิ่ม 1.1 หมื่นล้านดอลลาร์ที่มูลค่า 1.25 ล้านล้านดอลลาร์",
-   "summary_th": "OpenAI อยู่ในระหว่างการระดมทุนรอบใหม่มูลค่า 1.1 หมื่นล้านดอลลาร์ ซึ่งคาดว่าจะสรุปผลได้ในเร็วๆ นี้ โดยมีมูลค่าบริษัทประเมินไว้ที่ 1.25 ล้านล้านดอลลาร์",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "OpenAI",
-    "Anthropic"
-   ],
-   "importance": 5,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0c8e014184b1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppw37/im_going_to_try_to_turn_a_4b_model_into_a/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-06T22:17:58+00:00",
-   "title": "I'm going to try to turn a 4B model into a genuinely useful coding agent that can compete with much larger models",
-   "text": "After releasing 3D Coder and GLB 3D Coder , I realized I should have involved the community earlier. Your feedback directly influenced the second model and could have saved me some additional training runs. This time, I'd like to discuss the idea with the community before starting. Why I believe this is possible When I started training 3D Coder, my original plan was to use full supervised fine-tuning (SFT) to develop basic capabilities, followed by DPO or GRPO to further improve the model's performance and robustness. I already believed high-quality SFT could work, based on experiments I'd don",
-   "title_th": "ความพยายามพัฒนาโมเดล 4B ให้เป็น Coding Agent ประสิทธิภาพสูง",
-   "summary_th": "นักพัฒนาวางแผนสร้าง Coding Agent จากโมเดลขนาดเล็ก 4B โดยเน้นการมีส่วนร่วมของชุมชนเพื่อเพิ่มประสิทธิภาพให้สามารถแข่งขันกับโมเดลขนาดใหญ่ได้",
-   "category": "โมเดลใหม่",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "05816831eabf",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbrr/some_gpu_prices_are_dropping/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-06T21:54:19+00:00",
-   "title": "Some GPU prices are dropping",
-   "text": "Some context: RTX 6000 cards hit a peak price of 18k and were sold out in many places even at that price. The MaxQ and Workstation are different versions of the card (usually priced the same, but now their prices are diverging) RTX 6000 MaxQ has been 14k for a month at microcenter. Today, they cut prices of the workstation card to 16.5k (from a high of 18k). We all saw the dell discount as well (some people got cards for 11.5k). I think the RTX 6000 is seeing increased supply as they routed all 5090 production to it and the 5500 for chips that didnt make the cut. I have a contact that works fo",
-   "title_th": "ราคา GPU ระดับเวิร์กสเตชันเริ่มปรับตัวลดลง",
-   "summary_th": "ราคาของ GPU รุ่น RTX 6000 เริ่มมีการปรับตัวลดลงหลังจากที่เคยพุ่งสูงขึ้นอย่างมากเนื่องจากปัญหาขาดแคลนอุปทานในตลาด",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 2,
    "ai": true,
    "dedup": true
   }

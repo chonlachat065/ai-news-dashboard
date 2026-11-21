@@ -1,13 +1,13 @@
 {
  "version": 3,
- "updated_at": "2026-11-21T03:12:28+00:00",
+ "updated_at": "2026-11-21T12:37:52+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-21T03:12:28+00:00",
-  "headline": "ความก้าวหน้าครั้งสำคัญของ AI ในงานวิจัยคณิตศาสตร์ระดับโลกและการเข้าตลาดหลักทรัพย์ของ Anthropic",
+  "generated_at": "2026-11-21T12:37:52+00:00",
+  "headline": "ความก้าวหน้าครั้งสำคัญของ AI ในการแก้โจทย์คณิตศาสตร์ระดับโลกท่ามกลางความผันผวนของตลาดหุ้นกลุ่มเทคโนโลยี",
   "points": [
    {
-    "text": "โมเดล Claude ของ Anthropic สร้างความฮือฮาด้วยความสามารถในการช่วยนักคณิตศาสตร์พิสูจน์สมมติฐานระดับโลก เช่น Riemann Hypothesis และแก้โจทย์คณิตศาสตร์ที่ซับซ้อนได้สำเร็จ",
+    "text": "โมเดล Claude ของ Anthropic สร้างความฮือฮาด้วยความสามารถในการพิสูจน์สมมติฐานทางคณิตศาสตร์ที่สำคัญระดับโลก รวมถึง Riemann Hypothesis และปริศนาเกี่ยวกับหลุมดำ",
     "ids": [
      "632b9b19196a",
      "bc28b368db41",
@@ -23,19 +23,16 @@
     ]
    },
    {
-    "text": "Anthropic เข้าจดทะเบียนในตลาดหลักทรัพย์ Nasdaq ด้วยมูลค่ามหาศาลและราคาหุ้นที่ผันผวนอย่างหนักในวันแรกของการซื้อขาย ท่ามกลางแรงเทขายในกลุ่มหุ้น AI ทั่วโลก",
+    "text": "ตลาดหุ้นกลุ่ม AI เผชิญความผันผวนและแรงเทขายอย่างหนัก แม้ Anthropic จะเข้าจดทะเบียนในตลาดหลักทรัพย์และมีมูลค่าสูงก็ตาม",
     "ids": [
-     "9ad155f0b4b8",
-     "3ed4aa703189",
-     "63ef11654a35",
-     "a4eb5c45f421",
      "fd2811614640",
-     "c6d650610595",
-     "f3d2e7c059ea"
+     "998c00834b43",
+     "971e450a0737",
+     "5cb7c98d027d"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวของบริษัทเทคโนโลยีรายใหญ่ ได้แก่ Google เปิดตัว Gemini 4 Neon และร่วมมือกับ Blue Origin พัฒนาศูนย์ข้อมูล AI บนอวกาศ ส่วน Tencent ปล่อยโมเดล Hy4 flash ขนาด 7.7 แสนล้านพารามิเตอร์",
+    "text": "ความเคลื่อนไหวของบริษัทเทคโนโลยีรายใหญ่ ได้แก่ Google เปิดตัว Gemini 4 Neon และร่วมมือกับ Blue Origin พัฒนาศูนย์ข้อมูลบนอวกาศ ส่วน Tencent ปล่อยโมเดล Hy4 flash ขนาด 7.7 แสนล้านพารามิเตอร์",
     "ids": [
      "be21c29ceac7",
      "b36437053092",
@@ -43,17 +40,19 @@
     ]
    },
    {
-    "text": "OpenAI ขยายบริการ AI Agent 'Dots' ให้ผู้ใช้ ChatGPT Plus ใช้งานได้แล้ว ในขณะที่ Palo Alto Networks เข้าซื้อกิจการ Applied Compute เพื่อเสริมความปลอดภัยให้โมเดล AI",
+    "text": "OpenAI ขยายบริการ AI Agent 'Dots' ให้ผู้ใช้ ChatGPT Plus ใช้งานได้แล้ว ขณะที่ RadixArk เปิดตัวโมเดล DaisyRose 27B สำหรับงานด้าน Agent โดยเฉพาะ",
     "ids": [
      "1d2aa077a3fb",
-     "cf6a4cdd750d"
+     "5cfda21f9d5b"
     ]
    },
    {
-    "text": "สถานการณ์ด้านนโยบายและธุรกิจของ Nvidia เผชิญความท้าทายจากมาตรการควบคุมการขายชิปในจีน และนโยบายภาษีของสหรัฐฯ ที่ขู่เก็บภาษีบริษัทที่ย้ายศูนย์ข้อมูล AI ออกนอกประเทศ",
+    "text": "ประเด็นด้านนโยบายและความปลอดภัย ได้แก่ ทรัมป์ขู่เก็บภาษีศูนย์ข้อมูล AI นอกสหรัฐฯ, Nvidia หยุดขายชิป H200 ในจีน, และ Anthropic ปรับนโยบายความปลอดภัยพร้อมออกคำเตือนถึงนักลงทุน",
     "ids": [
      "3a0cb236fd32",
-     "f0e77c900b9f"
+     "f0e77c900b9f",
+     "22f0b59f6c06",
+     "6830cf617aa4"
     ]
    }
   ]
@@ -170,7 +169,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 6,
+   "count": 8,
    "error": null
   }
  ],
@@ -629,9 +628,346 @@
   "9b6fdee22039",
   "64eedcf67a8f",
   "e305334b570b",
-  "67c4c2c31439"
+  "67c4c2c31439",
+  "76db7d60faf3"
  ],
  "items": [
+  {
+   "id": "fa489d5de826",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnB5OUhMOEozdGlVcU5IMVZxWlRHTkt2d2MxdS1UUzZaTHUzNnN0MEQyZ2lxb1pWbHA0T0JMaEJpZHJEd3NUTjVxVUtHUjAwUG5iTGUzNThxbEJZdlM1VG1jX2VvLTJCTnBXSXhacjRfQTRTYm43MVpXOVdhNEI3emM3QV9jQmFySUxVb3B5bmVMUDlkQTFySmt5bmo?oc=5",
+   "source": "Daily Voice Of Asia",
+   "published": "2026-11-21T12:34:53+00:00",
+   "title": "Anthropic Researcher Claims Claude Proved Riemann Hypothesis",
+   "text": "",
+   "title_th": "Anthropic Researcher Claims Claude Proved Riemann Hypothesis",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "19be22823909",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVeHRDajhKSHV5TWY5LTFKNG1qSk5Md296SU9YVU1vTllUOUJBRm1mVWJpQWJidHZ6ZnRiLUlRUHpTTU03MXI3YXc4c2E4TzdMaXRLYkt0LURFODhjVEFpTWdTbi1zMnIySUI4OWdR?oc=5",
+   "source": "Tbreak UAE",
+   "published": "2026-11-21T12:29:00+00:00",
+   "title": "Claude's Riemann hypothesis proof claim looks clean early",
+   "text": "",
+   "title_th": "Claude's Riemann hypothesis proof claim looks clean early",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "ea29ee5e39aa",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2MxQ3F4S2labHVnaVJQX3NSSzhRLUZ1dHVtX3Y1QjV4NHo4SHpjR0F0UnNCLWdNSTBvZktIVmFnYjlVSU1mS2J3OE1jU20wd21pNC0zT0ktUjIxS0tVOTF4V0xSNjAtNVBWdmVLYXZ1Rk1sUmVINDdXZmRQa3g1eWxLY3VmWFRrZmJqUVp0MkxqaEtjY0tYR2hsbndkTDA?oc=5",
+   "source": "The Times",
+   "published": "2026-11-21T12:00:00+00:00",
+   "title": "How Claude became Anthropic’s $2trn king of the bots",
+   "text": "",
+   "title_th": "How Claude became Anthropic’s $2trn king of the bots",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "1c61ce1b7d03",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRmphbzZkWnhQbmtwa3p6Y2FtbUI0dVZLSkpJZ2ZzRWttYzdwcG1PZEo1b2VZS1ZjN3Y4ZnEwSzF3ZXhEU01HUjJIRXpEWW5uQXFtSGwxVGs1WERnZ3NvQkJzaTVsVzBBN0VnSkxsdlRZVEJJVXk3SnhheG5RazhnaXVIeE45d19UU3JsUFljdjVLTWlraEhwbFUyT3NxOWo1QlRWR21DWFdTVHdaMllhVkVvVXI2eVR6LVQ4dHFjMnVTVFUyVS1DTEpJQ1RqZXBlWFdjTE9IanljczU2M2pZWjdLZmo5Zk1rdktyTzlNYi1INXlBNVRN?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-21T11:30:00+00:00",
+   "title": "Elon Musk Calls Anthropic’s Models ‘Great Products,’ Jassy Says ‘We’re Big Believers’: Mag 7 Voices This Week",
+   "text": "",
+   "title_th": "Elon Musk Calls Anthropic’s Models ‘Great Products,’ Jassy Says ‘We’re Big Believers’: Mag 7 Voices This Week",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "33738aa44b68",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpNzdpR3VWVU1YdDVGWlcycGVpV2ZXOENvcktsZ01IMER3NWMyelB3TnVBU2MxSDkxNGlXMzFsaWhPZ1VRcDBpcGt3UmRlcWZSckV3T1FMbDdkcnNIYjh0SDdUYlBHNGY4V3p6TnZBWW8tSVdBb21qSkhEdUY?oc=5",
+   "source": "Crypto Briefing",
+   "published": "2026-11-21T11:20:41+00:00",
+   "title": "Nvidia’s moat looks shallower as Anthropic shows AI chips are becoming interchangeable",
+   "text": "",
+   "title_th": "Nvidia’s moat looks shallower as Anthropic shows AI chips are becoming interchangeable",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "a18b4c817f14",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGJqSjZWaXNISk8tTE9CM0d4czdubmlPOW4zQjNBTG51X0drbzlBSGl2Mkx4NHdCS0RtWmhNSERHdm4yMkk1bGJZZnhlMzZRMVMzaGZMZTlMekJaVFNQdkpDUDMyUERoQWhhWW9QSVJIQk53eFVUa1EwdUpQUFZTSFVuemIwcWFmWlRyRl8xdm5KUDd6V2Qza3ZPM1IzbHVTRl91TFNDNDNxUnhzdXZXWk1teGcyN2RORU5xTTdHYzJZUkZLaE1ySEpraWljMFlJQV9ZR2JXcDU?oc=5",
+   "source": "The Decoder",
+   "published": "2026-11-21T11:19:49+00:00",
+   "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+   "text": "",
+   "title_th": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "a5ca4fa090d8",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-21T11:00:00+00:00",
+   "title": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse",
+   "text": "",
+   "title_th": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "5dd6a4db14f8",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnB5dlFHb1BpVjhJTnhMa2QxdHAxNjhEM1FwT1lONWV4bFJiX3hjV2ZsVE51WjlkOWh1RGZYU2ZVam9OVVB3T1oyWDRKYlQxcGhWaXV5WTR3SENfdGtVdWkxTTk0TmpHOGRhbTB6VVFkeDA2T0tHb1p2R2RMTjhUN3JIMFdXMXBUazd6b1A0ZGNNTDFrWFpZ0gGXAUFVX3lxTE85V0xZdUNTdG9weTdhbVZKUEprVlREZUNUSk9seFVuY1VXNFNsN0NJWDRuQWZNaUFEeFJGeUs3b0pjOUpGQWVUaGR3VFRYaE9BdUp1NkE2X1BXS2dYQkJrRE5qenVOU3lvZTNUY29GOFFnbTJYMXo1VmNTQTVVQXloVVRJYTBmamIzM0lxNE8teGVsalJVNGc?oc=5",
+   "source": "DW.com",
+   "published": "2026-11-21T10:35:03+00:00",
+   "title": "Anthropic researcher says he used AI to solve math's greatest riddle",
+   "text": "",
+   "title_th": "Anthropic researcher says he used AI to solve math's greatest riddle",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "500558bbe153",
+   "url": "https://www.blognone.com/node/152231",
+   "source": "Blognone",
+   "published": "2026-11-21T10:33:00+00:00",
+   "title": "Oracle ยืนยันมีเงินทุนครบถ้วนสำหรับการสร้างศูนย์ข้อมูล AI ตามสัญญากับ OpenAI",
+   "text": "Body Oracle ออกแถลงการณ์เกี่ยวกับการจัดหาเงินทุนสำหรับการสร้างและให้บริการศูนย์ข้อมูล AI ขนาดใหญ่ โดยบอกว่าบริษัทได้รับเงินทุนครบถ้วนสำหรับการดำเนินการตามสัญญาที่มีกับ OpenAI แล้ว จากการระดมทุนรอบล่าสุดเมื่อต้นเดือน ทำให้บริษัทเป็นผู้ให้บริการระดับ Hyperscaler รายแรกที่มีแหล่งเงินทุนรองรับเต็มรูปแบบ Oracle บอกว่ารายงานข่าวใดที่ระบุในทิศทางตรงกันข้ามนั้นถือว่าคลาดเคลื่อนไปจากความจริง แถลงการณ์นี้ออกมาหลังมีข่าวว่า Oracle อาจประสบปัญหาเงินทุนในการสร้างศูนย์ข้อมูล AI ซึ่งมีลูกค้ารายใหญ่คือ OpenAI ผ่าน โครงการ Stargate เพ",
+   "title_th": "Oracle ยืนยันมีเงินทุนครบถ้วนสำหรับการสร้างศูนย์ข้อมูล AI ตามสัญญากับ OpenAI",
+   "summary_th": "Body Oracle ออกแถลงการณ์เกี่ยวกับการจัดหาเงินทุนสำหรับการสร้างและให้บริการศูนย์ข้อมูล AI ขนาดใหญ่ โดยบอกว่าบริษัทได้รับเงินทุนครบถ้วนสำหรับการดำเนินการตามสัญญาที่มีกับ OpenAI แล้ว จากการระดมทุนรอบล่าสุดเมื่อต้นเดือน ทำให้บริษัทเป็นผู้ให้บริ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "c5d37adcee94",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU0Zzdm52QVhyRDhoVjNycWQwcURSVzY1Tk9aS05pZ0ttNWV2VlR2bTlZTThpaEIwTTI2M0ZqTFA1RUFGRG1RYzlpNkl5VGhtVms3blBURUcxY2I2YVJlajMtYmx5XzY5cXVpb0lJbnJVb1lVTWFOUUJnQTZEajh5WDlqYw?oc=5",
+   "source": "Yahoo News Australia",
+   "published": "2026-11-21T10:18:01+00:00",
+   "title": "Anthropic worker claims to have solved famed 167-year-old maths problem with help of AI",
+   "text": "",
+   "title_th": "Anthropic worker claims to have solved famed 167-year-old maths problem with help of AI",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "aae3ffc803e5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQm56Wmc5ZXhjTEZtUVByazN6UGxjaWhqajRJVS1nekRXMFNJejFTYzFMOW5MMzFEWkVPUG1ETnJNbklDZkg2dnNETTNzc0tQTklmN0FzSDVHeDJ5by1CLUg2S3A2XzZUZC1vQ0xWbkhyUnVleklBai13N2ZETklZU3NiQ2ZRWVR0dldUSDlpeHl5SUNlRGwybVBVQ3F1VHNOQ3Fsa0MtUXo3UU9sMzVfa1NPNzk3UHJwY28zSjlTOWFVQXF6R2tZ?oc=5",
+   "source": "Business Insider Africa",
+   "published": "2026-11-21T10:15:01+00:00",
+   "title": "eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags",
+   "text": "",
+   "title_th": "eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "217296edb4b1",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzhLSXhIeUczb2UxOHI4ZjN5bHZJODBHLWhub2hwUk9iX1hicVRXa0RRWmtFQXdtNC1jSUVUblpwRzFYSnlDWFNEYTE1X3A1eVp6eGVGdHlUdGR4MElIS01QbzlXc3N2ZTM3MVZjcUlVNXFGVEMxQTVZMmptVkhLa2pCQWJqZ0pMUDlVSERUNDc5SXgtdkdFQ3AxUWR6RHlkZEZ5cVV5Q1JSSVZEdE9LT0JWc2stSWtMRDhBTjFtdjdSaGRT?oc=5",
+   "source": "Anadolu Ajansı",
+   "published": "2026-11-21T10:10:34+00:00",
+   "title": "Anthropic mathematician claims AI-assisted breakthrough on 167-year-old math problem",
+   "text": "",
+   "title_th": "Anthropic mathematician claims AI-assisted breakthrough on 167-year-old math problem",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "7ffc27ea980a",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelpmaWZDRHk5YzRhVGhrUEdPUmZRX3B4QTQ3c0RMbThzMHFBaWdST2s2WnI3LS1EQU0wYVhhdGpWdVlGSVVkNURrUFFvWnQtSm5iaHVfQ2IzX2k3YjN5emZWeHUzRW5iVkJ0Tjl2UXRrRHZTTGQxZmhKTGxEdTJiR0dOckM?oc=5",
+   "source": "PRESS Insider",
+   "published": "2026-11-21T10:05:19+00:00",
+   "title": "Anthropic mathematician claims Riemann hypothesis proof with Claude as rival draft emerges",
+   "text": "",
+   "title_th": "Anthropic mathematician claims Riemann hypothesis proof with Claude as rival draft emerges",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "b9b1d81eea0c",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0RHTTBWOUtIN0M1Z2psaENsN09XUnBJM2JIYURxYTFqb29OM0JBZmJ6LXdweWkxSW1mMjF0b3RCMjFKYnRCT0NvUlpJcmNXTF8wYlhHZTZVQ0plaGV3dU55X1hGREVrRWh6SjhJWlROd1dITjhySm5GYXJCT0hJQjJoTGRSQm1MdXp0eTFyYVFoQXZYZ3NIQm1teEpYQU44MGVxSGpzNW1qT3c?oc=5",
+   "source": "dev.ua",
+   "published": "2026-11-21T09:38:00+00:00",
+   "title": "\"We decided to publish on the day of Anthropic's IPO\": SendPulse hosted its own MCP server on the official Claude marketplace",
+   "text": "",
+   "title_th": "\"We decided to publish on the day of Anthropic's IPO\": SendPulse hosted its own MCP server on the official Claude marketplace",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "0dbcd51bd97b",
+   "url": "https://www.blognone.com/node/152230",
+   "source": "Blognone",
+   "published": "2026-11-21T09:26:00+00:00",
+   "title": "[ไม่ยืนยัน] CrowdStrike กำลังเจรจาซื้อกิจการบริษัทความปลอดภัยไซเบอร์คู่แข่ง Zscaler",
+   "text": "Body Bloomberg อ้างแหล่งข่าวที่เกี่ยวข้องรายงานว่า CrowdStrike บริษัทด้านความปลอดภัยไซเบอร์ กำลังเจรจาเพื่อซื้อกิจการ Zscaler บริษัทด้านความปลอดภัยไซเบอร์คู่แข่ง ทั้งนี้มูลค่ากิจการตามราคาหุ้นของ Zscaler อยู่ที่ประมาณ 3.2 หมื่นล้านดอลลาร์ ซึ่งปรับเพิ่มขึ้นสูงหลังจากมีรายงานข่าวออกมา Zscaler มีผลิตภัณฑ์ด้านความปลอดภัยไซเบอร์ที่เด่นคือระบบจัดการความปลอดภัยเครือข่ายบนคลาวด์สำหรับลูกค้าองค์กร หากดีลนี้เกิดขึ้นจึงจะเป็นการเสริมจุดแข็งให้กับ CrowdStrike ในผลิตภัณฑ์ความปลอดภัยสำหรับลูกค้าองค์กร ทั้ง CrowdStrike และ Zs",
+   "title_th": "[ไม่ยืนยัน] CrowdStrike กำลังเจรจาซื้อกิจการบริษัทความปลอดภัยไซเบอร์คู่แข่ง Zscaler",
+   "summary_th": "Body Bloomberg อ้างแหล่งข่าวที่เกี่ยวข้องรายงานว่า CrowdStrike บริษัทด้านความปลอดภัยไซเบอร์ กำลังเจรจาเพื่อซื้อกิจการ Zscaler บริษัทด้านความปลอดภัยไซเบอร์คู่แข่ง ทั้งนี้มูลค่ากิจการตามราคาหุ้นของ Zscaler อยู่ที่ประมาณ 3.2 หมื่นล้านดอลลาร์ ซ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "ee85778e5b21",
+   "url": "https://www.blognone.com/node/152232",
+   "source": "Blognone",
+   "published": "2026-11-21T09:14:36+00:00",
+   "title": "Uber ทดสอบบริการใหม่ Uber Kids สำหรับเด็กอายุ 10-12 ปี ใช้งาน พ่อแม่ต้องอยู่ส่ง",
+   "text": "Body แอปเรียกรถแท็กซี่ Uber ทดสอบบริการใหม่ \"Uber Kids\" เพื่อให้บริการรถสำหรับเด็กอายุ 10-12 ปี โดยเริ่มทดสอบใน 3 เมืองของสหรัฐอเมริกาได้แก่ ออสติน, แนชวิลล์ และแมดิสัน บริการ Uber Kids เป็นการพัฒนาขยายจากบริการ Uber สำหรับเยาวชนอายุ 13-17 ปี ที่มีอยู่แล้ว โดยจับกลุ่มเป้าหมายพ่อแม่ที่ไม่สะดวกไปรับส่งลูกเอง รูปแบบการให้บริการมีการควบคุมหลายขั้นตอน ตั้งแต่พ่อแม่หรือผู้ปกครองเท่าที่สามารถกดเรียกรถโดยสารให้เด็กได้ ซึ่งต้องระบุโปรไฟล์และความเกี่ยวข้อง รวมถึงปฏิบัติตามขั้นตอนความปลอดภัยทั้งหมด ในการเดินทางพ่อแม่ต้องอยู่ร",
+   "title_th": "Uber ทดสอบบริการใหม่ Uber Kids สำหรับเด็กอายุ 10-12 ปี ใช้งาน พ่อแม่ต้องอยู่ส่ง",
+   "summary_th": "Body แอปเรียกรถแท็กซี่ Uber ทดสอบบริการใหม่ \"Uber Kids\" เพื่อให้บริการรถสำหรับเด็กอายุ 10-12 ปี โดยเริ่มทดสอบใน 3 เมืองของสหรัฐอเมริกาได้แก่ ออสติน, แนชวิลล์ และแมดิสัน บริการ Uber Kids เป็นการพัฒนาขยายจากบริการ Uber สำหรับเยาวชนอายุ 13-17 ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "62308edade7b",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNejhKYmlFUnQxbVZNOHpkX2Y0M2FWRzd3Z3JkYTFOTms0aGg0enI4bnpKVEh4ZHhZaGZIa0ozZ1dZR2hRSGxnQ0I2VC1aZEhfZTRPQldCUkNlSTlVLUw0ZDNjTDBaX3RtR0Z4MmdCVTBuY3FKckloczBjeElsYWxnOE1jUQ?oc=5",
+   "source": "Wisevoter",
+   "published": "2026-11-21T09:13:04+00:00",
+   "title": "Google Launches Gemini 4 Neon AI Model",
+   "text": "",
+   "title_th": "Google Launches Gemini 4 Neon AI Model",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "d7ec23d36946",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlJOUnN0cy14TGRXdm0yUmZ4ZVJtallnU3lOSGt6ZlppMEdIbkdMWlFPekJURDdKWkZEQVE3Y2IzSXZIbkJtazVvYUI5dVJhQzZ0bWZYZko2eWpPWVRieUhVSy1HVnJSaTZfM3pjcXBfQkFQeDhxaWdUZUJCU2t6b3RtNzZtN000dFEteUFyUy1ESl9MeVhHVEVTX0ZZdmhJLXY3ZFI5bHdfTUIyUDRZcXRRZFRfUjZPR2dnTFhJTjE5WFZTOVR6NVUzUmZiSGfSAdYBQVVfeXFMTjk5eUxOb2VnekplZlNKOFBfUTdVODR4cEFkMjF5VlhkM2FpX1FSMnY4emZLY0thSkJidzU4RmNQRnYtWXFPa0lfRXpOVlBsRjBSVzNKRGxJdXBDZXdOcU9WSzNadFBuNnUzS3NWMkNNN1p4SVE5RjE2MzdhMHVaWUhUeEJIbEFVU0FRcGVQZjB1T0ROd0RVVE1IX0pTMXBBaXVvdEVJVGdfUHQweDVwOHRPZnc0QlJMNVhmTm96aGRjN19ya0luMV9xQ2RXejk4a0pXYW4tZw?oc=5",
+   "source": "The Hindu",
+   "published": "2026-11-21T08:33:51+00:00",
+   "title": "Google launches Gemini 4 Neon taking on Claude Opus 5.5 and GPT-6.2 Sol",
+   "text": "",
+   "title_th": "Google launches Gemini 4 Neon taking on Claude Opus 5.5 and GPT-6.2 Sol",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "2c24469dc9e3",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkY2RzlUdGJNdy1uWnpUaEJaRi11TWgtZkpVLUpYLVM4cjItZFN3LWJPZWtnS21tVU01RmYzc1AzZUl2aGpPUnpCMjQwUlcxRHpQRnh5YWhPVUZSSTB0NlU0VXNoNW9URW9zWl9pNTJZR0tFakVPX25QWHIxZWZYbWtOc281U0NOakJ4NkZ3?oc=5",
+   "source": "Cointribune",
+   "published": "2026-11-21T08:15:07+00:00",
+   "title": "Anthropic: Claude may have solved a 167-year-old enigma",
+   "text": "",
+   "title_th": "Anthropic: Claude may have solved a 167-year-old enigma",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "05dd5dfed31c",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zZWVjV0xjVlpJOEhVaWNBdDlYNEJFaGEwNHJCdk1PcWk2LXA0dWlFNlBsSlhSdklsQ2VkYldwZWNpOTZKeFA4OWRmSW9pMWVUYkI1dzJOSzl0QWFKYk5N?oc=5",
+   "source": "springnews",
+   "published": "2026-11-21T07:59:09+00:00",
+   "title": "'ทรัมป์' ขู่แบนบ.สหรัฐ สร้างศูนย์ข้อมูล AI ในต่างแดน ลั่นต้องเก็บการลงทุนในประเทศ",
+   "text": "",
+   "title_th": "'ทรัมป์' ขู่แบนบ.สหรัฐ สร้างศูนย์ข้อมูล AI ในต่างแดน ลั่นต้องเก็บการลงทุนในประเทศ",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "ddc8b526a34c",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTRtU2VsWUJJa2c4RTV5bEVHR2VOU1F3cDlVVjZIVG9qcENodWtxdXY0Z1NhUk9aSUxyNlp2RWNyTnZ3MTgwenNPS1h2NnNoOW1BMEdZTXh3QzI5VmNPWFNnbjQxYjd1SlExekZGMjhlYjFzSDc1WDkycTNpR2FQT2lISHkwTDFCVG1LWFhwd1BCR0NkdlhiVTB5YTBqRzU1UjNoWnRYMlM?oc=5",
+   "source": "The Business Standard",
+   "published": "2026-11-21T06:22:29+00:00",
+   "title": "Anthropic employee claims to have solved long-standing maths problem with AI",
+   "text": "",
+   "title_th": "Anthropic employee claims to have solved long-standing maths problem with AI",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "1fc3533f8ebb",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjloLVl0ZFM0UU9rUFB2aWdqMjZLM2ZONkg1Z0JWcDZCQkxDQjZDdy1SUGlsRmQ3NXZidHhkVUlzVlBFUUo0b2hObHBrbDh1ODdyT01COS1uU0ZiSnN2cmxZbFdUWXptSHgwd0w2SFlyT0lXV3hZM1VhN2VNUERzQ0NwT20xLVlxOVBzZmZySUlOamc?oc=5",
+   "source": "CASRAI",
+   "published": "2026-11-21T06:12:29+00:00",
+   "title": "Anthropic Mathematician Releases 175,000-File Lean Archive Claiming Riemann Hypothesis Proof",
+   "text": "",
+   "title_th": "Anthropic Mathematician Releases 175,000-File Lean Archive Claiming Riemann Hypothesis Proof",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "21bd6fa42a95",
+   "url": "https://www.blognone.com/node/152229",
+   "source": "Blognone",
+   "published": "2026-11-21T05:56:02+00:00",
+   "title": "KDDI กลับมาขายมือถือปุ่มกด Infobar Zero ชูจุดเด่นคือต่อเน็ตไม่ได้",
+   "text": "Body KDDI โอเปอเรเตอร์รายใหญ่ของญี่ปุ่น ประกาศนำโทรศัพท์แบบฟีเจอร์โฟนรุ่น Infobar ที่เคยฮิตในยุค 2000s กลับมาวางขายใหม่อีกครั้ง โดยชูจุดขายว่า \"ต่อเน็ตไม่ได้\" อย่างจงใจ สมาร์ทโฟนรุ่นนี้ชื่อ Infobar Zero เป็นมือถือปุ่มกดที่เอาไว้โทรศัพท์และส่งข้อความ SMS เป็นหลัก มีกล้องขนาด 2MP ที่ถ่ายแล้วเก็บไว้ในเครื่องอย่างเดียว กดแชร์โซเชียลไม่ได้ ฟีเจอร์อื่นของ Infobar Zero เป็นไปตามมือถือสมัยใหม่ เช่น USB-C, Wi-Fi, Bluetooth 4.2 เหตุผลที่ KDDI เลือกออกมือถือรุ่นนี้ เป็นเพราะว่า KDDI เพิ่งออกบริการ \"หมายเลขที่สอง\" สำหรับลูกค้าที่ต้องการความ",
+   "title_th": "KDDI กลับมาขายมือถือปุ่มกด Infobar Zero ชูจุดเด่นคือต่อเน็ตไม่ได้",
+   "summary_th": "Body KDDI โอเปอเรเตอร์รายใหญ่ของญี่ปุ่น ประกาศนำโทรศัพท์แบบฟีเจอร์โฟนรุ่น Infobar ที่เคยฮิตในยุค 2000s กลับมาวางขายใหม่อีกครั้ง โดยชูจุดขายว่า \"ต่อเน็ตไม่ได้\" อย่างจงใจ สมาร์ทโฟนรุ่นนี้ชื่อ Infobar Zero เป็นมือถือปุ่มกดที่เอาไว้โทรศัพท์และส",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
+   "id": "9835f6461741",
+   "url": "https://www.blognone.com/node/152228",
+   "source": "Blognone",
+   "published": "2026-11-21T04:27:33+00:00",
+   "title": "GTA 6 ทำเงินเฉพาะวันแรก 3.79 พันล้านดอลลาร์ - เป็นสถิติสูงสุดของอุตสาหกรรมบันเทิง",
+   "text": "Body Rockstar Games ประกาศยอดขาย วันแรก ของเกม Grand Theft Auto VI หรือ GTA 6 ทำเงินไปรวม 3.79 พันล้านดอลลาร์ ซึ่ง Rockstar บอกว่าเป็นสถิติสูงสุดของอุตสาหกรรมบันเทิงในทุกรูปแบบสื่อ ถือเป็นการเปิดตัวที่ยิ่งใหญ่ที่สุดในประวัติศาสตร์ Rockstar ยังพูดถึงการตอบรับของ GTA 6 ที่สูงด้วย คะแนนรีวิวเฉลี่ย 99 เต็ม 100 และมียอดขายเกมล่วงหน้าก่อนวันจำหน่ายถึง 32.5 ล้านชุด เป็นสถิติใหม่สูงสุดในทุกแพลตฟอร์มเช่นกัน ทั้งนี้ Rockstar ไม่ได้ให้ข้อมูลว่าในวันแรกเกมขายได้รวมจริง ๆ ทั้งหมดกี่ชุด ภาพยนตร์ Spider-Man: Brand New Day ซึ่งเ",
+   "title_th": "GTA 6 ทำเงินเฉพาะวันแรก 3.79 พันล้านดอลลาร์ - เป็นสถิติสูงสุดของอุตสาหกรรมบันเทิง",
+   "summary_th": "Body Rockstar Games ประกาศยอดขาย วันแรก ของเกม Grand Theft Auto VI หรือ GTA 6 ทำเงินไปรวม 3.79 พันล้านดอลลาร์ ซึ่ง Rockstar บอกว่าเป็นสถิติสูงสุดของอุตสาหกรรมบันเทิงในทุกรูปแบบสื่อ ถือเป็นการเปิดตัวที่ยิ่งใหญ่ที่สุดในประวัติศาสตร์ Rockstar ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
   {
    "id": "22f0b59f6c06",
    "url": "https://www.blognone.com/node/152226",
@@ -684,6 +1020,20 @@
    "dedup": true
   },
   {
+   "id": "cff6ba8813bc",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjM3T1gteHRSYVRVaGd5czZYc204NW1jcGs2NnZnM0FiUHBEelRhQm1hX00tc1FsM0E5VVdJRzQ1UHp3SWxOVGVGbTU5bWlkaUU4RXplb1BtRWF5WnRMMzhGcEd6UnhyVDJsUFllTnVKWXJLS1hsZXRoNjJCRDJYRFdBMDNYcXNkUTU4TkxrdkRUQkk4VzNzUg?oc=5",
+   "source": "explainx.ai",
+   "published": "2026-11-21T00:00:00+00:00",
+   "title": "Hungry Butler Effect: LLMs and Commercial Incentives",
+   "text": "",
+   "title_th": "Hungry Butler Effect: LLMs and Commercial Incentives",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
    "id": "998c00834b43",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLRkMzRTZiMGk0R1NLVHZ0T212Z1hMUnR1alZVY1cySHlFOGtTakdYUWlFY2s1OGFVbHA1bUo0UjlDcXBCWnhBanhWMTNxZHAyOWJNTjJvcXJ0bUh1dlF2TEJPdDZPR214?oc=5",
    "source": "bangkokbiznews",
@@ -697,6 +1047,20 @@
    "importance": 3,
    "ai": true,
    "dedup": true
+  },
+  {
+   "id": "35f854dd7615",
+   "url": "https://news.ycombinator.com/item?id=50583761",
+   "source": "Hacker News",
+   "published": "2026-11-20T23:18:32+00:00",
+   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+   "text": "265 points, 233 comments on Hacker News (https://news.ycombinator.com/item?id=50583761)",
+   "title_th": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+   "summary_th": "265 points, 233 comments on Hacker News (https://news.ycombinator.com/item?id=50583761)",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
   },
   {
    "id": "bc28b368db41",
@@ -816,6 +1180,20 @@
    "importance": 4,
    "ai": true,
    "dedup": true
+  },
+  {
+   "id": "bd3515882959",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFNXYk9PY29iOWxFdWEwaU5GeUpaRTU4dkxKeXhjZUpXYlRsSWh2YWszNWhRWWVXam5lcWpOYmtHLVhnSG40VEpGQzkzY3c5MW9RajVqeFRBWlFTTzBuZmlUNUNCOHI1MXhHSnlZaUNHRVQzanFSMG9WVEl2ejltWFc2NnM?oc=5",
+   "source": "Wisevoter",
+   "published": "2026-11-20T21:33:10+00:00",
+   "title": "WiCi Launches Free App for Running Large AI Locally",
+   "text": "",
+   "title_th": "WiCi Launches Free App for Running Large AI Locally",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
   },
   {
    "id": "8487c2f3d84d",
@@ -1265,6 +1643,20 @@
    "dedup": true
   },
   {
+   "id": "4ac4c0e0e449",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYNkprRFktM3BMMEEzVDdEcnhnNEI4V1ZSa296Rm9ka1VMemV0SDdfVkRIU19md25wQW5RRFlsZXlLTUlfaHdDZmdrMkJKeVd3N1FCVDR3?oc=5",
+   "source": "mobidevices.com",
+   "published": "2026-11-20T12:54:30+00:00",
+   "title": "GTA 6’s release “moved” 2.6 million gamers to New Zealand",
+   "text": "",
+   "title_th": "GTA 6’s release “moved” 2.6 million gamers to New Zealand",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
    "id": "be21c29ceac7",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZUcxMjV2TmxnTnMwSnh1dHhZYzEycExNUnMzTDFLa0RvQTlHTmtkdHNUSnpxM3JxZWR3QXYzbnBDampWRll1b3pSTF91RHVCQ05EX0NlcVIyaXE4VDlGcTBtRF9OWlczRTZObXJoMHppMzRnMmFfczlRRURSWWs1dHNfUGNHbmd5Uk5mZGFaMFRHSjdMcTN5Z2RHYjJUQmZzcWhvLXZ3SUJpLWZvcWZVZllnM1phNklRZ0Z4SVR3cENqTXBhbFItalFmY3pUSlZJWE1NQTlYdEpnd3YyUzNNdzFONUkyYVZfVTZlOHpZZUVJUEtUdFNxVE9vd9IBgAJBVV95cUxPOXBDQXhYVXR4Q29SZzB2QXkxNFpIZ1hoVnVkcFB4cUVzakR0Z2R3WEthTXR1dU5BSEhwZmRKVzFhNVlHQTBGTGQ2U1hvMk55NFl2RG9fa1JDeFh2MnJEY0ZMYVF4eEphTzJBNV9RTkZ3SUx5aGU2UXZNYWdRTnlvYXptWlJpZ1U0UUU2R2xHNlYyMm9FZk1MUWc3QlNXbHVRSFh6Z19CTUM1Y2liaU5TX1QzcDBqNjNKeTRQcTkxajViV20yMzVFYWlNSmNsbnd3c0Fjbzk3Y2FybmI2bEN4bzZ5R0swWkMwWVI3c3hyZjJtNWVLaFE2T3FmcHhaVkVP?oc=5",
    "source": "ET CIO",
@@ -1279,7 +1671,13 @@
    ],
    "importance": 5,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechGig",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSENFUVNwWG5DdzlYVTZWb19PRjdqZWVWUUgtc1lBdjcxLVZNQ0NrYm9Cdnp4emZ6ejVSeTAwc2ZXcnZvUTdRRkhfSzNiVEtBNFI0YU9qMDRTU0N3QVBIN3oyZUV4VHIxYW9LUW5UeGZRX2JwZy1CQ3dzV3p5S1FLYkxlaUJVU1h2dXcwWXNTQW13bGNZYlE?oc=5"
+    }
+   ]
   },
   {
    "id": "c6d650610595",
@@ -1682,6 +2080,20 @@
    "dedup": true
   },
   {
+   "id": "c8d8f559eaf8",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEJXZmNMTTNHemVRYmJOYnE4MGVLeGRLVWU1Ry1YWmZ6NndOWkpPcVZwWDFTUkp0ZENyVW5NSFFZRVhSdkI4eXZ3V2VSb092Z25qYkhYLWNmWUMzTEl1bWhUeWE0V3VCZ3NUVF9iVFZkS0VfYVRSaE5PRmtnc0FzeA?oc=5",
+   "source": "hi-Tech.ua",
+   "published": "2026-11-20T06:20:26+00:00",
+   "title": "The Most Honest AI Yet? Google Debuts Gemini 4 Neon",
+   "text": "",
+   "title_th": "The Most Honest AI Yet? Google Debuts Gemini 4 Neon",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
    "id": "63ef11654a35",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWZqQzVSZGhiWlZwYXl6dXM1alpHWFlHU0g2a3BDU3E5WmZfWTU4bC13cTV4UkFMV001X1JzbUstbC1NV21wOHdxcERpSWpEY3MteEhJRlRvNjBYeUFkRmtYMGRqTTM0SmdybnhibTloX3JWZUItS3N5dTFsLThOeFBPcWw4ek9KYnJrdW05UFlOMjZ3RGVFelI2WEM?oc=5",
    "source": "Gulf Business",
@@ -1822,6 +2234,20 @@
    "importance": 3,
    "ai": true,
    "dedup": true
+  },
+  {
+   "id": "50b5a1a6375a",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TQmFOdnlNU1FqOWF5RUpqVXNvWmt5SVBDTEpFenJfc1d4TGZkeExmMUR1bDBPSC12dzNsNnpTVXBKdy1BSGtpU2VUeDl4d0pLcXAtc3pzM0pLZ1ZY?oc=5",
+   "source": "kapook.com",
+   "published": "2026-11-20T02:36:56+00:00",
+   "title": "สานฝันปัญญาประดิษฐ์ AI LAB รร.บ้านหนองแสงโคกน้อย จ.ขอนแก่น อีกแรงบันดาลใจให้เด็กไทยแสดงออกอย่างสร้างสรรค์ รูปที่ 6",
+   "text": "",
+   "title_th": "สานฝันปัญญาประดิษฐ์ AI LAB รร.บ้านหนองแสงโคกน้อย จ.ขอนแก่น อีกแรงบันดาลใจให้เด็กไทยแสดงออกอย่างสร้างสรรค์ รูปที่ 6",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
   },
   {
    "id": "7b27fbb8a3ee",
@@ -2061,6 +2487,23 @@
    "dedup": true
   },
   {
+   "id": "d2c8dbdba5bc",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PUTNuZ2pydDdON1I0S0FVQkdzVnNpTndMN3JZVjhpSUY5ZXRWTWJoTFE4QjZPRUFreGp0MU5wVTFsWlhYUHZ6T3lJSUxfX1VzV2lXS3NaUkpuQ3FTX2dMLUZIdldVYi1pSDI0dGpwcnhzOFJuQUhacFhMTUQ?oc=5",
+   "source": "explainx.ai",
+   "published": "2026-11-20T00:00:00+00:00",
+   "title": "Amazon SageMaker Inference 2026 Launches, Part 2: 13 Features From MIG to In-Place Updates",
+   "text": "",
+   "title_th": "Amazon SageMaker เปิดตัวฟีเจอร์ใหม่ 13 รายการสำหรับ Inference",
+   "summary_th": "Amazon SageMaker อัปเดตฟีเจอร์ใหม่สำหรับการทำ Inference โดยครอบคลุมตั้งแต่การรองรับ MIG ไปจนถึงการอัปเดตแบบ In-Place เพื่อเพิ่มประสิทธิภาพการทำงานสำหรับนักพัฒนา",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Amazon"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "05d97ce7afba",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPckx2b2tGYjRHR01ZSjFVN1dzNlFsTHlST1Fidjh2V1ZsVzFwWGl1R3pZUl9Zc2JKOTFvTjA4OGNaQ3VXNFNNZ0JKNXJIWHM4Zk5wcHJQckpzQWtmTVEtUWxjclZ1S0tUSGhJTmZVQkN1ZVRGWGRuVmxLbUpjd1A3RXl3?oc=5",
    "source": "Mashable",
@@ -2093,6 +2536,23 @@
     "Tesla"
    ],
    "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4d50b924ecd1",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd1dPVlRrR1QwQU8yYVA5TDlTeTlYNHBTOWh1c09uV1ZWbnBtN0tJM2lNUnAwc3lCTmJZUkM0QnYtY3ZubDBIUlNuYkt3bExILTRMSjZhVm41RWNSRVFsNnk4T3hLOThCZ25FU3dtd3J6VVp5TEkxVnhfOHFRenRzV3paTkFWeUlsZEFqenB3cngyalkwX0JxUkVkRDlsWlVIcmh1TWd5Nnl1Y2ZNRXRTRGpDVTNtdkxPRkFJcW1WTVU3S1h4amc?oc=5",
+   "source": "HPCwire",
+   "published": "2026-11-19T23:14:07+00:00",
+   "title": "Amazon ElastiCache Now Supports Distributed KV Caching for Self-Hosted LLM Inference",
+   "text": "",
+   "title_th": "Amazon ElastiCache รองรับ Distributed KV Caching สำหรับ LLM Inference",
+   "summary_th": "Amazon ElastiCache เพิ่มการรองรับ Distributed KV Caching เพื่อช่วยให้การทำ LLM Inference แบบ Self-hosted มีประสิทธิภาพและรวดเร็วยิ่งขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Amazon"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -2364,6 +2824,23 @@
     "Anthropic"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "dc5deed6f6d1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBcmVXNjN6TEduR1JSTjhNWVBLTjVobmlVVjdVNWlpcDRjTTc0VVN5OWJ3WndKWGdLT1haSy1XWXZta3RoaHMxQlBfS1I4SDVfemc3VE53?oc=5",
+   "source": "Cryptonews.net",
+   "published": "2026-11-19T20:49:39+00:00",
+   "title": "Ex-Google engineer may face new insider trading charge over Gemini 3.0 release date bets",
+   "text": "",
+   "title_th": "อดีตวิศวกร Google อาจเผชิญข้อหาซื้อขายข้อมูลภายในเกี่ยวกับ Gemini 3.0",
+   "summary_th": "อดีตวิศวกรของ Google กำลังเผชิญกับข้อหาใหม่ที่เกี่ยวข้องกับการซื้อขายข้อมูลภายในจากการเดิมพันวันเปิดตัวของโมเดล Gemini 3.0 ซึ่งถือเป็นประเด็นด้านจริยธรรมและกฎหมายที่สำคัญ",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Google"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -2760,6 +3237,23 @@
     "Anthropic"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2845b3a54ae3",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXNxSmxkUEdOTFNJcGtvbkxEemNMWlRNQVR5RV9DQVRaa1ZQWjgxZGdKNGowLWpGUC0tejdLVGtvWEhlTjNqX09vQk9JQmZKcDQyS0JrZEVlOVVPeDAzT0pySExBUG1FdTNQbnF6blpRNVdrZTFKTkN5V0FFS0I2bEFWUUVOY09CbV9Uelk0cWp2UXRBOS1GNmVQUHRiS25TZGpoTXpHNDRIRTdsQXRNOHQwMzVrbS12MG01Q3BIbzA?oc=5",
+   "source": "Macau Business",
+   "published": "2026-11-19T17:48:34+00:00",
+   "title": "Meltwater launches AI Accuracy Checker in GenAI Lens to flag what AI gets wrong about your brand",
+   "text": "",
+   "title_th": "Meltwater เปิดตัว AI Accuracy Checker ตรวจสอบความถูกต้องของข้อมูลแบรนด์",
+   "summary_th": "Meltwater เพิ่มฟีเจอร์ AI Accuracy Checker ใน GenAI Lens เพื่อช่วยตรวจสอบและแจ้งเตือนเมื่อ AI ให้ข้อมูลเกี่ยวกับแบรนด์ที่ไม่ถูกต้อง ช่วยให้องค์กรควบคุมภาพลักษณ์ได้ดีขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Meltwater"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -15479,140 +15973,6 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0d1989a6fe21",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T12:13:29+00:00",
-   "title": "Obsessive-1.7B: a 1.1 GB web-search subagent",
-   "text": "I fine-tuned LFM3-1.7B to do one job: take a factual question, call web_search once, and answer with a short value, a word-for-word quote and the URL. If the results don’t contain the answer, it says “Not found in the search results.” It’s meant to run as a subagent under a bigger model, not as a chat model. I have to say the base lfm really surprised me at its capability to run tool calls and extract information. Answer: Barbara Liskov Evidence: \"Liskov ... the second woman to receive the Turing Award.\" Source: https://en.wikipedia.org/wiki/Barbara_Liskov Fixed-results benchmark (131 held-out",
-   "title_th": "เปิดตัว Obsessive-1.7B โมเดลขนาดเล็กสำหรับงานค้นหาข้อมูลบนเว็บ",
-   "summary_th": "Obsessive-1.7B เป็นโมเดลขนาดเล็กที่ถูกปรับแต่งมาเพื่อทำหน้าที่เป็นซับเอเจนต์ในการค้นหาข้อมูลบนเว็บและตอบคำถามเชิงข้อเท็จจริงโดยเฉพาะ",
-   "category": "โมเดลใหม่",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "5ec03af4da1d",
-   "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-   "source": "Hacker News",
-   "published": "2026-11-07T09:46:03+00:00",
-   "title": "Every Mac comes with an (undocumented) family member classifier",
-   "text": "297 points, 146 comments on Hacker News (https://news.ycombinator.com/item?id=50403097)",
-   "title_th": "พบโมเดลจำแนกสมาชิกในครอบครัวที่ไม่ได้ระบุไว้ใน macOS",
-   "summary_th": "มีการค้นพบโมเดลสำหรับจำแนกสมาชิกในครอบครัวที่ซ่อนอยู่ในระบบปฏิบัติการ macOS ซึ่งเป็นฟีเจอร์ที่ไม่ได้มีการประกาศหรือระบุไว้ในเอกสารอย่างเป็นทางการ",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Apple"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "86c8ed73f2e6",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MZXlKaDNYallidHAwMWlrcVBLVV9vLUlBV3dHTDhFWUNPOVU4WVV4bl9CNmFCeFA5WktDRTN4aGRpeklUWC0w?oc=5",
-   "source": "Fello AI",
-   "published": "2026-11-07T09:22:00+00:00",
-   "title": "Claude Duet: What Anthropic’s Proactive Agent Does, Who Can Get It, and What It Costs",
-   "text": "",
-   "title_th": "ทำความรู้จัก Claude Duet เอเจนต์เชิงรุกจาก Anthropic",
-   "summary_th": "Anthropic เปิดตัว Claude Duet ซึ่งเป็นเอเจนต์ที่เน้นการทำงานเชิงรุก โดยบทความอธิบายถึงความสามารถ กลุ่มผู้ใช้งาน และรายละเอียดด้านราคา",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "04a6938cd03a",
-   "url": "https://www.blognone.com/node/152122",
-   "source": "Blognone",
-   "published": "2026-11-07T08:55:00+00:00",
-   "title": "[ไม่ยืนยัน] Microsoft ยกเลิกสัญญาเช่าคลาวด์ของ Oracle บางส่วน เหตุเป็นจีพียูรุ่นเก่า",
-   "text": "Body Bloomberg อ้างแหล่งข่าวที่เกี่ยวข้องระบุว่าไมโครซอฟท์ได้แจ้ง Oracle เพื่อยกเลิกการเช่าใช้งานคลาวด์สำหรับการประมวลผล AI โดยเหตุการณ์นี้เกิดขึ้นช่วงไม่กี่เดือนที่ผ่านมา หลังจากสัญญาเดิมครบกำหนดและอยู่ในการเจรจาต่อสัญญาใหม่ แหล่งข่าวบอกว่ากำลังประมวลผล AI ส่วนนี้ ไมโครซอฟท์ประเมินว่าตอนนี้ไม่จำเป็นสำหรับความต้องการปัจจุบัน สาเหตุหนึ่งเพราะเป็นฮาร์ดแวร์ NVIDIA รุ่นเก่าด้วย ทั้งนี้ข้อตกลงที่ไมโครซอฟท์ทำร่วมกับ Oracle เริ่มมา ตั้งแต่ปี 2023 ด้านตัวแทนของ Oracle ชี้แจงข่าวนี้ว่าความต้องการ OCI หรือ Oracle Cloud",
-   "title_th": "Microsoft อาจยกเลิกสัญญาเช่าคลาวด์บางส่วนกับ Oracle",
-   "summary_th": "มีรายงานว่า Microsoft ตัดสินใจไม่ต่อสัญญาเช่าคลาวด์กับ Oracle สำหรับการประมวลผล AI บางส่วน เนื่องจากประเมินว่าฮาร์ดแวร์ NVIDIA รุ่นเก่าไม่ตอบโจทย์ความต้องการในปัจจุบัน",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Microsoft",
-    "Oracle",
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "055e03fe8fc4",
-   "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-   "source": "The Verge AI",
-   "published": "2026-11-07T05:43:11+00:00",
-   "title": "AI broke the cybersecurity world. What’s next?",
-   "text": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
-   "title_th": "ผลกระทบของ AI ต่อโลกความปลอดภัยทางไซเบอร์",
-   "summary_th": "บทสัมภาษณ์ผู้เชี่ยวชาญด้านความปลอดภัยทางไซเบอร์เกี่ยวกับความท้าทายใหม่ๆ ที่เกิดขึ้นจากการนำ AI มาใช้ในโลกปัจจุบัน",
-   "category": "อื่นๆ",
-   "companies": [
-    "Cognition"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "83110874cdec",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T04:28:19+00:00",
-   "title": "Another benchmark has hit the quant war",
-   "text": "If you have not been following ISTA-DASLab the creators of the gsq-rco quants have received some criticism from unsloth regarding the inabilty to reproduce the benchmark numbers that ISTA-DASLab have quoted. The methodology used to produce their benchmark numbers has not been posted and their has been difficulty reproducing their numbers with unsloth finding in there testing unsloth quants outperforming the gsq-rco quants. The numbers in this post here are from another creator the creator of basalt (a inference engine) previously his qwen-flash-next quants (his inference engine uses specially ",
-   "title_th": "ข้อถกเถียงเรื่องความน่าเชื่อถือของ Benchmark ในการทดสอบ Quantized Models",
-   "summary_th": "เกิดข้อโต้แย้งระหว่างนักพัฒนาเกี่ยวกับความสามารถในการทำซ้ำผลลัพธ์ของ Benchmark สำหรับโมเดล Quantized ซึ่งส่งผลต่อความเชื่อมั่นในมาตรฐานการวัดผลปัจจุบัน",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "5c088739db84",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWR3NlcyeHpIU2dCd1ozQnNFTmxGVFVFZG1hRzhIQzZhbWM2YUwzSzhPdmRTZDZ0RjJCZk5NUDQ5ZjJpdTBWQ29qUUgtN1NJV3BBdHUtWWo4SWxtTUZDeDJCbEI3YWlUdGVPblUwbXpDdlB2SFFBWlBpYUQ3c0hLMk9ZNjhUUFJONTZxbktNYXFBTUVTbXhN?oc=5",
-   "source": "Courthouse News",
-   "published": "2026-11-07T04:11:33+00:00",
-   "title": "Anthropic must face claims its Claude Max pitch misled users",
-   "text": "",
-   "title_th": "Anthropic เผชิญข้อกล่าวหาเรื่องการโฆษณา Claude Max ที่อาจทำให้ผู้ใช้เข้าใจผิด",
-   "summary_th": "Anthropic กำลังเผชิญกับคดีความที่เกี่ยวข้องกับการโฆษณาฟีเจอร์ Claude Max ซึ่งถูกกล่าวหาว่าให้ข้อมูลที่อาจทำให้ผู้ใช้งานเข้าใจผิด ประเด็นนี้สะท้อนถึงความสำคัญของการสื่อสารที่โปร่งใสในผลิตภัณฑ์ AI",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d89cfb91348f",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLW9QUXo1Zktyc2dQVzZmUlo0aUxnUTJiRWpsSm1fMkptWkJpdXVjNkk3U3VTMnRXQ2RrOGtJSmY4RlF5TWRvRVBjTDE4TTUzQk1iTXBBUEpsVGx0bk90LVNVazJhcExwYXJmMmtES0x6RktDeHRmOTRuWkxPVHlfWnYtQUc5UHBZazVic2hVYnhKUQ?oc=5",
-   "source": "Interesting Engineering",
-   "published": "2026-11-07T03:21:00+00:00",
-   "title": "Can Claude dream now? Anthropic explores human-like machine memory",
-   "text": "",
-   "title_th": "Anthropic ศึกษาการสร้างหน่วยความจำเครื่องจักรที่เลียนแบบมนุษย์ใน Claude",
-   "summary_th": "Anthropic กำลังสำรวจแนวทางการพัฒนาหน่วยความจำสำหรับ AI ที่มีความคล้ายคลึงกับมนุษย์ เพื่อเพิ่มขีดความสามารถในการจดจำและประมวลผลข้อมูลของ Claude",
-   "category": "งานวิจัย",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
    "ai": true,
    "dedup": true
   }

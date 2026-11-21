@@ -1,58 +1,54 @@
 {
  "version": 3,
- "updated_at": "2026-11-21T12:37:52+00:00",
+ "updated_at": "2026-11-21T20:30:41+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-21T12:37:52+00:00",
-  "headline": "ความก้าวหน้าครั้งสำคัญของ AI ในการแก้โจทย์คณิตศาสตร์ระดับโลกท่ามกลางความผันผวนของตลาดหุ้นกลุ่มเทคโนโลยี",
+  "generated_at": "2026-11-21T20:30:41+00:00",
+  "headline": "วงการ AI ตื่นตัวหลังนักวิจัย Anthropic อ้างใช้ Claude พิสูจน์สมมติฐาน Riemann Hypothesis สำเร็จ ท่ามกลางการตรวจสอบจากนักวิชาการ",
   "points": [
    {
-    "text": "โมเดล Claude ของ Anthropic สร้างความฮือฮาด้วยความสามารถในการพิสูจน์สมมติฐานทางคณิตศาสตร์ที่สำคัญระดับโลก รวมถึง Riemann Hypothesis และปริศนาเกี่ยวกับหลุมดำ",
+    "text": "นักวิจัยจาก Anthropic อ้างว่าสามารถใช้โมเดล Claude ช่วยพิสูจน์สมมติฐานทางคณิตศาสตร์ Riemann Hypothesis ที่ค้างคามานานกว่า 167 ปีได้สำเร็จ อย่างไรก็ตาม นักวิจัยจาก Stanford ได้เผยแพร่ร่างงานวิจัยเพื่อโต้แย้งข้อพิสูจน์ดังกล่าวแล้ว",
     "ids": [
      "632b9b19196a",
      "bc28b368db41",
      "fba8e310738b",
-     "b8e1839046bc",
-     "9679c7ca5b10",
-     "ff67c2d7ada0",
-     "14a72f53a54d",
-     "f3abcc0f4175",
-     "d7470a983d26",
-     "262c471e0c9e",
-     "55a34ee619ba"
+     "3534d2195ee4",
+     "4e2c67dcaa9f",
+     "d4a025fe3f25",
+     "eb30319e78e2",
+     "4e88bcc9c79c",
+     "8494e013419f",
+     "98627672b0a4",
+     "8bda38614e57",
+     "43fb24eb7623",
+     "16998a4ff421",
+     "fa489d5de826",
+     "995652bc9466",
+     "a18b4c817f14",
+     "5dd6a4db14f8",
+     "c5d37adcee94",
+     "217296edb4b1",
+     "7ffc27ea980a"
     ]
    },
    {
-    "text": "ตลาดหุ้นกลุ่ม AI เผชิญความผันผวนและแรงเทขายอย่างหนัก แม้ Anthropic จะเข้าจดทะเบียนในตลาดหลักทรัพย์และมีมูลค่าสูงก็ตาม",
+    "text": "OpenAI ประกาศเปิดตัวโมเดล GPT-6 Astra ที่ใช้สถาปัตยกรรมใหม่เพื่อก้าวเข้าสู่ยุค AGI ในขณะที่ไมโครซอฟท์เปิดตัว Aion 1.0 Instruct โมเดลขนาดเล็กสำหรับรันบนอุปกรณ์ทั่วไป",
     "ids": [
-     "fd2811614640",
-     "998c00834b43",
-     "971e450a0737",
-     "5cb7c98d027d"
+     "2f8cc2022f9a",
+     "1744e8395eb1"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวของบริษัทเทคโนโลยีรายใหญ่ ได้แก่ Google เปิดตัว Gemini 4 Neon และร่วมมือกับ Blue Origin พัฒนาศูนย์ข้อมูลบนอวกาศ ส่วน Tencent ปล่อยโมเดล Hy4 flash ขนาด 7.7 แสนล้านพารามิเตอร์",
+    "text": "Oracle ยืนยันความพร้อมด้านเงินทุนสำหรับศูนย์ข้อมูล AI ของ OpenAI ส่วน Anthropic ชี้ว่าชิปประมวลผล AI เริ่มมีความสามารถทดแทนกันได้มากขึ้น ซึ่งอาจส่งผลต่อความได้เปรียบทางการตลาดของ Nvidia",
     "ids": [
-     "be21c29ceac7",
-     "b36437053092",
-     "58523d7ff082"
+     "500558bbe153",
+     "33738aa44b68"
     ]
    },
    {
-    "text": "OpenAI ขยายบริการ AI Agent 'Dots' ให้ผู้ใช้ ChatGPT Plus ใช้งานได้แล้ว ขณะที่ RadixArk เปิดตัวโมเดล DaisyRose 27B สำหรับงานด้าน Agent โดยเฉพาะ",
+    "text": "การประชุมของ UN ที่เจนีวาเพื่อหารือเรื่องการกำกับดูแลอาวุธสังหารอัตโนมัติจบลงโดยไม่มีข้อสรุปที่เป็นรูปธรรม โดยตกลงเพียงแค่จะเริ่มหารือทางเลือกต่างๆ ในอนาคต",
     "ids": [
-     "1d2aa077a3fb",
-     "5cfda21f9d5b"
-    ]
-   },
-   {
-    "text": "ประเด็นด้านนโยบายและความปลอดภัย ได้แก่ ทรัมป์ขู่เก็บภาษีศูนย์ข้อมูล AI นอกสหรัฐฯ, Nvidia หยุดขายชิป H200 ในจีน, และ Anthropic ปรับนโยบายความปลอดภัยพร้อมออกคำเตือนถึงนักลงทุน",
-    "ids": [
-     "3a0cb236fd32",
-     "f0e77c900b9f",
-     "22f0b59f6c06",
-     "6830cf617aa4"
+     "234da3fc1867"
     ]
    }
   ]
@@ -145,7 +141,7 @@
   {
    "name": "Hacker News",
    "ok": true,
-   "count": 23,
+   "count": 20,
    "error": null
   },
   {
@@ -629,9 +625,376 @@
   "64eedcf67a8f",
   "e305334b570b",
   "67c4c2c31439",
-  "76db7d60faf3"
+  "76db7d60faf3",
+  "92162d61c1b4",
+  "0dbcd51bd97b",
+  "ee85778e5b21",
+  "21bd6fa42a95",
+  "9835f6461741",
+  "35f854dd7615",
+  "b6164d38dc5b",
+  "789f65c3343b",
+  "90ab235fdc9f",
+  "4ac4c0e0e449",
+  "73e221f8fd25",
+  "50b5a1a6375a",
+  "e74727ec8af7",
+  "d7ec23d36946",
+  "62308edade7b",
+  "c8d8f559eaf8",
+  "cc8a047c96f5"
  ],
  "items": [
+  {
+   "id": "9c21ae67eb3d",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ONE5MQmxwWVk5Z3psaE1Kbk13aUlKWWs0SlY1ejBVS1V1T2RaUkZzVGhVNU9YZkdta3l2ZkVERldKNFAtRGNfaVMtUDVsZGN1eHlYV01Td3VlNXp5c2Q1UlRUMGY2Zm9UNmNIVVNsTDY?oc=5",
+   "source": "Crypto Briefing",
+   "published": "2026-11-21T20:06:36+00:00",
+   "title": "Howard Marks warns OpenAI and Anthropic their AI lead may not last",
+   "text": "",
+   "title_th": "Howard Marks เตือน OpenAI และ Anthropic ความเป็นผู้นำด้าน AI อาจไม่ยั่งยืน",
+   "summary_th": "Howard Marks นักลงทุนชื่อดังแสดงความเห็นว่าความได้เปรียบของบริษัท AI ชั้นนำอย่าง OpenAI และ Anthropic อาจไม่คงอยู่ตลอดไปเนื่องจากการแข่งขันที่รุนแรงในอุตสาหกรรม",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "OpenAI",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "234da3fc1867",
+   "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "source": "The Verge AI",
+   "published": "2026-11-21T20:03:37+00:00",
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "text": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+   "title_th": "UN ล้มเหลวในการหาข้อตกลงกำกับดูแลอาวุธสังหารอัตโนมัติ",
+   "summary_th": "การประชุมของนักการทูต UN ที่เจนีวาเพื่อหารือเรื่องการควบคุมอาวุธสังหารอัตโนมัติหรือ Killer Robots จบลงโดยไม่มีข้อสรุปที่เป็นรูปธรรม โดยตกลงเพียงแค่จะเริ่มหารือทางเลือกต่างๆ ในอนาคต",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3534d2195ee4",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5",
+   "source": "The Guardian",
+   "published": "2026-11-21T20:01:00+00:00",
+   "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+   "text": "",
+   "title_th": "นักคณิตศาสตร์ของ Anthropic อ้างใช้ Claude พิสูจน์ Riemann hypothesis",
+   "summary_th": "นักคณิตศาสตร์จาก Anthropic ระบุว่าเขาใช้โมเดล Claude ช่วยในการพิสูจน์ปัญหาทางคณิตศาสตร์ Riemann hypothesis ที่มีอายุกว่าศตวรรษได้สำเร็จ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4e2c67dcaa9f",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTDZXVE1hdldnRUl0S0RvWjlCZXdCby1GRlRoZjhLTU9ucDBXSnVTMl9jdVJqRG9kUVoyX3FjaGJFQW9XQ3IwTFUxZUxQSDFJNDNvSXFkN010NHZTU0Y1VjZNbWZ1aWRhWmJiOVo1LUk3aDRGUTFDY2pHVTA5QWV5aE15OTk2ek9Lb3lVbHVJc1U3bGRzUHdiWGJqOHlOLS01aUdwcjcwdG5GYTIzY3hmSzAwOWJEbDNmMC1YRDJrUmctMWFsTlJaajFkamRxY2RNeGg0MkVhLXhKMDR5RmM0OTBhUU4?oc=5",
+   "source": "www.foreignpolicyjournal.com",
+   "published": "2026-11-21T19:50:00+00:00",
+   "title": "Anthropic's Claude AI Credited With Cracking A 166-Year-Old Mathematical Prize Problem Worth $1 Million",
+   "text": "",
+   "title_th": "Claude AI มีส่วนช่วยแก้โจทย์คณิตศาสตร์มูลค่า 1 ล้านดอลลาร์",
+   "summary_th": "มีการรายงานว่า Claude AI ของ Anthropic มีบทบาทสำคัญในการช่วยแก้ปัญหาทางคณิตศาสตร์ที่ค้างคามานานกว่า 166 ปี ซึ่งเป็นโจทย์ที่มีรางวัลมูลค่าสูง",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d4a025fe3f25",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNYVJCOWRkZnRsenJPQmJPQTlnNVNWQ0N5NG9hdzN6NWMyalJmUHVGVzcxajZPWU9McjJ3enVIbjhFTGQ0OFpZY3VBUHlIckIyQnFLWEJzZ2hxT1VHWmotamtoZG1CVDg?oc=5",
+   "source": "CTech",
+   "published": "2026-11-21T19:49:00+00:00",
+   "title": "Anthropic mathematician says Claude helped solve a 165-year-old mathematical mystery",
+   "text": "",
+   "title_th": "นักคณิตศาสตร์ Anthropic เผย Claude ช่วยไขปริศนาคณิตศาสตร์อายุ 165 ปี",
+   "summary_th": "นักคณิตศาสตร์จาก Anthropic อ้างว่าโมเดล Claude ช่วยให้เขาสามารถพิสูจน์ปัญหาทางคณิตศาสตร์ที่ยากและยาวนานกว่า 165 ปีได้สำเร็จ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "eb30319e78e2",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXFLcEJlYk15RHFGY1dhY041ZlBCdU5nRGhDVzNGdXdRYXQ5amFRa3FBYVNxZ25ETi10MkRWZGFaTVNvaWJuSDluTE14SzhRUUxFZHhjSVliRDdzdTBLWkxzUkRaRkVoVG5HTGZLdVhLYkhpb2ZBUG01Z1J1TnJvc1FEN2tFYzA4WjBOeW1jbjJvT29uTFJhVUsxUTkxVl9kT3pEUDdZYXo1VHE1VFNKQnpzXzdWWEU?oc=5",
+   "source": "Engadget",
+   "published": "2026-11-21T19:45:01+00:00",
+   "title": "Anthropic Employee Claims To Have Proven The Most Famous Math Problem Using Claude",
+   "text": "",
+   "title_th": "พนักงาน Anthropic อ้างพิสูจน์ปัญหาคณิตศาสตร์ชื่อดังด้วย Claude",
+   "summary_th": "พนักงานของ Anthropic ออกมาอ้างว่าเขาสามารถใช้ Claude ในการพิสูจน์ปัญหาทางคณิตศาสตร์ที่โด่งดังที่สุดปัญหาหนึ่งได้สำเร็จ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4e88bcc9c79c",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMDJiblV0T3E4akoxeHkySEl6OXZPMXgtRF8wRFotXzMyTldoNHdKekMtaHYxOFA1Rzl4eFJCY3hibnp1VDRIS0xZX1N1eF9OZkx6YjVZU2t1VnVvVTBjUW1lYzFrd29GR0lneEtSLWVCSk5oYXMyQmNOY0RnMkJlQml6b0tLRE9qUlhNc2xWTHlWVmFVZHFuMGtDTVlOVGZxVDBLSHBPd3MtYWtGcUNkcm1HaHBxeWs?oc=5",
+   "source": "Dallas Express",
+   "published": "2026-11-21T19:01:10+00:00",
+   "title": "Anthropic Mathematician Claims Claude Helped Prove 167-Year-Old Riemann Hypothesis",
+   "text": "",
+   "title_th": "นักคณิตศาสตร์ Anthropic อ้าง Claude ช่วยพิสูจน์ Riemann hypothesis",
+   "summary_th": "มีการกล่าวอ้างว่านักคณิตศาสตร์ของ Anthropic ใช้ Claude เป็นเครื่องมือช่วยพิสูจน์สมมติฐาน Riemann hypothesis ที่มีอายุกว่า 167 ปี",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8494e013419f",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcWF3QXhiS19OdHJOa3AwTHY4akQ5Wks2ZDNSbDV3NW1SRE1EQ2c1QXQteHUwMERhVmlNZDBEV3o4SU1LXzZ5YkRuVjkzMHdqNW1LLWZnSkItM2owNVRMNDRncjFodlhBcVl0d0x0SzJGSElUMzlNaFg0a2NpZFhOdm1meEhCTmlDaGU2RlVkbjFWT2hQQmF1UW55X252ajY4M2lNV2ttRGxjLTRCVEdsWktnN0p5clpMZ1Z3QUhuWV9rMjRPUW9oQWVFWdIB0AFBVV95cUxOeElGQW5fcDRSYXVwUjVodmlValB0a0liN3dNNVFvS1NKdmZoOVdJNEh1Ui12NDlUakx0LUVqeGliNXNPRGs5VVNOeS1DN29PN3kyNjN1cjMzUHNnc1lBZ1JTSmNvTTNwWFV2cWVITDVGOUUyMlpDQW93WXU0VDBHazlqd3dXcFVvM0VFcUZrekt5R1NKa0xjS0Y2Qll0Qm1DUEhQb29CRzVoYjRVbUF5Ry1INVFfNEFqMWRKbGdPQThJb095UmRXNmlEREY4ekVv?oc=5",
+   "source": "Simply Wall St",
+   "published": "2026-11-21T18:11:51+00:00",
+   "title": "Anthropic PBC (ANT) Claims Claude Solved The 167 Year Old Riemann Hypothesis",
+   "text": "",
+   "title_th": "Anthropic ระบุ Claude แก้โจทย์ Riemann hypothesis ได้สำเร็จ",
+   "summary_th": "รายงานระบุว่า Anthropic ได้อ้างถึงความสำเร็จของโมเดล Claude ในการช่วยแก้ปัญหาทางคณิตศาสตร์ Riemann hypothesis ที่มีอายุกว่า 167 ปี",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "98627672b0a4",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zZFA4T05qRkxDa0FaMWdYOFQtUmtteVVLR2JCdFBGUHRyanNVeHNiLUwzcjRmVkFZbVNfR3RXVU5JeDM2bkxvRkYwQnAzY201czlYSzlGLVZyQV9EcmlCYUQxejB3aXM4cDhuM2dYUWNzTEll?oc=5",
+   "source": "DNE Africa",
+   "published": "2026-11-21T17:03:00+00:00",
+   "title": "Riemann hypothesis breakthrough claimed via AI, 167 years on",
+   "text": "",
+   "title_th": "ความก้าวหน้าของ Riemann hypothesis ผ่าน AI หลังผ่านไป 167 ปี",
+   "summary_th": "มีการอ้างถึงความก้าวหน้าครั้งสำคัญในการพิสูจน์สมมติฐาน Riemann hypothesis โดยใช้ AI เข้ามามีส่วนร่วมในการแก้ปัญหาที่ยาวนานกว่า 167 ปี",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8bda38614e57",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaDg2RE9UUUZqZ3hvYXFpZ3RrZWEyT3cwUTZ3X0ZSMTN3VXA3Mkxha3g4Z0p5OVRmT25fSXdhUUFIQTgtZHhGaXljLXJuMy1lbVhjZzlTQWMtSzRDSUFlY3dfdHJDYmxycm1pSWI4RnRWT1ZNd0h3QnJxWk00QjdkSlc4ZXQ3MUE5YjVhYlBhZGV1Y2JVTFFDTy1MZmpQVGtrVVFLX0VKTUpxR1dLWm53?oc=5",
+   "source": "Around Prague",
+   "published": "2026-11-21T17:01:57+00:00",
+   "title": "Anthropic Mathematician Says Claude Helped Him Prove the Riemann Hypothesis",
+   "text": "",
+   "title_th": "นักคณิตศาสตร์ Anthropic เผย Claude ช่วยพิสูจน์ Riemann hypothesis",
+   "summary_th": "นักคณิตศาสตร์จาก Anthropic ระบุว่าเขาได้รับความช่วยเหลือจาก Claude ในการพิสูจน์สมมติฐาน Riemann hypothesis",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6ccebafcdf30",
+   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-21T17:00:00+00:00",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "text": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "title_th": "รวม AI Agents ยอดนิยมที่ใช้งานผ่านแอปข้อความ",
+   "summary_th": "บทความรวบรวมรายชื่อ AI Agents ที่โดดเด่นซึ่งสามารถใช้งานได้ผ่านแอปส่งข้อความ โดยครอบคลุมตั้งแต่ผู้ช่วยทั่วไปไปจนถึงผู้ช่วยเฉพาะทางสำหรับครอบครัวและการทำงาน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "66ff0142c734",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWExObS03dl9hQkNQanpBdkVESmtCSVU3ZTdVdXl5UzRtMFVnc2tWZjdJc2UzY0pNRjh0Z1dkenhnM3Bhdk1HWFV0cmhraUVEeEd3LXB6M3Z1U1Z5TEJ4NFc5QmFad05GUWtxck02N2JlSzZ4a0dUcVQxNlFNbTNPS1Q3eDhsV0ZWY1ozVUpMVlBnd0ZURnQ3TDhfQTl4dGxJRGc1blIzd2YwdmY2aDVZUmJkWnA5a3RQNUtVai15VzU?oc=5",
+   "source": "TIKR.com",
+   "published": "2026-11-21T16:40:51+00:00",
+   "title": "Musk Calls Google’s Gemini 4 Neon “a Banger” After Its Third Zapier Record. Bad Timing for Anthropic",
+   "text": "",
+   "title_th": "Musk ชม Gemini 4 Neon ว่ายอดเยี่ยม หลังทำสถิติ Zapier",
+   "summary_th": "Elon Musk แสดงความชื่นชมต่อ Gemini 4 Neon ของ Google หลังจากทำสถิติบน Zapier ได้สำเร็จ ซึ่งถือเป็นช่วงเวลาที่ท้าทายสำหรับ Anthropic",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Google",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d7e1ac73577a",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcjJkVlZBLVA4V1pmZ0lXTWFaZDhxeUo2Mnoya0QzVW1kVDBKOU10ODZQZ1FkUzdocmlwLWVHT0VoTmtQUkJDbTFnaXNMTkYxWnJPYWZaMUxIQ3MxcEN4YVNtZDZmTFlPYjhudHQwVzRxdVUtZm90Y3Zac2lFMlNWT2RYdHFlZw?oc=5",
+   "source": "Wisevoter",
+   "published": "2026-11-21T16:23:33+00:00",
+   "title": "Lab Releases Open Model That Runs on Laptop",
+   "text": "",
+   "title_th": "แล็บ AI เปิดตัวโมเดลโอเพนซอร์สที่รันบนแล็ปท็อปได้",
+   "summary_th": "มีการเปิดตัวโมเดล AI ใหม่ที่สามารถทำงานได้บนคอมพิวเตอร์แล็ปท็อปทั่วไป ช่วยให้ผู้ใช้สามารถเข้าถึงเทคโนโลยี AI ได้สะดวกยิ่งขึ้น",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "43fb24eb7623",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMEpLbGtDcHRlUjVuQlM1djUyS2x1bXVJekJERTh4V1FRM1JkTUJrcWZuaGtTSU1IdXN0VHpRbExsS0dkRU1XaEJ4elR1TU9zc2lHTlRKUy1BdFhfel9xNm4tU0JwaC1aaVFmS3V5bHE3aG96WGg5aF96eGFQTUdkTXVqbGlXbFBRTE9WTW1teXBfODBOSDlpc3ZjUjlwOFBNTXFIcDdzVzdsTFdTbFlobDNmd29rOEs1aTVXM3M3YjgwNkpTX2g2TWJCRdIB0gFBVV95cUxPNVU1aU1nemN3UEdRNnhqdTVYVlV3TDB3aXQ0b2V5T0Q2WkVtcDdpRG5kSGVtQXd3SjlSNEJhbmpGWDF4azUwQzlnQXBhLXNwR053VVNlaS1kd1hnbXg1YkpHcnc3aFJyV0lFSWxUMzVhMjRIN1IwMkhHM0tNanctQ3VBNTNXQ1lDTTY0UC1wVUJkZ3BaRlp2eWZOdXBuZFJMdVZ2SHRLV0FKb0NPZkpRWXFYZ3NmamRYUWRpQW01Ym9IMUFzVFh0bFZaMVFoQnZtanc?oc=5",
+   "source": "BusinessLine",
+   "published": "2026-11-21T16:05:27+00:00",
+   "title": "Anthropic researcher claims to solve Riemann Problem with Claude",
+   "text": "",
+   "title_th": "นักวิจัย Anthropic อ้างแก้โจทย์ Riemann Problem ด้วย Claude",
+   "summary_th": "นักวิจัยจาก Anthropic อ้างว่าสามารถใช้โมเดล Claude ช่วยแก้ปัญหาทางคณิตศาสตร์ Riemann Problem ได้สำเร็จ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "dffab27fe8d5",
+   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-21T16:00:00+00:00",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "text": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "title_th": "การขายลิขสิทธิ์ใบหน้า AI ให้สตาร์ทอัพคืออนาคตของฮอลลีวูดหรือไม่",
+   "summary_th": "นักแสดงเริ่มมีการขายลิขสิทธิ์ใบหน้าให้กับสตาร์ทอัพผลิตละครสั้น ซึ่งเป็นเทรนด์ที่กำลังได้รับความนิยมในจีน ผู้เชี่ยวชาญกำลังตั้งคำถามถึงผลกระทบระยะยาวหากเทรนด์นี้เข้าสู่ฮอลลีวูด",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "16998a4ff421",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGIwdS1yaXpvQVR5Uk9kbXRRLWZYdFJrM21pTTk3NEk1cnl6cnp3cTl3Yl9yTGloVmdNbU1KcHFvdzlQdUhMWmtZcFpmZW1vRXhSdl9ZOFhLX1Z6ZXVwZ2FINktGcG1kYWNrZlJoXzZkT0dNOG5OOVF3YzhHME5rb2RVTHA5dWx4bU1KaTczd2VtT1R5RVdUb245ZlhrR2llcjNBX3BIMTNqT3ptNDBCZA?oc=5",
+   "source": "Broadband Breakfast",
+   "published": "2026-11-21T15:56:53+00:00",
+   "title": "Anthropic Worker Claims to Have Solved Riemann Hypothesis With Help From Claude",
+   "text": "",
+   "title_th": "นักวิจัย Anthropic อ้างว่าใช้ Claude ช่วยแก้โจทย์คณิตศาสตร์ระดับโลก Riemann Hypothesis",
+   "summary_th": "นักวิจัยจาก Anthropic อ้างว่าสามารถพิสูจน์สมมติฐาน Riemann Hypothesis ได้สำเร็จโดยได้รับความช่วยเหลือจากโมเดล Claude ซึ่งถือเป็นความก้าวหน้าครั้งสำคัญหากได้รับการยืนยัน",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1744e8395eb1",
+   "url": "https://www.blognone.com/node/152235",
+   "source": "Blognone",
+   "published": "2026-11-21T15:31:44+00:00",
+   "title": "ไมโครซอฟท์เปิดตัว Aion 1.0 Instruct โมเดลขนาดเล็กสำหรับ On-Device AI",
+   "text": "Body ไมโครซอฟท์เปิดตัวโมเดลขนาดเล็กสำหรับรันแบบ on-device ตัวใหม่ชื่อ Aion 1.0 Instruct โดยจะมาแทน Phi Silica ที่ใช้มาตั้งแต่ปี 2024 ในเครื่องตระกูล Copilot+ PC Aion 1.0 Instruct มีขนาดพารามิเตอร์ 2.3B ถือว่าเล็กกว่า Phi Silica ที่ขนาด 3.8B แต่กลับทำงานได้เก่งกว่า ตอบสนองเร็วกว่า มีขนาด context window ใหญ่กว่าคือ 32K (ของเดิม 3.5K) อีกทั้งรองรับการรันบน GPU ด้วย ไม่จำเป็นต้องรันบน NPU อย่างเดียว ซึ่งจะทำให้พีซีที่ไม่มี NPU (ไม่ใช่ Copilot+ PC) ใช้งานได้ด้วย โดย GPU ที่รองรับคือ NVIDIA RTX และ AMD RDNA 4 ขึ้นไป ไมโครซอฟท์จะเริ",
+   "title_th": "ไมโครซอฟท์เปิดตัว Aion 1.0 Instruct โมเดลขนาดเล็กสำหรับ On-Device AI",
+   "summary_th": "ไมโครซอฟท์เปิดตัว Aion 1.0 Instruct โมเดลขนาด 2.3B ที่มาแทนที่ Phi Silica โดยรองรับการรันบน GPU ทำให้พีซีทั่วไปที่ไม่ใช่ Copilot+ PC สามารถใช้งานได้",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Microsoft",
+    "NVIDIA"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c8aadc3d3ee9",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORTZmTndCMHNzcUJjMWdSZ3hlUXRMOGZZQkF3VmZHNFlfaVpMYXNTZEhsOEhicGpQYW9RamVEaGxpM0o1V1lhRWxvUE9xOXlMcWlLZkQzRjloQ3FKLV9OT3BBWlJPZWstbW9Zak1qMk04RGE1Wi1LeEpKa2FqdGJ6dUxmSDFzazZpbU9BVXNiUmxQYVN5SXZGMF80MzkxUkU?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-21T15:22:30+00:00",
+   "title": "Anthropic Claude AI Predicts a Wild Chainlink Crash for 2027",
+   "text": "",
+   "title_th": "Claude AI ทำนายราคา Chainlink อาจร่วงหนักในปี 2027",
+   "summary_th": "มีการรายงานว่าโมเดล Claude ของ Anthropic ได้วิเคราะห์และทำนายแนวโน้มราคาของเหรียญ Chainlink ว่าอาจเกิดการปรับตัวลดลงอย่างรุนแรงในปี 2027",
+   "category": "อื่นๆ",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "eb35be9426b8",
+   "url": "https://www.blognone.com/node/152233",
+   "source": "Blognone",
+   "published": "2026-11-21T15:11:37+00:00",
+   "title": "Canva เพิ่มทางเลือก ปิดฟีเจอร์ AI ทั้งหมดได้ในคลิกเดียว สำหรับคนไม่ต้องการ AI",
+   "text": "Body Canva เพิ่มตัวเลือกใหม่ในหน้า Settings ชื่อ AI Controls หรือการปิดการทำงานของฟีเจอร์ AI ทั้งหมดในปุ่มเดียว เหตุผลของ Canva คือแม้ผู้ใช้ Canva นิยมใช้ฟีเจอร์ AI กันอย่างมาก แต่บางครั้งก็มีวันที่ผู้ใช้อยากคิดเอง อยากเริ่มงานเองจากศูนย์ ซึ่ง Canva คิดว่าผู้ใช้ควรมีสิทธิเลือก จึงเพิ่มตัวเลือกในหน้า Settings หมวด Permissions ให้ปิดฟีเจอร์ AI ทั้งหมดได้ในการคลิกครั้งเดียว และเปิดกลับมาได้เสมอถ้าต้องการ นอกจากนี้ Canva ยังเพิ่มตัวเลือกปิดไม่ให้เห็นคอนเทนต์ที่สร้างด้วย AI ในหน้าไลบรารีได้ด้วย ที่มา - Canva mk Sat, 21/11",
+   "title_th": "Canva เพิ่มฟีเจอร์ปิดการทำงานของ AI ทั้งหมดได้ในคลิกเดียว",
+   "summary_th": "Canva เพิ่มตัวเลือก AI Controls ในหน้าตั้งค่าเพื่อให้ผู้ใช้สามารถปิดฟีเจอร์ AI ทั้งหมดได้หากต้องการทำงานด้วยตนเอง หรือไม่ต้องการเห็นคอนเทนต์ที่สร้างจาก AI",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Canva"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a9f34b76fcc6",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "source": "The Verge AI",
+   "published": "2026-11-21T13:29:45+00:00",
+   "title": "Can Anthropic afford to put safety first?",
+   "text": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+   "title_th": "วิเคราะห์ความท้าทายของ Anthropic หลังเข้าตลาดหุ้น Nasdaq",
+   "summary_th": "บทวิเคราะห์เกี่ยวกับสถานะของ Anthropic หลังจากเข้าจดทะเบียนในตลาดหลักทรัพย์ Nasdaq โดยเน้นไปที่ความท้าทายในการรักษาสมดุลระหว่างความปลอดภัยของ AI และการเติบโตทางธุรกิจ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "859bea40f2fb",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
+   "source": "CNBC",
+   "published": "2026-11-21T13:00:01+00:00",
+   "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+   "text": "",
+   "title_th": "Anthropic เข้าตลาดหุ้นท่ามกลางสัปดาห์ที่เลวร้ายที่สุดของหุ้นเทคโนโลยี",
+   "summary_th": "การเข้าจดทะเบียนในตลาดหลักทรัพย์ของ Anthropic เกิดขึ้นในช่วงเวลาที่ตลาดหุ้นเทคโนโลยีเผชิญกับสภาวะตกต่ำที่สุดนับตั้งแต่ปี 2020",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "fa489d5de826",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnB5OUhMOEozdGlVcU5IMVZxWlRHTkt2d2MxdS1UUzZaTHUzNnN0MEQyZ2lxb1pWbHA0T0JMaEJpZHJEd3NUTjVxVUtHUjAwUG5iTGUzNThxbEJZdlM1VG1jX2VvLTJCTnBXSXhacjRfQTRTYm43MVpXOVdhNEI3emM3QV9jQmFySUxVb3B5bmVMUDlkQTFySmt5bmo?oc=5",
@@ -639,12 +1002,15 @@
    "published": "2026-11-21T12:34:53+00:00",
    "title": "Anthropic Researcher Claims Claude Proved Riemann Hypothesis",
    "text": "",
-   "title_th": "Anthropic Researcher Claims Claude Proved Riemann Hypothesis",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "นักวิจัย Anthropic อ้าง Claude พิสูจน์สมมติฐาน Riemann ได้สำเร็จ",
+   "summary_th": "นักวิจัยจาก Anthropic ออกมาอ้างว่าโมเดล Claude สามารถพิสูจน์สมมติฐานทางคณิตศาสตร์ Riemann Hypothesis ได้ ซึ่งเป็นประเด็นที่กำลังได้รับความสนใจอย่างมาก",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "19be22823909",
@@ -653,12 +1019,32 @@
    "published": "2026-11-21T12:29:00+00:00",
    "title": "Claude's Riemann hypothesis proof claim looks clean early",
    "text": "",
-   "title_th": "Claude's Riemann hypothesis proof claim looks clean early",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "ข้อพิสูจน์ Riemann Hypothesis ของ Claude ดูมีความเป็นไปได้ในเบื้องต้น",
+   "summary_th": "การตรวจสอบเบื้องต้นต่อข้อพิสูจน์สมมติฐาน Riemann Hypothesis ที่อ้างว่าทำโดย Claude พบว่ามีความชัดเจนและน่าเชื่อถือในระดับเริ่มต้น",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "995652bc9466",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY0NydmZxSEgzMlRObENwSW5IWWpjQmttb2VzZjhMRE9idVQ1ZzNyZXZLeThMdFZTNkY1MjBSRkstbEpHNnYxYmxwOHp1SmlRcDN3VFlMNkF3T3NDaFlWeHZvXzloTFFla0JId3hRS2d1YmQ0Z2d3SG13TFZfMlBjcktvaF9Nel9WYTRpQmZBZUZ6TW5CRFZQaXJ2SWtONVZwQlV1amJXS1kyRU5qeWpDOU9KX2UwYm5SSi10NzBNY3ZIOWpDaUgzWTlobHQ4MHZlR2h5NEVDc042c19xbW53NThUek5JakZEUWM2eFM2ZFZJazk3NHVEQkNzNzZPXzVuTkEwYkt0c9IBhwJBVV95cUxNcWxtMnU2a0U5S1pOVl9lbFZlVXJQMGdrMTV1S1NVcnpCYS1NdTRvMG1JVlNOSUhTYnhIVUVlRTV4dVZ2U3d2eUkwcGZibXZ5UlVFN1NBamtKV2dRTngzcURJN0tPNlFnRnZVZThyaUhZX0g4OEFuQUhZWHZ0YndfdjB4dlRCc1E2MlpHQ01CUXZuSFJ2MXhOVFA3eFltMWZQYjl4anNoeF9QdWJqZ1lfQjlaR2xOVjZDVmIteEFKem1XWk9mY254TGhKUEpVME1xTHNqSzIxUXVnWV9FTDVrRlY1WWRyMlVzSjRacFlxc3BYbDh2cUJqOTlhRkRZbTF5QjN3ZXhuRQ?oc=5",
+   "source": "MARCA",
+   "published": "2026-11-21T12:23:40+00:00",
+   "title": "An Anthropic mathematician claims to have solved one of the greatest mysteries in mathematics with AI: the Riemann hypothesis",
+   "text": "",
+   "title_th": "นักคณิตศาสตร์ Anthropic อ้างใช้ AI ไขปริศนา Riemann Hypothesis",
+   "summary_th": "นักคณิตศาสตร์ของ Anthropic อ้างว่าสามารถใช้ AI ไขหนึ่งในปริศนาที่ยิ่งใหญ่ที่สุดของคณิตศาสตร์อย่าง Riemann Hypothesis ได้สำเร็จ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "ea29ee5e39aa",
@@ -667,12 +1053,15 @@
    "published": "2026-11-21T12:00:00+00:00",
    "title": "How Claude became Anthropic’s $2trn king of the bots",
    "text": "",
-   "title_th": "How Claude became Anthropic’s $2trn king of the bots",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "เจาะลึกเส้นทางของ Claude สู่การเป็นบอทมูลค่า 2 ล้านล้านดอลลาร์ของ Anthropic",
+   "summary_th": "บทความวิเคราะห์ถึงความสำเร็จของ Claude ที่ผลักดันให้ Anthropic กลายเป็นบริษัทที่มีมูลค่าสูงถึง 2 ล้านล้านดอลลาร์ในปัจจุบัน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "1c61ce1b7d03",
@@ -681,12 +1070,17 @@
    "published": "2026-11-21T11:30:00+00:00",
    "title": "Elon Musk Calls Anthropic’s Models ‘Great Products,’ Jassy Says ‘We’re Big Believers’: Mag 7 Voices This Week",
    "text": "",
-   "title_th": "Elon Musk Calls Anthropic’s Models ‘Great Products,’ Jassy Says ‘We’re Big Believers’: Mag 7 Voices This Week",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Elon Musk และผู้บริหาร Amazon ชื่นชมโมเดลของ Anthropic",
+   "summary_th": "Elon Musk และผู้บริหารระดับสูงของ Amazon ได้แสดงความเห็นเชิงบวกต่อโมเดลของ Anthropic โดยระบุว่าเป็นผลิตภัณฑ์ที่ยอดเยี่ยมและน่าเชื่อถือ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Amazon",
+    "Tesla"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "33738aa44b68",
@@ -695,12 +1089,16 @@
    "published": "2026-11-21T11:20:41+00:00",
    "title": "Nvidia’s moat looks shallower as Anthropic shows AI chips are becoming interchangeable",
    "text": "",
-   "title_th": "Nvidia’s moat looks shallower as Anthropic shows AI chips are becoming interchangeable",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "ความได้เปรียบของ Nvidia เริ่มสั่นคลอนเมื่อ Anthropic ชี้ว่าชิป AI เริ่มทดแทนกันได้",
+   "summary_th": "บทวิเคราะห์ระบุว่าความได้เปรียบทางการตลาดของ Nvidia อาจลดลง เนื่องจาก Anthropic แสดงให้เห็นว่าชิปประมวลผล AI เริ่มมีความสามารถในการทดแทนกันได้มากขึ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "NVIDIA",
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "a18b4c817f14",
@@ -709,12 +1107,16 @@
    "published": "2026-11-21T11:19:49+00:00",
    "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
    "text": "",
-   "title_th": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Stanford เผยแพร่ร่างงานวิจัยโต้แย้งข้อพิสูจน์ Riemann Hypothesis ของ Claude",
+   "summary_th": "หลังจาก Anthropic อ้างว่า Claude พิสูจน์สมมติฐาน Riemann ได้ไม่นาน นักวิจัยจาก Stanford ได้เผยแพร่ร่างงานวิจัยที่ทำโดยมนุษย์เพื่อโต้แย้งข้อพิสูจน์ดังกล่าว",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic",
+    "Stanford University"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "a5ca4fa090d8",
@@ -723,12 +1125,15 @@
    "published": "2026-11-21T11:00:00+00:00",
    "title": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse",
    "text": "",
-   "title_th": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "วิศวกร Anthropic เตือนภัยความเสี่ยงจาก Claude Code ที่อาจทำให้ระบบไอทีล่มรุนแรงขึ้น",
+   "summary_th": "วิศวกรของ Anthropic ออกมาเตือนถึงความเสี่ยงที่อาจเกิดขึ้นจากการใช้งาน Claude Code ซึ่งอาจส่งผลกระทบต่อเสถียรภาพของระบบไอทีในวงกว้าง การเตือนครั้งนี้เน้นย้ำถึงความสำคัญของการจัดการความปลอดภัยในเครื่องมือ AI ที่มีศักยภาพสูง",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "5dd6a4db14f8",
@@ -737,12 +1142,15 @@
    "published": "2026-11-21T10:35:03+00:00",
    "title": "Anthropic researcher says he used AI to solve math's greatest riddle",
    "text": "",
-   "title_th": "Anthropic researcher says he used AI to solve math's greatest riddle",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "นักวิจัย Anthropic อ้างใช้ AI ช่วยแก้โจทย์คณิตศาสตร์ระดับโลกที่ค้างคามานาน",
+   "summary_th": "นักวิจัยจาก Anthropic ระบุว่าได้ใช้ความสามารถของ AI ในการช่วยแก้ปัญหาทางคณิตศาสตร์ที่มีอายุกว่า 167 ปี ซึ่งถือเป็นก้าวสำคัญในการนำ AI มาประยุกต์ใช้กับงานวิจัยทางวิทยาศาสตร์ขั้นสูง",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "500558bbe153",
@@ -751,12 +1159,16 @@
    "published": "2026-11-21T10:33:00+00:00",
    "title": "Oracle ยืนยันมีเงินทุนครบถ้วนสำหรับการสร้างศูนย์ข้อมูล AI ตามสัญญากับ OpenAI",
    "text": "Body Oracle ออกแถลงการณ์เกี่ยวกับการจัดหาเงินทุนสำหรับการสร้างและให้บริการศูนย์ข้อมูล AI ขนาดใหญ่ โดยบอกว่าบริษัทได้รับเงินทุนครบถ้วนสำหรับการดำเนินการตามสัญญาที่มีกับ OpenAI แล้ว จากการระดมทุนรอบล่าสุดเมื่อต้นเดือน ทำให้บริษัทเป็นผู้ให้บริการระดับ Hyperscaler รายแรกที่มีแหล่งเงินทุนรองรับเต็มรูปแบบ Oracle บอกว่ารายงานข่าวใดที่ระบุในทิศทางตรงกันข้ามนั้นถือว่าคลาดเคลื่อนไปจากความจริง แถลงการณ์นี้ออกมาหลังมีข่าวว่า Oracle อาจประสบปัญหาเงินทุนในการสร้างศูนย์ข้อมูล AI ซึ่งมีลูกค้ารายใหญ่คือ OpenAI ผ่าน โครงการ Stargate เพ",
-   "title_th": "Oracle ยืนยันมีเงินทุนครบถ้วนสำหรับการสร้างศูนย์ข้อมูล AI ตามสัญญากับ OpenAI",
-   "summary_th": "Body Oracle ออกแถลงการณ์เกี่ยวกับการจัดหาเงินทุนสำหรับการสร้างและให้บริการศูนย์ข้อมูล AI ขนาดใหญ่ โดยบอกว่าบริษัทได้รับเงินทุนครบถ้วนสำหรับการดำเนินการตามสัญญาที่มีกับ OpenAI แล้ว จากการระดมทุนรอบล่าสุดเมื่อต้นเดือน ทำให้บริษัทเป็นผู้ให้บริ",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Oracle ยืนยันมีเงินทุนเพียงพอสำหรับสร้างศูนย์ข้อมูล AI ตามสัญญา OpenAI",
+   "summary_th": "Oracle ออกแถลงการณ์ยืนยันว่าบริษัทมีเงินทุนครบถ้วนสำหรับการดำเนินโครงการศูนย์ข้อมูล AI ตามสัญญาที่ทำไว้กับ OpenAI เพื่อสยบข่าวลือเรื่องปัญหาทางการเงิน โดยย้ำว่าเป็นผู้ให้บริการระดับ Hyperscaler รายแรกที่มีแหล่งเงินทุนรองรับเต็มรูปแบบ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Oracle",
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "c5d37adcee94",
@@ -765,12 +1177,15 @@
    "published": "2026-11-21T10:18:01+00:00",
    "title": "Anthropic worker claims to have solved famed 167-year-old maths problem with help of AI",
    "text": "",
-   "title_th": "Anthropic worker claims to have solved famed 167-year-old maths problem with help of AI",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "พนักงาน Anthropic อ้างใช้ AI ช่วยแก้โจทย์คณิตศาสตร์อายุ 167 ปีได้สำเร็จ",
+   "summary_th": "พนักงานของ Anthropic รายงานความสำเร็จในการใช้ AI ช่วยแก้ปัญหาทางคณิตศาสตร์ที่ไม่มีใครแก้ได้มานานกว่าศตวรรษ สะท้อนถึงศักยภาพของโมเดลภาษาในการช่วยงานวิจัยเชิงวิชาการ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "aae3ffc803e5",
@@ -779,12 +1194,15 @@
    "published": "2026-11-21T10:15:01+00:00",
    "title": "eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags",
    "text": "",
-   "title_th": "eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "สินค้าแฟชั่นเกาะกระแส IPO ของ Anthropic วางขายบน eBay",
+   "summary_th": "มีการนำสินค้าอย่างเสื้อฮู้ดและกระเป๋าผ้ามาวางจำหน่ายบน eBay ในราคาสูงเพื่อเกาะกระแสความตื่นตัวก่อนการเสนอขายหุ้น IPO ของ Anthropic สะท้อนถึงความสนใจของสาธารณชนต่อบริษัท AI รายนี้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "217296edb4b1",
@@ -793,12 +1211,15 @@
    "published": "2026-11-21T10:10:34+00:00",
    "title": "Anthropic mathematician claims AI-assisted breakthrough on 167-year-old math problem",
    "text": "",
-   "title_th": "Anthropic mathematician claims AI-assisted breakthrough on 167-year-old math problem",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "นักคณิตศาสตร์จาก Anthropic อ้างความสำเร็จในการใช้ AI แก้โจทย์คณิตศาสตร์โบราณ",
+   "summary_th": "นักคณิตศาสตร์ของ Anthropic เผยความคืบหน้าในการใช้ AI ช่วยแก้ปัญหาทางคณิตศาสตร์ที่มีอายุกว่า 167 ปี ซึ่งถือเป็นความก้าวหน้าครั้งสำคัญในการใช้เครื่องมือ AI ช่วยงานวิจัยเชิงลึก",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "7ffc27ea980a",
@@ -807,12 +1228,15 @@
    "published": "2026-11-21T10:05:19+00:00",
    "title": "Anthropic mathematician claims Riemann hypothesis proof with Claude as rival draft emerges",
    "text": "",
-   "title_th": "Anthropic mathematician claims Riemann hypothesis proof with Claude as rival draft emerges",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "นักคณิตศาสตร์ Anthropic อ้างพิสูจน์ Riemann hypothesis ด้วย Claude",
+   "summary_th": "มีการกล่าวอ้างว่านักคณิตศาสตร์ของ Anthropic สามารถพิสูจน์สมมติฐาน Riemann ได้โดยใช้ Claude ช่วยงาน ท่ามกลางกระแสการตรวจสอบจากนักวิจัยคนอื่นๆ ในวงการ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "b9b1d81eea0c",
@@ -821,68 +1245,16 @@
    "published": "2026-11-21T09:38:00+00:00",
    "title": "\"We decided to publish on the day of Anthropic's IPO\": SendPulse hosted its own MCP server on the official Claude marketplace",
    "text": "",
-   "title_th": "\"We decided to publish on the day of Anthropic's IPO\": SendPulse hosted its own MCP server on the official Claude marketplace",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "0dbcd51bd97b",
-   "url": "https://www.blognone.com/node/152230",
-   "source": "Blognone",
-   "published": "2026-11-21T09:26:00+00:00",
-   "title": "[ไม่ยืนยัน] CrowdStrike กำลังเจรจาซื้อกิจการบริษัทความปลอดภัยไซเบอร์คู่แข่ง Zscaler",
-   "text": "Body Bloomberg อ้างแหล่งข่าวที่เกี่ยวข้องรายงานว่า CrowdStrike บริษัทด้านความปลอดภัยไซเบอร์ กำลังเจรจาเพื่อซื้อกิจการ Zscaler บริษัทด้านความปลอดภัยไซเบอร์คู่แข่ง ทั้งนี้มูลค่ากิจการตามราคาหุ้นของ Zscaler อยู่ที่ประมาณ 3.2 หมื่นล้านดอลลาร์ ซึ่งปรับเพิ่มขึ้นสูงหลังจากมีรายงานข่าวออกมา Zscaler มีผลิตภัณฑ์ด้านความปลอดภัยไซเบอร์ที่เด่นคือระบบจัดการความปลอดภัยเครือข่ายบนคลาวด์สำหรับลูกค้าองค์กร หากดีลนี้เกิดขึ้นจึงจะเป็นการเสริมจุดแข็งให้กับ CrowdStrike ในผลิตภัณฑ์ความปลอดภัยสำหรับลูกค้าองค์กร ทั้ง CrowdStrike และ Zs",
-   "title_th": "[ไม่ยืนยัน] CrowdStrike กำลังเจรจาซื้อกิจการบริษัทความปลอดภัยไซเบอร์คู่แข่ง Zscaler",
-   "summary_th": "Body Bloomberg อ้างแหล่งข่าวที่เกี่ยวข้องรายงานว่า CrowdStrike บริษัทด้านความปลอดภัยไซเบอร์ กำลังเจรจาเพื่อซื้อกิจการ Zscaler บริษัทด้านความปลอดภัยไซเบอร์คู่แข่ง ทั้งนี้มูลค่ากิจการตามราคาหุ้นของ Zscaler อยู่ที่ประมาณ 3.2 หมื่นล้านดอลลาร์ ซ",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "ee85778e5b21",
-   "url": "https://www.blognone.com/node/152232",
-   "source": "Blognone",
-   "published": "2026-11-21T09:14:36+00:00",
-   "title": "Uber ทดสอบบริการใหม่ Uber Kids สำหรับเด็กอายุ 10-12 ปี ใช้งาน พ่อแม่ต้องอยู่ส่ง",
-   "text": "Body แอปเรียกรถแท็กซี่ Uber ทดสอบบริการใหม่ \"Uber Kids\" เพื่อให้บริการรถสำหรับเด็กอายุ 10-12 ปี โดยเริ่มทดสอบใน 3 เมืองของสหรัฐอเมริกาได้แก่ ออสติน, แนชวิลล์ และแมดิสัน บริการ Uber Kids เป็นการพัฒนาขยายจากบริการ Uber สำหรับเยาวชนอายุ 13-17 ปี ที่มีอยู่แล้ว โดยจับกลุ่มเป้าหมายพ่อแม่ที่ไม่สะดวกไปรับส่งลูกเอง รูปแบบการให้บริการมีการควบคุมหลายขั้นตอน ตั้งแต่พ่อแม่หรือผู้ปกครองเท่าที่สามารถกดเรียกรถโดยสารให้เด็กได้ ซึ่งต้องระบุโปรไฟล์และความเกี่ยวข้อง รวมถึงปฏิบัติตามขั้นตอนความปลอดภัยทั้งหมด ในการเดินทางพ่อแม่ต้องอยู่ร",
-   "title_th": "Uber ทดสอบบริการใหม่ Uber Kids สำหรับเด็กอายุ 10-12 ปี ใช้งาน พ่อแม่ต้องอยู่ส่ง",
-   "summary_th": "Body แอปเรียกรถแท็กซี่ Uber ทดสอบบริการใหม่ \"Uber Kids\" เพื่อให้บริการรถสำหรับเด็กอายุ 10-12 ปี โดยเริ่มทดสอบใน 3 เมืองของสหรัฐอเมริกาได้แก่ ออสติน, แนชวิลล์ และแมดิสัน บริการ Uber Kids เป็นการพัฒนาขยายจากบริการ Uber สำหรับเยาวชนอายุ 13-17 ",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "62308edade7b",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNejhKYmlFUnQxbVZNOHpkX2Y0M2FWRzd3Z3JkYTFOTms0aGg0enI4bnpKVEh4ZHhZaGZIa0ozZ1dZR2hRSGxnQ0I2VC1aZEhfZTRPQldCUkNlSTlVLUw0ZDNjTDBaX3RtR0Z4MmdCVTBuY3FKckloczBjeElsYWxnOE1jUQ?oc=5",
-   "source": "Wisevoter",
-   "published": "2026-11-21T09:13:04+00:00",
-   "title": "Google Launches Gemini 4 Neon AI Model",
-   "text": "",
-   "title_th": "Google Launches Gemini 4 Neon AI Model",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "d7ec23d36946",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlJOUnN0cy14TGRXdm0yUmZ4ZVJtallnU3lOSGt6ZlppMEdIbkdMWlFPekJURDdKWkZEQVE3Y2IzSXZIbkJtazVvYUI5dVJhQzZ0bWZYZko2eWpPWVRieUhVSy1HVnJSaTZfM3pjcXBfQkFQeDhxaWdUZUJCU2t6b3RtNzZtN000dFEteUFyUy1ESl9MeVhHVEVTX0ZZdmhJLXY3ZFI5bHdfTUIyUDRZcXRRZFRfUjZPR2dnTFhJTjE5WFZTOVR6NVUzUmZiSGfSAdYBQVVfeXFMTjk5eUxOb2VnekplZlNKOFBfUTdVODR4cEFkMjF5VlhkM2FpX1FSMnY4emZLY0thSkJidzU4RmNQRnYtWXFPa0lfRXpOVlBsRjBSVzNKRGxJdXBDZXdOcU9WSzNadFBuNnUzS3NWMkNNN1p4SVE5RjE2MzdhMHVaWUhUeEJIbEFVU0FRcGVQZjB1T0ROd0RVVE1IX0pTMXBBaXVvdEVJVGdfUHQweDVwOHRPZnc0QlJMNVhmTm96aGRjN19ya0luMV9xQ2RXejk4a0pXYW4tZw?oc=5",
-   "source": "The Hindu",
-   "published": "2026-11-21T08:33:51+00:00",
-   "title": "Google launches Gemini 4 Neon taking on Claude Opus 5.5 and GPT-6.2 Sol",
-   "text": "",
-   "title_th": "Google launches Gemini 4 Neon taking on Claude Opus 5.5 and GPT-6.2 Sol",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "SendPulse เปิดตัว MCP server บน Claude marketplace รับกระแส IPO ของ Anthropic",
+   "summary_th": "SendPulse ได้เปิดตัวเซิร์ฟเวอร์ MCP บน Claude marketplace โดยเลือกช่วงเวลาเดียวกับการทำ IPO ของ Anthropic เพื่อแสดงความพร้อมในการเชื่อมต่อระบบเข้ากับแพลตฟอร์ม AI",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic",
+    "SendPulse"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "2c24469dc9e3",
@@ -891,12 +1263,15 @@
    "published": "2026-11-21T08:15:07+00:00",
    "title": "Anthropic: Claude may have solved a 167-year-old enigma",
    "text": "",
-   "title_th": "Anthropic: Claude may have solved a 167-year-old enigma",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Claude ของ Anthropic อาจไขปริศนาคณิตศาสตร์อายุ 167 ปีได้สำเร็จ",
+   "summary_th": "มีการรายงานว่า Claude โมเดล AI ของ Anthropic มีบทบาทสำคัญในการช่วยแก้ปัญหาทางคณิตศาสตร์ที่ซับซ้อนและค้างคามานานกว่าศตวรรษ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "05dd5dfed31c",
@@ -905,12 +1280,13 @@
    "published": "2026-11-21T07:59:09+00:00",
    "title": "'ทรัมป์' ขู่แบนบ.สหรัฐ สร้างศูนย์ข้อมูล AI ในต่างแดน ลั่นต้องเก็บการลงทุนในประเทศ",
    "text": "",
-   "title_th": "'ทรัมป์' ขู่แบนบ.สหรัฐ สร้างศูนย์ข้อมูล AI ในต่างแดน ลั่นต้องเก็บการลงทุนในประเทศ",
-   "summary_th": "",
-   "category": "อื่นๆ",
+   "title_th": "ทรัมป์ขู่แบนบริษัทสหรัฐฯ สร้างศูนย์ข้อมูล AI ในต่างประเทศ",
+   "summary_th": "โดนัลด์ ทรัมป์ ประกาศนโยบายขู่แบนบริษัทสหรัฐฯ ที่ไปสร้างศูนย์ข้อมูล AI ในต่างประเทศ โดยต้องการให้มีการลงทุนและสร้างโครงสร้างพื้นฐานภายในประเทศเท่านั้น",
+   "category": "นโยบาย/กฎหมาย",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "ddc8b526a34c",
@@ -919,12 +1295,15 @@
    "published": "2026-11-21T06:22:29+00:00",
    "title": "Anthropic employee claims to have solved long-standing maths problem with AI",
    "text": "",
-   "title_th": "Anthropic employee claims to have solved long-standing maths problem with AI",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "พนักงาน Anthropic อ้างใช้ AI แก้โจทย์คณิตศาสตร์ที่ค้างคามานานได้",
+   "summary_th": "พนักงานของ Anthropic ออกมาให้ข้อมูลว่าได้ใช้ AI ในการแก้ไขปัญหาทางคณิตศาสตร์ที่ยากลำบากและยาวนาน ซึ่งถือเป็นความก้าวหน้าครั้งสำคัญของเทคโนโลยี AI ในงานวิจัย",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "1fc3533f8ebb",
@@ -933,40 +1312,30 @@
    "published": "2026-11-21T06:12:29+00:00",
    "title": "Anthropic Mathematician Releases 175,000-File Lean Archive Claiming Riemann Hypothesis Proof",
    "text": "",
-   "title_th": "Anthropic Mathematician Releases 175,000-File Lean Archive Claiming Riemann Hypothesis Proof",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "นักคณิตศาสตร์จาก Anthropic เผยแพร่เอกสาร Lean กว่า 1.7 แสนไฟล์ อ้างพิสูจน์ Riemann Hypothesis",
+   "summary_th": "นักคณิตศาสตร์ของ Anthropic ได้เผยแพร่คลังข้อมูลขนาดใหญ่ในรูปแบบ Lean ซึ่งอ้างว่าเป็นการพิสูจน์สมมติฐาน Riemann Hypothesis ที่เป็นปัญหาคณิตศาสตร์ระดับโลก การใช้เครื่องมือพิสูจน์เชิงตรรกะในระดับนี้ถือเป็นก้าวสำคัญของการนำ AI มาช่วยงานวิจัยทางคณิตศาสตร์ขั้นสูง",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
-   "id": "21bd6fa42a95",
-   "url": "https://www.blognone.com/node/152229",
-   "source": "Blognone",
-   "published": "2026-11-21T05:56:02+00:00",
-   "title": "KDDI กลับมาขายมือถือปุ่มกด Infobar Zero ชูจุดเด่นคือต่อเน็ตไม่ได้",
-   "text": "Body KDDI โอเปอเรเตอร์รายใหญ่ของญี่ปุ่น ประกาศนำโทรศัพท์แบบฟีเจอร์โฟนรุ่น Infobar ที่เคยฮิตในยุค 2000s กลับมาวางขายใหม่อีกครั้ง โดยชูจุดขายว่า \"ต่อเน็ตไม่ได้\" อย่างจงใจ สมาร์ทโฟนรุ่นนี้ชื่อ Infobar Zero เป็นมือถือปุ่มกดที่เอาไว้โทรศัพท์และส่งข้อความ SMS เป็นหลัก มีกล้องขนาด 2MP ที่ถ่ายแล้วเก็บไว้ในเครื่องอย่างเดียว กดแชร์โซเชียลไม่ได้ ฟีเจอร์อื่นของ Infobar Zero เป็นไปตามมือถือสมัยใหม่ เช่น USB-C, Wi-Fi, Bluetooth 4.2 เหตุผลที่ KDDI เลือกออกมือถือรุ่นนี้ เป็นเพราะว่า KDDI เพิ่งออกบริการ \"หมายเลขที่สอง\" สำหรับลูกค้าที่ต้องการความ",
-   "title_th": "KDDI กลับมาขายมือถือปุ่มกด Infobar Zero ชูจุดเด่นคือต่อเน็ตไม่ได้",
-   "summary_th": "Body KDDI โอเปอเรเตอร์รายใหญ่ของญี่ปุ่น ประกาศนำโทรศัพท์แบบฟีเจอร์โฟนรุ่น Infobar ที่เคยฮิตในยุค 2000s กลับมาวางขายใหม่อีกครั้ง โดยชูจุดขายว่า \"ต่อเน็ตไม่ได้\" อย่างจงใจ สมาร์ทโฟนรุ่นนี้ชื่อ Infobar Zero เป็นมือถือปุ่มกดที่เอาไว้โทรศัพท์และส",
-   "category": "อื่นๆ",
+   "id": "c82934c02ed9",
+   "url": "http://ricapar.net/ClawDOS/",
+   "source": "Hacker News",
+   "published": "2026-11-21T05:38:01+00:00",
+   "title": "ClawDOS – An AI coding agent for DOS",
+   "text": "143 points, 44 comments on Hacker News (https://news.ycombinator.com/item?id=50586292)",
+   "title_th": "เปิดตัว ClawDOS เอเจนท์ AI สำหรับการเขียนโค้ดบนระบบปฏิบัติการ DOS",
+   "summary_th": "ClawDOS เป็นเครื่องมือ AI Coding Agent ที่ถูกพัฒนาขึ้นเพื่อใช้งานบนระบบปฏิบัติการ DOS โดยเฉพาะ แสดงให้เห็นถึงความพยายามในการนำความสามารถของ AI ไปประยุกต์ใช้กับแพลตฟอร์มคอมพิวเตอร์ยุคเก่า",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
-   "id": "9835f6461741",
-   "url": "https://www.blognone.com/node/152228",
-   "source": "Blognone",
-   "published": "2026-11-21T04:27:33+00:00",
-   "title": "GTA 6 ทำเงินเฉพาะวันแรก 3.79 พันล้านดอลลาร์ - เป็นสถิติสูงสุดของอุตสาหกรรมบันเทิง",
-   "text": "Body Rockstar Games ประกาศยอดขาย วันแรก ของเกม Grand Theft Auto VI หรือ GTA 6 ทำเงินไปรวม 3.79 พันล้านดอลลาร์ ซึ่ง Rockstar บอกว่าเป็นสถิติสูงสุดของอุตสาหกรรมบันเทิงในทุกรูปแบบสื่อ ถือเป็นการเปิดตัวที่ยิ่งใหญ่ที่สุดในประวัติศาสตร์ Rockstar ยังพูดถึงการตอบรับของ GTA 6 ที่สูงด้วย คะแนนรีวิวเฉลี่ย 99 เต็ม 100 และมียอดขายเกมล่วงหน้าก่อนวันจำหน่ายถึง 32.5 ล้านชุด เป็นสถิติใหม่สูงสุดในทุกแพลตฟอร์มเช่นกัน ทั้งนี้ Rockstar ไม่ได้ให้ข้อมูลว่าในวันแรกเกมขายได้รวมจริง ๆ ทั้งหมดกี่ชุด ภาพยนตร์ Spider-Man: Brand New Day ซึ่งเ",
-   "title_th": "GTA 6 ทำเงินเฉพาะวันแรก 3.79 พันล้านดอลลาร์ - เป็นสถิติสูงสุดของอุตสาหกรรมบันเทิง",
-   "summary_th": "Body Rockstar Games ประกาศยอดขาย วันแรก ของเกม Grand Theft Auto VI หรือ GTA 6 ทำเงินไปรวม 3.79 พันล้านดอลลาร์ ซึ่ง Rockstar บอกว่าเป็นสถิติสูงสุดของอุตสาหกรรมบันเทิงในทุกรูปแบบสื่อ ถือเป็นการเปิดตัวที่ยิ่งใหญ่ที่สุดในประวัติศาสตร์ Rockstar ",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "22f0b59f6c06",
@@ -981,6 +1350,21 @@
    "companies": [
     "Anthropic"
    ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8ab3fbeef82f",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON2ZWOWhlMmpnQTRlOGhfdS1HVGVzdVM5ZFktaTJVcTNGdGtWZ1hHcVQyY0llT0RDWU04bVN0VWZQUlBJVF9GZll2bU01Y0hWMDVIcWpUWXFSVEZDNkxuRVQtWS1rSUFuRm5feWdwcEN6ZTRrRkhXU3NQQlF0TVdfLUdKY3VBcGdJZmpRcHpoMHhWSjNpcVdXVnFsaDk?oc=5",
+   "source": "Startup Fortune",
+   "published": "2026-11-21T00:56:10+00:00",
+   "title": "Build an LLM model deprecation migration plan before the cutoff week",
+   "text": "",
+   "title_th": "คำแนะนำการวางแผนย้ายโมเดล LLM ก่อนถึงกำหนดการเลิกใช้งาน",
+   "summary_th": "บทความแนะนำแนวทางปฏิบัติสำหรับการเตรียมตัวย้ายระบบเมื่อโมเดล LLM ที่ใช้งานอยู่กำลังจะถูกยกเลิกการสนับสนุน เพื่อลดผลกระทบต่อการทำงานของแอปพลิเคชัน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [],
    "importance": 3,
    "ai": true,
    "dedup": true
@@ -1026,12 +1410,13 @@
    "published": "2026-11-21T00:00:00+00:00",
    "title": "Hungry Butler Effect: LLMs and Commercial Incentives",
    "text": "",
-   "title_th": "Hungry Butler Effect: LLMs and Commercial Incentives",
-   "summary_th": "",
-   "category": "อื่นๆ",
+   "title_th": "Hungry Butler Effect: ผลกระทบของ LLM ต่อแรงจูงใจเชิงพาณิชย์",
+   "summary_th": "บทความวิเคราะห์ปรากฏการณ์ Hungry Butler Effect ซึ่งอธิบายถึงความสัมพันธ์ระหว่างการใช้งาน LLM และแรงจูงใจทางธุรกิจที่ส่งผลต่อการพัฒนาและปรับแต่งโมเดล",
+   "category": "งานวิจัย",
    "companies": [],
-   "importance": 0,
-   "ai": false
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "998c00834b43",
@@ -1047,20 +1432,6 @@
    "importance": 3,
    "ai": true,
    "dedup": true
-  },
-  {
-   "id": "35f854dd7615",
-   "url": "https://news.ycombinator.com/item?id=50583761",
-   "source": "Hacker News",
-   "published": "2026-11-20T23:18:32+00:00",
-   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-   "text": "265 points, 233 comments on Hacker News (https://news.ycombinator.com/item?id=50583761)",
-   "title_th": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-   "summary_th": "265 points, 233 comments on Hacker News (https://news.ycombinator.com/item?id=50583761)",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
   },
   {
    "id": "bc28b368db41",
@@ -1188,12 +1559,15 @@
    "published": "2026-11-20T21:33:10+00:00",
    "title": "WiCi Launches Free App for Running Large AI Locally",
    "text": "",
-   "title_th": "WiCi Launches Free App for Running Large AI Locally",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "WiCi เปิดตัวแอปฟรีสำหรับรันโมเดล AI ขนาดใหญ่บนเครื่องส่วนตัว",
+   "summary_th": "WiCi ปล่อยแอปพลิเคชันใหม่ที่ช่วยให้ผู้ใช้สามารถรันโมเดล AI ขนาดใหญ่ได้โดยตรงบนเครื่องคอมพิวเตอร์ของตนเอง เพื่อเพิ่มความเป็นส่วนตัวและความสะดวกในการใช้งาน",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "WiCi"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "8487c2f3d84d",
@@ -1225,6 +1599,23 @@
    "category": "งานวิจัย",
    "companies": [],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2f8cc2022f9a",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXlTTTc2M0d5MDdRLU9LbWNqVzJMSkh1eUFJOU5pWDNMaGtfUXRBaUJoVFlXQnNRX3hxZDM2MWZ5cWY3SWhZNVdTdjFqYzJmM1VQcEVyRXZWTmlDLUlkcURFMUYzZEU3dGRlbXRXNDlYT3VtbVozMEVHSmZGZUQ4Tzdfd2pzR1I1NE5WNjNvUENxMG9IZHZoOW5ReUVHSnRH0gGmAUFVX3lxTFB3Qi1fMEJHdldCTENwcWYxaF92b3JpamMzSlMzT25TU0ZwUk1raFJ5Z1RrYnVldkZjM3dsbGQ3S1NlTW1mSk5xV21MU3ViS0Z1RlB1blhEU1B4TE43RnJoYXhoZDU0cW1kRThncy1nenRrZmVWQ0N3VmtGM0JQQTlzXzJNaTFocDVPc3FlU09hclJNUU5RZkctRzl4b2FIeTJuMmY2OUE?oc=5",
+   "source": "TechGig",
+   "published": "2026-11-20T21:09:09+00:00",
+   "title": "OpenAI Launches GPT-6 Astra, Claims 'AGI Era' With New Architecture",
+   "text": "",
+   "title_th": "OpenAI เปิดตัว GPT-6 Astra อ้างเข้าสู่ยุค AGI ด้วยสถาปัตยกรรมใหม่",
+   "summary_th": "OpenAI ประกาศเปิดตัวโมเดล GPT-6 Astra โดยระบุว่าใช้สถาปัตยกรรมใหม่ที่ก้าวข้ามขีดจำกัดเดิมและถือเป็นการก้าวเข้าสู่ยุคของปัญญาประดิษฐ์ทั่วไป (AGI)",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 5,
    "ai": true,
    "dedup": true
   },
@@ -1447,6 +1838,21 @@
    "dedup": true
   },
   {
+   "id": "9d9e2c9f2c65",
+   "url": "https://a90.com/experiments/same-advice/",
+   "source": "Hacker News",
+   "published": "2026-11-20T16:58:05+00:00",
+   "title": "AI is giving everyone the same advice",
+   "text": "112 points, 45 comments on Hacker News (https://news.ycombinator.com/item?id=50577872)",
+   "title_th": "AI กำลังให้คำแนะนำที่เหมือนกันกับทุกคน",
+   "summary_th": "บทสนทนาบน Hacker News เกี่ยวกับปัญหาที่ AI มักจะให้คำตอบหรือคำแนะนำในรูปแบบเดียวกันจนขาดความหลากหลายและบริบทเฉพาะตัว",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "b8e1839046bc",
    "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
    "source": "Simon Willison",
@@ -1592,6 +1998,23 @@
    "dedup": true
   },
   {
+   "id": "8c8b54d7d608",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91Ul8tSWNfXzJGR1JKVkwxdDdTNnlRbDV2WHBvc1ItaEdIYzJCN3lhMUVIWFlRYS1KNUtOSGRLWngtaVJwS0lvVDJzN1NCMkdwZnc?oc=5",
+   "source": "mobidevices.com",
+   "published": "2026-11-20T13:49:39+00:00",
+   "title": "Anthropic’s record-breaking IPO values the company at $1,3 trillion",
+   "text": "",
+   "title_th": "Anthropic เข้าตลาดหุ้นด้วยมูลค่าบริษัทสูงถึง 1.3 ล้านล้านดอลลาร์",
+   "summary_th": "Anthropic ทำสถิติใหม่ในการเข้าจดทะเบียนในตลาดหลักทรัพย์ด้วยมูลค่าบริษัทที่สูงถึง 1.3 ล้านล้านดอลลาร์ สะท้อนถึงความเชื่อมั่นในอุตสาหกรรม AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "660fc3f715ae",
    "url": "https://www.blognone.com/node/152218",
    "source": "Blognone",
@@ -1643,20 +2066,6 @@
    "dedup": true
   },
   {
-   "id": "4ac4c0e0e449",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYNkprRFktM3BMMEEzVDdEcnhnNEI4V1ZSa296Rm9ka1VMemV0SDdfVkRIU19md25wQW5RRFlsZXlLTUlfaHdDZmdrMkJKeVd3N1FCVDR3?oc=5",
-   "source": "mobidevices.com",
-   "published": "2026-11-20T12:54:30+00:00",
-   "title": "GTA 6’s release “moved” 2.6 million gamers to New Zealand",
-   "text": "",
-   "title_th": "GTA 6’s release “moved” 2.6 million gamers to New Zealand",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
    "id": "be21c29ceac7",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZUcxMjV2TmxnTnMwSnh1dHhZYzEycExNUnMzTDFLa0RvQTlHTmtkdHNUSnpxM3JxZWR3QXYzbnBDampWRll1b3pSTF91RHVCQ05EX0NlcVIyaXE4VDlGcTBtRF9OWlczRTZObXJoMHppMzRnMmFfczlRRURSWWs1dHNfUGNHbmd5Uk5mZGFaMFRHSjdMcTN5Z2RHYjJUQmZzcWhvLXZ3SUJpLWZvcWZVZllnM1phNklRZ0Z4SVR3cENqTXBhbFItalFmY3pUSlZJWE1NQTlYdEpnd3YyUzNNdzFONUkyYVZfVTZlOHpZZUVJUEtUdFNxVE9vd9IBgAJBVV95cUxPOXBDQXhYVXR4Q29SZzB2QXkxNFpIZ1hoVnVkcFB4cUVzakR0Z2R3WEthTXR1dU5BSEhwZmRKVzFhNVlHQTBGTGQ2U1hvMk55NFl2RG9fa1JDeFh2MnJEY0ZMYVF4eEphTzJBNV9RTkZ3SUx5aGU2UXZNYWdRTnlvYXptWlJpZ1U0UUU2R2xHNlYyMm9FZk1MUWc3QlNXbHVRSFh6Z19CTUM1Y2liaU5TX1QzcDBqNjNKeTRQcTkxajViV20yMzVFYWlNSmNsbnd3c0Fjbzk3Y2FybmI2bEN4bzZ5R0swWkMwWVI3c3hyZjJtNWVLaFE2T3FmcHhaVkVP?oc=5",
    "source": "ET CIO",
@@ -1667,7 +2076,9 @@
    "summary_th": "Google ประกาศเปิดตัว Gemini 4 Neon โมเดล AI รุ่นใหม่ที่ออกแบบมาเพื่อเน้นความสมดุลระหว่างความเร็ว ประสิทธิภาพการทำงาน และราคาที่เข้าถึงได้",
    "category": "โมเดลใหม่",
    "companies": [
-    "Google"
+    "Google",
+    "Anthropic",
+    "OpenAI"
    ],
    "importance": 5,
    "ai": true,
@@ -1676,6 +2087,18 @@
     {
      "source": "TechGig",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSENFUVNwWG5DdzlYVTZWb19PRjdqZWVWUUgtc1lBdjcxLVZNQ0NrYm9Cdnp4emZ6ejVSeTAwc2ZXcnZvUTdRRkhfSzNiVEtBNFI0YU9qMDRTU0N3QVBIN3oyZUV4VHIxYW9LUW5UeGZRX2JwZy1CQ3dzV3p5S1FLYkxlaUJVU1h2dXcwWXNTQW13bGNZYlE?oc=5"
+    },
+    {
+     "source": "The Hindu",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlJOUnN0cy14TGRXdm0yUmZ4ZVJtallnU3lOSGt6ZlppMEdIbkdMWlFPekJURDdKWkZEQVE3Y2IzSXZIbkJtazVvYUI5dVJhQzZ0bWZYZko2eWpPWVRieUhVSy1HVnJSaTZfM3pjcXBfQkFQeDhxaWdUZUJCU2t6b3RtNzZtN000dFEteUFyUy1ESl9MeVhHVEVTX0ZZdmhJLXY3ZFI5bHdfTUIyUDRZcXRRZFRfUjZPR2dnTFhJTjE5WFZTOVR6NVUzUmZiSGfSAdYBQVVfeXFMTjk5eUxOb2VnekplZlNKOFBfUTdVODR4cEFkMjF5VlhkM2FpX1FSMnY4emZLY0thSkJidzU4RmNQRnYtWXFPa0lfRXpOVlBsRjBSVzNKRGxJdXBDZXdOcU9WSzNadFBuNnUzS3NWMkNNN1p4SVE5RjE2MzdhMHVaWUhUeEJIbEFVU0FRcGVQZjB1T0ROd0RVVE1IX0pTMXBBaXVvdEVJVGdfUHQweDVwOHRPZnc0QlJMNVhmTm96aGRjN19ya0luMV9xQ2RXejk4a0pXYW4tZw?oc=5"
+    },
+    {
+     "source": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNejhKYmlFUnQxbVZNOHpkX2Y0M2FWRzd3Z3JkYTFOTms0aGg0enI4bnpKVEh4ZHhZaGZIa0ozZ1dZR2hRSGxnQ0I2VC1aZEhfZTRPQldCUkNlSTlVLUw0ZDNjTDBaX3RtR0Z4MmdCVTBuY3FKckloczBjeElsYWxnOE1jUQ?oc=5"
+    },
+    {
+     "source": "hi-Tech.ua",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEJXZmNMTTNHemVRYmJOYnE4MGVLeGRLVWU1Ry1YWmZ6NndOWkpPcVZwWDFTUkp0ZENyVW5NSFFZRVhSdkI4eXZ3V2VSb092Z25qYkhYLWNmWUMzTEl1bWhUeWE0V3VCZ3NUVF9iVFZkS0VfYVRSaE5PRmtnc0FzeA?oc=5"
     }
    ]
   },
@@ -1963,6 +2386,23 @@
    "dedup": true
   },
   {
+   "id": "ef53be536a7f",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBUTG42Y3d2elREQ2N5OVhlOWFoRHZPbnRiOUh6TDY2UXFpbUJFWlhiMUZFbjBOaDd3T09TWFZTRQ?oc=5",
+   "source": "jawlah.co",
+   "published": "2026-11-20T08:00:00+00:00",
+   "title": "OpenAI bolsters defenses against theft of AI model capabilities",
+   "text": "",
+   "title_th": "OpenAI ยกระดับมาตรการป้องกันการขโมยความสามารถของโมเดล AI",
+   "summary_th": "OpenAI กำลังเพิ่มความเข้มงวดในการป้องกันความปลอดภัยเพื่อรับมือกับการโจรกรรมความสามารถของโมเดล AI ซึ่งเป็นประเด็นสำคัญในการปกป้องทรัพย์สินทางปัญญาของบริษัท",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "3ed4aa703189",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzdPSjZXdTVCb01jZF9TLUZ6akFoU0ppMWlFNnc3ckVydHNXOW9tNEQ3VVNnY0xzV1pDdlNaWDJ3dm5VVlpXTUdzZlR4MXRIOVl3UjFIX3oxZ2ppVHlhX05LNlg5aHBqLXlYV2gyLV9obDdLMktzbHNFaXY2OW5FeXBiazY1ZE1SWGI4WG93UnFobzducEphZmxnb19MZXBNa1VUUVhfRlJvZExiWUNn?oc=5",
    "source": "ITP.net",
@@ -2080,20 +2520,6 @@
    "dedup": true
   },
   {
-   "id": "c8d8f559eaf8",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEJXZmNMTTNHemVRYmJOYnE4MGVLeGRLVWU1Ry1YWmZ6NndOWkpPcVZwWDFTUkp0ZENyVW5NSFFZRVhSdkI4eXZ3V2VSb092Z25qYkhYLWNmWUMzTEl1bWhUeWE0V3VCZ3NUVF9iVFZkS0VfYVRSaE5PRmtnc0FzeA?oc=5",
-   "source": "hi-Tech.ua",
-   "published": "2026-11-20T06:20:26+00:00",
-   "title": "The Most Honest AI Yet? Google Debuts Gemini 4 Neon",
-   "text": "",
-   "title_th": "The Most Honest AI Yet? Google Debuts Gemini 4 Neon",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
-  },
-  {
    "id": "63ef11654a35",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWZqQzVSZGhiWlZwYXl6dXM1alpHWFlHU0g2a3BDU3E5WmZfWTU4bC13cTV4UkFMV001X1JzbUstbC1NV21wOHdxcERpSWpEY3MteEhJRlRvNjBYeUFkRmtYMGRqTTM0SmdybnhibTloX3JWZUItS3N5dTFsLThOeFBPcWw4ek9KYnJrdW05UFlOMjZ3RGVFelI2WEM?oc=5",
    "source": "Gulf Business",
@@ -2182,6 +2608,23 @@
    "dedup": true
   },
   {
+   "id": "480c7f59bbc9",
+   "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+   "source": "Simon Willison",
+   "published": "2026-11-20T03:01:57+00:00",
+   "title": "llm-gemini 0.38.1",
+   "text": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at high used 5,311 output tokens and cost 3.99 cents, but the same model at xhigh used 31,477 output tokens, cost 23.61 cents, and produced a pelican that's competitive with Gemini 4 Neon: Tags: gemini ,",
+   "title_th": "อัปเดต llm-gemini 0.38.1 รองรับระดับการใช้เหตุผล xhigh สำหรับ Gemini 4",
+   "summary_th": "มีการอัปเดตปลั๊กอิน llm-gemini เพื่อรองรับระดับการใช้เหตุผลแบบ xhigh ในโมเดล Gemini 4 Hydrogen และ Neon ซึ่งส่งผลต่อปริมาณการใช้โทเคนและค่าใช้จ่ายในการประมวลผลอย่างมีนัยสำคัญ",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Google"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "e486efe85b2a",
    "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
    "source": "Simon Willison",
@@ -2234,20 +2677,6 @@
    "importance": 3,
    "ai": true,
    "dedup": true
-  },
-  {
-   "id": "50b5a1a6375a",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TQmFOdnlNU1FqOWF5RUpqVXNvWmt5SVBDTEpFenJfc1d4TGZkeExmMUR1bDBPSC12dzNsNnpTVXBKdy1BSGtpU2VUeDl4d0pLcXAtc3pzM0pLZ1ZY?oc=5",
-   "source": "kapook.com",
-   "published": "2026-11-20T02:36:56+00:00",
-   "title": "สานฝันปัญญาประดิษฐ์ AI LAB รร.บ้านหนองแสงโคกน้อย จ.ขอนแก่น อีกแรงบันดาลใจให้เด็กไทยแสดงออกอย่างสร้างสรรค์ รูปที่ 6",
-   "text": "",
-   "title_th": "สานฝันปัญญาประดิษฐ์ AI LAB รร.บ้านหนองแสงโคกน้อย จ.ขอนแก่น อีกแรงบันดาลใจให้เด็กไทยแสดงออกอย่างสร้างสรรค์ รูปที่ 6",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
   },
   {
    "id": "7b27fbb8a3ee",
@@ -2465,6 +2894,10 @@
     {
      "source": "Hugging Face (โมเดลมาแรง)",
      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF"
+    },
+    {
+     "source": "The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFRXVnRaRGFJLWNhRUliMGcxM0xQVFJUamctZ3FPQ1RoS0lyUGE4OGVGaGxZbEhZR3JJUkU2R1RVUHJrYW5wRF90eGtWVnR5bHRkNWhOUlVzb2xiRmptMU9vdmJkNXpwRHNlRWVsS0VOQzRwc2RiV2ZlY1FwTUlpZDU5emlyQXNNVlpQbHdEclc?oc=5"
     }
    ],
    "dedup": true
@@ -15799,180 +16232,6 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "00abf5945202",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T18:16:41+00:00",
-   "title": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
-   "text": "Hey r/LocalLLaMA ! I made this quick demo of how Observer can run local models to monitor anything with your phone! These are some crazy things I've monitored: When someone that's not me, approaches my car, send me a picture. When a bird is on the bird's nest, send me a telegram with the picture. When my washing machine is on the rinse cycle, call me. When my dog finishes eating their food, notify me. When a machine at the gym is available, call me. So pretty much anything! I love seeing what you guys monitor. What would you use it for? (So I can make the agent better) Which models run on the ",
-   "title_th": "เปิดตัว Observer เครื่องมือโอเพนซอร์สสำหรับรันโมเดล AI บนมือถือเพื่อเฝ้าระวังเหตุการณ์",
-   "summary_th": "นักพัฒนาเปิดตัว Observer เครื่องมือโอเพนซอร์สที่ช่วยให้ผู้ใช้สามารถรันโมเดล AI บนสมาร์ทโฟนเพื่อตรวจจับและแจ้งเตือนเหตุการณ์ต่างๆ ในชีวิตประจำวันได้โดยตรง",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "9f1ff32d0cab",
-   "url": "https://hunch.net/?p=13764006",
-   "source": "Hacker News",
-   "published": "2026-11-07T18:02:17+00:00",
-   "title": "The end of Microsoft Research's AI Frontiers group",
-   "text": "169 points, 82 comments on Hacker News (https://news.ycombinator.com/item?id=50406563)",
-   "title_th": "Microsoft ยุบกลุ่มวิจัย AI Frontiers",
-   "summary_th": "Microsoft ได้ยุบกลุ่มวิจัย AI Frontiers ลงแล้ว ซึ่งเป็นส่วนหนึ่งของการปรับโครงสร้างภายในองค์กร การเปลี่ยนแปลงนี้สะท้อนถึงการปรับทิศทางของ Microsoft ในการพัฒนาเทคโนโลยี AI",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Microsoft"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "0bffdeebdde5",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WN3VZby1hTWVMS1ZqTDhaWWNIZnNhVWM5YzZBSlgwb0thVVNsZGcwQWdDdmZWVnlwTTVTNkxYTG0yal9OTHd5VGVUcVllaTR6LUM1c0RqTDNxU1FZRlJxSkcxRHBWdmFl?oc=5",
-   "source": "Thai PBS",
-   "published": "2026-11-07T17:28:37+00:00",
-   "title": "ABDUL Uni \"ติวเตอร์ชวนคิด\" ถามอะไรตอบได้ นวัตกรรม AI เพื่อการศึกษาไทย",
-   "text": "",
-   "title_th": "เปิดตัว ABDUL Uni นวัตกรรม AI ติวเตอร์เพื่อการศึกษาไทย",
-   "summary_th": "ABDUL Uni เป็นนวัตกรรม AI ที่ถูกพัฒนาขึ้นเพื่อเป็นติวเตอร์ส่วนตัวสำหรับนักเรียนไทย โดยเน้นความสามารถในการตอบคำถามและช่วยเสริมการเรียนรู้",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "f7fffb994d85",
-   "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-   "source": "Hacker News",
-   "published": "2026-11-07T17:19:00+00:00",
-   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-   "text": "260 points, 73 comments on Hacker News (https://news.ycombinator.com/item?id=50406222)",
-   "title_th": "MaxxBench กับข้อสงสัยเรื่องความน่าเชื่อถือของคะแนน DeepSWE",
-   "summary_th": "มีการถกเถียงบน Hacker News เกี่ยวกับความถูกต้องและน่าเชื่อถือของคะแนนทดสอบประสิทธิภาพโมเดลในชื่อ DeepSWE บนแพลตฟอร์ม MaxxBench",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e33dc641ce19",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T17:15:04+00:00",
-   "title": "Also experienced the Qwen3.8-Flash-Next URL issue",
-   "text": "I was asking QFN (4.18bpw EXL3 quant via Pi) to help refactor a neovim configuration, and saw that it tried to find API keys and fetch an aliyuncs URL before I stopped it. I'm not trying to start any arguments, nor am I assuming any malicious intent, but I found this a bit concerning after reading other's stories. submitted by /u/tacticaltweaker [link] [comments]",
-   "title_th": "พบปัญหา Qwen3.8-Flash-Next พยายามเข้าถึง URL ภายนอก",
-   "summary_th": "ผู้ใช้งานพบพฤติกรรมที่น่ากังวลของโมเดล Qwen3.8-Flash-Next ที่พยายามค้นหา API keys และเชื่อมต่อไปยัง URL ของ aliyuncs ระหว่างการใช้งาน",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Alibaba"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "04001b2fd007",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T17:09:51+00:00",
-   "title": "Effects of KV Cache Quantization on Qwen3.8 27B",
-   "text": "KV cache quantization has been a hotly-debated topic for this community for some time, with opinions ranging from \"never quantize\" to \"4 bit is fine\". Since the anecdotal evidence is rather inconsistent, I decided to quantify how much KV cache quantization affects the model through KLD, which is a good measure of how the model's output distribution is changed. I tested 35 weight quants across llama.cpp, exllamav3, and vLLM, each with 16-bit, 8-bit, and (where supported) 4-bit KV cache. I also reworked my KLD dataset and measurement methodology this time, to include a mix of agentic tool-use (g",
-   "title_th": "การศึกษาผลกระทบของการทำ KV Cache Quantization ต่อโมเดล Qwen3.8 27B",
-   "summary_th": "มีการทดสอบวัดผลกระทบของการทำ KV Cache Quantization ในระดับต่างๆ ต่อโมเดล Qwen3.8 27B เพื่อหาความสมดุลระหว่างประสิทธิภาพและการรักษาคุณภาพของผลลัพธ์",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "fce077bd3009",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T16:28:52+00:00",
-   "title": "testing Qoduck (Maybe qwen4) on Qoder",
-   "text": "I noticed that it has native image and video generation. submitted by /u/Consistent_Berry_324 [link] [comments]",
-   "title_th": "ทดสอบประสิทธิภาพ Qoduck โมเดลใหม่ที่มีความสามารถสร้างภาพและวิดีโอ",
-   "summary_th": "มีการทดสอบโมเดล Qoduck บนแพลตฟอร์ม Qoder ซึ่งโดดเด่นด้วยความสามารถในการสร้างภาพและวิดีโอได้โดยตรง",
-   "category": "โมเดลใหม่",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "caef732d512c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T16:25:06+00:00",
-   "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
-   "text": "This is a significant speedup for MoE offloading (low VRAM people). I tried Strata once, and it had some tuning mechanism, so probably this is a similar idea. submitted by /u/jacek2023 [link] [comments]",
-   "title_th": "llama.cpp เพิ่มฟีเจอร์ใหม่ช่วยเร่งความเร็ว MoE บน CPU",
-   "summary_th": "มีการอัปเดต llama.cpp ด้วยการเพิ่มฟีเจอร์สำหรับรันโมเดล MoE บน CPU ช่วยให้ผู้ที่มี VRAM จำกัดสามารถใช้งานโมเดลได้เร็วขึ้นอย่างมีนัยสำคัญ",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "fa06ff8fdc83",
-   "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-   "source": "The Verge AI",
-   "published": "2026-11-07T15:47:15+00:00",
-   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-   "text": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
-   "title_th": "ประสบการณ์การใช้งาน AI Assistant ของ NYT Cooking",
-   "summary_th": "ผู้ใช้งานทดลองใช้ AI ช่วยแนะนำเมนูอาหารของ NYT Cooking ซึ่งช่วยแก้ปัญหาการทำอาหารในวันธรรมดาได้ดี แต่ยังมีความผิดพลาดในการทำขนม",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "The New York Times"
-   ],
-   "importance": 1,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "73be1ddc7ff2",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-   "source": "The Verge AI",
-   "published": "2026-11-07T15:43:45+00:00",
-   "title": "The US let Nvidia sell chips to an empty office in China",
-   "text": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
-   "title_th": "สหรัฐฯ ตรวจสอบกรณี Nvidia ส่งออกชิป AI ให้บริษัทในจีนที่มีความน่าสงสัย",
-   "summary_th": "เกิดข้อกังวลเรื่องการตรวจสอบการส่งออกชิป H200 ของ Nvidia ไปยังบริษัทในจีนที่พบว่ามีสำนักงานว่างเปล่า ซึ่งอาจสะท้อนถึงช่องโหว่ในการควบคุมการส่งออกเทคโนโลยี",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Nvidia",
-    "OpenAI"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "dc244a9ca5d9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T14:32:04+00:00",
-   "title": "Valet: use local LLMs to manage your homelab (open source)",
-   "text": "My favourite use case for local LLMs is running my homelab, because everything stays private (and it helps me justify the GPU lol) I wanted one dashboard to help me manage all of my services, so I made Valet. Live demo: https://demo.askvalet.dev Valet has a chat agent that works with any local or hosted model. It integrates with 185+ services and supports custom plugins. You can ask it to pause pi-hole, investigate crash logs, request a movie, etc It also knows its own docs, so it can configure itself. Tell it what you want changed on your dashboard and it edits the config (with your approval)",
-   "title_th": "เปิดตัว Valet เครื่องมือโอเพนซอร์สใช้ LLM จัดการ Homelab",
-   "summary_th": "Valet เป็นเครื่องมือโอเพนซอร์สที่ใช้ LLM ในการจัดการบริการต่างๆ ภายใน Homelab รองรับการเชื่อมต่อกว่า 185 บริการและสามารถปรับแต่งปลั๊กอินได้",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 2,
    "ai": true,
    "dedup": true
   }

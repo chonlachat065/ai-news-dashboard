@@ -1,50 +1,51 @@
 {
  "version": 3,
- "updated_at": "2026-11-22T17:49:04+00:00",
+ "updated_at": "2026-11-22T23:35:51+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-22T17:49:04+00:00",
-  "headline": "ความก้าวหน้าของ Claude ในงานวิจัยคณิตศาสตร์ระดับโลกและประเด็นความปลอดภัยของ AI ที่น่าจับตามอง",
+  "generated_at": "2026-11-22T23:35:51+00:00",
+  "headline": "ความก้าวหน้าของ Claude ในงานวิจัยคณิตศาสตร์ระดับโลกควบคู่ไปกับความเคลื่อนไหวสำคัญด้าน IPO และความปลอดภัยของ Anthropic",
   "points": [
    {
-    "text": "โมเดล Claude ของ Anthropic ได้รับการยอมรับและตรวจสอบจากชุมชนคณิตศาสตร์ในการช่วยพิสูจน์สมมติฐาน Riemann และโจทย์คณิตศาสตร์ระดับโลกที่มีอายุกว่าศตวรรษ",
+    "text": "โมเดล Claude ของ Anthropic สร้างผลงานโดดเด่นในวงการคณิตศาสตร์ โดยมีส่วนช่วยในการพิสูจน์สมมติฐาน Riemann และสมการ Navier-Stokes รวมถึงโจทย์คณิตศาสตร์อายุ 167 ปี ซึ่งได้รับการรับรองจากชุมชนวิจัย",
     "ids": [
+     "a09dd0b6eb25",
+     "3ca78f28a6b2",
      "3d3427e5827e",
      "56149d654b94",
      "17806cd6f3ec",
-     "036c3debea8a",
-     "204f20d1975d",
-     "5a2e7bbbe51c",
-     "3534d2195ee4",
-     "4e2c67dcaa9f",
-     "d4a025fe3f25",
-     "eb30319e78e2",
-     "4e88bcc9c79c",
-     "8494e013419f",
+     "e48a71065682",
      "ef1673da9d28"
     ]
    },
    {
-    "text": "Anthropic เผชิญความท้าทายด้านการจัดการองค์กรและกฎหมาย ทั้งการเตรียมตัว IPO ที่มีข้อถกเถียงเรื่องมูลค่าและเงื่อนไขพนักงาน รวมถึงการถูกร้องเรียนเรื่องละเมิดลิขสิทธิ์ในการฝึกสอนโมเดล",
+    "text": "Anthropic กำลังเตรียมตัวเข้าสู่ตลาดหลักทรัพย์ (IPO) ท่ามกลางกระแสวิพากษ์วิจารณ์เรื่องมูลค่าบริษัท ความปลอดภัยของ AI และผลกระทบต่อตลาดหุ้น รวมถึงการตั้งเงื่อนไขเข้มงวดกับทีมงานที่เกี่ยวข้อง",
     "ids": [
      "f598fefaa931",
+     "c72706f14405",
      "8230aa40e8a8",
-     "73584d59db2d"
+     "ca8ebd584b78",
+     "257b915143a7",
+     "195dc27b255a"
     ]
    },
    {
-    "text": "เกิดเหตุการณ์ข้อมูลพรอมต์และ API key รั่วไหลจากการแฮกผู้ให้บริการ LLM บน OpenRouter ในขณะที่ Anthropic ได้เผยแพร่แนวทางความปลอดภัยแบบ Zero Trust สำหรับ AI Agents",
+    "text": "Anthropic ขยายขีดความสามารถด้านความปลอดภัยองค์กรและเครื่องมือสำหรับภาคการผลิต พร้อมเผยแพร่แนวทาง Zero Trust สำหรับ AI Agents และระบบตรวจสอบโค้ดอัตโนมัติ",
+    "ids": [
+     "a6878bb3a435",
+     "877108e4308b",
+     "01f2c80612a2",
+     "6acec047b75a"
+    ]
+   },
+   {
+    "text": "เกิดเหตุการณ์ข้อมูลพรอมต์และ API key รั่วไหลจากการแฮกผู้ให้บริการ LLM หลายราย ในขณะที่บริษัท AI อื่นๆ เช่น Moonshot, Runway, Sarvam และ Tencent มีความเคลื่อนไหวในการเปิดตัวโมเดลใหม่และการประเมินความปลอดภัย",
     "ids": [
      "ff70d71c7b8a",
-     "a6878bb3a435"
-    ]
-   },
-   {
-    "text": "ความเคลื่อนไหวในอุตสาหกรรม AI อื่นๆ ได้แก่ การเปิดตัวโมเดล Open-weight อย่าง Praxis-1 จาก Runway และ Kimi K3 จาก Moonshot รวมถึงความล้มเหลวของ UN ในการหาข้อตกลงกำกับดูแลอาวุธสังหารอัตโนมัติ",
-    "ids": [
      "2de4277cbde0",
      "58335319b6a5",
-     "234da3fc1867"
+     "243e05a71c9c",
+     "f4d13e575c14"
     ]
    }
   ]
@@ -161,7 +162,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 7,
+   "count": 5,
    "error": null
   }
  ],
@@ -653,9 +654,190 @@
   "590e4553e2db",
   "4dce2475b80a",
   "0dce513ff326",
-  "c4ef9ce19c4e"
+  "c4ef9ce19c4e",
+  "e7090200216e",
+  "bdbd1665ee05",
+  "7c0cab5c0823"
  ],
  "items": [
+  {
+   "id": "c72706f14405",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHlHVHROTEVEbjNLYUx2bDVscDJQYVNCbDZ1ZEdvVW9EaFlMcHJXem9VeS00MUJab3h6UTBKdmhCZmxLUlBmYTExNG1mWXNtZ3lyYmlGZ0hnVHBwemFxel9iazU1bGhfZzlGUGwyVTV1QkFUYnV1SG1kZjRIMExUU183QnlMcWVtMlJlQkFIREEyUUhPR2dKbk96UnFfbVVodkhyMUI4dGlMZms4UTE5c1daY3IyaGZCOFMxSm5PS1pWNUtQT3ZFMWZB0gHPAUFVX3lxTE9nSEVFcVpSNndsTWkxaU5YVWd2azdvQ0RrYzc2M3N1ak9tT3VteFJ5VFNOV19JVU10SUdnVUpUWmlQZ21JaXJFNnVXS19ZYjB3akpvdmRuRk1XaEgyTU00NlZzbllJSDNhdVhCbzJEcWMzNnJDQ2ItVVlOZ1NsZXlVMTQ0YU00VGFOVndyNkJMd1lUbUV0Y01Yc1N2QUc4QU94eTQxcmlmRWxxOE9RODRERGtQTWdqQS12MEtmYTd4ZkpLd2xmZWs5WEpHczJYRQ?oc=5",
+   "source": "Simply Wall St",
+   "published": "2026-11-22T23:13:52+00:00",
+   "title": "What Does Anthropic (ANT) Saying The Singularity Started Mean For Investors?",
+   "text": "",
+   "title_th": "มุมมองนักลงทุนต่อคำกล่าวของ Anthropic เรื่องจุดเริ่มต้นของ Singularity",
+   "summary_th": "Anthropic ได้ออกมาให้ความเห็นเกี่ยวกับแนวคิดเรื่อง Singularity ซึ่งสร้างคำถามสำคัญสำหรับนักลงทุนว่าเหตุการณ์นี้จะส่งผลกระทบต่อทิศทางธุรกิจและมูลค่าของบริษัท AI อย่างไร",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "05744626c0d6",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-22T21:14:07+00:00",
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "text": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "title_th": "หัวหน้านักวิทยาศาสตร์ของ OpenAI เสนอแนวทางจำกัดความเร็วการพัฒนา AI",
+   "summary_th": "หัวหน้านักวิทยาศาสตร์ของ OpenAI ได้แสดงความเห็นเกี่ยวกับการกำหนดขีดจำกัดความเร็วในการพัฒนา AI โดยเน้นย้ำถึงความจำเป็นในการตกลงร่วมกันเรื่องวิธีการวัดความเร็วที่ชัดเจน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "877108e4308b",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY3lXYWhjdlk4eFo5OEllXzdkTDhnYWowOUFSZlNLakdEdXoxeG8xZTZjcWVMYWxxVTJCdEUycHZBdjhyMy1UUU9tcU9lMlFIb0t3cG85X1hNSWJLaGxnNEtSbVkyak0xLTJQVmNjSmwtQW80NVdGWU9sUmh0TGJhdWFLOTFRM1BONnZSOFE2YXpDREpxN2RIdnU0WXBGOTNtZ1dwNUVnTHpCOHdfU3VfVlRSVklsZ096TzBLNFlzUnFQVjJ3c0lJNHl3U0d0cGNPWkFYQTdfV01tRlZqYUJ2aHFGNXQwVlhX?oc=5",
+   "source": "Robotics & Automation News",
+   "published": "2026-11-22T21:07:47+00:00",
+   "title": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows",
+   "text": "",
+   "title_th": "Anthropic เปิดตัว Claude for Manufacturing ช่วยอัตโนมัติงานบริหารและวิศวกรรม",
+   "summary_th": "Anthropic เปิดตัวโซลูชัน Claude for Manufacturing เพื่อช่วยเพิ่มประสิทธิภาพในการทำงานด้านธุรการและงานวิศวกรรมในภาคการผลิตผ่านระบบอัตโนมัติ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4f0ed76760ef",
+   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "source": "Hacker News",
+   "published": "2026-11-22T21:01:16+00:00",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "text": "113 points, 34 comments on Hacker News (https://news.ycombinator.com/item?id=50603845)",
+   "title_th": "คู่มือเริ่มต้นใช้งาน AI บนเครื่องส่วนตัวด้วย Inkling, Qwen และ Unsloth",
+   "summary_th": "บทความแนะนำวิธีการใช้งาน AI บนเครื่องคอมพิวเตอร์ส่วนตัวสำหรับผู้เริ่มต้น โดยใช้เครื่องมืออย่าง Inkling, Qwen และ Unsloth เพื่อการพัฒนาและทดสอบโมเดล",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fe77665b2589",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPUDlTd3BYdnpfRzVJamk5NWYtWFNNMjhtMXFlb2JBUGNWSzh2NTRnM1FFUW05N01HY2JmX0FpUnI4Z3ZhNHgxdy1ILW5MREZZaTFFXzdDTXNtU2lROGFIZ3hPMGZWQ3JIMG91empVSkcxbVNUQnF5VzJYRDVxdWlhSTdSaVlMZjVtOWNuRlZRSldEdEp4dHEzRUI5SmlvVloxV3VOSk81cjJ3dkNFbzVpV09ORC1DbXEwQkxFLTFnOE5pck5wWWYzYTVBM2lCeXQ5dTJLWXhDajBCY09ONllWSXRsQnlzZGliTi0zdnppdGVhZXZPTHRpS1lPbG94czFrM3kwQnNPdm5fZEhNUWpCMFNualNKNjg4dUwxLU9jSVByRGxHdVJaSkVRV0VfcUU?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-22T19:46:26+00:00",
+   "title": "Fujitsu launches pilot study with FamilyMart to analyze decarbonized product purchasing behavior and create demand using causal AI",
+   "text": "",
+   "title_th": "Fujitsu ร่วมมือ FamilyMart ทดสอบ Causal AI วิเคราะห์พฤติกรรมผู้บริโภค",
+   "summary_th": "Fujitsu เริ่มโครงการนำร่องกับ FamilyMart โดยใช้ Causal AI เพื่อวิเคราะห์พฤติกรรมการซื้อสินค้าที่เป็นมิตรต่อสิ่งแวดล้อมและสร้างความต้องการในตลาด",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Fujitsu",
+    "FamilyMart"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "243e05a71c9c",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQN3FPU3Z0X0U0aUk5a09NbnA5SU84TE1pUXc1aGdaTVdjVnBZR3U5YkhkLWZtaGczZ2xRTkdfZm8za2N1VTRiSDZEOU9vaVpiVzJCMzFDN0xXa29EZ2dQMXhISmFaMmhPUkRtb2YtZFg3UTFHWlROUjBtQWNha0dXTFE2NTgzNmpKd0tCSzZobU9BNmc5UkR6MkxPbnNLR3VacnFjYWl3WExYaDBORG91MGNfZ09TLW9MTUJtNEJPZnpDNjU0c1hpMVNvYk0wUHhlR1dFYWpuRTdKeTNSak1sY1dBVVpGQTZmbnV6UlNZcWZUMWPSAfgBQVVfeXFMTWdHc1JxeHgxNURjRnlsTXg4Z1lEcVBTbmlQNkFOQ3hQNGY5T2wxR1JiRm1WTkxsWTBRbG1XUWstYWJudGhwN3dDZFZ1NHdBMzk5SUVQRzRfNUI3ZmlwOEVpMjdsWEs3aktSNEtyeUNmNy1naENlMFpET2ExbmN4LXVPcVlDOXQ5eDNELW5Kc2NUNXJ3bEFjMEdUbWxrSWpueWJxaGZkcDJGTThFTVZBZmFCWVRnbDJwcnBVQkozTmotQ0dkaXUzS1FRMC00aFo5VnFIWHh6M09fcDZGZ3U1alhNbHRtMXJCSjVxWDhPcUpZSEFWcHA4ZmI?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-22T18:57:56+00:00",
+   "title": "Sarvam unveils upgraded 105B AI model, plans more releases amid Token Factory criticism",
+   "text": "",
+   "title_th": "Sarvam เปิดตัวโมเดล 105B พร้อมแผนปล่อยอัปเดตเพิ่มท่ามกลางเสียงวิจารณ์",
+   "summary_th": "Sarvam เดินหน้าเปิดตัวโมเดล 105B รุ่นอัปเกรดและวางแผนปล่อยโมเดลใหม่ต่อเนื่อง แม้จะเผชิญกับเสียงวิจารณ์เกี่ยวกับ Token Factory",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Sarvam"
+   ],
+   "importance": 3,
+   "ai": true,
+   "also": [
+    {
+     "source": "Business Upturn",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmhzOTRsZHp1WG9HdFFBVFQ0b2NiYzNIUEdad3FXQ3c3NVA2ZlBMVHc1dml5dDQ3a25pcjNXaDRoWmQzRUMyREs3RVRQa3prSjNjSXJuWmlYbHVMSHVLOXNkQ3hLdE5aV3k2eGdnUTkxU3BRbzdyMUhzXzA1VjQwRU15ei11TEJ3bC1ZQ3dWdlJ1T2E5LWpFUnNsVk1nTTR6ZHFB?oc=5"
+    },
+    {
+     "source": "Superpower Daily",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkgxUkNQTTFzSEpubWhlVkVxUjdoc0g5bnhSNlY5bEdhTDNLd29IZGhFWElncGpmNjkyejVOMFBENTh0bG14bWQyMnA4czRzVnIzTWwxQUcyeGZTLXp1UmFQOURQcUs5Y1dXcHhYbWtHQjNEYUxWd002VmFDNWNneXlKVU5aZEhkazhoTmt1cWRhOVluMmZqVHBXTy1HN251Z1RPWGZ1cTVzakVOZml6eFdrcXFGXzln?oc=5"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "a09dd0b6eb25",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JR1c5X2dZenJPXzBPcWhjYmxTRk1mMmtQZ0h0elM2UWpDdkxPSFd0aUs2WmpKbG83OVhYUGlBWjJ1Ul9waEl1WlExWmZaZmZ6dmlEUEdDdkZiN2FPTm5TRXI4VVpJYmk2U2xTdkdWSWJpczUwdks1clV3?oc=5",
+   "source": "Marcus on AI | Substack",
+   "published": "2026-11-22T18:37:02+00:00",
+   "title": "Levent Alpöge has solved the Riemann Hypothesis with help of Claude! What does it mean?",
+   "text": "",
+   "title_th": "Levent Alpöge ใช้ Claude ช่วยแก้ปัญหา Riemann Hypothesis",
+   "summary_th": "มีการรายงานว่า Levent Alpöge สามารถแก้ปัญหาทางคณิตศาสตร์ระดับโลกอย่าง Riemann Hypothesis ได้โดยได้รับความช่วยเหลือจาก Claude ซึ่งสร้างความสนใจอย่างมากในวงการวิจัย",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "bed82431ae1f",
+   "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-22T18:08:43+00:00",
+   "title": "Why data centers are at the center of the Big Tech backlash",
+   "text": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+   "title_th": "เจาะลึกเหตุผลที่ Data Center กลายเป็นเป้าหมายของการต่อต้าน Big Tech",
+   "summary_th": "หนังสือเล่มใหม่ของ Paris Marx วิเคราะห์ถึงบทบาทของ Data Center ที่กลายเป็นจุดศูนย์กลางของกระแสการต่อต้านบริษัทเทคโนโลยีขนาดใหญ่ในปัจจุบัน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "01f2c80612a2",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG00NjY3R0Z5aTZDYkNMa2R3Q1F0blZvSHN5N1lGckwxa0R3LWdjc3ZIMFphcUxDdC1rWUVpVVNfN2VvOWJ3V09ELUNQQms1SzBBRWM2R0wxRGpFejc2b2k5MGNvb1lYT0xOcFE5S3ZiN0dFdEpSQkswWjlnMnZyU1BCQ095NG53U3RHMkJDZFowU28tcW9aS3RSMUcyeVlVc0E?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-22T18:07:02+00:00",
+   "title": "Anthropic (ANT) Puts Claude Into Enterprise Security As Its AI Builds Successors",
+   "text": "",
+   "title_th": "Anthropic นำ Claude เข้าสู่ระบบความปลอดภัยองค์กร",
+   "summary_th": "Anthropic ขยายขีดความสามารถของ Claude เข้าสู่ด้านความปลอดภัยระดับองค์กร พร้อมทั้งพัฒนาโมเดลรุ่นถัดไปเพื่อสร้างความสำเร็จอย่างต่อเนื่อง",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3ca78f28a6b2",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUnZzQWZhTXdqbG5GNTRfbnpPSTZjbVE5Z1dKWDJXRFB1Y3BUTkE0TDYzaXAxRUZubEhCMC1YUXE2b0tyaGJqWnhwWEl4Mk1xWF9YVUdlamxvLXhxRzRiTHVudFJZX3I3cGhmaHQtdWRPVG9pMlBVM29rWE9TN3R1WmlYRmNTMngxdE1lUS1laWNSdDdwVE9qY1V1V3poc0lxU0R0UlRrQy0zYW9jMVZFS1JfSFBhUk5IbkNjSExwRjZtRmdoU1Q3R3o3OUktUXFqUVQtWjJPYktYU2Y4Y1BsNXhiX21TNXM?oc=5",
+   "source": "MLQ.ai",
+   "published": "2026-11-22T18:02:35+00:00",
+   "title": "Anthropic's Levent Alpöge and NYU's Tristan Buckmaster post a claimed Claude-aided proof that the Navier-Stokes equations can blow up",
+   "text": "",
+   "title_th": "งานวิจัยจาก Anthropic และ NYU ใช้ Claude พิสูจน์สมการ Navier-Stokes",
+   "summary_th": "นักวิจัยจาก Anthropic และ NYU เผยแพร่ผลงานที่อ้างว่า Claude ช่วยพิสูจน์ว่าสมการ Navier-Stokes สามารถเกิดภาวะระเบิด (blow up) ได้ ซึ่งเป็นความก้าวหน้าสำคัญในงานวิจัยคณิตศาสตร์",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic",
+    "New York University"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "265c68ec3a4c",
    "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
@@ -980,6 +1162,23 @@
    "dedup": true
   },
   {
+   "id": "e48a71065682",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx0LUhWZUIxUzcxWkJ1QXhETTVwWjF1NXlleV96RTU4MUdiSlNINUFLMFdwUl9nZGdaQ2pDSUNKMGJSWVBlRzVlREl5OVQySmJBQzhOLUM2d00zRE5mS2N2WEF2NzVCR3NGemYtNmVXbmdTNmhQaVNTQk5IdDFpb3h2dENmd3puTlhiMDh5bkZ1dlRqT0I4d0xCOW1senpKUDNENkU4LXROTHBiZllTSG80c2V1SDlxSkR1VVpBVDFKdHR4akVIRtIBzwFBVV95cUxOb04zWlI1MjFqX3J4ZHEyVGVVVDRwb1JrTTBiUHdxLUdGeXFSZjEyZ1dOY003b29HTTNES0gzLXBkTWFNRXFLY2Y4STIzU19TWnd2Ni1MQUFtTnc1REVJaWVpOXJraUt5QlBwSHh6THBvN09pS1ljVFVtMkZUZUQ1UG05Z2JIb1hkWUZhQWl6S3Z5dVNIRnQ4SzY5TGdRMkpQNWpoX0JVX01PMVlUblRKem0zNmdkM0hQZEg1MERidWlRRVpDWnRSUFNteGhBQW8?oc=5",
+   "source": "The Indian Express",
+   "published": "2026-11-22T04:47:00+00:00",
+   "title": "Can AI solve a 167-year-old maths problem? Anthropic researcher says Claude may have done it",
+   "text": "",
+   "title_th": "Claude อาจช่วยแก้ปัญหาคณิตศาสตร์อายุ 167 ปีได้สำเร็จ",
+   "summary_th": "นักวิจัยจาก Anthropic ระบุว่าโมเดล Claude อาจมีส่วนช่วยในการไขปริศนาทางคณิตศาสตร์ที่มีอายุกว่า 167 ปี ซึ่งถือเป็นก้าวสำคัญของการนำ AI มาใช้ในงานวิจัยเชิงทฤษฎี",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "af2d556e88c3",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KY1habkt5RE1SczBidVVlU21KOGk2TERTV285RjNVWEoxdDJaLUlJRTB2Z0NTMFpfdlROOXp0NEtTZGhSVW5WbWw2YWFGdG5QMlFUeA?oc=5",
    "source": "posttoday",
@@ -1095,6 +1294,23 @@
    ]
   },
   {
+   "id": "23de634eaf3a",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqWEpRMklleUc3ZDg1UFlNamRKN0hvck0tX0YtSEZnMU1vVURIalY5ZFlvUTNONDBJT1dhSFZTMEhkcHVDVUg1V2hTTGtKbk00dWFVVVF0WlA?oc=5",
+   "source": "Cryptonews.net",
+   "published": "2026-11-22T00:31:51+00:00",
+   "title": "Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches",
+   "text": "",
+   "title_th": "Chainalysis พบการใช้ Stablecoin เชื่อมโยงจีนพุ่ง 55% หลังสหรัฐฯ เปิดตัว AI",
+   "summary_th": "รายงานจาก Chainalysis ระบุว่ามีการเพิ่มขึ้นของการชำระเงินด้วย Stablecoin ที่เชื่อมโยงกับจีนถึง 55% หลังจากมีการเปิดตัวเทคโนโลยี AI ในสหรัฐอเมริกา",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Chainalysis"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "f598fefaa931",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZk5DTlk1MG9TUTMyOThsVVFKNFc3SG56QS1WMm5mdDZJWk1pTWRJWk1sVnlqSzREdDByVFVXd3JDdkxUR3FFWjNFZFMzNGJqZlZ3UlVsZ1JienhzTVdCVVVLZEFTd05hNGxzbGhidHhvLTRDWFFXSGpNUmVHd0tTQV9DUEJ2NFVuNmJ5d3d3?oc=5",
    "source": "조선일보",
@@ -1208,6 +1424,23 @@
     "Anthropic"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "de5cd1a6d51d",
+   "url": "https://openai.com/index/perplexity-and-intelligence",
+   "source": "OpenAI",
+   "published": "2026-11-22T00:00:00+00:00",
+   "title": "Perplexity and Intelligence",
+   "text": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+   "title_th": "ทำความเข้าใจ Perplexity กับการวัดประสิทธิภาพโมเดล AI",
+   "summary_th": "OpenAI อธิบายถึงการใช้ค่า Perplexity เพื่อวัดความก้าวหน้าของโมเดล AI โดยเน้นย้ำว่าวิธีนี้สามารถช่วยให้นักพัฒนาสร้างแนวทางร่วมกันในการประเมินความสามารถของโมเดลที่เกิดขึ้นใหม่ได้",
+   "category": "งานวิจัย",
+   "companies": [
+    "OpenAI"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -16633,184 +16866,6 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "300f149a0249",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3lOd0JmTjZSUjdzc0lqVnpmTVJzMkxMa2J2RHhUMXZZOEpiNUxTY1UwTnF1NDhVT09NWTFQbEVycVNQWXpPak45TEpFTElTN2RQUTlwRV83alllMW52VEk5YkxwSGU0MDVLT2RqR2gxclExemxxblh1bHFCT01tSkx0cGFEZmd5RGc?oc=5",
-   "source": "tech-insider.org",
-   "published": "2026-11-08T22:59:49+00:00",
-   "title": "Claude Code Don't Ask Again: 1,379 Secrets [2026]",
-   "text": "",
-   "title_th": "Claude Code เผยข้อมูลความลับจำนวนมาก",
-   "summary_th": "มีการรายงานเกี่ยวกับข้อมูลความลับที่เกี่ยวข้องกับ Claude Code ในปี 2026",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "67abd93f196f",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-   "source": "The Verge AI",
-   "published": "2026-11-08T22:54:50+00:00",
-   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-   "text": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
-   "title_th": "เปิดเนื้อหาบันทึกข้อความ Jensen Huang ถึงพนักงาน NVIDIA",
-   "summary_th": "Jensen Huang ส่งบันทึกข้อความถึงพนักงาน NVIDIA เพื่อยอมรับเรื่องความสัมพันธ์กับผู้บริหารที่เป็นสายลับจีน หลังจากที่บอร์ดบริหารประกาศเริ่มการสอบสวนอย่างเป็นทางการ",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "NVIDIA",
-    "Nvidia"
-   ],
-   "importance": 5,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "302900397f30",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr78s5/intel_arc_pro_b70_32gb_1299_vs_nvidia_rtx_5090/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-08T19:46:49+00:00",
-   "title": "Intel Arc Pro B70 32GB ($1,299) vs NVIDIA RTX 5090 ($6,500+) on Qwen3.8-27B: about 1/2 speed gen (1/3 speed prefill) for 1/5 price, after best setup",
-   "text": "I got an Arc Pro B70 (32GB) last week for $1,299 direct from ASRock official store on Amazon (B65 is also 32GB but slower, and was only $100 cheaper at $1,199, so I \"splurged\"). Obviously I'd have wanted a 5090 for the same VRAM and best speeds, but 5090s are going for $6,500+ on Newegg right now (and I personally have too much fear to buy used hardware), so I wanted to see how close a 32GB Intel card gets. Out of the box it it was really bad, but after a few changes I got it to about half a 5090, which feels like a great trade off for 1/5th price (~$41/GB vs $200+/GB). And of course it's grea",
-   "title_th": "เปรียบเทียบประสิทธิภาพ Intel Arc Pro B70 กับ NVIDIA RTX 5090 ในการรันโมเดล Qwen3.8-27B",
-   "summary_th": "ผู้ใช้งานทดสอบประสิทธิภาพการ์ดจอ Intel Arc Pro B70 เทียบกับ NVIDIA RTX 5090 ในการรันโมเดลภาษาขนาดใหญ่ พบว่า Intel ให้ความเร็วประมาณครึ่งหนึ่งของ 5090 ในราคาที่ถูกกว่ามาก",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Intel",
-    "Nvidia",
-    "ASRock"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "004b2c689f83",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-08T19:19:39+00:00",
-   "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation: This will completely change everything!",
-   "text": "Essentially we could very soon run opus 5.5 level of intelligence on 32gb Vram. Its many folds more efficient in terms of memory bandwidth making compute the real bottleneck. What do you think? submitted by /u/Lorian0x7 [link] [comments]",
-   "title_th": "Next-Concept Modeling เทคนิคใหม่เพื่อการสร้างข้อความที่รวดเร็วและมีประสิทธิภาพ",
-   "summary_th": "มีการนำเสนอแนวคิดการสร้างข้อความแบบ Coarse-to-Fine ที่ช่วยให้รันโมเดลระดับสูงบน VRAM ขนาด 32GB ได้อย่างมีประสิทธิภาพมากขึ้น โดยเน้นไปที่การลดข้อจำกัดด้านหน่วยความจำ",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "53044e44b3aa",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-   "source": "The Verge AI",
-   "published": "2026-11-08T19:18:19+00:00",
-   "title": "Apple is racing to make Siri more agentic",
-   "text": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
-   "title_th": "Apple เร่งพัฒนา Siri ให้เป็น AI Agent เต็มรูปแบบเพื่อแข่งขันในตลาด",
-   "summary_th": "Apple กำลังเร่งแผนพัฒนา Siri ให้มีความสามารถแบบ Agent มากขึ้น เพื่อให้สามารถแข่งขันกับคู่แข่งในตลาดได้ โดยผู้บริหารระดับสูงกำลังกดดันให้ทีมเร่งพัฒนาฟีเจอร์ใหม่ให้ทันตามกำหนดการที่ท้าทาย",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Apple",
-    "OpenAI",
-    "Meta"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "123cc8899327",
-   "url": "https://huggingface.co/papers/2611.12806",
-   "source": "HF Daily Papers",
-   "published": "2026-11-08T19:00:00+00:00",
-   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-   "text": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still at a relatively early stage of development, with each type of sensor offering irreplaceable strengths alongside its own drawbacks. A key challenge is thus to free tactile understanding from sensor-specific physics, so that embodied models can effectively leverage heterogeneous tactile data. To this end, we develop LingBot-Touch, a tactile foundation model characterized by the f",
-   "title_th": "งานวิจัยใหม่เสนอการเรียนรู้การสัมผัสแบบ Heterogeneous เพื่อการควบคุมหุ่นยนต์",
-   "summary_th": "งานวิจัยนำเสนอวิธีการจัดการกับข้อมูลการสัมผัสที่หลากหลาย เพื่อช่วยให้หุ่นยนต์สามารถควบคุมวัตถุได้อย่างแม่นยำและเป็นอิสระจากข้อจำกัดของเซนเซอร์แต่ละประเภท",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "930c9f51b3fa",
-   "url": "https://huggingface.co/papers/2611.12762",
-   "source": "HF Daily Papers",
-   "published": "2026-11-08T19:00:00+00:00",
-   "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
-   "text": "We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideatio",
-   "title_th": "Sage-Taiyi: สถาปัตยกรรม AI เพื่อการค้นพบทางวิทยาศาสตร์ด้วยกระบวนการคิดเชิงอภิปัญญา",
-   "summary_th": "Sage-Taiyi เป็นสถาปัตยกรรมที่ได้รับแรงบันดาลใจจากกระบวนการคิดเชิงอภิปัญญา เพื่อช่วยนำทางและตัดสินใจในการวิจัยทางวิทยาศาสตร์ ระบบสามารถตรวจสอบและปรับปรุงความเข้าใจในหลักฐานและสมมติฐานเพื่อเลือกวิธีการหาเหตุผลที่เหมาะสมได้ ช่วยเพิ่มประสิทธิภาพในการทำงานวิจัยผ่านการประเมินตนเอง",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "fcc02b9fa5cb",
-   "url": "https://huggingface.co/papers/2611.12886",
-   "source": "HF Daily Papers",
-   "published": "2026-11-08T19:00:00+00:00",
-   "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
-   "text": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook useful tool-returned observations, while poorly grounded actions can limit the evidence available for subsequent distillation. We introduce Reframe, a post-training framework that treats the observation state, rather than only the output distribution, as an object of alignment. First, Ground-Drop-GRPO (GD-GRPO) trains spatial and temporal specialists with evidence-aware rewards ",
-   "title_th": "Reframe: กรอบการทำงานใหม่เพื่อเพิ่มประสิทธิภาพการใช้เครื่องมือของ Visual Agents",
-   "summary_th": "Reframe เป็นกรอบการทำงานหลังการฝึกฝนที่มุ่งเน้นการจัดตำแหน่งสถานะการสังเกตการณ์สำหรับ Visual Agents เพื่อแก้ปัญหาการมองข้ามข้อมูลจากเครื่องมือและการตัดสินใจที่ขาดความแม่นยำ วิธีนี้ช่วยให้โมเดลสามารถเรียนรู้และใช้เครื่องมือในการให้เหตุผลเชิงภาพได้ดียิ่งขึ้น",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "cbaff44eace9",
-   "url": "https://huggingface.co/papers/2611.12426",
-   "source": "HF Daily Papers",
-   "published": "2026-11-08T19:00:00+00:00",
-   "title": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
-   "text": "Discrete autoregressive modeling, notably through next-token prediction, has become a cornerstone of modern language models. Extending this paradigm to vision allows visual and language models to converge on a unified framework, thereby fostering shared methodology and infrastructure. This work investigates a central question: how far can a finite discrete vocabulary go in representing the richness of the visual world? We present dNaViT, a Discrete Native-resolution Vision Transformer that produces discrete visual primitives analogous to language tokens. Built upon a frozen pretrained encoder,",
-   "title_th": "dNaViT: การใช้ Discrete Codes เพื่อสร้างตัวแทนข้อมูลภาพแบบอเนกประสงค์",
-   "summary_th": "งานวิจัยนี้นำเสนอ dNaViT ซึ่งเป็น Vision Transformer ที่ใช้การสร้างแบบจำลองแบบไม่ต่อเนื่อง (Discrete autoregressive) เพื่อรวมโครงสร้างพื้นฐานของโมเดลภาษาและภาพเข้าด้วยกัน ช่วยให้การประมวลผลข้อมูลภาพมีความเป็นเอกภาพมากขึ้น",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "6441feaeee62",
-   "url": "https://huggingface.co/papers/2611.11995",
-   "source": "HF Daily Papers",
-   "published": "2026-11-08T19:00:00+00:00",
-   "title": "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
-   "text": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure optimization tasks across different levels. We evaluate six models across 150 runs with 24-hour budgets, totaling over 10,000 GPU-hours. Our results show that model rankings vary with the evaluation horizon, while 135 of the 150 runs achieve further improvements during the second half of their budgets. These findings indicate that shorter evaluations can overlook both optimization gains and changes ",
-   "title_th": "Infrathon: เกณฑ์มาตรฐานใหม่สำหรับประเมิน AI Agent ในการปรับแต่งโครงสร้างพื้นฐาน",
-   "summary_th": "Infrathon เป็นชุดทดสอบใหม่ที่ใช้ประเมินความสามารถของ AI Agent ในการปรับแต่งโครงสร้างพื้นฐาน AI ในระยะยาว ผลการทดสอบชี้ให้เห็นว่าประสิทธิภาพของโมเดลมีความแตกต่างกันตามระยะเวลาที่ใช้ในการประเมิน",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "871c4497cbf2",
-   "url": "https://huggingface.co/papers/2611.12885",
-   "source": "HF Daily Papers",
-   "published": "2026-11-08T19:00:00+00:00",
-   "title": "World In-Context Learning for Agentic Robot Manipulation",
-   "text": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. Based on this insight, we propose World In-Context Learning (WICL), a paradigm in ",
-   "title_th": "World In-Context Learning สำหรับหุ่นยนต์จัดการวัตถุ",
-   "summary_th": "งานวิจัยเสนอแนวทาง In-context learning สำหรับหุ่นยนต์ที่เน้นการเรียนรู้เชิงความหมายเกี่ยวกับขั้นตอนงานและบทบาทของวัตถุแทนการจำลองภาพ ช่วยให้หุ่นยนต์สามารถนำประสบการณ์จากสภาพแวดล้อมหนึ่งไปประยุกต์ใช้ในอีกสภาพแวดล้อมได้ดีขึ้น",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
    "ai": true,
    "dedup": true
   }

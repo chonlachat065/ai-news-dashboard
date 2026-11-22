@@ -1,15 +1,17 @@
 {
  "version": 3,
- "updated_at": "2026-11-22T02:12:51+00:00",
+ "updated_at": "2026-11-22T09:45:51+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-22T02:12:51+00:00",
-  "headline": "นักวิจัย Anthropic อ้างใช้ Claude พิสูจน์สมมติฐาน Riemann ได้สำเร็จท่ามกลางการตรวจสอบจากวงการวิชาการ",
+  "generated_at": "2026-11-22T09:45:51+00:00",
+  "headline": "วงการ AI ตื่นตัวกับข้ออ้างการใช้ Claude พิสูจน์สมมติฐานคณิตศาสตร์ระดับโลก พร้อมความกังวลด้านความปลอดภัยและทิศทางธุรกิจ",
   "points": [
    {
-    "text": "นักวิจัยและพนักงานของ Anthropic อ้างว่าสามารถใช้โมเดล Claude ช่วยพิสูจน์สมมติฐานทางคณิตศาสตร์ Riemann Hypothesis ที่ค้างคามานานกว่า 167 ปีได้สำเร็จ ซึ่งถือเป็นก้าวสำคัญในการใช้ AI ช่วยงานวิจัยเชิงลึก",
+    "text": "นักวิจัยจาก Anthropic อ้างว่าโมเดล Claude สามารถช่วยพิสูจน์สมมติฐาน Riemann Hypothesis ที่ค้างคามานานกว่า 167 ปีได้สำเร็จ ซึ่งขณะนี้กำลังอยู่ระหว่างการตรวจสอบและมีงานวิจัยจาก Stanford ออกมาโต้แย้งข้อพิสูจน์ดังกล่าว",
     "ids": [
+     "17806cd6f3ec",
      "036c3debea8a",
+     "204f20d1975d",
      "5a2e7bbbe51c",
      "3534d2195ee4",
      "4e2c67dcaa9f",
@@ -24,31 +26,29 @@
      "608879a56a29",
      "fa489d5de826",
      "995652bc9466",
-     "5dd6a4db14f8",
-     "c5d37adcee94",
-     "217296edb4b1",
-     "7ffc27ea980a"
+     "a18b4c817f14",
+     "5dd6a4db14f8"
     ]
    },
    {
-    "text": "นักวิจัยจาก Stanford ได้เผยแพร่ร่างงานวิจัยเพื่อโต้แย้งข้อพิสูจน์ดังกล่าว ทำให้เกิดการตรวจสอบและถกเถียงในวงกว้างเกี่ยวกับความถูกต้องของผลลัพธ์จาก AI",
+    "text": "ผู้ให้บริการ LLM อย่าง Novita, Phala และ Together ถูกแฮกส่งผลให้ข้อมูลพรอมต์และ API key ของผู้ใช้งานรั่วไหล แม้จะมีนโยบายไม่เก็บข้อมูลก็ตาม",
     "ids": [
-     "a18b4c817f14"
+     "ff70d71c7b8a"
     ]
    },
    {
-    "text": "Anthropic เผชิญกับกระแสวิพากษ์วิจารณ์เรื่องมูลค่า IPO ที่สูงถึง 2 ล้านล้านดอลลาร์ และบทวิเคราะห์ที่ระบุว่าชิป AI เริ่มทดแทนกันได้มากขึ้น ซึ่งอาจส่งผลต่อความได้เปรียบทางการตลาดของ Nvidia",
+    "text": "ความเคลื่อนไหวในอุตสาหกรรม AI มีทั้งการเปิดตัวโมเดล Open-Weight ขนาดใหญ่ Kimi K3 โดย Moonshot, การเปิดตัวโมเดลขนาดเล็ก Aion 1.0 Instruct ของไมโครซอฟท์ และข้อถกเถียงเรื่องมูลค่า IPO ของ Anthropic รวมถึงความสามารถในการทดแทนชิปของ Nvidia",
     "ids": [
+     "58335319b6a5",
      "f598fefaa931",
+     "1744e8395eb1",
      "33738aa44b68"
     ]
    },
    {
-    "text": "ความเคลื่อนไหวอื่นๆ ในอุตสาหกรรม ได้แก่ การที่ UN ยังไม่สามารถหาข้อตกลงกำกับดูแลอาวุธสังหารอัตโนมัติได้, Oracle ยืนยันความพร้อมด้านเงินทุนสำหรับศูนย์ข้อมูล OpenAI และไมโครซอฟท์เปิดตัวโมเดลขนาดเล็ก Aion 1.0 Instruct สำหรับรันบนพีซีทั่วไป",
+    "text": "การประชุมของ UN ที่เจนีวาเพื่อหารือเรื่องการกำกับดูแลอาวุธสังหารอัตโนมัติจบลงโดยไม่มีข้อสรุปที่เป็นรูปธรรม",
     "ids": [
-     "234da3fc1867",
-     "500558bbe153",
-     "1744e8395eb1"
+     "234da3fc1867"
     ]
    }
   ]
@@ -141,7 +141,7 @@
   {
    "name": "Hacker News",
    "ok": true,
-   "count": 17,
+   "count": 19,
    "error": null
   },
   {
@@ -646,9 +646,150 @@
   "537501d159a8",
   "779ccf54081c",
   "f3487ac9886e",
-  "7732322b56a3"
+  "7732322b56a3",
+  "6d859339b158",
+  "dffa385cb367",
+  "359c6ad1f138",
+  "4530a4503253",
+  "cbae4e220dc3",
+  "5de67201097e",
+  "bd5be5eaaa57"
  ],
  "items": [
+  {
+   "id": "ff70d71c7b8a",
+   "url": "https://www.blognone.com/node/152238",
+   "source": "Blognone",
+   "published": "2026-11-22T08:08:59+00:00",
+   "title": "ผู้ให้บริการ LLM บน OpenRouter ถูกแฮก ข้อมูลในพรอมต์ถูกนำไปใช้ หากมี API key ในพรอมต์จะเสียหายหนัก",
+   "text": "Body ผู้ให้บริการ LLM สามรายที่ให้่บริการผ่าน OpenRouter ได้แก่ Novita, Phala, และ Together ถูกคนร้ายแฮกระบบและดึงพรอมต์ที่ลูกค้าใช้งานออกไปได้ ส่งผลให้เกิดความเสียหายเป็นวงกว้างเนื่องจากในพรอมต์อาจมี API key หรือรหัสผ่านของระบบอื่นๆ อยู่ด้วย ที่น่ากังวลคือผู้ให้บริการเหล่านี้บางรายให้บริการแบบ Zero Data Retention (ZDR) ที่สัญญากับลูกค้าว่าจะไม่เก็บพรอมต์ไว้ประมวลผลอื่นอีก แต่ในความเป็นจริงแล้วก็เก็บพรอมต์ไว้ในระบบอยู่ดี ทาง Dragos ทดลองด้วยการสร้าง AWS key แล้วคุยกับ LLM โดยให้กุญแจเหล่านี้หลุดเ",
+   "title_th": "ผู้ให้บริการ LLM บน OpenRouter ถูกแฮก ข้อมูลพรอมต์และ API key รั่วไหล",
+   "summary_th": "ผู้ให้บริการ LLM อย่าง Novita, Phala และ Together ถูกแฮกทำให้ข้อมูลพรอมต์ของผู้ใช้งานรั่วไหล ซึ่งอาจรวมถึง API key หรือรหัสผ่านสำคัญ แม้ผู้ให้บริการจะอ้างนโยบายไม่เก็บข้อมูลก็ตาม",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "OpenRouter",
+    "Novita",
+    "Together"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "17806cd6f3ec",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YXhBd2Z3RVR5MXptR0poX3hYN0lMUQ?oc=5",
+   "source": "The Independent",
+   "published": "2026-11-22T08:07:06+00:00",
+   "title": "Anthropic mathematician claims to have proved Riemann hypothesis with help of Claude",
+   "text": "",
+   "title_th": "นักคณิตศาสตร์จาก Anthropic อ้างว่าพิสูจน์สมมติฐาน Riemann ได้ด้วยความช่วยเหลือจาก Claude",
+   "summary_th": "นักคณิตศาสตร์ของ Anthropic ระบุว่าสามารถพิสูจน์สมมติฐานทางคณิตศาสตร์ที่สำคัญอย่าง Riemann hypothesis ได้สำเร็จ โดยใช้โมเดล Claude เป็นเครื่องมือช่วยในการทำงาน",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "257b915143a7",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0Y5T2JvYmpRNjIyQTJCS2N1TWs1Mk0wd09XdklZZ0FpekJhU0NpQWlDSDNFeU5MNlh6cUJpaHlFS2pILVNxT2dMSGx4Y01XZUFLTDgzc2dmN0FkcVA2OHFOUGYtQ1lXZWVhbGplbFJfSjlfZVpRai1xVzR0RUNNUFdTVUtYNWJUQjhsOHUzSTVTMF9oVER2WUlB?oc=5",
+   "source": "1News",
+   "published": "2026-11-22T07:59:59+00:00",
+   "title": "A historic and massive IPO exposes tensions over AI safety",
+   "text": "",
+   "title_th": "การทำ IPO ครั้งใหญ่เผยให้เห็นความขัดแย้งเรื่องความปลอดภัยของ AI",
+   "summary_th": "การเตรียมตัวเข้าสู่ตลาดหลักทรัพย์ของบริษัท AI รายใหญ่กำลังเผชิญกับแรงกดดันและความเห็นที่แตกต่างกันอย่างมากในประเด็นด้านความปลอดภัยของเทคโนโลยี AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "195dc27b255a",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaHhBWHBNUW00OXBvRGt4NUsyRjRxam5tcGlVR0hRV2Jaa1R1bmZpbnFiVjE3aWk0aE1na0Fmd0xpWXpqemx5UTRGN2VpWHFzc2NVSnpGVHRNRXRwcXdZajZSVnpoLWVYelB6b0VHZEc3ak1XR0E1a3JfYU9RSFFETGpfWjdXdW82VS1aU3pjeVQ2QVRidlpVbG1tSXpRVVdKUzdKUXp2X1RGYVJWVU5zVDVOb0hIemxuUDNoUDRhUjBueGFVZXJiWTdET1RkWWpmS25IZXh2OHRrbDRteF9RTUx5UVIxYjltZGcwREZPc0VwZGQw0gH6AUFVX3lxTFBYbjdwcVZwYnR1aTY4ZUhQTVZRX1ZDSDd5ejVwTjNNRERncF9IT2NRMGxHZ0tXUm1kUWZaRXcxM2pNeTFNeUJQMUdHeFpyUW00TS0taWNyTHZvZ2VVQVhFMGdnSnBXbTNBMGMzTW1xOVhKeVhIY0JvbWx5SnNrdlVudWRuaThTNEw2Q3I2dklNOHJpNENCWmdBZWlJVmZxMTZ3RGkxQnJnOHVrdjlpTFlqS3dTMGZtM1hKYXBNX1BXTXJJOTBvWl91VU51MHVubmVpYmpvbVdxYVpmX0NaYlFLLTNuM3FyWTRIZmpQSEtYM2ZWOUdkLW5Xc1E?oc=5",
+   "source": "The Times of India",
+   "published": "2026-11-22T07:45:00+00:00",
+   "title": "The Claude payday: How Anthropic’s IPO could make thousands of staff millionaires",
+   "text": "",
+   "title_th": "จับตา IPO ของ Anthropic อาจสร้างเศรษฐีใหม่ให้พนักงานนับพันคน",
+   "summary_th": "การเสนอขายหุ้น IPO ของ Anthropic ถูกจับตามองอย่างใกล้ชิด เนื่องจากอาจส่งผลให้พนักงานจำนวนมากได้รับผลตอบแทนมหาศาลจนกลายเป็นเศรษฐี",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6b6dd268f389",
+   "url": "https://www.blognone.com/node/152237",
+   "source": "Blognone",
+   "published": "2026-11-22T07:43:07+00:00",
+   "title": "Tesla อัปเดต FSD v15 แสดงผลแบบ Reality View ขณะเดินทาง ให้ภาพที่สมจริงยิ่งขึ้น",
+   "text": "Body Tesla ออกอัปเดตซอฟต์แวร์ระบบขับขี่อัตโนมัติเต็มรูปแบบหรือ FSD (Full Self-Driving) ให้กับลูกค้าในเวอร์ชันล่าสุด FSD v15 โดยระบุว่าสามารถจัดการกับสถานการณ์ความปลอดภัยฉุกเฉินได้ดีขึ้น 25 เท่า และเรียนรู้การกำหนดแผนการเดินทางได้ขึ้นผ่านระบบเรียนรู้จากเครือข่าย ของใหม่ที่โดดเด่นในอัปเดตนี้คือการแสดงผลบนหน้าจอขณะเดินทางที่ Tesla เรียกว่า Tesla Reality View ซึ่งแสดงภาพในมุมมองด้านหลังรถ พร้อมสภาพแวดล้อมที่สวยงาม 3D สมจริง ไม่ใช่แค่บล็อกถนน-อาคารแบบเดิม ผู้ขับขี่ยังเห็นข้อมูลว่า FSD กำลังวางแผนและตัดสินใจกับสิ่งที่เห็น",
+   "title_th": "Tesla อัปเดต FSD v15 เพิ่มฟีเจอร์ Reality View แสดงผล 3D สมจริง",
+   "summary_th": "Tesla ปล่อยอัปเดต FSD v15 ที่ปรับปรุงระบบความปลอดภัยฉุกเฉินและเพิ่มฟีเจอร์ Tesla Reality View ซึ่งแสดงผลสภาพแวดล้อมรอบรถแบบ 3D ที่สมจริงยิ่งขึ้นกว่าเดิม",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Tesla"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "033c25f907d0",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55YjU4NWNqRl9xMlk5bVYxaVpjRHdWeVhPT2lfejBQNzI0Z25McV95QWxqa2pFZFRXVWc5UHR6UTlXaFhCcXlCSzZIX2NQeWZGRUxtSHR2WmJPWGNVUEVXcU5qUG5abnc?oc=5",
+   "source": "CTech",
+   "published": "2026-11-22T07:10:00+00:00",
+   "title": "\"I would not be surprised if Anthropic's market cap reached $5 trillion in the not-too-distant future\"",
+   "text": "",
+   "title_th": "คาดการณ์มูลค่าตลาด Anthropic อาจพุ่งแตะ 5 ล้านล้านดอลลาร์ในอนาคต",
+   "summary_th": "มีการวิเคราะห์ถึงศักยภาพการเติบโตของ Anthropic โดยคาดการณ์ว่ามูลค่าบริษัทอาจสูงถึง 5 ล้านล้านดอลลาร์ในอนาคตอันใกล้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "58335319b6a5",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1pCaFBqckY2SWhrWVhqQkR6N2RuN0lUM1JJd0d0cUE4WGV3U0VSM3Yxamh6YTBDT3A3TV8zaFp4ZGZ4VTRtWHRLb2J1SGI4ZzM0N2tyMzZHYkRuRnVIUFJKSmRfNHpWR2NaM0FMSmstTk5lNUJ0bDFMeW5tWFNRd25QUkFKZ2R3c3NZVHZPS2ZrVElCc0RwdlJKeTBob0pFV1ZBUG5adEl1UW9uaWc?oc=5",
+   "source": "VOI.ID",
+   "published": "2026-11-22T03:34:04+00:00",
+   "title": "Moonshot Launches Kimi K3, an Open-Weight AI Model with 2.8 Trillion Parameters",
+   "text": "",
+   "title_th": "Moonshot เปิดตัว Kimi K3 โมเดล Open-Weight ขนาด 2.8 ล้านล้านพารามิเตอร์",
+   "summary_th": "Moonshot AI เปิดตัว Kimi K3 โมเดลแบบ Open-Weight ที่มีขนาดใหญ่ถึง 2.8 ล้านล้านพารามิเตอร์ เพื่อเพิ่มขีดความสามารถในการประมวลผลภาษา",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Moonshot"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "381628060ea9",
+   "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+   "source": "Hacker News",
+   "published": "2026-11-22T02:14:14+00:00",
+   "title": "Data Processing Incidents on Inference Providers",
+   "text": "142 points, 54 comments on Hacker News (https://news.ycombinator.com/item?id=50595554)",
+   "title_th": "รายงานเหตุการณ์ความปลอดภัยในการประมวลผลข้อมูลบนผู้ให้บริการ Inference",
+   "summary_th": "มีการรายงานถึงปัญหาด้านความปลอดภัยในการประมวลผลข้อมูลของผู้ให้บริการ Inference ซึ่งส่งผลกระทบต่อความเชื่อมั่นของผู้ใช้งาน",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "658e97edaac8",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFlxMVFEWUJKWEFhNDJCT09sRFBEak1FZlZEOGlDWlB5Z21NRmVvcVhialJYcUFnZFp0MFg3NmJ2XzdUWGVqZTNfdE9NbE9SOXJjbnpzc2NPdFM0OFlGaVh2T0VaM1NrbjUtZmY2VTRBVGFGeFFxVDNZeG55WUhHWlByN0l1OVFSV0ttZjYtM0g4ZE95MmdLTF8zZ1Bhc0pReVFzR0NmYmt1UlZLUUpMM1hrODNtbFZsTWZFR2dGazVaWElkZzZ2TmZyVkdwTUNEZm9n?oc=5",
@@ -681,7 +822,17 @@
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0Q1STZOVllEWmZRZlVtNF9FbDU4Sk0zNUxCOFpfOWYwcEVYcE1oYjY4V05LRzBjR3dneFJ0bUQ3VHVwN1V1NmdWNkFhZVpwZ2FCdzdwWjBPYlM2XzVzZFpHczJlZjZkZWU1eFVRZ2E2WUszODRtZTlYZVpJV2podw?oc=5"
+    },
+    {
+     "source": "Hokanews",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCcldjU1Z4OGthMXFCNmFkRE5aZU11azZkRmtuN013R0FTWXdfblhXNnZaMHV2RDVKVXF4clJBaFI3Y3FUY3JnM0UxSDFza25wQ3NmTnNobTdhVWZYcE5lMTZXclZDMHgtSHJUSEhsbEpLaWhKSkplSl9KRDlldw?oc=5"
+    }
+   ]
   },
   {
    "id": "f598fefaa931",
@@ -697,6 +848,23 @@
     "Anthropic"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "90764538b4df",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejJmakJOUXNoWV9XYUtYdUZra0V0S21Uc2c4MnhPb3o4WEhEbXcxRi1OLW01cnNVLVVCVGtOZkQ3NU10eURGQy1PNldWSkNuaVNjdmNVVEd0czY3czNIdzlSbkE3eVJtNDhsdGZPYUlYSklyUG10Ny03QlYyV3pNMEJGV0NKSnY3WFZrUUxpcC14NjNwSThrVXp3?oc=5",
+   "source": "explainx.ai",
+   "published": "2026-11-22T00:00:00+00:00",
+   "title": "Inference Optimisation Skill: Claude Code LLM Tuning",
+   "text": "",
+   "title_th": "ทักษะการปรับแต่ง Claude Code LLM เพื่อเพิ่มประสิทธิภาพการทำงาน",
+   "summary_th": "บทความแนะนำเทคนิคการปรับแต่ง (Tuning) โมเดล Claude Code เพื่อเพิ่มประสิทธิภาพในการประมวลผลและลดต้นทุนการใช้งานสำหรับนักพัฒนา",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -741,6 +909,23 @@
    "text": "",
    "title_th": "กลุ่มนักวิจัยตรวจสอบการพิสูจน์สมมติฐาน Riemann ที่ช่วยโดย Claude",
    "summary_th": "มีการตรวจสอบการพิสูจน์สมมติฐานทางคณิตศาสตร์ Riemann ที่อ้างว่าทำสำเร็จโดยความช่วยเหลือจากโมเดล Claude ของ Anthropic",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "204f20d1975d",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtanMyOVRpbzZVaVYwVVJJbnVmMjRDT0tGX1hSbUE2QXlQTDB6Sm05UUNXSXdRbHE0TFdUeGdXbXdLS3R0Y1poSA?oc=5",
+   "source": "Digg",
+   "published": "2026-11-21T22:04:38+00:00",
+   "title": "Anthropic’s Levent Alpöge claims a Claude-assisted proof of the Riemann hypothesis",
+   "text": "",
+   "title_th": "Levent Alpöge จาก Anthropic อ้างการพิสูจน์ Riemann hypothesis โดยใช้ Claude",
+   "summary_th": "Levent Alpöge นักวิจัยจาก Anthropic ได้นำเสนอผลงานการพิสูจน์สมมติฐานทางคณิตศาสตร์ที่ซับซ้อนโดยอาศัยความช่วยเหลือจากโมเดล Claude",
    "category": "งานวิจัย",
    "companies": [
     "Anthropic"
@@ -1063,20 +1248,6 @@
    "importance": 4,
    "ai": true,
    "dedup": true
-  },
-  {
-   "id": "359c6ad1f138",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0Q1STZOVllEWmZRZlVtNF9FbDU4Sk0zNUxCOFpfOWYwcEVYcE1oYjY4V05LRzBjR3dneFJ0bUQ3VHVwN1V1NmdWNkFhZVpwZ2FCdzdwWjBPYlM2XzVzZFpHczJlZjZkZWU1eFVRZ2E2WUszODRtZTlYZVpJV2podw?oc=5",
-   "source": "Crypto Briefing",
-   "published": "2026-11-21T15:35:45+00:00",
-   "title": "Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches",
-   "text": "",
-   "title_th": "Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
   },
   {
    "id": "1744e8395eb1",
@@ -1438,6 +1609,21 @@
     "Anthropic",
     "SendPulse"
    ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5ded171cd2e7",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83MTVVd0tJNjRwdUFENVRudGx1TjB1Qmc2OHZkRXJHOFFLNDhqUUJZdnFTak5VMjFvUlVsVGZjS0RrTnBwejRPSGlzZndLaUgzWmtXUjlNS3A5dnpsUlhDcjBHMVdzTG5sV3VnY0p3?oc=5",
+   "source": "Thansettakij",
+   "published": "2026-11-21T09:32:00+00:00",
+   "title": "พืชสวนโลกอุดรฯ ใช้ดิจิทัล-AI ตัดสินกล้วยไม้ 1,541 ชิ้น ชี้โปร่งใสตรวจสอบได้",
+   "text": "",
+   "title_th": "งานพืชสวนโลกอุดรฯ นำ AI มาใช้ตัดสินการประกวดกล้วยไม้กว่า 1,500 รายการ",
+   "summary_th": "งานมหกรรมพืชสวนโลกที่จังหวัดอุดรธานีนำเทคโนโลยี AI มาช่วยในการตัดสินการประกวดกล้วยไม้ เพื่อเพิ่มความโปร่งใสและตรวจสอบได้ในการให้คะแนน การนำ AI มาประยุกต์ใช้ในงานเกษตรกรรมนี้ช่วยลดข้อผิดพลาดและสร้างมาตรฐานใหม่ในการตัดสิน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [],
    "importance": 2,
    "ai": true,
    "dedup": true
@@ -2298,6 +2484,18 @@
     {
      "source": "hi-Tech.ua",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEJXZmNMTTNHemVRYmJOYnE4MGVLeGRLVWU1Ry1YWmZ6NndOWkpPcVZwWDFTUkp0ZENyVW5NSFFZRVhSdkI4eXZ3V2VSb092Z25qYkhYLWNmWUMzTEl1bWhUeWE0V3VCZ3NUVF9iVFZkS0VfYVRSaE5PRmtnc0FzeA?oc=5"
+    },
+    {
+     "source": "Yahoo Tech",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWVfSWVYY1k5TWw3TWJ5WGYyWExnNDM2Wmp4eWs1LXk4S2IwYkt2NVBYeXpRZEM3Q2NERHd0RllEcU0wV2t2M3BPNG5Xbm9xbU5MMEtIVnFEZFA2ZWtiQjg3VFFMRmc5OXZiRnUzYVkzUkhidmFRM24wZ01INno2ek9TTEZOT25QQ2x4azZodw?oc=5"
+    },
+    {
+     "source": "YugaTech",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0lJRy1YdUl1Y2UxbC1fUnk4SmUtRHhXNEFER0x2SGJpS2NOc2NNTnVaRm1kYlZ1RVE4UFdwcFphRVJkT29NUHdOSWpHZmR4SlpTeERjWmcxeURNb0NPU1FHV2kyRGhYQ2NVU2tQNmJNYlpuUkVybnJEYkNzU2Q0M3VtS1ZVR0N1RF9qRnBJdjJwaERUV3dPYmdtYWliVVgwUmc?oc=5"
+    },
+    {
+     "source": "Dailyhunt",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQMkFRUnlyc2RrUjJzTzdWOTNWWXR3Y0lueVdGcFBIVGNsdm1NcjFRRFdYdnJEQzZ6cmhBUHpZZU1lUUJoMWVSeU9jWi1DWWJZdUU5T0tpaWZUZkhxaF85WlZyVDhPWE53WXpXMmc3cGR4OHZpb29WZmFwMHRBbTJ1QlJGcTYzVkpEaXRYMDl3akdKenN4NU5MVU9iYlZRWkRJa2ZTWG0yS3pUMjlyVmVJNENKTXdGOUswcmd3Mk5nYkZ3UlNsVzE4YjBzdEIxcGd0RzFYTXVobUVISHBoUjR0dGVYUy12OUp0NW1zWC1OUVZSMTJKYTFOWXFQdXQ0cWN2VGxsdHh0TlMyZk0ySWsta3BWMGFLN1dfTV82c094amE?oc=5"
     }
    ]
   },
@@ -16365,23 +16563,6 @@
     "Anthropic"
    ],
    "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "fbaf5ca0ad58",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1p5cnJDbnhoTElxN3ZodFpWRE52RmNSS01fNE90WTNYbHF2X3B5bDJET0RTTWRWRndUTEM0TkRBclhJVnVSVXM1ZG1yMXNaMmFGRmJhSmpLVGw1RXRpd2Vva2gyOU1rOEt6eE5zRVhaVmFZVFdrNGJ4MXcyRFZkQ09XRVE?oc=5",
-   "source": "shattered.io",
-   "published": "2026-11-08T08:13:53+00:00",
-   "title": "Anthropic S-1: Loss Narrows to $1.3B From $5.2B [2026]",
-   "text": "",
-   "title_th": "Anthropic เผยผลประกอบการ S-1 ขาดทุนลดลงเหลือ 1.3 พันล้านดอลลาร์",
-   "summary_th": "เอกสาร S-1 ของ Anthropic แสดงให้เห็นว่าบริษัทสามารถลดตัวเลขการขาดทุนลงได้อย่างมีนัยสำคัญเมื่อเทียบกับปีก่อนหน้า",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 4,
    "ai": true,
    "dedup": true
   }

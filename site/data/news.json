@@ -1,17 +1,16 @@
 {
  "version": 3,
- "updated_at": "2026-11-21T20:30:41+00:00",
+ "updated_at": "2026-11-22T02:12:51+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-21T20:30:41+00:00",
-  "headline": "วงการ AI ตื่นตัวหลังนักวิจัย Anthropic อ้างใช้ Claude พิสูจน์สมมติฐาน Riemann Hypothesis สำเร็จ ท่ามกลางการตรวจสอบจากนักวิชาการ",
+  "generated_at": "2026-11-22T02:12:51+00:00",
+  "headline": "นักวิจัย Anthropic อ้างใช้ Claude พิสูจน์สมมติฐาน Riemann ได้สำเร็จท่ามกลางการตรวจสอบจากวงการวิชาการ",
   "points": [
    {
-    "text": "นักวิจัยจาก Anthropic อ้างว่าสามารถใช้โมเดล Claude ช่วยพิสูจน์สมมติฐานทางคณิตศาสตร์ Riemann Hypothesis ที่ค้างคามานานกว่า 167 ปีได้สำเร็จ อย่างไรก็ตาม นักวิจัยจาก Stanford ได้เผยแพร่ร่างงานวิจัยเพื่อโต้แย้งข้อพิสูจน์ดังกล่าวแล้ว",
+    "text": "นักวิจัยและพนักงานของ Anthropic อ้างว่าสามารถใช้โมเดล Claude ช่วยพิสูจน์สมมติฐานทางคณิตศาสตร์ Riemann Hypothesis ที่ค้างคามานานกว่า 167 ปีได้สำเร็จ ซึ่งถือเป็นก้าวสำคัญในการใช้ AI ช่วยงานวิจัยเชิงลึก",
     "ids": [
-     "632b9b19196a",
-     "bc28b368db41",
-     "fba8e310738b",
+     "036c3debea8a",
+     "5a2e7bbbe51c",
      "3534d2195ee4",
      "4e2c67dcaa9f",
      "d4a025fe3f25",
@@ -22,9 +21,9 @@
      "8bda38614e57",
      "43fb24eb7623",
      "16998a4ff421",
+     "608879a56a29",
      "fa489d5de826",
      "995652bc9466",
-     "a18b4c817f14",
      "5dd6a4db14f8",
      "c5d37adcee94",
      "217296edb4b1",
@@ -32,23 +31,24 @@
     ]
    },
    {
-    "text": "OpenAI ประกาศเปิดตัวโมเดล GPT-6 Astra ที่ใช้สถาปัตยกรรมใหม่เพื่อก้าวเข้าสู่ยุค AGI ในขณะที่ไมโครซอฟท์เปิดตัว Aion 1.0 Instruct โมเดลขนาดเล็กสำหรับรันบนอุปกรณ์ทั่วไป",
+    "text": "นักวิจัยจาก Stanford ได้เผยแพร่ร่างงานวิจัยเพื่อโต้แย้งข้อพิสูจน์ดังกล่าว ทำให้เกิดการตรวจสอบและถกเถียงในวงกว้างเกี่ยวกับความถูกต้องของผลลัพธ์จาก AI",
     "ids": [
-     "2f8cc2022f9a",
-     "1744e8395eb1"
+     "a18b4c817f14"
     ]
    },
    {
-    "text": "Oracle ยืนยันความพร้อมด้านเงินทุนสำหรับศูนย์ข้อมูล AI ของ OpenAI ส่วน Anthropic ชี้ว่าชิปประมวลผล AI เริ่มมีความสามารถทดแทนกันได้มากขึ้น ซึ่งอาจส่งผลต่อความได้เปรียบทางการตลาดของ Nvidia",
+    "text": "Anthropic เผชิญกับกระแสวิพากษ์วิจารณ์เรื่องมูลค่า IPO ที่สูงถึง 2 ล้านล้านดอลลาร์ และบทวิเคราะห์ที่ระบุว่าชิป AI เริ่มทดแทนกันได้มากขึ้น ซึ่งอาจส่งผลต่อความได้เปรียบทางการตลาดของ Nvidia",
     "ids": [
-     "500558bbe153",
+     "f598fefaa931",
      "33738aa44b68"
     ]
    },
    {
-    "text": "การประชุมของ UN ที่เจนีวาเพื่อหารือเรื่องการกำกับดูแลอาวุธสังหารอัตโนมัติจบลงโดยไม่มีข้อสรุปที่เป็นรูปธรรม โดยตกลงเพียงแค่จะเริ่มหารือทางเลือกต่างๆ ในอนาคต",
+    "text": "ความเคลื่อนไหวอื่นๆ ในอุตสาหกรรม ได้แก่ การที่ UN ยังไม่สามารถหาข้อตกลงกำกับดูแลอาวุธสังหารอัตโนมัติได้, Oracle ยืนยันความพร้อมด้านเงินทุนสำหรับศูนย์ข้อมูล OpenAI และไมโครซอฟท์เปิดตัวโมเดลขนาดเล็ก Aion 1.0 Instruct สำหรับรันบนพีซีทั่วไป",
     "ids": [
-     "234da3fc1867"
+     "234da3fc1867",
+     "500558bbe153",
+     "1744e8395eb1"
     ]
    }
   ]
@@ -141,7 +141,7 @@
   {
    "name": "Hacker News",
    "ok": true,
-   "count": 20,
+   "count": 17,
    "error": null
   },
   {
@@ -165,7 +165,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": null
   }
  ],
@@ -642,9 +642,147 @@
   "d7ec23d36946",
   "62308edade7b",
   "c8d8f559eaf8",
-  "cc8a047c96f5"
+  "cc8a047c96f5",
+  "537501d159a8",
+  "779ccf54081c",
+  "f3487ac9886e",
+  "7732322b56a3"
  ],
  "items": [
+  {
+   "id": "658e97edaac8",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFlxMVFEWUJKWEFhNDJCT09sRFBEak1FZlZEOGlDWlB5Z21NRmVvcVhialJYcUFnZFp0MFg3NmJ2XzdUWGVqZTNfdE9NbE9SOXJjbnpzc2NPdFM0OFlGaVh2T0VaM1NrbjUtZmY2VTRBVGFGeFFxVDNZeG55WUhHWlByN0l1OVFSV0ttZjYtM0g4ZE95MmdLTF8zZ1Bhc0pReVFzR0NmYmt1UlZLUUpMM1hrODNtbFZsTWZFR2dGazVaWElkZzZ2TmZyVkdwTUNEZm9n?oc=5",
+   "source": "디지털투데이",
+   "published": "2026-11-22T01:47:03+00:00",
+   "title": "Thinking Machines Lab unveils laptop-runnable model Inkling 2 Mini, highlighting coding strength",
+   "text": "",
+   "title_th": "Thinking Machines Lab เปิดตัว Inkling 2 Mini โมเดล AI ขนาดเล็กที่รันบนแล็ปท็อปได้",
+   "summary_th": "Thinking Machines Lab เผยโฉม Inkling 2 Mini โมเดล AI ที่เน้นความสามารถด้านการเขียนโค้ดและออกแบบมาให้สามารถรันบนแล็ปท็อปทั่วไปได้",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Thinking Machines Lab"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "50693b92b9fc",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOOENJelFNUTVyYjZqWU5VbEFYM084SnlHMUhEdWFwSTVLR3QzRVZMOGNTLVhlMlhKY1BRS3N5S2h0bTdPd0lxQW1yanY0UkhGd3NoU2VXekgtMzFsazZZNWNObFp6RFNsdEpFTGdkVXB0eEtNbEE?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-22T01:25:00+00:00",
+   "title": "Chainalysis Finds 55% Jump in China-Linked Stablecoin Payments Tied to AI Proxy Access",
+   "text": "",
+   "title_th": "Chainalysis พบการใช้ Stablecoin เชื่อมโยงจีนพุ่ง 55% หลังการเข้าถึง AI Proxy",
+   "summary_th": "รายงานจาก Chainalysis ระบุว่ามีการใช้ Stablecoin ที่เกี่ยวข้องกับจีนเพิ่มขึ้นอย่างมีนัยสำคัญ ซึ่งเชื่อมโยงกับการเข้าถึงบริการ AI ผ่าน Proxy",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Chainalysis"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f598fefaa931",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZk5DTlk1MG9TUTMyOThsVVFKNFc3SG56QS1WMm5mdDZJWk1pTWRJWk1sVnlqSzREdDByVFVXd3JDdkxUR3FFWjNFZFMzNGJqZlZ3UlVsZ1JienhzTVdCVVVLZEFTd05hNGxzbGhidHhvLTRDWFFXSGpNUmVHd0tTQV9DUEJ2NFVuNmJ5d3d3?oc=5",
+   "source": "조선일보",
+   "published": "2026-11-22T00:07:29+00:00",
+   "title": "Anthropic's $2 Trillion IPO Sparks Debate: Can AI Deliver Returns?",
+   "text": "",
+   "title_th": "กระแสวิพากษ์วิจารณ์ IPO มูลค่า 2 ล้านล้านดอลลาร์ของ Anthropic",
+   "summary_th": "การเตรียมตัวเข้าสู่ตลาดหลักทรัพย์ของ Anthropic สร้างข้อถกเถียงในวงกว้างว่าเทคโนโลยี AI จะสามารถสร้างผลตอบแทนได้คุ้มค่าตามมูลค่าที่คาดการณ์ไว้หรือไม่",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "21bd1d482ae2",
+   "url": "https://simonwillison.net/2026/Nov/21/muru/",
+   "source": "Simon Willison",
+   "published": "2026-11-21T23:56:28+00:00",
+   "title": "Muru",
+   "text": "Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process. Here's everything he's published so far, all in the last three weeks: 2026-11-04 — Twenty years of mod_wsgi, and what comes next 202",
+   "title_th": "เปิดตัว Muru เซิร์ฟเวอร์ Python ที่ใช้ AI ช่วยในการพัฒนา",
+   "summary_th": "Muru เป็นเซิร์ฟเวอร์ Rust ตัวใหม่ที่ออกแบบมาเพื่อรันแอปพลิเคชัน Python ทั้งในระดับพัฒนาและใช้งานจริง โดยมีจุดเด่นคือการนำ AI มาช่วยเพิ่มประสิทธิภาพในการทำงาน",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1107ca7f4064",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSm1TRFdNdzF0cW1QanRoODY2VkMyRmlGWHRVYWxsb3JFT190Q2xtQzRuX2oxMEhLeFo4TTFPMHF1WUtqNnUtUW5WVnpMYXJsazZGZTNHYUFNaWZXUmlvdXZpdGlmeGZEY3NydnV4OFhTZnU1c190d280UmpjSF81VWZ3?oc=5",
+   "source": "Bleap",
+   "published": "2026-11-21T22:45:46+00:00",
+   "title": "Anthropic ANT IPO: Claude Stock Price and Key Facts 2026",
+   "text": "",
+   "title_th": "ข้อมูลสำคัญเกี่ยวกับราคาหุ้นและ IPO ของ Anthropic ในปี 2026",
+   "summary_th": "สรุปข้อมูลเบื้องต้นเกี่ยวกับการเสนอขายหุ้น IPO ของ Anthropic และการวิเคราะห์ราคาหุ้น Claude ที่นักลงทุนควรทราบ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "036c3debea8a",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlA3YmE1SENKMHdqY2MwSEVFRFQ3eW9URjRhTW83QjNCN0U3SUhweC1vTGhfYml6SG9Sc19wVHVhY1VobG9NLVM4V29Ca2QzMnByUjh0clFFOGhFSE9XcVVfNUxlVTdnRTE3ak5oYzd0alQ4QkV3NUYydFIxYXBOWEhtblhQM25NRDY4czBDMHE5VUQxc1B6N3Q3eXNoazk0TE9PbG13?oc=5",
+   "source": "Startup Fortune",
+   "published": "2026-11-21T22:23:08+00:00",
+   "title": "Lean groups certify Claude-assisted Riemann hypothesis proof from Anthropic",
+   "text": "",
+   "title_th": "กลุ่มนักวิจัยตรวจสอบการพิสูจน์สมมติฐาน Riemann ที่ช่วยโดย Claude",
+   "summary_th": "มีการตรวจสอบการพิสูจน์สมมติฐานทางคณิตศาสตร์ Riemann ที่อ้างว่าทำสำเร็จโดยความช่วยเหลือจากโมเดล Claude ของ Anthropic",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "5a2e7bbbe51c",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVZLMmVVWDlKV1hlN1c4MGNyRU1lbS1zSm8zUUYxWVdHZnYzTDRRcjBHejIxdld5NnJyVHl0TlVKeDBRQTdsY2c1dU41ekpyX1V4c1dGMjZiVWtZWGU2elNxdU5Nb1J5N2dubk5ZSXVlQ2hyU3JiNGVrb1l1MDl3SDNiN3BPOXlWeEs2dk9SSFAwT1NheGl3MEphYS0wQ0FpZ3FZ?oc=5",
+   "source": "USA Today",
+   "published": "2026-11-21T21:52:00+00:00",
+   "title": "Anthropic mathematician says AI helped solve famous math problem",
+   "text": "",
+   "title_th": "นักคณิตศาสตร์จาก Anthropic เผย AI ช่วยแก้โจทย์คณิตศาสตร์ระดับโลก",
+   "summary_th": "นักคณิตศาสตร์ของ Anthropic ระบุว่าเทคโนโลยี AI มีบทบาทสำคัญในการช่วยแก้ปัญหาทางคณิตศาสตร์ที่มีชื่อเสียงและยากลำบาก",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a1abc1ba2744",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "source": "TechCrunch AI",
+   "published": "2026-11-21T21:07:42+00:00",
+   "title": "A tale of two Nvidias",
+   "text": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+   "title_th": "มุมมองที่แตกต่างต่อ Nvidia จากรายงานผลประกอบการและเสียงเรียกร้องจากผู้บริหาร",
+   "summary_th": "บทวิเคราะห์เปรียบเทียบภาพลักษณ์ของ Nvidia ผ่านรายงานผลประกอบการล่าสุด เทียบกับกระแสเรียกร้องจากผู้บริหารในอุตสาหกรรมเทคโนโลยี",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Nvidia"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "9c21ae67eb3d",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ONE5MQmxwWVk5Z3psaE1Kbk13aUlKWWs0SlY1ejBVS1V1T2RaUkZzVGhVNU9YZkdta3l2ZkVERldKNFAtRGNfaVMtUDVsZGN1eHlYV01Td3VlNXp5c2Q1UlRUMGY2Zm9UNmNIVVNsTDY?oc=5",
@@ -781,6 +919,23 @@
    "dedup": true
   },
   {
+   "id": "f9879b90e4d2",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmVi1paHdkZ0p0US1LNDM0UFlQb3gzVC1MaUtxTi1iQkFfUWVqajlKVVEyemk0OGtlNGJKVGZwWVdhSDNfTjJRMFVuRG12R2s?oc=5",
+   "source": "Emerald Book",
+   "published": "2026-11-21T17:57:06+00:00",
+   "title": "250,000-Page Math Slop: Why Anthropic Didn’t Solve the Riemann Hypothesis",
+   "text": "",
+   "title_th": "ข้อโต้แย้งกรณี Anthropic กับการพิสูจน์สมมติฐาน Riemann",
+   "summary_th": "บทความวิเคราะห์ถึงข้อจำกัดและเหตุผลที่การพิสูจน์สมมติฐาน Riemann โดยใช้ AI ของ Anthropic อาจยังไม่ถือว่าประสบความสำเร็จอย่างสมบูรณ์",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "98627672b0a4",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zZFA4T05qRkxDa0FaMWdYOFQtUmtteVVLR2JCdFBGUHRyanNVeHNiLUwzcjRmVkFZbVNfR3RXVU5JeDM2bkxvRkYwQnAzY201czlYSzlGLVZyQV9EcmlCYUQxejB3aXM4cDhuM2dYUWNzTEll?oc=5",
    "source": "DNE Africa",
@@ -910,6 +1065,20 @@
    "dedup": true
   },
   {
+   "id": "359c6ad1f138",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0Q1STZOVllEWmZRZlVtNF9FbDU4Sk0zNUxCOFpfOWYwcEVYcE1oYjY4V05LRzBjR3dneFJ0bUQ3VHVwN1V1NmdWNkFhZVpwZ2FCdzdwWjBPYlM2XzVzZFpHczJlZjZkZWU1eFVRZ2E2WUszODRtZTlYZVpJV2podw?oc=5",
+   "source": "Crypto Briefing",
+   "published": "2026-11-21T15:35:45+00:00",
+   "title": "Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches",
+   "text": "",
+   "title_th": "Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
+  },
+  {
    "id": "1744e8395eb1",
    "url": "https://www.blognone.com/node/152235",
    "source": "Blognone",
@@ -941,6 +1110,23 @@
     "Anthropic"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "608879a56a29",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFZuXzhtWU5HSGhlQkZTQlR6VWlrT2w0UUl4ZU4zaTlaOVNBSUgzYUI0VnNXRzB1VU1JREFLTGY3bUFLZ1lKcmY0Z3pQRFMxSTBha3RlNjlTNzVScWRFcnRKYTJOVDhmTEcwVWk5QlZQdDhsdW1jZXc0b1RhdHFDV2I3TmdSMmRmTW9VSnNOcEQwYkVjN1JNN25QZ3VLakVRQ0M4?oc=5",
+   "source": "Peoples Gazette Nigeria",
+   "published": "2026-11-21T15:13:44+00:00",
+   "title": "Anthropic official claims Claude AI solved Riemann hypothesis after 167 years",
+   "text": "",
+   "title_th": "เจ้าหน้าที่ Anthropic อ้าง Claude AI พิสูจน์สมมติฐาน Riemann ได้สำเร็จ",
+   "summary_th": "มีการกล่าวอ้างจากเจ้าหน้าที่ของ Anthropic ว่าโมเดล Claude สามารถแก้โจทย์สมมติฐาน Riemann ที่ค้างคามานานกว่า 167 ปีได้สำเร็จ",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -1404,6 +1590,21 @@
    "dedup": true
   },
   {
+   "id": "a8987247c0d4",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTV6VXV3d3VZZm9kbkItNmVxNHJMckZVb3F4MloyN05TR3I2WkhyY1dDTHFWMUFUTmlTU3hiSk5LS0pQdUhkUTJaUWV1M21GTU4yVWc5RmpjUUR6aGdUMkJ4WHN5cUhvSDFSemJVbnhFVHZpcDdzcFdMWlBlY2VyWUZ0ZWE1aTktLVFvS2xCUUU1Zw?oc=5",
+   "source": "explainx.ai",
+   "published": "2026-11-21T00:13:27+00:00",
+   "title": "Waddle-1 Claims 81% on RoboDojo-RC: What Is Claimed vs What the Leaderboard Shows",
+   "text": "",
+   "title_th": "Waddle-1 กับข้อถกเถียงเรื่องประสิทธิภาพบน RoboDojo-RC",
+   "summary_th": "การเปรียบเทียบระหว่างประสิทธิภาพที่อ้างโดยผู้พัฒนา Waddle-1 กับผลลัพธ์จริงที่ปรากฏบนลีดเดอร์บอร์ด RoboDojo-RC",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "cff6ba8813bc",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjM3T1gteHRSYVRVaGd5czZYc204NW1jcGs2NnZnM0FiUHBEelRhQm1hX00tc1FsM0E5VVdJRzQ1UHp3SWxOVGVGbTU5bWlkaUU4RXplb1BtRWF5WnRMMzhGcEd6UnhyVDJsUFllTnVKWXJLS1hsZXRoNjJCRDJYRFdBMDNYcXNkUTU4TkxrdkRUQkk4VzNzUg?oc=5",
    "source": "explainx.ai",
@@ -1650,6 +1851,23 @@
     "Anthropic"
    ],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9dc3bbb2d9bc",
+   "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "source": "Hugging Face (โมเดลมาแรง)",
+   "published": "2026-11-20T20:42:23+00:00",
+   "title": "Trending on Hugging Face: AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "text": "image-text-to-text · 254 likes · trending score 154",
+   "title_th": "โมเดล AtomicChat/Inkling-2-Mini-Uncensored-GGUF กำลังเป็นที่นิยมบน Hugging Face",
+   "summary_th": "โมเดล Inkling-2-Mini ในรูปแบบ GGUF กำลังได้รับความสนใจอย่างมากบนแพลตฟอร์ม Hugging Face โดยมีคะแนนความนิยมเพิ่มขึ้นอย่างต่อเนื่อง",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Hugging Face"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -1946,25 +2164,6 @@
    "dedup": true
   },
   {
-   "id": "779ccf54081c",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-   "source": "The Verge AI",
-   "published": "2026-11-20T14:36:42+00:00",
-   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-   "text": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
-   "title_th": "Signal ปิดกั้น Gemini และ Siri ไม่ให้เข้าถึงหน้าจอเพื่อปกป้องความเป็นส่วนตัว",
-   "summary_th": "Signal เพิ่มข้อจำกัดการแคปหน้าจอบน Android และ iOS เพื่อป้องกันไม่ให้ AI Agent เข้าถึงข้อมูลส่วนตัวของผู้ใช้ เนื่องจากมองว่าฟีเจอร์วิเคราะห์หน้าจอของระบบปฏิบัติการส่งผลกระทบต่อความเป็นส่วนตัว",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Signal",
-    "Google",
-    "Apple"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "912ce9389b49",
    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
    "source": "TechCrunch AI",
@@ -2147,11 +2346,23 @@
    "summary_th": "Signal เพิ่มมาตรการความเป็นส่วนตัวด้วยการปิดฟีเจอร์แคปหน้าจอและบล็อกการเข้าถึงของ AI บนระบบปฏิบัติการทั้ง iOS และ Android เพื่อป้องกันไม่ให้ AI อ่านข้อมูลแชทของผู้ใช้งาน",
    "category": "นโยบาย/กฎหมาย",
    "companies": [
-    "Signal"
+    "Signal",
+    "Google",
+    "Apple"
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+    },
+    {
+     "source": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    }
+   ]
   },
   {
    "id": "cf6a4cdd750d",
@@ -2898,6 +3109,10 @@
     {
      "source": "The Next Web",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFRXVnRaRGFJLWNhRUliMGcxM0xQVFJUamctZ3FPQ1RoS0lyUGE4OGVGaGxZbEhZR3JJUkU2R1RVUHJrYW5wRF90eGtWVnR5bHRkNWhOUlVzb2xiRmptMU9vdmJkNXpwRHNlRWVsS0VOQzRwc2RiV2ZlY1FwTUlpZDU5emlyQXNNVlpQbHdEclc?oc=5"
+    },
+    {
+     "source": "Wccftech",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUHdjSC1EZm5pMWRCSWRhY3pHbGQ2M0ZNSWtwSlViYncwOGI3ODl3VnVZeVYxRGlRVUM1ckNNR1l3YkU0QTd2WjgwSGNsOGxpOWR5Mjc1cUh1Q0RqSEdXWTJRVnhkMFFVdldscmQwTlNkeEtaTklzTHVxUi1iOC1ya0VaOVAxVmNlbnNQMlhwVllzZWNnVUNzbm9lMzVDZEx6SUVmeUNUVmJ3ZTNXNXE4M0Zpc196MlVOSWJGVE5UZ05jZmI2QUFkbWk3cHRCTWpC0gHWAUFVX3lxTE9ieFM5bGtPM3VhNEdvdUphVVRTQmN0YjBkN3V1Y1NaUTZfRHRFUFRjdS1XSl9ERWlhRFFJTzB4V1hldmNFZUMzMlVoZEladFBvSFRjZUFXWnl5WmdWNkRwcDFocjdlNDdZZlVaVkhkT1ZVakJOWkNwQTBXdkU4RlJnSEdjUllvNXNuakdCbzlncnpyNFRVYWYxTGpoRHR1S2pZWFBQUTg3b3pyajhiUVl0UzgzZFRITVNyVDN5c0UwQmQyQzZzUzJ4SE15MEJXLXVaYnZwVUE?oc=5"
     }
    ],
    "dedup": true
@@ -16167,71 +16382,6 @@
     "Anthropic"
    ],
    "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "321962b77cda",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORGNUWG9XV2JUWGNmcFAxa2V1VWp1TVVnVnd5SUh2cFFZMjg4YUFZT0NtNUh3WlR2dXVYeFpuTHlsWVpDdjN5LVVxdkpIVjl5dXppOFl3MEhXdnprdkF2YzdVTWtvX1NZdzRLWUpSSXZpTGxuejlxNjF5TDJsUHh4bmtzYkdTQQ?oc=5",
-   "source": "Engadget",
-   "published": "2026-11-07T23:10:20+00:00",
-   "title": "Claude Personal Finance Vs. ChatGPT Finances: What Sets Them Apart?",
-   "text": "",
-   "title_th": "เปรียบเทียบการใช้งาน Claude และ ChatGPT ในด้านการจัดการการเงินส่วนบุคคล",
-   "summary_th": "บทความเปรียบเทียบความสามารถของ Claude และ ChatGPT ในการช่วยจัดการการเงินส่วนบุคคล โดยเน้นให้เห็นถึงความแตกต่างในการใช้งานจริงสำหรับผู้ใช้ทั่วไป",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic",
-    "OpenAI"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "fb8873a1c7cb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T23:00:19+00:00",
-   "title": "Anyone running local AI on 16GB vram?",
-   "text": "Hey everyone, Is anyone here running any useful AI agents, harnesses or toolings with local AI on 16GB vram? I'm currently setting up my system and I want to have a helper agent for daily tasks, a research agent to help me research topics, and a developer agent to help me with development. I already tried some harnesses like Goose, Hermes Agent and OpenCode, but I haven't really managed to get anything useful out of them. In all honesty, I haven't spend a lot of time tweaking them, mainly because I am unsure if it's a lack of or bad skills, missing tooling, or harness or model tweaking that I ",
-   "title_th": "สอบถามการใช้งาน Local AI บนระบบที่มี VRAM 16GB",
-   "summary_th": "ผู้ใช้งานในชุมชนแลกเปลี่ยนประสบการณ์เกี่ยวกับการรัน AI Agent และเครื่องมือต่างๆ บนฮาร์ดแวร์ที่มี VRAM 16GB เพื่อหาแนวทางการใช้งานที่เหมาะสม",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "17322cf7ab1e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T22:24:14+00:00",
-   "title": "The Stylome bot is useless spam and should be removed",
-   "text": "I've recently been seeing comments everywhere from the Stylome bot, which is also a mod in this sub. Every time it pops up to declare a comment was AI written I've gone in to check its confidence level, and it's always low. I decided to do a few tests myself and have Gemini rewrite some of my comments, Stylome said they were all human written with equally low confidence. What is the point of this bot? Why are we allowing a private company to take ownership of all of our comments and then give us spam in return? What are they doing with this data? Why isn't this being served by a local model? T",
-   "title_th": "ผู้ใช้ใน Reddit วิจารณ์บอทตรวจจับ AI ว่าไม่มีประสิทธิภาพ",
-   "summary_th": "ผู้ใช้งานในชุมชน LocalLLaMA เรียกร้องให้ถอดบอท Stylome ออก เนื่องจากให้ผลลัพธ์การตรวจจับข้อความ AI ที่ไม่แม่นยำและสร้างความรำคาญ",
-   "category": "อื่นๆ",
-   "companies": [
-    "Google"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "477682d0eb3b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-07T21:19:40+00:00",
-   "title": "Crowd-v1 - The collaborative LLM",
-   "text": "Processing img 0ybf7gn4c90i1... Hello r/LocalLLaMA :D This is yet another follow-up post on the project CrowdGPT , which aims at creating the first collaboratively trained 1 billion parameters transformer, Crowd-v1 , without any datacenters, and for 0$. The project's goal is to show we don't need huge Nvidia GPU clusters nor millions of dollars to train a competitive Large Language Model. The goal of the project is to create a 1B parameters model, that would match or exceed Qwen3-0.6B's performance on benchmarks as a proof-of-concept , we could then scale with a 7B A1B MoE or even a 30B A3B Mo",
-   "title_th": "Crowd-v1 โปรเจกต์พัฒนาโมเดลภาษาแบบร่วมมือกันโดยไม่ใช้ศูนย์ข้อมูล",
-   "summary_th": "โปรเจกต์ Crowd-v1 มุ่งเน้นการฝึกฝนโมเดลภาษาขนาด 1 พันล้านพารามิเตอร์ผ่านความร่วมมือของผู้ใช้โดยไม่พึ่งพาคลัสเตอร์ GPU ราคาแพง เพื่อพิสูจน์ว่าสามารถสร้างโมเดลที่มีประสิทธิภาพได้ด้วยต้นทุนต่ำ",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
    "ai": true,
    "dedup": true
   }

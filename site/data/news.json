@@ -1,14 +1,16 @@
 {
  "version": 3,
- "updated_at": "2026-11-22T09:45:51+00:00",
+ "updated_at": "2026-11-22T17:49:04+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-22T09:45:51+00:00",
-  "headline": "วงการ AI ตื่นตัวกับข้ออ้างการใช้ Claude พิสูจน์สมมติฐานคณิตศาสตร์ระดับโลก พร้อมความกังวลด้านความปลอดภัยและทิศทางธุรกิจ",
+  "generated_at": "2026-11-22T17:49:04+00:00",
+  "headline": "ความก้าวหน้าของ Claude ในงานวิจัยคณิตศาสตร์ระดับโลกและประเด็นความปลอดภัยของ AI ที่น่าจับตามอง",
   "points": [
    {
-    "text": "นักวิจัยจาก Anthropic อ้างว่าโมเดล Claude สามารถช่วยพิสูจน์สมมติฐาน Riemann Hypothesis ที่ค้างคามานานกว่า 167 ปีได้สำเร็จ ซึ่งขณะนี้กำลังอยู่ระหว่างการตรวจสอบและมีงานวิจัยจาก Stanford ออกมาโต้แย้งข้อพิสูจน์ดังกล่าว",
+    "text": "โมเดล Claude ของ Anthropic ได้รับการยอมรับและตรวจสอบจากชุมชนคณิตศาสตร์ในการช่วยพิสูจน์สมมติฐาน Riemann และโจทย์คณิตศาสตร์ระดับโลกที่มีอายุกว่าศตวรรษ",
     "ids": [
+     "3d3427e5827e",
+     "56149d654b94",
      "17806cd6f3ec",
      "036c3debea8a",
      "204f20d1975d",
@@ -19,35 +21,29 @@
      "eb30319e78e2",
      "4e88bcc9c79c",
      "8494e013419f",
-     "98627672b0a4",
-     "8bda38614e57",
-     "43fb24eb7623",
-     "16998a4ff421",
-     "608879a56a29",
-     "fa489d5de826",
-     "995652bc9466",
-     "a18b4c817f14",
-     "5dd6a4db14f8"
+     "ef1673da9d28"
     ]
    },
    {
-    "text": "ผู้ให้บริการ LLM อย่าง Novita, Phala และ Together ถูกแฮกส่งผลให้ข้อมูลพรอมต์และ API key ของผู้ใช้งานรั่วไหล แม้จะมีนโยบายไม่เก็บข้อมูลก็ตาม",
+    "text": "Anthropic เผชิญความท้าทายด้านการจัดการองค์กรและกฎหมาย ทั้งการเตรียมตัว IPO ที่มีข้อถกเถียงเรื่องมูลค่าและเงื่อนไขพนักงาน รวมถึงการถูกร้องเรียนเรื่องละเมิดลิขสิทธิ์ในการฝึกสอนโมเดล",
     "ids": [
-     "ff70d71c7b8a"
-    ]
-   },
-   {
-    "text": "ความเคลื่อนไหวในอุตสาหกรรม AI มีทั้งการเปิดตัวโมเดล Open-Weight ขนาดใหญ่ Kimi K3 โดย Moonshot, การเปิดตัวโมเดลขนาดเล็ก Aion 1.0 Instruct ของไมโครซอฟท์ และข้อถกเถียงเรื่องมูลค่า IPO ของ Anthropic รวมถึงความสามารถในการทดแทนชิปของ Nvidia",
-    "ids": [
-     "58335319b6a5",
      "f598fefaa931",
-     "1744e8395eb1",
-     "33738aa44b68"
+     "8230aa40e8a8",
+     "73584d59db2d"
     ]
    },
    {
-    "text": "การประชุมของ UN ที่เจนีวาเพื่อหารือเรื่องการกำกับดูแลอาวุธสังหารอัตโนมัติจบลงโดยไม่มีข้อสรุปที่เป็นรูปธรรม",
+    "text": "เกิดเหตุการณ์ข้อมูลพรอมต์และ API key รั่วไหลจากการแฮกผู้ให้บริการ LLM บน OpenRouter ในขณะที่ Anthropic ได้เผยแพร่แนวทางความปลอดภัยแบบ Zero Trust สำหรับ AI Agents",
     "ids": [
+     "ff70d71c7b8a",
+     "a6878bb3a435"
+    ]
+   },
+   {
+    "text": "ความเคลื่อนไหวในอุตสาหกรรม AI อื่นๆ ได้แก่ การเปิดตัวโมเดล Open-weight อย่าง Praxis-1 จาก Runway และ Kimi K3 จาก Moonshot รวมถึงความล้มเหลวของ UN ในการหาข้อตกลงกำกับดูแลอาวุธสังหารอัตโนมัติ",
+    "ids": [
+     "2de4277cbde0",
+     "58335319b6a5",
      "234da3fc1867"
     ]
    }
@@ -141,7 +137,7 @@
   {
    "name": "Hacker News",
    "ok": true,
-   "count": 19,
+   "count": 14,
    "error": null
   },
   {
@@ -653,9 +649,234 @@
   "4530a4503253",
   "cbae4e220dc3",
   "5de67201097e",
-  "bd5be5eaaa57"
+  "bd5be5eaaa57",
+  "590e4553e2db",
+  "4dce2475b80a",
+  "0dce513ff326",
+  "c4ef9ce19c4e"
  ],
  "items": [
+  {
+   "id": "265c68ec3a4c",
+   "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+   "source": "The Verge AI",
+   "published": "2026-11-22T17:25:20+00:00",
+   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+   "text": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+   "title_th": "ผู้พัฒนา The Binding of Isaac ถอดเพลงที่สร้างจาก AI ออกจากเกมหลังถูกวิจารณ์",
+   "summary_th": "เกม The Binding of Isaac: Repentance Plus ถูกผู้เล่นวิจารณ์อย่างหนักบน Steam หลังพบการใช้เพลงที่สร้างจาก Suno AI ในเกม ผู้พัฒนาจึงตัดสินใจถอดเนื้อหาดังกล่าวออกเพื่อยุติปัญหา",
+   "category": "อื่นๆ",
+   "companies": [
+    "Suno"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "3d3427e5827e",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHFBWVh1QnNpY2dNRnJNSDN1UGYySzJlMnU3YV9PdklVamxRV3VBWXpXaEZaaUZrX1NjcHFNZkNzM2NDeWZ5SDBhNmJQTmRQcEM1OEtCWk1TR3F3RWdmZHdxdmd0ZGhGWEdnSXIxeTQ5RDZGMlNIUS1ZdXlETC1neFVKRkNpU2NUcWo4eUlDTVFtOXdDR05BaF9GQUx4VVNCTkVoS0tidDA2YUtrR1RVbVUxWnJaTEZqNHc?oc=5",
+   "source": "POLITIS - To the point",
+   "published": "2026-11-22T14:38:27+00:00",
+   "title": "Anthropic Mathematician's Claude-Assisted Proof of 167-Year-Old Problem Verified",
+   "text": "",
+   "title_th": "นักคณิตศาสตร์ของ Anthropic ใช้ Claude ช่วยพิสูจน์โจทย์คณิตศาสตร์อายุ 167 ปีได้สำเร็จ",
+   "summary_th": "มีการยืนยันความถูกต้องของการพิสูจน์โจทย์คณิตศาสตร์ที่มีอายุกว่า 167 ปี ซึ่งดำเนินการโดยนักคณิตศาสตร์ของ Anthropic โดยใช้ความช่วยเหลือจากโมเดล Claude",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8230aa40e8a8",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRmdQVmFFczVhTElScmdXSTJxa1VTeXlZSG5POTNsbXgyVGU1ZU1EVHRkdERKWXJ3MG41MVplZ1dRQjNUWEpPZHA4SVN2ZG9PWjF2YVM3Y0ZIbW9aUzZ4cm5udmRSU21MSjRHRC1VaUdpaWZoWTBGQUJhVVhlWlRCZzdwV0Z5Z1kzeDZDNUxhN0RkdkZMSW9MamQxdTNlWHNpS2pSMVAwNEF6VWQ3OTZBek8zTk1OYWg5YnJnNmV3d2JPa3NkSDJGOHNLV21Pdw?oc=5",
+   "source": "MLQ.ai",
+   "published": "2026-11-22T14:25:04+00:00",
+   "title": "Anthropic capped IPO deal teams at four bankers and sought six-month bars on working for OpenAI and other rivals",
+   "text": "",
+   "title_th": "Anthropic จำกัดทีมงาน IPO และตั้งเงื่อนไขห้ามร่วมงานกับคู่แข่งอย่าง OpenAI",
+   "summary_th": "Anthropic ดำเนินการจำกัดจำนวนนายธนาคารในทีม IPO และกำหนดเงื่อนไขห้ามไม่ให้ทำงานกับคู่แข่งอย่าง OpenAI หรือบริษัท AI อื่นๆ เป็นเวลา 6 เดือน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "OpenAI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "6acec047b75a",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbTNqVHZRancwV2p4X0pFdWpHWUpYWWlad29BSV9lbFVhZFdnbUpiM1E5THdNc1BBMWJwaDUzZS1qNl9reWR6TDR1dGFLUWpNWi1WM3FITF9XRzVFY29PZExhMmlNV3NXSVFGbl9JSFJFYjBxNW5qVzBMZG9vTGRDTXhUSWRPOEdoendEMnNpOUwxTEJuTUgwbkhTNGx3TklTYXZJWTlVbw?oc=5",
+   "source": "Pasquale Pillitteri",
+   "published": "2026-11-22T14:10:44+00:00",
+   "title": "Verification loops in Claude Code, how Anthropic checks agent code",
+   "text": "",
+   "title_th": "เจาะลึกระบบ Verification loops ใน Claude Code ของ Anthropic",
+   "summary_th": "บทความอธิบายวิธีการที่ Anthropic ใช้ตรวจสอบโค้ดที่สร้างโดย AI Agent ผ่านระบบ Verification loops ในเครื่องมือ Claude Code",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2de4277cbde0",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEpZX1pxNkZOQ29DdXdKcnl2dS04Um1lNHQ0QXZncWpWOUxPUkxIbHRBcjF2WE9UTlBVUmZUZy1MZUg0WmN0b2dFY184WHh3ZmxPWGpzZjFRemFiR21NODFaWER3OTJRWGd0VXg2MVdnanlkdXR0TkJ6QzNRRV93N3E4SWFjY19HRlNXcGtGcWwya1JKekkyV0RlNFMwU1hWWDdiOE01RTlyNmpxeW9NbkR4LV9IU2NJUHp4bnRjZ0xJaTA?oc=5",
+   "source": "Robotics & Automation News",
+   "published": "2026-11-22T14:03:02+00:00",
+   "title": "Runway releases Praxis-1 open-weight world action model for robotics",
+   "text": "",
+   "title_th": "Runway เปิดตัว Praxis-1 โมเดลแบบ Open-weight สำหรับหุ่นยนต์",
+   "summary_th": "Runway ประกาศเปิดตัว Praxis-1 ซึ่งเป็นโมเดลแบบ Open-weight ที่ออกแบบมาเพื่อการควบคุมการเคลื่อนไหวของหุ่นยนต์ในโลกจริง",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Runway"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "56149d654b94",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWtCa3lZWnp3YmV5WlpoRTBtX1hGSjV5dlB1aXFvTTMxNGZpQ1JZeVowZHNZTnpaMTRwamFJUmZLSFB0YTRSMFRaWWFiTTFHVlVSY3NVMTdvc0dSZXU2YnBXTVVaektYTFFrNnNPVGQ5ek1yOVJ4ZUotdkZSNlFtUDhlYUNhRnVJaTN1YjliWW1PS1l6QkJJVGZyWU4xRkhETWp4TE5oYzRaVy1FMmxUY0ZZcHVQQjlha3ZGMw?oc=5",
+   "source": "MLQ.ai",
+   "published": "2026-11-22T13:50:03+00:00",
+   "title": "Lean and Mathlib communities certify Levent Alpöge's Claude-assisted proof of the Riemann hypothesis",
+   "text": "",
+   "title_th": "ชุมชนคณิตศาสตร์รับรองการพิสูจน์สมมติฐาน Riemann โดยใช้ Claude",
+   "summary_th": "ชุมชน Lean และ Mathlib ได้ตรวจสอบและรับรองการพิสูจน์สมมติฐาน Riemann ของ Levent Alpöge ซึ่งได้รับความช่วยเหลือจากโมเดล Claude",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ef1673da9d28",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTVtdVVVMkZfNXUzcHJKUGxnMUk5OGp6dHZ6RTd2emlsMV9SS0stVWZKV3BTODZobkJqQ2laZW9XNHVrekVKYThWU3JJT0hKNGl5eDlUU21hdkprU2V4UmVLZnh2OE1XTG9fZlJRTHFINF85Tk8zTHBrSS1BMl9rdzZHOGhFZG1NaHc?oc=5",
+   "source": "Seeking Alpha",
+   "published": "2026-11-22T13:30:42+00:00",
+   "title": "Did Claude just prove the Riemann Hypothesis?",
+   "text": "",
+   "title_th": "Claude สามารถพิสูจน์สมมติฐาน Riemann ได้จริงหรือไม่?",
+   "summary_th": "บทวิเคราะห์ตั้งคำถามถึงบทบาทของโมเดล Claude ในการพิสูจน์สมมติฐานทางคณิตศาสตร์ที่สำคัญระดับโลกอย่างสมมติฐาน Riemann",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f4d13e575c14",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXdvN0dZMy1GRUhSR19yaDJRRTZxOFNjRHR0WnJsUU1VUHpvdmRfMzRMVEpBTnFDZ2JhUnFtR0pJMWthbGNyNE8xaUNTYVpUYmNyYzVyWlc4bjE0TGw5bmF0anFKNVVjTUVsdWpLakRvTmNwMkFJNG4yWTlTTWo2MGxySDZucVM0dGxrTF82enR5UzljNzExaGFNVE5Fc0wzeFdRRFdwekFDSjlJUW1PUFp3VUFrNFEwSFV0Ri1PcjJHZ0JSRGxJV0ZR0gHKAUFVX3lxTFBwZ2VCdlY2RllyQllhWGJuZUgtRWIxazhDM1o4bF9Lc21qOEtpLVRCTk9EVDVHdm13YmRUOExkZmNHbURySTJEckZweUVoNEZFckNEMDBPaDN5UGZwRGZEV3V2eHJIUlZfNnlkd2wxQXBzalFaVDFHWTBCbURud001TmxocXZCc25KQ19vRDNPTlNEUEtTalI3eTRLOVp2bEYtZjIyVy1ORmNaN0ZKd0E5ZnR2QmxXWXMzM3E4YzV4RGEySHRwOFRRZWc?oc=5",
+   "source": "South China Morning Post",
+   "published": "2026-11-22T13:30:07+00:00",
+   "title": "Tencent touts independent safety assessments of latest AI model Hy4",
+   "text": "",
+   "title_th": "Tencent ชูผลการประเมินความปลอดภัยอิสระสำหรับโมเดล AI รุ่นล่าสุด Hy4",
+   "summary_th": "Tencent เน้นย้ำถึงความปลอดภัยของโมเดล AI รุ่นล่าสุดอย่าง Hy4 โดยอ้างอิงจากการประเมินผลโดยหน่วยงานอิสระ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Tencent"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "73584d59db2d",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGprSENQTjY2bXdhaUVrY1o0VGZTbjY0Y1FDQ01fdmJidnVySzQ5UDd6czJQX29XSXhtYll2d1FJOUVlSUJaRDdkckFTWjgydTlSUGRNeUpwRzc5U1piTExuTVBra3NuTWd0SklHS2xjNWpnRXl0YmxscE9veExUUE5VdVZFNGFwN2ctbVpqUFY1SG9uTHVZZHNDU25vRy1FTTVFV21OWTl4NlZseXhKX0pVR1ZtTUw4Y21adXV0d0ZMbG9QZHYyOWZvY0hrb3BhT29GZDFjS2MzZ3pUdzMxNHlRTlR1U0k4UTBNZmtmU0RsdXdy0gH6AUFVX3lxTE1SNFZiTW5PS0x1bHlYSkx6d3dtRDRCNTFPXzRkNDNCOG5UQXhaYndrVjdTMnYxRURrWmUzQ3ZUbGlyVjlvbFlTU3p5R0FmSXF5anZ5UHhOWlg2UXlZZlNINjF2WHVwX3BhQl83eVpzUTdZU28tQXBXVnYwVDhNbHZhYy0zdkFpcTEwOERzMkVfUFpaVU5pRG9fOExZbmJ6XzJ4ZGl2LXU0SUp0SjJkVF84Q3VMYWJ0QlhWQnE2LUhELU02U0Z1Mk5RMms0dUlKLTFMZkVMOGluVnZLbHV0bUpydDJnSWxrWnpSbVFLd1FqcWFSN29xSzhVRlE?oc=5",
+   "source": "This is Money",
+   "published": "2026-11-22T11:19:49+00:00",
+   "title": "Anthropic pirated my book to train its Claude AI, says HAMISH MCRAE: My payout will be nothing compared to the riches flowing to its founders",
+   "text": "",
+   "title_th": "นักเขียนร้องเรียน Anthropic ละเมิดลิขสิทธิ์หนังสือเพื่อฝึกสอน Claude",
+   "summary_th": "Hamish McRae นักเขียนชื่อดังกล่าวหาว่า Anthropic นำหนังสือของเขาไปใช้ฝึกสอนโมเดล Claude โดยไม่ได้รับอนุญาตและไม่ได้รับค่าตอบแทนที่เหมาะสม",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f1b32328f088",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNallnWWJZMV9QbmJHelJ2anp6MmdiUVNQZnJiNExZQnNmN2YwT3VyYVBYcENKX183bUxjQXlOdzdUelpjdzBrLXB4ZzFkbDJ6RWNRek9vbWdpSGNJU1JOOUlDaERIbUpRSnRkOHVxY2JjSl82WFlfX014ZHM1VDN1MFlTalcxd3pNU0p5QzZXQnFGZDdmNmxHZXFYbVA1RE8ySjNlc2dUQ2dmX1MtYUtYazM0eEk?oc=5",
+   "source": "The Decoder",
+   "published": "2026-11-22T09:41:37+00:00",
+   "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+   "text": "",
+   "title_th": "เปรียบเทียบ GPT-6.2 Astra และ Sol กับ Claude ในด้านความโปร่งใส",
+   "summary_th": "มีการวิเคราะห์เปรียบเทียบโมเดล GPT-6.2 Astra และ Sol พบว่าแม้จะทำงานได้รวดเร็วขึ้น แต่ยังคงมีคะแนนด้านความโปร่งใสต่ำกว่าโมเดล Claude",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "38c61351fe0d",
+   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+   "source": "Hacker News",
+   "published": "2026-11-22T08:57:34+00:00",
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "text": "540 points, 607 comments on Hacker News (https://news.ycombinator.com/item?id=50597612)",
+   "title_th": "คาดการณ์แหล่งพลังงานของ Anthropic ในปี 2028 ส่วนใหญ่มาจากก๊าซธรรมชาติ",
+   "summary_th": "ข้อมูลระบุว่าในปี 2028 แหล่งพลังงานหลักที่ใช้สนับสนุนการทำงานของ Anthropic จะมาจากก๊าซธรรมชาติถึง 87% และถ่านหิน 11%",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ca8ebd584b78",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE96bTY1eXY1QWFydHdTbzFVaDQzVEljQVdldEpNTXhaV19iZVAxWGdkbFpKZ1Y5cXFuZTVjOHNscnNlNjA1?oc=5",
+   "source": "Digg",
+   "published": "2026-11-22T08:40:49+00:00",
+   "title": "Nvidia sinks 14% as Anthropic’s IPO glow fades",
+   "text": "",
+   "title_th": "หุ้น Nvidia ร่วง 14% หลังกระแส IPO ของ Anthropic เริ่มแผ่วลง",
+   "summary_th": "ราคาหุ้นของ Nvidia ปรับตัวลดลง 14% ท่ามกลางความสนใจในตลาดที่ลดลงต่อการเสนอขายหุ้น IPO ของ Anthropic",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Nvidia",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "be12bd60dda9",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbFpfS0VHa1ZiUFE5R2NPTS1xQlpKaEZmQWxjTF9WLUFScTdlRy1uR3k4dUVKNHBGMWo4bDFGOGtnRjU4M2tObnVzeWlxeTNlRVBzanNjWXJfUGtCWmFGVGYwMmhlLWhzZWRyb1BrTFhsT0RaeFBqUXVnVXk5SjJSbnpRX2MzZFJkTGh4UVFVRWQ2RGRuUWswNkVmQ0gtWUlyTHVVcm1EUVdUc2xUMlhscWZtVkM3azRoR2Fta1ppaHY2VnVsei1Zb1Z0SUFMTEZMYzYwYW4zZ1N1QmpHLU1DTnNPQzhTM1XSAewBQVVfeXFMT09Ub2c5cEZ1UktWc1lvM0RDdDRBX21sOVhuaVRvZU5RaE5vSUxEcmQ3ZkphQXZ4VjRRNkFjb1lmbFppYlFtaEEyWHJJaGFXdTM2X3Y0eDVmTXNWaEx2Q3dYbm9jMnNOYnY4d0xzRDY4ZUp1X3lpaU1mdnQ4aHBCWGpMN2ZwLTNKeDZPOWVKelNmUWFJbDFFZnlWTDd6X2xvVTFINlUxWFMzamx2OUFURlpRWllmMHh2MVVRTlRjcWFjeHlqUmVoWFFzRjUwXzdSb21zcGgzRnB3bWI0djZEMmhDdmh0VFBybWZwaHI?oc=5",
+   "source": "ThePrint",
+   "published": "2026-11-22T08:31:16+00:00",
+   "title": "Parshu Tactical Defence trains Indian Navy officers in hands-on LLM fine-tuning; INS Valsura honours team",
+   "text": "",
+   "title_th": "Parshu Tactical Defence ฝึกอบรมเจ้าหน้าที่กองทัพเรืออินเดียด้านการทำ Fine-tuning LLM",
+   "summary_th": "Parshu Tactical Defence จัดการฝึกอบรมเชิงปฏิบัติการเกี่ยวกับการทำ Fine-tuning โมเดลภาษาขนาดใหญ่ (LLM) ให้แก่เจ้าหน้าที่ของกองทัพเรืออินเดีย",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "ff70d71c7b8a",
    "url": "https://www.blognone.com/node/152238",
@@ -759,6 +980,23 @@
    "dedup": true
   },
   {
+   "id": "af2d556e88c3",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KY1habkt5RE1SczBidVVlU21KOGk2TERTV285RjNVWEoxdDJaLUlJRTB2Z0NTMFpfdlROOXp0NEtTZGhSVW5WbWw2YWFGdG5QMlFUeA?oc=5",
+   "source": "posttoday",
+   "published": "2026-11-22T03:38:00+00:00",
+   "title": "คุยกับซีอีโอ BOTNOI ก้าวต่อไปของ AI สัญชาติไทยในสนามโลก",
+   "text": "",
+   "title_th": "คุยกับซีอีโอ BOTNOI ก้าวต่อไปของ AI สัญชาติไทยในสนามโลก",
+   "summary_th": "บทสัมภาษณ์ซีอีโอ BOTNOI เกี่ยวกับทิศทางและกลยุทธ์ในการพัฒนา AI สัญชาติไทยเพื่อแข่งขันในระดับสากล สะท้อนถึงความพยายามของสตาร์ทอัพไทยในอุตสาหกรรม AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "BOTNOI"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "58335319b6a5",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1pCaFBqckY2SWhrWVhqQkR6N2RuN0lUM1JJd0d0cUE4WGV3U0VSM3Yxamh6YTBDT3A3TV8zaFp4ZGZ4VTRtWHRLb2J1SGI4ZzM0N2tyMzZHYkRuRnVIUFJKSmRfNHpWR2NaM0FMSmstTk5lNUJ0bDFMeW5tWFNRd25QUkFKZ2R3c3NZVHZPS2ZrVElCc0RwdlJKeTBob0pFV1ZBUG5adEl1UW9uaWc?oc=5",
    "source": "VOI.ID",
@@ -791,6 +1029,21 @@
    "dedup": true
   },
   {
+   "id": "67786b63779f",
+   "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+   "source": "Hacker News",
+   "published": "2026-11-22T02:10:02+00:00",
+   "title": "The Mythology of Conscious AI",
+   "text": "133 points, 356 comments on Hacker News (https://news.ycombinator.com/item?id=50595537)",
+   "title_th": "ตำนานเรื่อง AI มีจิตสำนึก (The Mythology of Conscious AI)",
+   "summary_th": "บทวิเคราะห์บน Hacker News ที่ถกเถียงเกี่ยวกับแนวคิดเรื่องการมีจิตสำนึกของ AI โดยมองว่าเป็นเพียงความเชื่อหรือตำนานที่ถูกสร้างขึ้นมา",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "658e97edaac8",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFlxMVFEWUJKWEFhNDJCT09sRFBEak1FZlZEOGlDWlB5Z21NRmVvcVhialJYcUFnZFp0MFg3NmJ2XzdUWGVqZTNfdE9NbE9SOXJjbnpzc2NPdFM0OFlGaVh2T0VaM1NrbjUtZmY2VTRBVGFGeFFxVDNZeG55WUhHWlByN0l1OVFSV0ttZjYtM0g4ZE95MmdLTF8zZ1Bhc0pReVFzR0NmYmt1UlZLUUpMM1hrODNtbFZsTWZFR2dGazVaWElkZzZ2TmZyVkdwTUNEZm9n?oc=5",
    "source": "디지털투데이",
@@ -801,11 +1054,18 @@
    "summary_th": "Thinking Machines Lab เผยโฉม Inkling 2 Mini โมเดล AI ที่เน้นความสามารถด้านการเขียนโค้ดและออกแบบมาให้สามารถรันบนแล็ปท็อปทั่วไปได้",
    "category": "โมเดลใหม่",
    "companies": [
-    "Thinking Machines Lab"
+    "Thinking Machines Lab",
+    "Hugging Face"
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Digg",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1hNS0xYWVJUnlsVDFLYmVpTnprLUs1SE9ILUt1TXBlSWZnX2JJcENrRUFBZkJySVFNdHpsZmhNRnhMU3JD?oc=5"
+    }
+   ]
   },
   {
    "id": "50693b92b9fc",
@@ -861,6 +1121,89 @@
    "title_th": "ทักษะการปรับแต่ง Claude Code LLM เพื่อเพิ่มประสิทธิภาพการทำงาน",
    "summary_th": "บทความแนะนำเทคนิคการปรับแต่ง (Tuning) โมเดล Claude Code เพื่อเพิ่มประสิทธิภาพในการประมวลผลและลดต้นทุนการใช้งานสำหรับนักพัฒนา",
    "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "9b6792ec45b4",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjNyTEdfRHJIMjNQeFhZclA0TzdfbUtucWNnMmFLMGN1TG0tZFZ5U0hCMDViYVo3c0tMckVRUTEzOWRvV3VnZjFqa29NME43cmUwMm1vSzA0M0piMWMwdWFNanMtOUxTV3pXTXJkTkgwa1g0WV9hYVlpUkFzNkN0MnEwRzVPbVY1Z3dYcEp5T3JtbDdDcFJn?oc=5",
+   "source": "explainx.ai",
+   "published": "2026-11-22T00:00:00+00:00",
+   "title": "GAMA-Bench: Gender Moral Framing Bias in LLMs",
+   "text": "",
+   "title_th": "GAMA-Bench: การวัดอคติทางศีลธรรมเรื่องเพศใน LLMs",
+   "summary_th": "แนะนำ GAMA-Bench เครื่องมือสำหรับประเมินอคติทางศีลธรรมที่เกี่ยวข้องกับเพศในโมเดลภาษาขนาดใหญ่ เพื่อช่วยให้การพัฒนา AI มีความยุติธรรมมากขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "978961a198e8",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmx1eW9hQXJ4MTRfWkhIYXppb2ZFRE56ckdSYXB1UTY1dFZrblVIaU53bW9QYjRzazRfN3Nabnc0X3FSMmRMUVgzQjA3SWh1ZVNIVUlYR0hYdjNKalhZYWdJRnVwNl9mTXBFLW9PR2lOOXJtLVRSWU8ydkdNc2RNbTF2Q2lrVWQxTUx4c1h3VXU?oc=5",
+   "source": "explainx.ai",
+   "published": "2026-11-22T00:00:00+00:00",
+   "title": "Anthropic IPO: 6-Month Banker Rival Ban Explained",
+   "text": "",
+   "title_th": "เบื้องหลังการห้ามธนาคารรับงาน IPO ของ Anthropic นาน 6 เดือน",
+   "summary_th": "อธิบายเหตุผลและที่มาของการที่ Anthropic ออกกฎห้ามธนาคารที่เกี่ยวข้องกับการทำ IPO เข้ามามีส่วนร่วมในช่วงเวลาที่กำหนด ซึ่งเป็นประเด็นที่น่าสนใจในแวดวงธุรกิจ AI",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a6878bb3a435",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSGZETjRubFZfbVNCWWU0WmIzQ1RwUlRRVjJyQmUxWlF2dlp4OUFWam1CakVkVGdoNTZZYzFIODdOTmN2WDJwSGY3bVVGVkJmZnJ0WlhqRHlDdzNHQUZEeVltVkRXOUVPbTJ0c2JwSFpLVWR0WGEwSElKUUZJa0pTZ3BsaldaMlZFYVZOWUJCbkZjZ2p0?oc=5",
+   "source": "explainx.ai",
+   "published": "2026-11-22T00:00:00+00:00",
+   "title": "Zero Trust for AI Agents: Anthropic's 3-Tier Guide",
+   "text": "",
+   "title_th": "Zero Trust สำหรับ AI Agents: คู่มือ 3 ระดับจาก Anthropic",
+   "summary_th": "Anthropic เผยแพร่แนวทางความปลอดภัยแบบ Zero Trust สำหรับการใช้งาน AI Agents โดยแบ่งออกเป็น 3 ระดับ เพื่อช่วยให้องค์กรจัดการความเสี่ยงได้อย่างมีประสิทธิภาพ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a95f5b13b9c4",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2VlSE5neWNfbFUzU2V1c2N1dTBvUnh4YzV1UVFwQ3NBZUxmS0pwWlhteWtVRldfSndxSkM1VEdmM0staElVbXdLUHYtVGdObm5fT2g1eWE3MnNLMzR6R3pmWVYzSjVXX1NKVnJaNVJpWHMzcF9GbWxRM054dG02N2luX3ZwcTZseERQWXpnZEVtOFZNYlVTMmFSb0FXU1RMZEtJZTNR?oc=5",
+   "source": "explainx.ai",
+   "published": "2026-11-22T00:00:00+00:00",
+   "title": "Anthropic Data Center Power: 87% Gas and 11% Coal by 2028 in New Study",
+   "text": "",
+   "title_th": "ผลวิจัยชี้ Data Center ของ Anthropic ใช้ก๊าซ 87% และถ่านหิน 11% ภายในปี 2028",
+   "summary_th": "งานวิจัยใหม่เปิดเผยสัดส่วนการใช้พลังงานของศูนย์ข้อมูล Anthropic ในอนาคต ซึ่งสะท้อนถึงความท้าทายด้านสิ่งแวดล้อมจากการขยายตัวของโครงสร้างพื้นฐาน AI",
+   "category": "อื่นๆ",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a1f60855c761",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQXzJkRmJ5SG9Ial9xRVRpWW00bW4wQV9Rb2lpZ0Z6bEdwUXBRaXhWZWNiT2ZzcjhERmJvMWNub3NxamY3ek1xMUdQTFFVOE9mbF9jQ2NFM1VEa3U1LUtBME5RVlFMRlBKUkZCSExWNkxReEZ0Rk80WjVGN3B3dDFZemxIUmdSUjZRMVJQSXNIaw?oc=5",
+   "source": "explainx.ai",
+   "published": "2026-11-22T00:00:00+00:00",
+   "title": "Claude AI Workshop: Free, Paid, and Official Formats (2026)",
+   "text": "",
+   "title_th": "สรุปรูปแบบการใช้งาน Claude AI: ฟรี จ่ายเงิน และแบบทางการ (2026)",
+   "summary_th": "รวบรวมข้อมูลรูปแบบการเข้าถึงและใช้งาน Claude AI ในปี 2026 ทั้งเวอร์ชันฟรีและเวอร์ชันสำหรับองค์กร เพื่อเป็นแนวทางสำหรับผู้ใช้งาน",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
    "companies": [
     "Anthropic"
    ],
@@ -965,6 +1308,21 @@
     "Nvidia"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cfea722a5658",
+   "url": "https://www.pandex.io",
+   "source": "Hacker News",
+   "published": "2026-11-21T20:47:41+00:00",
+   "title": "Pandex – Official European Law for AI Agents, over MCP",
+   "text": "131 points, 31 comments on Hacker News (https://news.ycombinator.com/item?id=50593481)",
+   "title_th": "Pandex: กฎหมายยุโรปสำหรับ AI Agents ผ่านโปรโตคอล MCP",
+   "summary_th": "การหารือเกี่ยวกับ Pandex ซึ่งเป็นกรอบกฎหมายของยุโรปที่ออกแบบมาเพื่อกำกับดูแล AI Agents โดยใช้เทคโนโลยี MCP เป็นพื้นฐาน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -1656,9 +2014,15 @@
    "summary_th": "โดนัลด์ ทรัมป์ ประกาศนโยบายขู่แบนบริษัทสหรัฐฯ ที่ไปสร้างศูนย์ข้อมูล AI ในต่างประเทศ โดยต้องการให้มีการลงทุนและสร้างโครงสร้างพื้นฐานภายในประเทศเท่านั้น",
    "category": "นโยบาย/กฎหมาย",
    "companies": [],
-   "importance": 4,
+   "importance": 5,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "LINE TODAY",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91dUc3ZnpLUEI3eVFZcUpvMndrZHdEZi1Bbm96SlJnTVJfb2NQU29PN09HOEZ0RF9PR2dtQlgtanFMR05TaWFHalpsT3RHZmpoLVEwQl9n?oc=5"
+    }
+   ]
   },
   {
    "id": "ddc8b526a34c",
@@ -1722,6 +2086,21 @@
    "companies": [
     "Anthropic"
    ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e3352d2cb033",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0OHdwbFdqaHZRWUFwZURKeU5FcHZJSm92VjBqVVg2U1FISkEwUU15dC1raWh6ZGhGOE5oNVJHR2k0Y0dXSldxa2tYVVAzaE9JLXgwQWdad0hUSFZ3N1MzaFBOZUJrMUVk?oc=5",
+   "source": "bangkokbiznews",
+   "published": "2026-11-21T01:06:00+00:00",
+   "title": "ความคลั่งไคล้ AI หลีกทางให้ความกลัว- ความผันผวนสุดขีด",
+   "text": "",
+   "title_th": "ความคลั่งไคล้ AI หลีกทางให้ความกลัวและความผันผวน",
+   "summary_th": "วิเคราะห์กระแสความนิยมใน AI ที่เริ่มเปลี่ยนทิศทางไปสู่ความกังวลและความผันผวนในตลาด ซึ่งส่งผลต่อความเชื่อมั่นของนักลงทุนและผู้ใช้งาน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
    "importance": 3,
    "ai": true,
    "dedup": true
@@ -1986,6 +2365,21 @@
    "category": "งานวิจัย",
    "companies": [],
    "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0f50037c76f2",
+   "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+   "source": "The Verge AI",
+   "published": "2026-11-20T21:30:59+00:00",
+   "title": "The vibe-coding revolution is coming to all the gadgets",
+   "text": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
+   "title_th": "การปฏิวัติ Vibe-coding กำลังเข้าสู่ทุกอุปกรณ์",
+   "summary_th": "บทวิเคราะห์ถึงแนวโน้มการนำ Vibe-coding หรือการเขียนโปรแกรมด้วย AI ที่เน้นความรู้สึกและประสบการณ์ผู้ใช้ มาประยุกต์ใช้ในอุปกรณ์ต่างๆ ทั่วไป",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -2496,6 +2890,10 @@
     {
      "source": "Dailyhunt",
      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQMkFRUnlyc2RrUjJzTzdWOTNWWXR3Y0lueVdGcFBIVGNsdm1NcjFRRFdYdnJEQzZ6cmhBUHpZZU1lUUJoMWVSeU9jWi1DWWJZdUU5T0tpaWZUZkhxaF85WlZyVDhPWE53WXpXMmc3cGR4OHZpb29WZmFwMHRBbTJ1QlJGcTYzVkpEaXRYMDl3akdKenN4NU5MVU9iYlZRWkRJa2ZTWG0yS3pUMjlyVmVJNENKTXdGOUswcmd3Mk5nYkZ3UlNsVzE4YjBzdEIxcGd0RzFYTXVobUVISHBoUjR0dGVYUy12OUp0NW1zWC1OUVZSMTJKYTFOWXFQdXQ0cWN2VGxsdHh0TlMyZk0ySWsta3BWMGFLN1dfTV82c094amE?oc=5"
+    },
+    {
+     "source": "Dailyhunt",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQVGZHVzc0SU16Q083dTUzTFJQTm52QnhGY2oyRVFxUkhrQmFBcjhkSWZCVzllT0EzWmtyZHJ2ZW5SVHFMTmg4UkFibGdpdmRrNFM1S0d2X1JTMVVfR0hfZkFkcWRzYVM0RUJiMW1ELVZRcGx5X3hQVnFUbkJlcmEwR2NweHU1ZVJNOVpmS3ZnSjBOelMxZ2FOMnEzUlQtbWtQLUlpal9pdXRQN24zVUhydVVDQVlPUWM1cUNBQjBUVEpPNjE0cG4wWlNCU3NiMkdFUDU0ekhGV0JLZUEzNzZQR2R3UUxYR0huak02aEJGM0tqckRIM3dqTmpscWNNV1FxcW1iUndtRUh6X3NIdXhFVnE0OXVRbm5QaUE3Zk5yTERSZw?oc=5"
     }
    ]
   },
@@ -16412,156 +16810,6 @@
    "summary_th": "งานวิจัยเสนอแนวทาง In-context learning สำหรับหุ่นยนต์ที่เน้นการเรียนรู้เชิงความหมายเกี่ยวกับขั้นตอนงานและบทบาทของวัตถุแทนการจำลองภาพ ช่วยให้หุ่นยนต์สามารถนำประสบการณ์จากสภาพแวดล้อมหนึ่งไปประยุกต์ใช้ในอีกสภาพแวดล้อมได้ดีขึ้น",
    "category": "งานวิจัย",
    "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "1b455684ad26",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-08T17:32:48+00:00",
-   "title": "GPT-5.5 dataset across my used 25 billion tokens!",
-   "text": "Cheers for u/New_Comfortable7240 for santitisation! 12,121 tool calls here! submitted by /u/-MaskNinja- [link] [comments]",
-   "title_th": "เผยแพร่ชุดข้อมูลสำหรับฝึกฝนโมเดล GPT-5.5 ขนาด 2.5 หมื่นล้านโทเค็น",
-   "summary_th": "มีการแบ่งปันชุดข้อมูลขนาดใหญ่ที่ผ่านการทำความสะอาดแล้วเพื่อใช้ในการฝึกฝนโมเดลภาษาขนาดใหญ่ โดยเน้นไปที่การเพิ่มประสิทธิภาพในการเรียกใช้งานเครื่องมือต่างๆ",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "ae06ecf71872",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-   "source": "The Verge AI",
-   "published": "2026-11-08T17:23:19+00:00",
-   "title": "Elvis and Eminem rights holders are suing Suno",
-   "text": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
-   "title_th": "เจ้าของลิขสิทธิ์เพลง Elvis และ Eminem ยื่นฟ้อง Suno ฐานละเมิดลิขสิทธิ์",
-   "summary_th": "Suno บริษัท AI ด้านดนตรีเผชิญกับการฟ้องร้องจากกลุ่มเจ้าของลิขสิทธิ์เพลงชื่อดัง โดยกล่าวหาว่าบริษัทใช้ผลงานเพลงและเนื้อร้องของศิลปินไปฝึกฝนโมเดลเพื่อสร้างเพลงเลียนแบบโดยไม่ได้รับอนุญาต",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Suno"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "8330c956749a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-08T16:23:48+00:00",
-   "title": "tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face",
-   "text": "Apparently Tencent has developed a new speculative decoding method. 3x faster decoding for 27B models? submitted by /u/emdeka87 [link] [comments]",
-   "title_th": "Tencent เปิดตัววิธี Speculative Decoding ใหม่ ช่วยเร่งความเร็วโมเดล 27B",
-   "summary_th": "Tencent พัฒนาเทคนิคการถอดรหัสแบบใหม่ที่ช่วยเพิ่มความเร็วในการประมวลผลให้กับโมเดลขนาด 27B ได้อย่างมีนัยสำคัญ ถือเป็นความก้าวหน้าในการเพิ่มประสิทธิภาพการทำงานของโมเดลขนาดใหญ่",
-   "category": "งานวิจัย",
-   "companies": [
-    "Tencent"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "bf417e17fc5a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-08T16:23:42+00:00",
-   "title": "4x Radeon AI PRO R9700 + 2x RTX 3090 on one x16 slot, using a PCIe switch",
-   "text": "submitted by /u/bolts98 [link] [comments]",
-   "title_th": "การทดลองเชื่อมต่อ GPU หลายตัวผ่าน PCIe switch สำหรับงาน AI",
-   "summary_th": "มีการทดลองทางเทคนิคในการเชื่อมต่อการ์ดจอ Radeon AI PRO และ RTX 3090 จำนวนหลายตัวเข้ากับสล็อต PCIe เดียวกัน เพื่อเพิ่มขีดความสามารถในการประมวลผล AI ในระดับท้องถิ่น",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "AMD",
-    "NVIDIA"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "4425c00b6e66",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-08T14:56:07+00:00",
-   "title": "\"Does censorship exist in [country]?\", according to various LLMs",
-   "text": "I wrote a small program that asks the same Yes/No question about every country to a language model, and generates an SVG world map that visualizes the model's responses: https://github.com/p-e-w/llm-beliefs I'm rather surprised by the results... submitted by /u/-p-e-w- [link] [comments]",
-   "title_th": "โปรเจกต์ทดสอบการตอบคำถามเรื่องการเซ็นเซอร์ของ LLM ในแต่ละประเทศ",
-   "summary_th": "นักพัฒนาสร้างเครื่องมือทดสอบเพื่อถามคำถามเกี่ยวกับสถานะการเซ็นเซอร์ในแต่ละประเทศกับโมเดลภาษาต่างๆ และแสดงผลลัพธ์ออกมาเป็นแผนที่โลก เพื่อเปรียบเทียบมุมมองของแต่ละโมเดล",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7051637201eb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-08T14:45:22+00:00",
-   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
-   "text": "Oh look, thats us! submitted by /u/ab2377 [link] [comments]",
-   "title_th": "ผู้ใช้งานเริ่มหันมาซื้อการ์ดจอ RTX 5060 Ti 16GB เพื่อใช้งาน AI จำนวนมาก",
-   "summary_th": "ผู้ใช้งานในชุมชน AI เริ่มหันมาเลือกซื้อการ์ดจอ RTX 5060 Ti รุ่นที่มีหน่วยความจำ 16GB เพื่อนำมาใช้รันโมเดล AI ในเครื่องส่วนตัว สะท้อนถึงความต้องการ VRAM ที่สูงขึ้นสำหรับงานด้าน AI",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "ae788edd91e8",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3dmWWtwZTJMS0pBRzdvYVVabzBjUHNzQnlWVlF0T3B6U1JrZVhZSG9NZDRCaVlkQ1JvS1p1ZDR1bjVrRUdwMkVxX2NIN3MzbGpsZ2NPQ1RYSFJWRTNwM2J5akxsaWd0RXZ3RVpGTlN6TEFFalRERVRhYWE5d3lxOXBlcw?oc=5",
-   "source": "CNBC",
-   "published": "2026-11-08T13:50:05+00:00",
-   "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
-   "text": "",
-   "title_th": "Anthropic บรรลุข้อตกลงจัดหาพลังงานมูลค่า 3.4 พันล้านดอลลาร์สำหรับศูนย์ข้อมูล AI",
-   "summary_th": "Anthropic ทำข้อตกลงครั้งใหญ่ในการจัดหาพลังงานไฟฟ้าเพื่อรองรับการขยายตัวของศูนย์ข้อมูลสำหรับประมวลผล AI แสดงให้เห็นถึงความต้องการโครงสร้างพื้นฐานที่เพิ่มขึ้นอย่างรวดเร็ว",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "b9538dd8883d",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUJVbk02T2lMM2dxMzNtNWVDQUlITThqeVZlcTBhS3hLTDdfQmRiRWdGNWR4M2ExcE5UemVIUVJsU0xGUGdCdkpPOFZVcXhTV0xzMXlMbE81bkt5Z08xVFdvdExHaUNfSks0cHBkcjJZaGNyaXRMdXo2c2FZejl4aVllSzR2aXdNdmc?oc=5",
-   "source": "FourWeekMBA",
-   "published": "2026-11-08T12:42:24+00:00",
-   "title": "Anthropic: Claude ‘Dreams’ Took Wiki Scores From 13% to 48%",
-   "text": "",
-   "title_th": "Anthropic เผย Claude 'Dreams' ช่วยเพิ่มคะแนน Wiki จาก 13% เป็น 48%",
-   "summary_th": "Anthropic รายงานความสำเร็จของฟีเจอร์ Claude 'Dreams' ที่ช่วยยกระดับประสิทธิภาพการประมวลผลข้อมูลวิกิพีเดียได้อย่างก้าวกระโดด",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2fbff683355d",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGh3bGExVzQ0NDE2eG11QXBNT3E4ZjI0NEVWd1RWVWdUbnZwM3hQeG1meWJJeENJYkpzbEx5N2NObmF2dnlIUnRlMmh0OTNDOEpkNF96X3FnTmF5TlpPbXRZclRJckdfRDhXVndtTi1CTWZkZXZFai1jWjZtN1lQY1ZMekhHMkFWRWx0OTJB?oc=5",
-   "source": "FourWeekMBA",
-   "published": "2026-11-08T10:12:49+00:00",
-   "title": "Anthropic: CLAUDE.md Rules Are Requests; Hooks Are Enforced",
-   "text": "",
-   "title_th": "Anthropic อธิบายความแตกต่างระหว่างกฎ CLAUDE.md และ Hooks",
-   "summary_th": "Anthropic ชี้แจงการทำงานของระบบคำสั่งในโมเดล โดยระบุว่ากฎในไฟล์ CLAUDE.md เป็นเพียงคำขอที่โมเดลอาจปฏิบัติตาม ในขณะที่ Hooks เป็นคำสั่งที่ถูกบังคับใช้จริงในระบบ",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
    "importance": 3,
    "ai": true,
    "dedup": true

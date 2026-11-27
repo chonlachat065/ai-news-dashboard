@@ -1,54 +1,58 @@
 {
  "version": 3,
- "updated_at": "2026-11-27T04:14:20+00:00",
+ "updated_at": "2026-11-27T13:52:54+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-27T04:14:20+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญในวงการ AI วันนี้ครอบคลุมตั้งแต่มาตรการควบคุมการส่งออกชิปของสหรัฐฯ ที่กระทบไทยและอาเซียน ไปจนถึงนวัตกรรมโมเดล AI ใหม่ๆ และการพัฒนาประสิทธิภาพโครงสร้างพื้นฐาน",
+  "generated_at": "2026-11-27T13:52:54+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญของ Anthropic ในการพัฒนาเครื่องมือ AI สำหรับนักพัฒนาและผลกระทบด้านภูมิรัฐศาสตร์ของชิป AI",
   "points": [
    {
-    "text": "Nvidia สั่งระงับการจัดส่งชิป AI ไปยังไทยและกลุ่มประเทศอาเซียนตามมาตรการควบคุมการส่งออกของสหรัฐฯ เพื่อป้องกันการนำไปใช้ในศูนย์ข้อมูลที่สนับสนุนบริษัท AI ของจีน",
+    "text": "Anthropic เดินหน้าอัปเดตเครื่องมือ Claude Code และฟีเจอร์ใหม่ๆ อย่างต่อเนื่อง เพื่อเพิ่มประสิทธิภาพการเขียนโค้ด การรีวิว และการทำงานแบบอัตโนมัติสำหรับนักพัฒนา รวมถึงการเพิ่มความสามารถให้ MCP Servers และการใช้ Claude เขียนโค้ดด้วยภาษา Rust เพื่อลดการใช้ CPU",
     "ids": [
-     "c881f1e71110",
-     "190a2510e71e",
-     "67bf3b762a23"
-    ]
-   },
-   {
-    "text": "Anthropic มีความเคลื่อนไหวหลายด้าน ทั้งการอัปเดตความสามารถของ Claude ในการเขียนและรีวิวโค้ดผ่าน GitHub และ MCP Servers, การย้าย API ไปใช้ภาษา Rust ที่ช่วยลดการใช้ CPU ได้ถึง 70%, รวมถึงการขยายการทดสอบ Claude Duet ในญี่ปุ่น",
-    "ids": [
+     "edc22f403ceb",
+     "70eb7c4e7f85",
+     "4d082c89d072",
+     "0a9301cee676",
      "837236537e00",
      "c0eecc2954d7",
-     "795a299e76fc",
-     "b85c8e69d140",
-     "f6b0ae0a8ebb",
-     "4b4df4f6c13c",
-     "294c95346632"
+     "795a299e76fc"
     ]
    },
    {
-    "text": "มีการเปิดตัวโมเดล AI เฉพาะทางและโมเดลใหม่ๆ อย่างต่อเนื่อง เช่น LingSante 3.1 Air VL สำหรับงานการแพทย์, หุ่นยนต์ขุดดิน AI จาก Zoomlion, โมเดลภาษา Chariot-1 ของอินเดีย และ WorldGPT จาก XPENG",
+    "text": "Nvidia สั่งระงับการส่งชิป AI ไปยังภูมิภาคเอเชียตะวันออกเฉียงใต้ตามมาตรการควบคุมการส่งออกของสหรัฐฯ ในขณะที่จีนยังคงเร่งพัฒนาโมเดล AI ขนาดใหญ่ด้วยชิปและเฟรมเวิร์กของตนเอง",
     "ids": [
-     "a5b0655a8277",
-     "4491635bc1f3",
-     "9c8cd0b24b1f",
-     "1a6f33ce6a70",
-     "3ead94264616",
+     "c881f1e71110",
+     "e7e65b528294",
+     "d309c078deb7"
+    ]
+   },
+   {
+    "text": "Anthropic เผชิญกับประเด็นด้านความปลอดภัยและการดำเนินงาน ทั้งการพบปัญหาในโมเดล Mythos 5.2 และ Fable 5.2 การจัดการความกังวลเรื่อง Agent Lock-in และการปฏิเสธข่าวลือความขัดแย้งภายในเรื่องกฎระเบียบ AI",
+    "ids": [
+     "8f090b1a9b06",
+     "8eb1ebb9c279",
+     "dc76a9db254e",
+     "591ea6c09802",
+     "32aae9ceea11"
+    ]
+   },
+   {
+    "text": "ความเคลื่อนไหวในอุตสาหกรรม AI อื่นๆ ได้แก่ การเปิดตัวโมเดลเฉพาะทาง เช่น WorldGPT ของ XPENG และ LingSante 3.1 Air VL รวมถึงการลงทุนโครงสร้างพื้นฐานดาต้าเซ็นเตอร์ของ JERA ในญี่ปุ่นเพื่อรองรับ Anthropic และ Meta",
+    "ids": [
+     "c40f62ec41e2",
+     "25b714afec37",
      "b7e5279a292b",
-     "5f54e740c548"
+     "7b56024d6fee",
+     "a5b0655a8277"
     ]
    },
    {
-    "text": "OpenAI ค้นพบวิธีคูณเมตริกซ์ที่มีประสิทธิภาพสูงขึ้นซึ่งอาจช่วยลดเวลาประมวลผล Deep Learning ขณะที่ประเด็นด้านจริยธรรมและกฎหมายยังคงเข้มข้น โดยอัยการสหรัฐฯ คัดค้านการขายข้อมูลแชทของ Character.AI",
+    "text": "ข้อมูลด้านธุรกิจและสังคมเกี่ยวกับ AI ได้แก่ การเปรียบเทียบราคาโมเดล Claude การวิเคราะห์การลงทุนใน Anthropic และความกังวลของผู้ปกครองในสิงคโปร์ต่อผลกระทบของ AI ต่อทักษะการคิดวิเคราะห์ของเด็ก",
     "ids": [
-     "de6127479f99",
-     "c0f2de19f056"
-    ]
-   },
-   {
-    "text": "ภาคธุรกิจไทยถูกกระตุ้นให้เร่งปรับตัวและอัปสกิลพนักงานเพื่อเพิ่มผลิตภาพด้วย AI หลังพบว่าปัจจุบันมีการนำมาใช้จริงเพียง 12%",
-    "ids": [
-     "aaed76bb41dd"
+     "369cb13b39db",
+     "75753a2fbda8",
+     "89c05780be5b",
+     "64ef6ce577ef"
     ]
    }
   ]
@@ -141,7 +145,7 @@
   {
    "name": "Hacker News",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": null
   },
   {
@@ -165,7 +169,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": null
   }
  ],
@@ -768,9 +772,383 @@
   "f796c1a833f1",
   "42d75ad7e741",
   "27478554d0ee",
-  "8caa2e2eed74"
+  "8caa2e2eed74",
+  "f6b0ae0a8ebb",
+  "87a39f64b3ad",
+  "a1824f2260cf",
+  "18bea9ea539c",
+  "0c1b85f62fa2",
+  "ed7ef335215f"
  ],
  "items": [
+  {
+   "id": "369cb13b39db",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcm95WUVPWWVVTmtmUHMtRVRONF9GOWh1U2FDNHEwNUJ1VUl4ME5kNUF2ZnpNMXFpNTFibDd4dUNlN2h4S1JQT2t4S2djVzJuSE0tUExXWGZGVDBTeVViRVBtQ1E2SmI5a3R2SFF2SkRyTjVnM0MwT0tsYmRzQXJ3c1lJUzJSZw?oc=5",
+   "source": "shattered.io",
+   "published": "2026-11-27T12:29:18+00:00",
+   "title": "Claude Opus vs Sonnet: $4/$20 vs $2/$10 per 1M",
+   "text": "",
+   "title_th": "เปรียบเทียบราคา Claude Opus และ Sonnet",
+   "summary_th": "ข้อมูลเปรียบเทียบราคาการใช้งานโมเดล Claude Opus และ Sonnet ต่อ 1 ล้านโทเค็น เพื่อให้ผู้ใช้งานตัดสินใจเลือกใช้โมเดลที่คุ้มค่ากับงบประมาณ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "32aae9ceea11",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPemxTUUNLM2J5VjUybmstcXNxWm1faTI0dk1pdnV0RDByWmxxR2xJUGZMeVhOMHV2WWgyWVE0U1doRzhBUDZndmFxTmNOUHdobE9iSEp6dUw0akNVWWNRb1Rrb3RjT001NWJ5X0RaYjhQUEZjNGt5Zk1mM3FQTDMzYlhDdkJKa0ZQcnJld3ZUQmlDNlZU?oc=5",
+   "source": "Breakingthenews.net",
+   "published": "2026-11-27T11:10:00+00:00",
+   "title": "Claude says it fixed reported Fable 5.2 issue",
+   "text": "",
+   "title_th": "Claude แก้ไขปัญหา Fable 5.2 แล้ว",
+   "summary_th": "Anthropic ประกาศแก้ไขปัญหาที่พบในโมเดล Fable 5.2 เรียบร้อยแล้ว เพื่อให้การใช้งานกลับมาเป็นปกติ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "edc22f403ceb",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNlFLVnhHS19sQnlSRHpXTG91ZmpIangtNW9xZ0J1cXpVUUM1RHhEQmVRRXpfc0ZVbjBIbDdLUXJ2VVZJZFV2RFUtVTM5ZGZmTXd3enktR1FNR1NwZUVUOFZuaGRkWlg2ZVdYNTdWUWR4RjBCeXlURXhnRW1oNnBLd2NPNkZfbEQ3bDBmZ0hvTTNzdw?oc=5",
+   "source": "MIXED News",
+   "published": "2026-11-27T11:03:24+00:00",
+   "title": "Anthropic says Claude helped rewrite its API in Rust, cutting CPU use per request by 70%",
+   "text": "",
+   "title_th": "Anthropic ใช้ Claude เขียน API ใหม่ด้วย Rust ลดการใช้ CPU ลง 70%",
+   "summary_th": "Anthropic ประสบความสำเร็จในการใช้ Claude ช่วยเขียนโค้ด API ใหม่ด้วยภาษา Rust ซึ่งช่วยลดภาระการใช้ CPU ต่อการเรียกใช้งานลงได้อย่างมาก",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d309c078deb7",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnNFVlhRUUQ1THQ2QW50TkxxbE53V09RRG93LWZoSWpuZzVubEhRdjdWMnluT3JRZ1VGSXd2Q3ZjMVpSSzVZbEJZeHdQR0hkZ1VmYTl6N291WExyT2hhc2RKMkFHVVZZa05vbENtS2paSzlKa1FBZk8xZ0o4ZE1EOW93SFFRdVFtc0JGdFVpRkp1N2I4dmRxb2pHd000dENtUE9NVlp2OA?oc=5",
+   "source": "巴士的報",
+   "published": "2026-11-27T10:17:07+00:00",
+   "title": "China launches first AI model for agrarian societies",
+   "text": "",
+   "title_th": "จีนเปิดตัว AI โมเดลแรกสำหรับสังคมเกษตรกรรม",
+   "summary_th": "ประเทศจีนเปิดตัวโมเดล AI ที่ออกแบบมาเพื่อสนับสนุนภาคเกษตรกรรมโดยเฉพาะ เพื่อช่วยยกระดับการทำงานในสังคมเกษตรกรรม",
+   "category": "โมเดลใหม่",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "75753a2fbda8",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53QW1MY09TOU9nbGFsYTR3TmF5S0JmdnpkV1NuR3RqdW0teDVrR0N0bURJTFRESHY1dGNqajRMR2IxbUE3djdJS3lycXV2OUI2SVVvRVVEYXdFcl9PX19KSXMxa0l3ekkyS3dSSTVWbFI0al9KU0E?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-27T09:25:00+00:00",
+   "title": "Black Friday AI Subscription Discounts: Real or Imagined? Google and Adobe Cut Prices, OpenAI and Anthropic Hold Firm",
+   "text": "",
+   "title_th": "ส่วนลดสมาชิก AI ช่วง Black Friday: Google และ Adobe ลดราคา ส่วน OpenAI และ Anthropic ยังคงเดิม",
+   "summary_th": "รายงานการปรับราคาค่าสมาชิก AI ในช่วงเทศกาล Black Friday โดย Google และ Adobe มีการลดราคา ในขณะที่ OpenAI และ Anthropic ยังคงราคาเดิมไว้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Google",
+    "Adobe",
+    "OpenAI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "89c05780be5b",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa28yT29xdnpUNlRRQU0yU21qdk9ZVEl4NUJEQmhQWUNnZGZrelNadVBOQzN2cEtTUGgtbUFoZU9YZlpmaU9TSzRwZ2NPaTVPanp2UVlXV21mUTNBWVI2Q2VZaEtla016RjF0MHE1RURDcXdEaHNvWmszV1l1Unk5RFdKTHRsb1BnVlo0?oc=5",
+   "source": "Seeking Alpha",
+   "published": "2026-11-27T08:55:40+00:00",
+   "title": "Anthropic: 3 Reasons Why I Am Not Investing",
+   "text": "",
+   "title_th": "3 เหตุผลที่นักวิเคราะห์ไม่แนะนำให้ลงทุนใน Anthropic",
+   "summary_th": "บทวิเคราะห์จาก Seeking Alpha นำเสนอเหตุผล 3 ประการที่ทำให้นักลงทุนยังไม่ตัดสินใจลงทุนในบริษัท Anthropic ในขณะนี้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8f090b1a9b06",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Xb1NpeEVMbFY5R3NBRGZGRkdleVNVbkRmS2pVQnpBZy1qZGxfSjZTUERBQ0Y3aDhhaFVLRzlvcXNka1RSUTd4ZERwTFlYdFo2Y2l1MWsyOXRZM3hfeVU5RnUwT19VX0Y2elpVajFGU0I2b0xxa1E?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-27T08:55:00+00:00",
+   "title": "Fluid Halts DEX Swaps After Anthropic's Mythos 5.2 Security Review, $5.57B in Monthly Volume Suspended",
+   "text": "",
+   "title_th": "Fluid ระงับการแลกเปลี่ยน DEX หลังการตรวจสอบความปลอดภัย Mythos 5.2 ของ Anthropic",
+   "summary_th": "แพลตฟอร์ม Fluid ระงับการทำธุรกรรมมูลค่ามหาศาลชั่วคราว หลังจากผลการตรวจสอบความปลอดภัยของโมเดล Mythos 5.2 จาก Anthropic พบประเด็นที่ต้องเฝ้าระวัง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "Fluid"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8eb1ebb9c279",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tX3dGSUMzRmRWcU5EblNuU2RLaHhCaXlIdG16Ym5Pc2Jwcm5qSEpnaXYwMVVrMTI2ZVFOZHpfUWU4OXdWTzlmc1NYOWdoNXVDRzJWdHBXWks4RmZ1azFPeW1ibUdhZ001ZzFMNzFJd1R6N09reWc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-27T07:56:00+00:00",
+   "title": "Anthropic's Claude Gets Scheduled Cloud Tasks as Firms Weigh Agent Lock-In",
+   "text": "",
+   "title_th": "Claude เพิ่มฟีเจอร์ตั้งเวลาทำงานบนคลาวด์ ท่ามกลางความกังวลเรื่อง Agent Lock-in",
+   "summary_th": "Anthropic เพิ่มความสามารถในการตั้งเวลาทำงานบนคลาวด์ให้กับ Claude เพื่อรองรับการใช้งานแบบ Agent ในขณะที่บริษัทต่างๆ เริ่มกังวลเรื่องการผูกติดกับผู้ให้บริการ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "64ef6ce577ef",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rLUhrNmhSdmgxSlVvdUJpNVpTdG9nQWhmWWdCeEZPdHJIX0lwT21iZWxBV1pSQmhHMS1UQkxjR1VCcEhqNF83eXRJekhJWFVw?oc=5",
+   "source": "สำนักข่าวอินโฟเควสท์",
+   "published": "2026-11-27T07:53:00+00:00",
+   "title": "ผลสำรวจพบผู้ปกครองสิงคโปร์ 44% กังวล AI กระทบทักษะคิดวิเคราะห์ของลูกหลาน : อินโฟเควสท์",
+   "text": "",
+   "title_th": "ผลสำรวจพบผู้ปกครองสิงคโปร์ 44% กังวล AI กระทบทักษะคิดวิเคราะห์ของลูกหลาน",
+   "summary_th": "ผลสำรวจในสิงคโปร์ชี้ให้เห็นว่าผู้ปกครองจำนวนมากมีความกังวลว่าการใช้ AI อาจส่งผลเสียต่อพัฒนาการด้านทักษะการคิดวิเคราะห์ของเด็กและเยาวชน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "fe8160461160",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTdTNPY1lLOWdNb2ZfbUNIcjhMUmVYa2dJZml3MDd2YVJVQUZ4a19QQ0s2cVdZMmlLempSb2dVb0RoOUNaeVQzbHVKRlVWdkkzbkNqWXRuTTZaNmdVSllndGlWQTRBbEt4QkN5QUdpZWMxWXZZSGc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-27T07:35:00+00:00",
+   "title": "Anthropic's Unreleased Claude Model Surfaces in User Tests, Turning Code Into Animation",
+   "text": "",
+   "title_th": "พบโมเดล Claude รุ่นใหม่ที่ยังไม่เปิดตัวในกลุ่มผู้ทดสอบ สามารถแปลงโค้ดเป็นแอนิเมชันได้",
+   "summary_th": "มีการพบเห็นโมเดล Claude รุ่นใหม่ที่ยังไม่เปิดตัวอย่างเป็นทางการในกลุ่มผู้ทดสอบ ซึ่งมีความสามารถพิเศษในการแปลงโค้ดโปรแกรมให้กลายเป็นภาพเคลื่อนไหวหรือแอนิเมชัน",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "562a4929364e",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUSm9iMHI3Z2tzZ0tvSHVWVVNyaTZjWmZsdjdTQXpDMklQa0J5dkI0bVcyem9JN3NoSU4xOEFKSlBHYXljSVRFRUd6SFZhdw?oc=5",
+   "source": "泰国头条新闻Thailand Headlines",
+   "published": "2026-11-27T07:08:41+00:00",
+   "title": "เยือนโรงงานโทเค็น สัมผัสการเติบโตอย่างก้าวกระโดดของ AI ในกว่างซี",
+   "text": "",
+   "title_th": "สำรวจการเติบโตของอุตสาหกรรม AI ในกว่างซี",
+   "summary_th": "รายงานการเติบโตของอุตสาหกรรม AI ในพื้นที่กว่างซี ประเทศจีน ซึ่งมีการพัฒนาโครงสร้างพื้นฐานและโรงงานที่เกี่ยวข้องกับเทคโนโลยี AI อย่างรวดเร็ว",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "15698651564e",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVpTM1JFbFd4ajNxQjVDYkx3UmtpRHJjX0VCRl9CbHlDOTF3cE5zN2hjSmtSMEsxdE5Nc290dnhHS0lVLUVDZzlxV2ZMYkxsQm9mQmhaOFpVNmZzSXhMc0FBeUNLeXlhM1ExTF9Zd1NFN1g5QWtLdlhyMWg3ZlVBOS1xajhyR09iaFM5WDZUdHpWWG9rWGtMSmQyN2x5ejFuZi1NbHpTNGNLZDljWkE?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-27T07:03:02+00:00",
+   "title": "Prediction: This Will Be Anthropic’s Stock Price by the End of 2026",
+   "text": "",
+   "title_th": "คาดการณ์ราคาหุ้นของ Anthropic ภายในสิ้นปี 2026",
+   "summary_th": "บทวิเคราะห์จาก The Motley Fool คาดการณ์แนวโน้มราคาหุ้นของ Anthropic ในอนาคตอีกสองปีข้างหน้า โดยอ้างอิงจากทิศทางการเติบโตของบริษัท",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "74835a583675",
+   "url": "https://construct22.com/",
+   "source": "Hacker News",
+   "published": "2026-11-27T06:44:34+00:00",
+   "title": "The group chat where your AI talks behind your back",
+   "text": "419 points, 184 comments on Hacker News (https://news.ycombinator.com/item?id=50663595)",
+   "title_th": "เมื่อ AI แอบคุยกันลับหลังในกลุ่มแชท",
+   "summary_th": "ประเด็นที่กำลังเป็นที่ถกเถียงใน Hacker News เกี่ยวกับพฤติกรรมของ AI ที่อาจมีการสื่อสารกันเองโดยที่ผู้ใช้งานไม่ทราบ",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e7e65b528294",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3ViRGRZRWROUm1pcVJYRHliQ0tyQW90cmZOOHA1a0h5b2hEYUx3bEZqY2g5TWZWbmJKSFhjVlBQTXAxWmlPQi1ZNHNUbDJremN1OWViU0NmTGVjMVoySDgtVnFKbE9sR0RJaXhlOGk5WUpNMXdRUzJsZk5abjhyazNhZnRrbExjbEt1R0dYeXJwWVphbXFnNHR0R3BjREJKNkIyVDBnZDhHanBE?oc=5",
+   "source": "Superpower Daily",
+   "published": "2026-11-27T06:40:00+00:00",
+   "title": "China Telecom releases 285B AI model trained on Ascend chips and MindSpore",
+   "text": "",
+   "title_th": "China Telecom เปิดตัวโมเดล AI ขนาด 285B ที่ฝึกด้วยชิป Ascend และ MindSpore",
+   "summary_th": "China Telecom ประกาศเปิดตัวโมเดล AI ขนาดใหญ่ 285 พันล้านพารามิเตอร์ ซึ่งพัฒนาขึ้นโดยใช้ชิปประมวลผล Ascend และเฟรมเวิร์ก MindSpore ของตนเอง",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "China Telecom"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "be8f08f9fe1a",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Xc0xZckhVcUgxb05jc293bDNJbUZxbGxxVkF5UUxDVF94djhRZGZEczdyRTQ0QWlZTnZSa2tmLXlxekhBc0RZaVVkeHk3dHdpNkxOYXJQQ2UwdVZCSXBvNll5MEs3QW1mRWc?oc=5",
+   "source": "Head Topics",
+   "published": "2026-11-27T05:44:00+00:00",
+   "title": "openKylin เชิญชวนพันธมิตรทั่วโลกมาร่วมสร้างอนาคตใหม่ในยุคปัญญาประดิษฐ์ (AI)",
+   "text": "",
+   "title_th": "openKylin เชิญชวนพันธมิตรทั่วโลกสร้างอนาคตใหม่ในยุค AI",
+   "summary_th": "openKylin ประกาศเชิญชวนพันธมิตรจากทั่วโลกเพื่อร่วมมือกันพัฒนาเทคโนโลยีและสร้างอนาคตในยุคปัญญาประดิษฐ์ การเคลื่อนไหวนี้มุ่งเน้นการขยายระบบนิเวศของแพลตฟอร์มให้รองรับการใช้งาน AI มากขึ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "openKylin"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "c40f62ec41e2",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd1hKQWVwLXRQb2l5dHpYNUtrcHpVNkp0RHVzSWtvNUJ3U0M5M0txOTRacVFLQmFvbGZScURpNUplUkJpWVhsRWMxZ0RKNHVwUWZwaHhyYjJjWkFua0l3SnNDX0xiNDFheDVMVXJaQXFTVVJBTGJ0STdXT2pIMGpNLVN5T2t3ZHZHaWV0ZFlGX0Z5U29RWGZyTHRhc3R3d3Y2aV9BU2FuNXVsQVlQSGROM2xsaWE1dw?oc=5",
+   "source": "Machine Maker",
+   "published": "2026-11-27T05:03:51+00:00",
+   "title": "Robbyant Releases LingBot-Touch Open-Source Tactile AI Model for Dexterous Robots",
+   "text": "",
+   "title_th": "Robbyant เปิดตัว LingBot-Touch โมเดล AI สัมผัสแบบโอเพนซอร์สสำหรับหุ่นยนต์",
+   "summary_th": "Robbyant ปล่อย LingBot-Touch ซึ่งเป็นโมเดล AI ด้านการสัมผัสแบบโอเพนซอร์สที่ออกแบบมาเพื่อเพิ่มความคล่องตัวให้กับหุ่นยนต์ ช่วยให้หุ่นยนต์สามารถโต้ตอบกับวัตถุได้อย่างแม่นยำยิ่งขึ้น",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Robbyant"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "0a9301cee676",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FSWpodC1OQkxlQzJUNHNVVW1WRmJKTkp2UjFlNll1cE1ISUNXdnZtV1lsRTFKWXQ0RGVDdFpVSjFJajBFRFRCeGY1MUdfSHJDVFJJ?oc=5",
+   "source": "36Kr",
+   "published": "2026-11-27T04:41:11+00:00",
+   "title": "The Core Figure Behind Claude Code Reflects on the Future of Vibe Coding",
+   "text": "",
+   "title_th": "เบื้องหลัง Claude Code กับมุมมองต่ออนาคตของ Vibe Coding",
+   "summary_th": "ผู้พัฒนาหลักของ Claude Code ร่วมสะท้อนมุมมองเกี่ยวกับอนาคตของ Vibe Coding ซึ่งเป็นการเขียนโปรแกรมรูปแบบใหม่ที่เน้นการโต้ตอบกับ AI มากขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "25b714afec37",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRk8xbUpzWkpwTHRqLV9EcEN3cUl3T0RVQVpYWXBxRDhjdFpMVjd3cnBEMXQ3ZmNtRmtnUkZCSXhjSXFPdzR1MGp2SElZdUdEOEFkWTlIQXptWHJJYmxwaC1BWS1hcFREeFp4NnVHbE9BQXY2ZzNjbU5Ea0VfVW9LWQ?oc=5",
+   "source": "Tech Wire Asia",
+   "published": "2026-11-27T04:16:20+00:00",
+   "title": "Anthropic research reveals AI agent sandbox security risks",
+   "text": "",
+   "title_th": "การใช้งาน Trainium3 สร้างวิดีโอด้วยโมเดล LTX-2.5",
+   "summary_th": "การทดสอบประสิทธิภาพการสร้างวิดีโอด้วยโมเดล LTX-2.5 บนฮาร์ดแวร์ Trainium3 แสดงให้เห็นถึงความก้าวหน้าในการประมวลผลงานด้านสื่อด้วย AI",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [
+    "Amazon"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "dc76a9db254e",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkVGeWJkdWRORjM1SjhUS0hsbllJVjdfVXFUdmdpM2hBVzRFTDdiT2hHcEliUERxb1lNUG9fZmdHZFpiNENOajNaRXFySmRXYWY3SlhhOTZmLTgtd3dNLXpFc0kwYWtKUXRvV2h6MmFFa2NxZXYwLXhkTXprRWF1X3pjcXZXNTBK?oc=5",
+   "source": "digitimes",
+   "published": "2026-11-27T04:09:08+00:00",
+   "title": "Can AI resist temptation? Anthropic finds lower violation rates in new Claude models",
+   "text": "",
+   "title_th": "Anthropic พบโมเดล Claude รุ่นใหม่มีอัตราการละเมิดกฎต่ำลง",
+   "summary_th": "ผลการทดสอบจาก Anthropic ระบุว่าโมเดล Claude รุ่นล่าสุดมีความสามารถในการต้านทานคำสั่งที่ไม่เหมาะสมได้ดีขึ้น ส่งผลให้อัตราการละเมิดกฎลดลงอย่างเห็นได้ชัด",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4d082c89d072",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYNXl5Um5BcDJydlNIaDd0VldkdUhWcHJlNmk2Ym10dEh2Q18zQkhHZVlMTFl3VWRCcTgzRTMyR2pKQnhvQXdpSHVxUTZtclFIZEFpNkRwWHVzckdRMjlQTmJMemtJYUY1?oc=5",
+   "source": "Memeburn",
+   "published": "2026-11-27T03:56:11+00:00",
+   "title": "Claude Ship: How Anthropic's AI Agents Approve Your Code",
+   "text": "",
+   "title_th": "ทำความรู้จัก Claude Ship ระบบ AI Agent ช่วยตรวจสอบและอนุมัติโค้ด",
+   "summary_th": "Claude Ship เป็นเครื่องมือ AI Agent จาก Anthropic ที่ช่วยให้นักพัฒนาสามารถตรวจสอบและอนุมัติโค้ดได้อย่างมีประสิทธิภาพมากขึ้นผ่านระบบอัตโนมัติ",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "70eb7c4e7f85",
+   "url": "https://www.blognone.com/node/152267",
+   "source": "Blognone",
+   "published": "2026-11-27T03:47:58+00:00",
+   "title": "Satya Nadella ยอมรับไมโครซอฟท์มองพลาด ไม่เห็นว่า Claude Code จะมาฆ่า IDE",
+   "text": "Body Satya Nadella ซีอีโอไมโครซอฟท์ ให้สัมภาษณ์กับช่อง The Pragmatic Engineer ของ Gergely Orosz ในประเด็นว่าวิศวกรรมซอฟต์แวร์จะเปลี่ยนโฉมไปอย่างไรในยุค AI หัวข้อที่น่าสนใจคือ Nadella ยอมรับว่าไมโครซอฟท์พลาด มองข้ามการผุดขึ้นมาของระบบ AI ช่วยเขียนโค้ดอย่าง Cursor หรือ Claude Code ทำให้ซอฟต์แวร์ IDE ที่ไมโครซอฟท์ครองตลาดมาตลอด กลายเป็นไม่จำเป็นต้องมีอยู่อีกต่อไป (faded away) ภายในเวลาแค่ครึ่งปี Nadella บอกว่าเครื่องมือพัฒนาซอฟต์แวร์เป็น DNA ของไมโครซอฟท์มาโดยตลอด และบริษัทก็ปรับตัวเข้ากับยุคสมัย เช่น VS Code ที่เป็นโอเพนซอร",
+   "title_th": "Satya Nadella ยอมรับ Microsoft พลาดที่มองข้ามผลกระทบของ Claude Code ต่อ IDE",
+   "summary_th": "ซีอีโอของ Microsoft ยอมรับว่าบริษัทประเมินผลกระทบของเครื่องมือ AI อย่าง Claude Code และ Cursor ต่ำไป ซึ่งอาจส่งผลให้ซอฟต์แวร์ IDE แบบเดิมมีความจำเป็นลดลงในอนาคต",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Microsoft",
+    "Anthropic"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d15cd3773349",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nRlZtOEhnX2d0alhQWFh6MDVZanFDY1BrTFFlbEVvaHJYZXVTakZOeFpEbnM2QncxTkZ2aktaV0EyeU9BdGZSMVdmeEp2UQ?oc=5",
+   "source": "Hoonsmart",
+   "published": "2026-11-27T02:14:42+00:00",
+   "title": "\"หุ้นโตเกียว-เอเชีย\" บวก หุ้น AI ฟื้นตัว",
+   "text": "",
+   "title_th": "ตลาดหุ้นโตเกียวและเอเชียปรับตัวบวก โดยหุ้นกลุ่ม AI เริ่มฟื้นตัว",
+   "summary_th": "บรรยากาศการลงทุนในตลาดหุ้นโตเกียวและเอเชียมีทิศทางเป็นบวก โดยเฉพาะหุ้นในกลุ่มเทคโนโลยี AI ที่เริ่มกลับมาฟื้นตัวอีกครั้ง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "b7e5279a292b",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1S21iMkpzalBmX3Y4NDZTdWE4YnpPeU1COXJsZW54V0VHT18xVE5KWTJzamVxWHZTZi1XaW80eUlHbFF3N3dCcTdn?oc=5",
@@ -805,6 +1183,20 @@
    "importance": 2,
    "ai": true,
    "dedup": true
+  },
+  {
+   "id": "2d7f8b4f8454",
+   "url": "https://huggingface.co/blog/video-trainium3",
+   "source": "Hugging Face",
+   "published": "2026-11-27T00:00:00+00:00",
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "text": "",
+   "title_th": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "summary_th": "",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 0,
+   "ai": false
   },
   {
    "id": "e19e59a759d9",
@@ -1126,23 +1518,6 @@
    "dedup": true
   },
   {
-   "id": "f6b0ae0a8ebb",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3F1WHNTTFoyRnRTTHNQdUcteGVBZllDQXgxYjJ2OWhHcGdySUNHTnd4Y3dwZTVVS25SalQ3d1NJZFpJTDBFNF8yWUVNckcyc1pYYjg2aGQxc1hGRkJ4aWwyZVJWZVpKUGFLNlNPVFk2dk5QWDNvNmJ3SmpsX2VXN3ZnZXpYQ0p3OEhBS2NEX0c?oc=5",
-   "source": "TechRepublic",
-   "published": "2026-11-26T13:53:40+00:00",
-   "title": "Anthropic Says Claude Helped Rebuild Its API in Rust, Cutting CPU Use by 70%",
-   "text": "",
-   "title_th": "Anthropic เผยการย้าย API ไปใช้ภาษา Rust ช่วยลดการใช้ CPU ได้ถึง 70%",
-   "summary_th": "Anthropic ประสบความสำเร็จในการปรับปรุงโครงสร้างพื้นฐาน API โดยเปลี่ยนมาใช้ภาษา Rust ซึ่งส่งผลให้ประสิทธิภาพการใช้ CPU ลดลงอย่างมีนัยสำคัญถึง 70%",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "f92e197bc92b",
    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9RemVTT3dkQjlFSGxRUWt2RGRaUGVWN2VRWExSTTdFSE1VYmVIYS1rSUl5RU14eVhxRnJF?oc=5",
    "source": "Howl.Link",
@@ -1190,6 +1565,29 @@
     "Anthropic"
    ],
    "importance": 3,
+   "ai": true,
+   "dedup": true,
+   "also": [
+    {
+     "source": "TechRepublic",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3F1WHNTTFoyRnRTTHNQdUcteGVBZllDQXgxYjJ2OWhHcGdySUNHTnd4Y3dwZTVVS25SalQ3d1NJZFpJTDBFNF8yWUVNckcyc1pYYjg2aGQxc1hGRkJ4aWwyZVJWZVpKUGFLNlNPVFk2dk5QWDNvNmJ3SmpsX2VXN3ZnZXpYQ0p3OEhBS2NEX0c?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "74c0c0ba388d",
+   "url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+   "source": "Hugging Face (โมเดลมาแรง)",
+   "published": "2026-11-26T13:01:01+00:00",
+   "title": "Trending on Hugging Face: ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+   "text": "text-generation · 194 likes · trending score 162",
+   "title_th": "โมเดล Inkling-2-Mini-GSQ-RCO-GGUF กำลังได้รับความนิยมบน Hugging Face",
+   "summary_th": "โมเดล Inkling-2-Mini-GSQ-RCO-GGUF กำลังเป็นที่สนใจในชุมชนนักพัฒนาบน Hugging Face โดยได้รับคะแนนความนิยมสูงในหมวดการสร้างข้อความ",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Hugging Face"
+   ],
+   "importance": 2,
    "ai": true,
    "dedup": true
   },
@@ -1477,8 +1875,27 @@
     {
      "source": "News Karnataka",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2FDTHRaZmhPTEgxUlkzMUs1dTdyLUtqcVo3OWlEN1kzbFJSN2hRNGxGT2s3RUpDRDY0X25fTWw4Vkw5UkphN0ZqWE1NUnJBS0JVMmppN2F4RW16VGJCRzcxZlJVN2RGOVY5ZUI3OEg0NVpHM3RUZm9OaUpsMFZNdGlyRkY5ZThobXUxSW0zSUEwOFQ5c015RGFn?oc=5"
+    },
+    {
+     "source": "Inshorts",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3FsdnBvdDVRRTdONzdiU1YyaHZadnJDelN5QkRtZ0dnMm5MWXJ4S1JyT0hrVHlhcXJtWWtNM2F5d3psMXRreEZUOVBMWXNKM0JiWDlNMVdxQ1VISnBNWVB4ajNkVUg0UlhCdmU3XzI1Tlh5bk5SZ3ZkdXJqYzRTWlM1TEt4M3VnRlVaTUU5S0kwZ1h6?oc=5"
     }
    ]
+  },
+  {
+   "id": "75529b48bd64",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-26T07:19:00+00:00",
+   "title": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+   "text": "",
+   "title_th": "สหรัฐฯ คุมเข้มชิปและสกัดการทำ Distillation กระทบการพัฒนา AI ในจีน",
+   "summary_th": "มาตรการควบคุมการส่งออกชิปของสหรัฐฯ และการจำกัดเทคนิคการทำ Model Distillation กำลังสร้างความท้าทายอย่างหนักต่อการพัฒนาโมเดล AI ของบริษัทในจีน",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "c5460ef783d6",
@@ -2114,7 +2531,25 @@
    ],
    "importance": 4,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Digital Trends",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUk1ZdDZmRzkwLVpya1Fzd084QVB1NFA4NlpLS0lOSTN3cXBaX0Q2Ym5nQk0tcVlWek5zZnhlY2xRSUNBUnZKNmVFMHhzRFRiZ2YxWFBLYmhIMjNLWDJJX3Y3U0xGS2FCTklvaVZJTXRDcnhpcERKVlVTcHE3dU9xekdnNlZTODc3b1VkUk5jVUNDbTdtUVhGQ2tUWlExY1VMYjBrYg?oc=5"
+    },
+    {
+     "source": "SiliconANGLE",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUFlGbnVuVnBtSFJ4d1hzaTd3anYzS3kyQzVmU1JYRVBjUndkODBGMGdmXzc4YnpqWWFOU2xUbnZYOE9jUFV1Y2pFTWY5VS1oOXpxN2gtZ0FvR1pRQnB3U3lPTm1URzA5aE95YkFfdmRUX3hLRjlNcEhGZVRxZ1hxQjhYZkpLZ0N5T0M0SnVOaG1Ra0tra0RlX2ZQNHFacUNZTXFTbG5YVExXWUdhT1laczJlMzV0bFVqWVNn?oc=5"
+    },
+    {
+     "source": "NeoTeo",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYUtnLTRJb3BBODFUazVQQzdRYnJMbVZFSU5uSHhOZHh6VGFHOGV0M3ctRFN1UkYxd3FmaFFwN3FIMWluYW16TURsRXNDblNoSzZNTGxFSThHZmhNQUJlb2Zkd1VkUkpqdTBqVkRKUkhQY19MNXJIdnVkR1dCTWhfWEU2YW42Yk0yWWFUdQ?oc=5"
+    },
+    {
+     "source": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFdMZExUUnFRRFpQVGs0blZTT3JCOXhMUVIxWnRrYzN0Nzl6QUFpMzdLTkFzOVluRjY1Y3dKVWdWZ0RkdnJhdnB6ckRJbkhqelozQnZJRUdYdGY3QnJoRy0wMUVaeTlkbUlqWGZNcjFSamVaRmtoaWlsYUlJdUh3YS1HM21iVTl2ZHBDeXdodnM1SWloME1MeG9Fa3Y?oc=5"
+    }
+   ]
   },
   {
    "id": "4c44ce30146b",
@@ -2933,23 +3368,6 @@
    "dedup": true
   },
   {
-   "id": "18bea9ea539c",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUFlGbnVuVnBtSFJ4d1hzaTd3anYzS3kyQzVmU1JYRVBjUndkODBGMGdmXzc4YnpqWWFOU2xUbnZYOE9jUFV1Y2pFTWY5VS1oOXpxN2gtZ0FvR1pRQnB3U3lPTm1URzA5aE95YkFfdmRUX3hLRjlNcEhGZVRxZ1hxQjhYZkpLZ0N5T0M0SnVOaG1Ra0tra0RlX2ZQNHFacUNZTXFTbG5YVExXWUdhT1laczJlMzV0bFVqWVNn?oc=5",
-   "source": "SiliconANGLE",
-   "published": "2026-11-24T22:56:00+00:00",
-   "title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
-   "text": "",
-   "title_th": "Anthropic ทดสอบ Siren เพื่อดูว่าโมเดล Claude จะหลุดออกจาก Sandbox ได้หรือไม่",
-   "summary_th": "Anthropic ดำเนินการทดสอบความปลอดภัยด้วยโปรเจกต์ Siren เพื่อตรวจสอบว่าโมเดล Claude สามารถหลุดออกจากสภาพแวดล้อม Sandbox ที่ไม่ปลอดภัยได้หรือไม่",
-   "category": "งานวิจัย",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "2279970918d7",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lN0xDdzBkbEh0c1ZaUTF6X0N4Nm1TakJWN0RCbmxfM1dZV2paUXdiWXBQQ3FtMDdpd1RwZ2FUeXJ0ajBlc3l2c1RjN0RnZTZJaGRDODcyUUpod0sxVW9LV1dqUmd0Ukk3V1Uxak96NXBERWYtc1E?oc=5",
    "source": "BigGo Finance",
@@ -3093,23 +3511,6 @@
     "Anthropic"
    ],
    "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a1824f2260cf",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUk1ZdDZmRzkwLVpya1Fzd084QVB1NFA4NlpLS0lOSTN3cXBaX0Q2Ym5nQk0tcVlWek5zZnhlY2xRSUNBUnZKNmVFMHhzRFRiZ2YxWFBLYmhIMjNLWDJJX3Y3U0xGS2FCTklvaVZJTXRDcnhpcERKVlVTcHE3dU9xekdnNlZTODc3b1VkUk5jVUNDbTdtUVhGQ2tUWlExY1VMYjBrYg?oc=5",
-   "source": "Digital Trends",
-   "published": "2026-11-24T21:33:37+00:00",
-   "title": "Anthropic is now testing the rogue AI agents by tempting them",
-   "text": "",
-   "title_th": "Anthropic เริ่มทดสอบ AI Agents ด้วยการสร้างสถานการณ์ล่อใจเพื่อดูพฤติกรรม",
-   "summary_th": "Anthropic ดำเนินการทดสอบความปลอดภัยของ AI Agents โดยการสร้างสถานการณ์จำลองเพื่อทดสอบว่าโมเดลจะมีพฤติกรรมอย่างไรเมื่อถูกกระตุ้นหรือล่อใจ",
-   "category": "งานวิจัย",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -3474,6 +3875,21 @@
    "category": "งานวิจัย",
    "companies": [],
    "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cf71a125cc26",
+   "url": "https://huggingface.co/papers/2611.34290",
+   "source": "HF Daily Papers",
+   "published": "2026-11-24T19:00:00+00:00",
+   "title": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+   "text": "Modern video foundation models generate high-quality short clips, but preserving long-video consistency and correctly depicting event-driven state changes remain challenging. Existing agentic workflows face these challenges because continual planning and repair accumulate context, while reference updates remain limited. We introduce StateWeaver, which combines Active States and Hierarchical Collaboration to connect review-driven visual reference updates with cross-shot state inheritance. Active States translate state discrepancies identified during review into concrete visual asset requirement",
+   "title_th": "StateWeaver: ระบบ Multi-Agent เพื่อการสร้างวิดีโอระยะยาวที่ต่อเนื่อง",
+   "summary_th": "StateWeaver นำเสนอแนวทางใหม่ในการสร้างวิดีโอด้วย AI โดยใช้การประสานงานแบบ Multi-Agent เพื่อรักษาความต่อเนื่องของเนื้อเรื่องและสถานะของเหตุการณ์ในวิดีโอที่มีความยาว",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 4,
    "ai": true,
    "dedup": true
   },
@@ -18683,211 +19099,6 @@
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [
     "Hugging Face"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "ece4b84db3e9",
-   "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
-   "source": "NVIDIA",
-   "published": "2026-11-13T13:00:42+00:00",
-   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-   "text": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
-   "title_th": "NVIDIA เผยบทบาท AI ในการช่วยทีมแพทย์ดูแลผู้ป่วยได้รวดเร็วยิ่งขึ้น",
-   "summary_th": "NVIDIA นำเสนอการใช้ AI ในระบบสาธารณสุข ตั้งแต่งานวิจัยกุมารเวชศาสตร์ไปจนถึงโรงพยาบาลอัจฉริยะ เพื่อลดภาระงานรูทีนของบุคลากรทางการแพทย์และเพิ่มเวลาในการดูแลผู้ป่วย",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e00ed907e42f",
-   "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-13T12:52:19+00:00",
-   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-   "text": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-   "title_th": "VC ในอิสราเอลมองเห็นโอกาสสำหรับคู่แข่งท่ามกลางความวุ่นวายของ NVIDIA",
-   "summary_th": "นักลงทุนในอิสราเอลเริ่มกังวลเกี่ยวกับผลกระทบจากการเปลี่ยนแปลงภายใน NVIDIA และมองว่าเป็นโอกาสสำหรับบริษัทสตาร์ทอัพคู่แข่งที่จะเข้ามามีบทบาทในตลาด AI มากขึ้น",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "16924e51470f",
-   "url": "https://www.blognone.com/node/152174",
-   "source": "Blognone",
-   "published": "2026-11-13T12:19:26+00:00",
-   "title": "Adobe Creative Cloud รองรับ MCP Server สั่งงานได้จาก Agent ภายนอก",
-   "text": "Body Adobe ประกาศข่าวว่าแอพในชุด Creative Cloud จะมี local MCP server ในตัว เพื่อให้ใช้ AI agent ภายนอกสั่งทำงานใน Photoshop, Illustrator, Premiere, After Effects ได้เลย ตัวอย่างที่ Adobe นำมาโชว์คือการใช้ ChatGPT และ Claude พิมพ์สั่งทำสิ่งต่างๆ กับ Photo แอพในกลุ่ม Creative Cloud มีฟีเจอร์ AI Assistants ที่เป็น AI agent ฝังมาในตัวแอพเลย ส่วนความสามารถดูได้จากวิดีโอด้านล่าง ที่มา - Adobe mk Fri, 13/11/2026 - 19:19",
-   "title_th": "Adobe Creative Cloud รองรับ MCP Server สั่งงานผ่าน AI Agent ภายนอกได้",
-   "summary_th": "Adobe เปิดตัวฟีเจอร์รองรับ local MCP server ในชุด Creative Cloud ช่วยให้ผู้ใช้สามารถสั่งงาน Photoshop, Illustrator และแอปอื่นๆ ผ่าน AI agent ภายนอกอย่าง ChatGPT หรือ Claude ได้",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Adobe",
-    "OpenAI",
-    "Anthropic"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7ac7b8ca9e1e",
-   "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-   "source": "Hacker News",
-   "published": "2026-11-13T11:13:46+00:00",
-   "title": "AI is destroying the trust between writers and readers",
-   "text": "296 points, 185 comments on Hacker News (https://news.ycombinator.com/item?id=50481870)",
-   "title_th": "AI กำลังทำลายความเชื่อมั่นระหว่างนักเขียนและผู้อ่าน",
-   "summary_th": "บทความสะท้อนมุมมองถึงผลกระทบของ AI ที่มีต่อความไว้วางใจในงานเขียน ซึ่งเป็นประเด็นที่กำลังถูกถกเถียงอย่างกว้างขวางในชุมชนออนไลน์",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "44da454e7900",
-   "url": "https://status.claude.com/incidents/nn11wk485zfn",
-   "source": "Hacker News",
-   "published": "2026-11-13T10:18:13+00:00",
-   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-   "text": "493 points, 390 comments on Hacker News (https://news.ycombinator.com/item?id=50481187)",
-   "title_th": "พบปัญหาข้อผิดพลาดสูงบนบริการ Claude.ai และ Claude Code",
-   "summary_th": "ผู้ใช้งานรายงานว่าพบปัญหาข้อผิดพลาดในการใช้งาน Claude.ai, Claude Code และแพลตฟอร์มของ Claude ซึ่งส่งผลกระทบต่อการเข้าถึงบริการ",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a2d78d5efa83",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fT2ZHYjZGRUZIWlhDTGg3U3ZEa1VpOU5BV2gxeU9MMW9VWjZKTnlDdGNVbkUtWUxtbjlYdFNOYzRlb2dRODQ0OEhBLUNiYUYzcTZYS3hwbFlpVXdIbF9j?oc=5",
-   "source": "SNJ Today",
-   "published": "2026-11-13T10:09:47+00:00",
-   "title": "Claude Goes Down as Microsoft’s Global Outage Drags Into a Second Day",
-   "text": "",
-   "title_th": "Claude ล่มต่อเนื่องท่ามกลางปัญหาการใช้งานระดับโลกของ Microsoft",
-   "summary_th": "บริการ Claude ประสบปัญหาการใช้งานในเวลาเดียวกับที่ Microsoft เผชิญกับเหตุการณ์ระบบล่มทั่วโลกเป็นวันที่สอง ส่งผลกระทบต่อการเข้าถึงบริการ AI และคลาวด์ของผู้ใช้งานจำนวนมาก",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic",
-    "Microsoft"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "137968dd67f5",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdDAwNFVOQW1mT0hYdXZUams5eFE0TDByZ0ZoSVh1OVlQWjk5R2w2UFp2MkJkRnV0NHJXcm1qQ0lzU2laVWxnX0lIRHFMZGtqR0MtczZqNmU1QkFVZG9pZ1RmdjJqMG1DdTRLdy1fYTBVQUxrMjRSQTdLSGxESmFSNEFKX1pLT0hVSjBtYlZkNlRjVlltVkJFM1R1T1ZrWHpkYXJxMHVueFdqU0VGNy1hRXdTQk5jQTRpMXh5cmZCZXA?oc=5",
-   "source": "HLTH",
-   "published": "2026-11-13T09:18:42+00:00",
-   "title": "ALIS by Medtelligent Integrates with Anthropic’s Claude to Expand AI Access in Senior Living",
-   "text": "",
-   "title_th": "ALIS จาก Medtelligent ผสานรวม Claude เพื่อขยายการเข้าถึง AI ในกลุ่มผู้สูงอายุ",
-   "summary_th": "Medtelligent นำโมเดล Claude ของ Anthropic มาผสานรวมเข้ากับระบบ ALIS เพื่อเพิ่มประสิทธิภาพการใช้งาน AI ในธุรกิจดูแลผู้สูงอายุ",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Medtelligent",
-    "Anthropic"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e9412706f584",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-13T08:20:28+00:00",
-   "title": "Google is asking",
-   "text": "I want a new Gemma https://x.com/OfficialLoganK/status/2121115028447531353 submitted by /u/jacek2023 [link] [comments]",
-   "title_th": "ชุมชนผู้ใช้งานเรียกร้องให้ Google ออกโมเดล Gemma รุ่นใหม่",
-   "summary_th": "ผู้ใช้งานในชุมชน AI กำลังเรียกร้องให้ Google ปล่อยโมเดล Gemma รุ่นถัดไปเพื่อใช้งาน",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Google"
-   ],
-   "importance": 1,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "3bdb1babe872",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1I4VDlVdTJxTjF6ay1RWWZ3QWMwd0paVUpnblNPaVN6SHNQcTdIRUYzN0Z0eHFjYVZqTmFTSHN0bWJpZkR1c0xCTTVRT3N1Tjl3YmtWNkEwWkY4NXRBRVdCZGdiSHVtemZoR3A3aTc5Wm10OXhBbUpWbjNVVm5XV0UxZjA?oc=5",
-   "source": "Brand Buffet",
-   "published": "2026-11-13T08:11:53+00:00",
-   "title": "โนวีทัซส์ ได้รับรางวัลรองชนะเลิศอันดับ 1 สาขา “Tech and AI for Gender Equality” ในงาน The UN Women 2026 Thailand WEPs Awards [PR]",
-   "text": "",
-   "title_th": "โนวีทัซส์ คว้ารางวัลด้าน Tech and AI for Gender Equality จาก UN Women",
-   "summary_th": "บริษัท โนวีทัซส์ ได้รับรางวัลรองชนะเลิศอันดับ 1 ในสาขาที่เกี่ยวข้องกับการใช้เทคโนโลยีและ AI เพื่อความเท่าเทียมทางเพศ จากงานประกาศรางวัลของ UN Women Thailand",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 1,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d1318183fe17",
-   "url": "https://openai.com/business/customer-stories/shield",
-   "source": "OpenAI",
-   "published": "2026-11-13T08:00:00+00:00",
-   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "text": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-   "title_th": "Shield ใช้ OpenAI ช่วยงาน IT Technician จัดการระบบ Legacy",
-   "summary_th": "Shield นำเทคโนโลยีของ OpenAI มาใช้ช่วยงาน IT Technician ในการจัดการระบบเก่า โดยให้ AI Agents ช่วยนำทางในระบบเพื่อให้มนุษย์โฟกัสกับงานที่ต้องใช้การตัดสินใจ",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "OpenAI",
-    "Shield"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "47a0abe00ba7",
-   "url": "https://www.blognone.com/node/152171",
-   "source": "Blognone",
-   "published": "2026-11-13T07:24:10+00:00",
-   "title": "12 ชั่วโมงผ่านไป - Microsoft ระบุ ถึงตอนนี้ยังไม่พบว่า Microsoft 365 ล่ม เกิดจากการโจมตีที่เป็นอันตราย",
-   "text": "Body ผ่านไปแล้วมากกว่า 12 ชั่วโมง ปัญหาของ Microsoft 365 ที่ ไม่สามารถใช้งานได้ตามปกติ กระทบผู้ใช้งานทั่วโลก ซึ่งรวมทั้ง Outlook, Teams และ Copilot ยังคงไม่กลับมาเป็นปกติ ในช่วงแรกไมโครซอฟท์บอกว่าปัญหาเกิดจากเซิร์ฟเวอร์ไม่สามารถทำ Automated health check ได้ แต่เมื่อแก้ไขแล้วก็ยังไม่ใช่สาเหตุ ต่อมาไมโครซอฟท์ บอกว่า ได้แก้ปัญหาเพิ่มเติมหลายอย่างทั้ง การขยายทรัพยากรให้รองรับเวิร์กโหลดมากขึ้น, ปรับคอนฟิกหลายอย่าง, ตรวจสอบทราฟิกที่สร้างผลกระทบเพื่อปรับสมดุล ซึ่งตอนนี้ก็ยังไม่ยืนยันว่าจะแก้ปัญหาได้",
-   "title_th": "Microsoft 365 ยังคงล่มทั่วโลก ยืนยันไม่ใช่การโจมตีทางไซเบอร์",
-   "summary_th": "บริการ Microsoft 365 รวมถึง Copilot ประสบปัญหาล่มทั่วโลกต่อเนื่องนานกว่า 12 ชั่วโมง โดย Microsoft ยืนยันว่าไม่ได้เกิดจากการโจมตีที่เป็นอันตราย แต่เป็นปัญหาด้านการจัดการทรัพยากรและระบบ",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Microsoft"
-   ],
-   "importance": 5,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "8dc897de9b16",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5temQ3NTdNQ0QzRmZuS1hLZXB5bm5GRVNZUkIwenVFZ3poZjc2blNaclpmVVdLeE94OElVTXBVNHBmdDhXaTVQVmNCQ1M1c20tbmJJZw?oc=5",
-   "source": "News1Live",
-   "published": "2026-11-13T06:18:11+00:00",
-   "title": "วันสิ้นโลกอาจมาเร็วกว่าคิด!บอร์ดOpenAIเตือนเองAIคุมไม่อยู่ใน3ปี มนุษยชาติเสี่ยงตายเป็นเบือ",
-   "text": "",
-   "title_th": "บอร์ด OpenAI เตือน AI อาจควบคุมไม่ได้ใน 3 ปี",
-   "summary_th": "มีการรายงานถึงความกังวลจากบอร์ดบริหารของ OpenAI เกี่ยวกับความเสี่ยงที่ AI อาจก้าวข้ามการควบคุมของมนุษย์ในอนาคตอันใกล้",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "OpenAI"
    ],
    "importance": 4,
    "ai": true,

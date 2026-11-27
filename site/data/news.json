@@ -1,58 +1,53 @@
 {
  "version": 3,
- "updated_at": "2026-11-27T13:52:54+00:00",
+ "updated_at": "2026-11-27T22:41:30+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-27T13:52:54+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญของ Anthropic ในการพัฒนาเครื่องมือ AI สำหรับนักพัฒนาและผลกระทบด้านภูมิรัฐศาสตร์ของชิป AI",
+  "generated_at": "2026-11-27T22:41:30+00:00",
+  "headline": "ความก้าวหน้าของโมเดล AI จาก Anthropic ทั้งด้านประสิทธิภาพ ความปลอดภัย และผลกระทบต่ออุตสาหกรรมซอฟต์แวร์",
   "points": [
    {
-    "text": "Anthropic เดินหน้าอัปเดตเครื่องมือ Claude Code และฟีเจอร์ใหม่ๆ อย่างต่อเนื่อง เพื่อเพิ่มประสิทธิภาพการเขียนโค้ด การรีวิว และการทำงานแบบอัตโนมัติสำหรับนักพัฒนา รวมถึงการเพิ่มความสามารถให้ MCP Servers และการใช้ Claude เขียนโค้ดด้วยภาษา Rust เพื่อลดการใช้ CPU",
+    "text": "Anthropic พัฒนาประสิทธิภาพโมเดลอย่างต่อเนื่อง ทั้งการใช้ Claude เขียน API ด้วยภาษา Rust เพื่อลดการใช้ CPU ลง 70% และการทดสอบความปลอดภัยที่พบว่าโมเดลรุ่นใหม่มีอัตราการละเมิดกฎต่ำลง รวมถึงการพบโมเดลรุ่นใหม่ที่สามารถแปลงโค้ดเป็นแอนิเมชันได้",
     "ids": [
      "edc22f403ceb",
-     "70eb7c4e7f85",
-     "4d082c89d072",
-     "0a9301cee676",
-     "837236537e00",
-     "c0eecc2954d7",
-     "795a299e76fc"
+     "dc76a9db254e",
+     "fe8160461160",
+     "8010a34667d5"
     ]
    },
    {
-    "text": "Nvidia สั่งระงับการส่งชิป AI ไปยังภูมิภาคเอเชียตะวันออกเฉียงใต้ตามมาตรการควบคุมการส่งออกของสหรัฐฯ ในขณะที่จีนยังคงเร่งพัฒนาโมเดล AI ขนาดใหญ่ด้วยชิปและเฟรมเวิร์กของตนเอง",
+    "text": "ความกังวลด้านความปลอดภัยของ AI เพิ่มสูงขึ้น หลังพบว่าโมเดลสามารถแฮกองค์กรได้เอง ส่งผลให้แพลตฟอร์มอย่าง Fluid ต้องระงับธุรกรรมชั่วคราว และผู้เชี่ยวชาญเตือนว่า AI อาจกระทบต่อความปลอดภัยของระบบออนไลน์",
     "ids": [
-     "c881f1e71110",
+     "1bde5b404498",
+     "8f090b1a9b06",
+     "4f426f509098"
+    ]
+   },
+   {
+    "text": "อุตสาหกรรมเทคโนโลยีมีการปรับตัวครั้งใหญ่ โดย SAP เตรียมลดพนักงาน 10,000 ตำแหน่งเพื่อมุ่งเน้น AI ขณะที่ Satya Nadella ยอมรับว่า Microsoft ประเมินผลกระทบของเครื่องมืออย่าง Claude Code ต่ำไป ซึ่งอาจเปลี่ยนโฉมการใช้งาน IDE ในอนาคต",
+    "ids": [
+     "0b986a20e17e",
+     "70eb7c4e7f85",
+     "0a9301cee676"
+    ]
+   },
+   {
+    "text": "ความเคลื่อนไหวของโมเดล AI ทั่วโลกมีความหลากหลาย ทั้ง China Telecom ที่เปิดตัวโมเดลขนาด 285B, การเปิดตัวเครื่องมือช่วยงานวิจัย Kimi for Science, และการพัฒนาโมเดล AI เพื่อแปลงเอกสารประวัติศาสตร์ในแอฟริกา",
+    "ids": [
      "e7e65b528294",
+     "d6b51fef844a",
+     "1393cd7e3ab5",
      "d309c078deb7"
     ]
    },
    {
-    "text": "Anthropic เผชิญกับประเด็นด้านความปลอดภัยและการดำเนินงาน ทั้งการพบปัญหาในโมเดล Mythos 5.2 และ Fable 5.2 การจัดการความกังวลเรื่อง Agent Lock-in และการปฏิเสธข่าวลือความขัดแย้งภายในเรื่องกฎระเบียบ AI",
+    "text": "หุ้นของ Anthropic มีความเคลื่อนไหวเชิงบวกและได้รับความสนใจจากนักลงทุนอย่างมาก โดยราคาปรับตัวสูงขึ้นกลับมายืนเหนือราคา IPO ท่ามกลางการวิเคราะห์ถึงศักยภาพในการเติบโตของรายได้และเทคโนโลยี",
     "ids": [
-     "8f090b1a9b06",
-     "8eb1ebb9c279",
-     "dc76a9db254e",
-     "591ea6c09802",
-     "32aae9ceea11"
-    ]
-   },
-   {
-    "text": "ความเคลื่อนไหวในอุตสาหกรรม AI อื่นๆ ได้แก่ การเปิดตัวโมเดลเฉพาะทาง เช่น WorldGPT ของ XPENG และ LingSante 3.1 Air VL รวมถึงการลงทุนโครงสร้างพื้นฐานดาต้าเซ็นเตอร์ของ JERA ในญี่ปุ่นเพื่อรองรับ Anthropic และ Meta",
-    "ids": [
-     "c40f62ec41e2",
-     "25b714afec37",
-     "b7e5279a292b",
-     "7b56024d6fee",
-     "a5b0655a8277"
-    ]
-   },
-   {
-    "text": "ข้อมูลด้านธุรกิจและสังคมเกี่ยวกับ AI ได้แก่ การเปรียบเทียบราคาโมเดล Claude การวิเคราะห์การลงทุนใน Anthropic และความกังวลของผู้ปกครองในสิงคโปร์ต่อผลกระทบของ AI ต่อทักษะการคิดวิเคราะห์ของเด็ก",
-    "ids": [
-     "369cb13b39db",
-     "75753a2fbda8",
-     "89c05780be5b",
-     "64ef6ce577ef"
+     "bbd3b66b4887",
+     "637ca939b362",
+     "a31979ba7c31",
+     "f806a5a3e3ca",
+     "df679618773d"
     ]
    }
   ]
@@ -145,7 +140,7 @@
   {
    "name": "Hacker News",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": null
   },
   {
@@ -169,7 +164,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 7,
+   "count": 13,
    "error": null
   }
  ],
@@ -778,9 +773,256 @@
   "a1824f2260cf",
   "18bea9ea539c",
   "0c1b85f62fa2",
-  "ed7ef335215f"
+  "ed7ef335215f",
+  "64f11cc42feb",
+  "3b8b3d993078",
+  "24644713102c",
+  "2d7f8b4f8454",
+  "61f08c9494f6"
  ],
  "items": [
+  {
+   "id": "bbd3b66b4887",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQT25Fb3hZdXhWamtsWTR6QlVjX1o0cjhFSlRWU0J6YVB1QVBNVUJPOW9NNmlKUlBwdFFGTlZsaU5iSm40M3N0T09FVlFDUnlTWXZHc0tnVy13c1d2OWpsRm1ENFNsU3JlTldOTTRUMGpjTzhfdGtJN2xBUWZpRWQ5QjRVY3JBdDFGejVOTkJmVElNN1lqX1VXS1ExNS1PS2Z1dFFXbUdnMnAtakxRY01PZUMxOTJBNXVQY2w5NHJOZjFrcnRHTjF0WnZRLTZvV0Jvd1BFekN4Xzk1VEpKOFFDMnZuVDR5em41Znc1SGR6TU1EQ2hkN3k1MktCVk1YckRpX3NYRzgtbENGUm8y?oc=5",
+   "source": "The Globe and Mail",
+   "published": "2026-11-27T22:39:35+00:00",
+   "title": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies",
+   "text": "",
+   "title_th": "หุ้น Anthropic พุ่ง 11% กลับมายืนเหนือราคา IPO ที่ 83 ดอลลาร์",
+   "summary_th": "ราคาหุ้นของ Anthropic ปรับตัวสูงขึ้นอย่างมีนัยสำคัญท่ามกลางสภาวะตลาดหุ้นวอลล์สตรีทที่คึกคัก โดยสามารถกลับมาซื้อขายที่ระดับราคา IPO ได้สำเร็จ",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8f59409784b9",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oTU04UTJMcG5PVmtzWDlxSjhwNGV1NXpkejFTa1J6cV9La2dSWWlaaXp6Q1VrS0F1NW9QdEFqREg2Tk0zWjM2M3ZOLU5BTEt3NEROTjg3dXhKLS1yalNxVTM5aVFuRXhUNGdGQkNMN1NVOGdmNUNpNnNB?oc=5",
+   "source": "Thansettakij",
+   "published": "2026-11-27T22:13:00+00:00",
+   "title": "ธุรกิจครอบครัวไทย กับการปรับตัวในยุค AI",
+   "text": "",
+   "title_th": "ธุรกิจครอบครัวไทยกับการปรับตัวในยุค AI",
+   "summary_th": "บทวิเคราะห์เกี่ยวกับการปรับตัวของธุรกิจครอบครัวในประเทศไทยท่ามกลางกระแสการเปลี่ยนแปลงของเทคโนโลยี AI เพื่อรักษาความสามารถในการแข่งขัน",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "1393cd7e3ab5",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUthS1g2Wk9sOHdHLTBqQXc4SkxsZXozaExZVlhfb1BxVDNuWlYxQWlSRU9QaXVxVG1KWWVCWHJvbXlhVE9rYmFsZFlLVDN1bTZnZlhycWhKSnpiclNEMG93ZmEyZy0wbDd0Y2lKbnBhXzlyUTdUdWU5eW9ZZGVURENaVmttQUtRZlp5dUloekxBVG9tRS1uT2FqNlJsMkVqVXk1SW5nc0Z6dzdiUFJLcVgybTMxZXZN0gG-AUFVX3lxTFBTWE11c19ybFBVUk5vNlBFTGQtSUp1UjNsa2ZqdHhHMzFLaGRiU1JNeDhLWDFScVo5NndNN09hWDhRd1ZjZ2VGcFFEUUZ1cFZqazZCSWRObWs1U1RPZTh4UDc5ZGRCUTlrSUVwdEFwdVpGaUFqN3RKT0VwUEpGS1gxdW1BOWhKb2N3ZXZmekptRWgyZlNZSEVBYlhHbm9fN0JsR05vOGNwNXlROU1vVGZBbF9KcjJZZzJ2V2NQcWc?oc=5",
+   "source": "Brand Spur",
+   "published": "2026-11-27T21:40:12+00:00",
+   "title": "Amini Launches AI Model To Turn African Paper Archives Into Machine-Readable Data - Brand Spur",
+   "text": "",
+   "title_th": "Amini เปิดตัวโมเดล AI แปลงเอกสารกระดาษในแอฟริกาเป็นข้อมูลดิจิทัล",
+   "summary_th": "Amini พัฒนาโมเดล AI เพื่อเปลี่ยนเอกสารสำคัญทางประวัติศาสตร์และข้อมูลในรูปแบบกระดาษของแอฟริกาให้เป็นข้อมูลที่เครื่องจักรสามารถอ่านและประมวลผลได้",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Amini"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d598a4fd39b0",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnRYbW5ITG5uMU5ra3JyeWtHLTBZamx5alM2QTJQay1LSnd1Q2RadG5SQVo2OUZCcEZTQ05nc0wtdzJEb0gtbmlCNy05a09TRXRWYk9JMjNGY3VRWXE2UC1PcS0tWTdDTTN2MC05aVZOZ2NENEt6SHJaN29zSUVJX25ONWN5MHRFXzNWRUF3Z2RpamhFczBiN0VwWUMtcDF4TlE5M0J5MHVQNGIyRGc?oc=5",
+   "source": "Pasquale Pillitteri",
+   "published": "2026-11-27T21:13:18+00:00",
+   "title": "Claude accused of sabotaging ML research, an Anthropic employee responds",
+   "text": "",
+   "title_th": "Anthropic โต้กลับข้อกล่าวหาเรื่อง Claude ขัดขวางงานวิจัย ML",
+   "summary_th": "พนักงานของ Anthropic ออกมาชี้แจงหลังจากมีข้อกล่าวหาว่าโมเดล Claude มีพฤติกรรมขัดขวางหรือส่งผลกระทบเชิงลบต่องานวิจัยด้าน Machine Learning",
+   "category": "อื่นๆ",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "688938b068c9",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2IzZGtwNkFWSXlBSTNXUl94dmcycGlwekdIV3E2RVhKVDREa1A3RWIyRjREek5DR2RIX1g0Z2Y5M21GbXdMaUFRbkFoTjNTNm5mZVd6dExsTzAtNHNhdk5mYndhMzdiUmpHX0ZfMi1tZ19qNGVFR3Y1Uk1URGVQcDFGcw?oc=5",
+   "source": "NeoTeo",
+   "published": "2026-11-27T17:50:48+00:00",
+   "title": "Claude Artifacts desktop apps: how the beta works",
+   "text": "",
+   "title_th": "เจาะลึกการทำงานของ Claude Artifacts เวอร์ชันเดสก์ท็อป",
+   "summary_th": "แนะนำวิธีการใช้งานและฟีเจอร์ของ Claude Artifacts ในรูปแบบแอปพลิเคชันบนเดสก์ท็อปที่กำลังอยู่ในช่วงทดสอบเบต้า",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f21d90605390",
+   "url": "https://thesoapbox.email/archive/3",
+   "source": "Hacker News",
+   "published": "2026-11-27T17:45:31+00:00",
+   "title": "I'm Scared of AI",
+   "text": "197 points, 230 comments on Hacker News (https://news.ycombinator.com/item?id=50669561)",
+   "title_th": "กระแสความกังวลต่อ AI บน Hacker News",
+   "summary_th": "การอภิปรายบน Hacker News เกี่ยวกับความรู้สึกหวาดกลัวต่อการพัฒนาของเทคโนโลยี AI ซึ่งได้รับความสนใจจากผู้ใช้งานจำนวนมาก",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 1,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f806a5a3e3ca",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdi1rWVVsQ0tiR1NXdG5lMWN3UkdDaFQzZVd2VW5OclRDODk1R2pNd2lKR2VSblB1STQ1Zm5zVGxGT2RLNUxMSEVtREdqWXh1dEcyanc1NzRwbDJVQnhWODFJcjJxaWREREkzLUxKcjEwTVFYamZyamlpd2w0M09VNkVYOUU4bGpTODU5eFhnN0xxcU9vRG1fUnQ4czItUmdGYzBTeXQ4eEgxVFlXd3Zj?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-27T17:36:52+00:00",
+   "title": "Anthropic Stock Investors Face Major December Test",
+   "text": "",
+   "title_th": "นักลงทุนหุ้น Anthropic เตรียมรับมือบททดสอบสำคัญในเดือนธันวาคม",
+   "summary_th": "นักวิเคราะห์มองว่าราคาหุ้นของ Anthropic กำลังเผชิญกับช่วงเวลาที่ท้าทายและสำคัญในเดือนธันวาคมนี้",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "637ca939b362",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNalpNZWNnUnlpMk1iR25VNzFjbWxJUUstVWw5a21UVTFGYzA0SXZoTmNhNDB6NzhyUjh5YklQS3EtZDFfOGM4RXJJaUhDN1dMdTNwZ0JBeTlnWDZZUWJUdVdzODBMeEt4S2tiVHZLTHJEZnlHTnU0ZEJVdkVMbm9wUFpVSVN4d2JJaVYwMG9hTzBCVEpwTmtHYUN4SVJRVnpvQ280YU93a2YxZ1VI?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-27T17:11:54+00:00",
+   "title": "Anthropic shares jump after volatile week since IPO",
+   "text": "",
+   "title_th": "หุ้น Anthropic ดีดตัวขึ้นหลังผ่านสัปดาห์แห่งความผันผวนหลัง IPO",
+   "summary_th": "ราคาหุ้นของ Anthropic ปรับตัวสูงขึ้นหลังจากเผชิญกับความผันผวนอย่างหนักในช่วงสัปดาห์แรกๆ หลังจากการเข้าจดทะเบียนในตลาดหลักทรัพย์",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "8010a34667d5",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV2tWSHBkR202ZFh6Nl9DczVvQUM2QlpuTVBxWjJ5Y09tVTZWUmhNM0htMFFKaWU1alJYNGlPNk9ZdS10LUNxeW1mNFoxLWlCVERvVUhOQUNadUROLUFJSEQwTjlfZXk5T2RJSlBOUW9scnJPSDNFNnU0Vy11Rl9CSnJIbEs4RnJJV202eXZUUU5kdXc2UWhxX2tMU1VMck5hZ3hGbEMybklUNUxJTEJ0ZWxYLU1JU1VNTk9VcThvQU9XY1FmSTMzcTlmRTJwaFozREx5eGNkdU54bHlrTXc?oc=5",
+   "source": "TradingKey",
+   "published": "2026-11-27T16:33:57+00:00",
+   "title": "Anthropic Stock Price Forecast: Rewriting Messaging API in Rust Expected to Lower Claude Service Costs, Stock Poised to Rise Further to $94",
+   "text": "",
+   "title_th": "คาดการณ์หุ้น Anthropic พุ่งแตะ 94 ดอลลาร์ หลังปรับปรุง API ด้วย Rust",
+   "summary_th": "มีการคาดการณ์ว่าการเปลี่ยนมาใช้ภาษา Rust ในการเขียน Messaging API จะช่วยลดต้นทุนการให้บริการ Claude และส่งผลบวกต่อราคาหุ้น",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "a31979ba7c31",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZUZ3RGRZb3hVNmswTFNpVmpjTS0wOFBuNngwYmt2ZGN6X1dNYzlKd0R3cEVKQW9VM3YwUjdwUGRwSlJVVWpJTXctaXhBeXpuaU8xMHhJWjJBVlhGTkFhbWd4dGhRd3RJcTBLS2JaWHkyajdNcG9VSnJGVjI4TDhIcDM4RUQ4X1U1R2w4Q2RPWTJqMDUzNTBkOTZoR3EwRVdOVWp4UnJEVy1qMzVDSzVLaDBadVZIWDVhTS1PS0pRWDFLcE5KTjRWMnF3?oc=5",
+   "source": "24/7 Wall St.",
+   "published": "2026-11-27T15:45:00+00:00",
+   "title": "Anthropic Just Hit an $81 Billion Run Rate—Why Wall Street’s Post-IPO Jitters Are a Gift",
+   "text": "",
+   "title_th": "Anthropic ทำรายได้แตะ 8.1 หมื่นล้านดอลลาร์",
+   "summary_th": "Anthropic มีอัตราการทำรายได้ที่แข็งแกร่ง โดยนักวิเคราะห์มองว่าความกังวลของตลาดหลัง IPO เป็นโอกาสที่ดีสำหรับนักลงทุน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "df679618773d",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVmFfTGF5eHZvdUVjczl4Ymdfd1psNzRWMGI1QzBWR0RwWnNwbHctUWVhbGl0aFNIcWtEM3VndWV3clMxamZKRktBZ090Q3JKa3BXMWZrcHZ4clA5clhPOWhGQkpwOE5NSEhtMTlRZ21IelFaMXdyMnZfV3Vsd2RyeFdZeG1MeTkyR05LVnU1R2psVlJreHVHSVV2RXZITHJhVFZIVU91UDlpWG16SmtuVjdpRFZyNGpHamR2SWtwa3hpQzZ1RXdRcEZWbzNkQkxQOFVXUmxn?oc=5",
+   "source": "The Globe and Mail",
+   "published": "2026-11-27T15:25:02+00:00",
+   "title": "Anthropic vs. SpaceX: Which Is the Better Giant IPO Buy?",
+   "text": "",
+   "title_th": "เปรียบเทียบการลงทุนระหว่าง Anthropic และ SpaceX",
+   "summary_th": "บทวิเคราะห์เปรียบเทียบความน่าสนใจในการลงทุนระหว่างบริษัท AI อย่าง Anthropic และบริษัทอวกาศอย่าง SpaceX ในฐานะหุ้น IPO ขนาดใหญ่",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Anthropic",
+    "SpaceX"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "cef58175182a",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQWtrRmpSZWxqX1dqLVhPS3V6NXZac0RwT0xJbDFCa1VxdUx4Wmpaek5FUjNodGNwcGlOeDNMVXNXdnRnTmN0RVZPM2ZFUklEcWZfZ0NramRpekNlMTQwd1ZRcmx6MFRDc3Vad0ZMZlNXZDZSTk1RdmZaR000X3otWWZ0Y3R6T0h0R2NNTkpSeFU1NEc0X1pZ?oc=5",
+   "source": "shattered.io",
+   "published": "2026-11-27T15:10:03+00:00",
+   "title": "OpenAI vs Anthropic AI Limits: 2 Approaches, 0 Verdict",
+   "text": "",
+   "title_th": "เปรียบเทียบขีดจำกัดการใช้งานระหว่าง OpenAI และ Anthropic",
+   "summary_th": "บทวิเคราะห์เปรียบเทียบแนวทางและข้อจำกัดในการใช้งานโมเดล AI ระหว่างสองยักษ์ใหญ่อย่าง OpenAI และ Anthropic",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "OpenAI",
+    "Anthropic"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d12d1e299acd",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvQ0pzSHJnVmpMZ0JHNE1ranM0Z1BzZTQyMWhPR19HUlZqWG5CTmtnQXFpRzd5Mko4WG5mWXhNNzJKeXJPRWRzM1FKcFBaaloteHRUUEJhcHlBak9VM0FXb2F5UnBjTjB3NVRMblB2clZRdDFaX2c?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-27T14:55:00+00:00",
+   "title": "Hunger Strike at Anthropic's Doorstep Enters Day Three as Protester Vows to Hold Out 40 Days",
+   "text": "",
+   "title_th": "การประท้วงอดอาหารหน้าสำนักงาน Anthropic เข้าสู่วันที่สาม",
+   "summary_th": "สถานการณ์การประท้วงหน้าสำนักงาน Anthropic ยังคงดำเนินต่อไป โดยผู้ประท้วงยืนยันจะอดอาหารต่อเนื่องเป็นเวลา 40 วัน",
+   "category": "อื่นๆ",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 2,
+   "ai": true,
+   "also": [
+    {
+     "source": "cwibc.co.id",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBVFdEeHpfVEJVQm1kblp0RFNkS09pcHJrR19vbEM4MUpsemZCY0RWR2RFOGRONVRaVDZiOHoxUThYSjNYenFucEdwbmZlLXQ3Yi02QUlWRl9uUnREbWdJbXAtV3RUZw?oc=5"
+    }
+   ],
+   "dedup": true
+  },
+  {
+   "id": "3066b430429b",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlRzd2NUTTN5R3FIOXo3VDNhX1pfcG9DNUZ0RnRXbDlzZVZoYzZ4d0MtenpPUVZjN0s2dHpYLThQUm1ua2ljQ3Fuak9HN2hYamJVNGdDRTE2andlMHFYbkh0WnpuZEwwMG9vdWh6SndRYm9CTGVSOEJGWXJBTHFNMnE1OGhHWWJhdElRV1NZdkJRYU0yeEg0ZjhIZXFMbDJWWFE2WnZXckYwSXNoMUlsdlpmakI5WWFLS2VF?oc=5",
+   "source": "GuruFocus",
+   "published": "2026-11-27T14:17:50+00:00",
+   "title": "Railtown AI Technologies (RLAIF) Launches AI Model Evaluation To",
+   "text": "",
+   "title_th": "Railtown AI Technologies เปิดตัวฟีเจอร์ประเมินโมเดล AI",
+   "summary_th": "Railtown AI Technologies เปิดตัวเครื่องมือสำหรับการประเมินประสิทธิภาพของโมเดล AI เพื่อช่วยให้การพัฒนาและใช้งาน AI มีความแม่นยำและน่าเชื่อถือมากขึ้น",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Railtown AI Technologies"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "369cb13b39db",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcm95WUVPWWVVTmtmUHMtRVRONF9GOWh1U2FDNHEwNUJ1VUl4ME5kNUF2ZnpNMXFpNTFibDd4dUNlN2h4S1JQT2t4S2djVzJuSE0tUExXWGZGVDBTeVViRVBtQ1E2SmI5a3R2SFF2SkRyTjVnM0MwT0tsYmRzQXJ3c1lJUzJSZw?oc=5",
@@ -795,6 +1037,23 @@
     "Anthropic"
    ],
    "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "d6b51fef844a",
+   "url": "https://www.kimi.ai/news/kimi-for-science-program",
+   "source": "Hacker News",
+   "published": "2026-11-27T12:03:11+00:00",
+   "title": "Kimi for Science: More scientific ideas, made possible",
+   "text": "178 points, 148 comments on Hacker News (https://news.ycombinator.com/item?id=50665920)",
+   "title_th": "Kimi for Science เปิดตัวเครื่องมือช่วยเร่งงานวิจัยทางวิทยาศาสตร์",
+   "summary_th": "Kimi เปิดตัวฟีเจอร์ใหม่ที่มุ่งเน้นการสนับสนุนงานวิจัยทางวิทยาศาสตร์ ช่วยให้นักวิจัยสามารถเข้าถึงไอเดียและข้อมูลเชิงลึกได้ง่ายขึ้นผ่าน AI",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "Kimi"
+   ],
+   "importance": 3,
    "ai": true,
    "dedup": true
   },
@@ -816,6 +1075,21 @@
    "dedup": true
   },
   {
+   "id": "4f426f509098",
+   "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+   "source": "Hacker News",
+   "published": "2026-11-27T11:09:04+00:00",
+   "title": "AI on brink of making online security useless, mathematicians fear",
+   "text": "115 points, 149 comments on Hacker News (https://news.ycombinator.com/item?id=50665488)",
+   "title_th": "นักคณิตศาสตร์กังวล AI อาจทำให้ระบบความปลอดภัยออนไลน์ไร้ผล",
+   "summary_th": "ผู้เชี่ยวชาญด้านคณิตศาสตร์แสดงความกังวลว่าความก้าวหน้าของ AI อาจส่งผลกระทบต่อความปลอดภัยของระบบออนไลน์ในอนาคตอันใกล้",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "edc22f403ceb",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNlFLVnhHS19sQnlSRHpXTG91ZmpIangtNW9xZ0J1cXpVUUM1RHhEQmVRRXpfc0ZVbjBIbDdLUXJ2VVZJZFV2RFUtVTM5ZGZmTXd3enktR1FNR1NwZUVUOFZuaGRkWlg2ZVdYNTdWUWR4RjBCeXlURXhnRW1oNnBLd2NPNkZfbEQ3bDBmZ0hvTTNzdw?oc=5",
    "source": "MIXED News",
@@ -833,6 +1107,23 @@
    "dedup": true
   },
   {
+   "id": "1bde5b404498",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published": "2026-11-27T10:54:15+00:00",
+   "title": "Anthropic says its AI models hacked 3 organizations on their own during tests",
+   "text": "",
+   "title_th": "Anthropic เผยผลทดสอบ AI สามารถแฮกองค์กรได้ด้วยตัวเอง",
+   "summary_th": "Anthropic รายงานผลการทดสอบที่พบว่าโมเดล AI ของบริษัทสามารถดำเนินการแฮกองค์กรภายนอกได้โดยอัตโนมัติระหว่างการทดสอบความปลอดภัย",
+   "category": "งานวิจัย",
+   "companies": [
+    "Anthropic"
+   ],
+   "importance": 5,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "d309c078deb7",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnNFVlhRUUQ1THQ2QW50TkxxbE53V09RRG93LWZoSWpuZzVubEhRdjdWMnluT3JRZ1VGSXd2Q3ZjMVpSSzVZbEJZeHdQR0hkZ1VmYTl6N291WExyT2hhc2RKMkFHVVZZa05vbENtS2paSzlKa1FBZk8xZ0o4ZE1EOW93SFFRdVFtc0JGdFVpRkp1N2I4dmRxb2pHd000dENtUE9NVlp2OA?oc=5",
    "source": "巴士的報",
@@ -843,6 +1134,24 @@
    "summary_th": "ประเทศจีนเปิดตัวโมเดล AI ที่ออกแบบมาเพื่อสนับสนุนภาคเกษตรกรรมโดยเฉพาะ เพื่อช่วยยกระดับการทำงานในสังคมเกษตรกรรม",
    "category": "โมเดลใหม่",
    "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "dd9bf7ee3ae5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnhZR0FkdkxuZlFKZVRwVE4xM0RYZndudXB2N2JfcHNaWVAtU2pBWnBCSU41M1Rfc0FnalFfUDFvNHVmR2JNYkZGMjdidkFZemd0dkRURms1eWpqTjU0VDVkNHJrYm1DTTVMSmE4WWhlS3ZmRndRSERwVlpIcnV5czh3RE9NZGpvem5hT2tpdlFYSzdSTHczcnhIRTEySnN1MDNidFNQdnZtN1RFcmcxaXlMMmxuYlNGMmNLaw?oc=5",
+   "source": "Manufacturing Digital",
+   "published": "2026-11-27T09:55:07+00:00",
+   "title": "How Infor and Anthropic Are Bringing Claude to Manufacturing",
+   "text": "",
+   "title_th": "Infor จับมือ Anthropic นำ Claude มาใช้ในอุตสาหกรรมการผลิต",
+   "summary_th": "Infor ร่วมมือกับ Anthropic เพื่อนำโมเดล Claude มาประยุกต์ใช้ในภาคการผลิต ช่วยเพิ่มประสิทธิภาพการทำงานและกระบวนการทางอุตสาหกรรม",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "Infor",
+    "Anthropic"
+   ],
    "importance": 3,
    "ai": true,
    "dedup": true
@@ -1049,6 +1358,23 @@
    "dedup": true
   },
   {
+   "id": "0b986a20e17e",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nNWp2YW03SG51QldaRlJzVXQ4VXNwME92MnVCWXRkU0VPdTlrbVBjT3dILWNLMDZxMlkwRzFiWXpoeFl6S3JKbVdVVVpKSHdQOGVBZUVTMjdPNTZzNXlLQWZObV8?oc=5",
+   "source": "bangkokbiznews",
+   "published": "2026-11-27T05:00:00+00:00",
+   "title": "SAP จ่อลดงาน '10,000 ตำแหน่ง' ยักษ์ซอฟต์แวร์ปรับโครงสร้างรับยุค AI",
+   "text": "",
+   "title_th": "SAP เตรียมลดพนักงาน 10,000 ตำแหน่ง ปรับโครงสร้างรับยุค AI",
+   "summary_th": "SAP ประกาศแผนปรับโครงสร้างองค์กรครั้งใหญ่โดยการลดพนักงานจำนวนมาก เพื่อมุ่งเน้นการลงทุนและพัฒนาเทคโนโลยี AI เป็นหลัก",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "SAP"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "0a9301cee676",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FSWpodC1OQkxlQzJUNHNVVW1WRmJKTkp2UjFlNll1cE1ISUNXdnZtV1lsRTFKWXQ0RGVDdFpVSjFJajBFRFRCeGY1MUdfSHJDVFJJ?oc=5",
    "source": "36Kr",
@@ -1076,11 +1402,18 @@
    "summary_th": "การทดสอบประสิทธิภาพการสร้างวิดีโอด้วยโมเดล LTX-2.5 บนฮาร์ดแวร์ Trainium3 แสดงให้เห็นถึงความก้าวหน้าในการประมวลผลงานด้านสื่อด้วย AI",
    "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [
-    "Amazon"
+    "Amazon",
+    "AWS"
    ],
    "importance": 3,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "Hugging Face",
+     "url": "https://huggingface.co/blog/video-trainium3"
+    }
+   ]
   },
   {
    "id": "dc76a9db254e",
@@ -1135,6 +1468,25 @@
    "dedup": true
   },
   {
+   "id": "753fb5ce83f1",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnSmtETzNPYlloUXcxX0lqa3JFVmFOdmxkVEV6ZFVTTDROaUFBQnA5Nl9YbVZycTY1cW9JZEtVQjlrTERyeU51M3JXQkJiZGRRYVg5dTdwd2FDeE5xRXNLNmxCSC1ON2QyUjBsdzFOWi1XZjRLdEFralU3Nkd6dw?oc=5",
+   "source": "LINE TODAY",
+   "published": "2026-11-27T03:16:06+00:00",
+   "title": "DBS ชี้สหรัฐฯ คุมส่งออกชิป AI กระทบลงทุนดาต้าเซ็นเตอร์ จับตา GULF-WHA-AMATA-STECON-DELTA | ข่าวหุ้นธุรกิจ",
+   "text": "",
+   "title_th": "DBS ชี้สหรัฐฯ คุมส่งออกชิป AI กระทบการลงทุนดาต้าเซ็นเตอร์ในไทย",
+   "summary_th": "DBS วิเคราะห์ว่านโยบายควบคุมการส่งออกชิป AI ของสหรัฐฯ อาจส่งผลกระทบต่อการลงทุนในโครงการดาต้าเซ็นเตอร์ของบริษัทไทยหลายแห่ง",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "DBS",
+    "GULF",
+    "WHA"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "d15cd3773349",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nRlZtOEhnX2d0alhQWFh6MDVZanFDY1BrTFFlbEVvaHJYZXVTakZOeFpEbnM2QncxTkZ2aktaV0EyeU9BdGZSMVdmeEp2UQ?oc=5",
    "source": "Hoonsmart",
@@ -1185,18 +1537,22 @@
    "dedup": true
   },
   {
-   "id": "2d7f8b4f8454",
-   "url": "https://huggingface.co/blog/video-trainium3",
-   "source": "Hugging Face",
-   "published": "2026-11-27T00:00:00+00:00",
-   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-   "text": "",
-   "title_th": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "id": "c6296f75de1d",
+   "url": "https://www.blognone.com/node/152265",
+   "source": "Blognone",
+   "published": "2026-11-27T01:21:28+00:00",
+   "title": "MiniMax เผยตรวจความปลอดภัยการใช้งานแม้จะซื้อ API จากผู้ให้บริการรายอื่น",
+   "text": "Body ต่อเนื่องจากข่าว ผู้ให้บริการ LLM บน OpenRouter ถูกแฮก อีกกรณีหนึ่งที่เกี่ยวข้องกันคือนักวิจัยพบว่าพรอมต์ที่ส่งไปยังโมเดล MiniMax หลายรายถูกอ่าน ตอนนี้ทาง MiniMax ก็ออกมายอมรับว่าเป็นระบบตรวจสอบความปลอดภัยของบริษัทเอง พรอมต์เหล่านี้ไม่ว่าจะซื้อกับ MiniMax เองหรือซื้อกับผู้ให้บริการรายอื่น เช่น Novita ก็มีโอกาสที่จะถูกส่งต่อกลับไปยัง MiniMax อยู่ดี ระบบตรวจสอบความปลอดภัยภายในของ MiniMax จะดึงเอาหมายเลขไอพีและ URL ต่างๆ มาตรวจสอบความปลอดภัย ส่งผลให้เมื่อนักวิจัยส่ง URL ลับเข้าไปทางพรอมต์ ระบบตรวจจับของ MiniMax ก็จะเปิด",
+   "title_th": "MiniMax ยอมรับระบบตรวจสอบความปลอดภัยดึงข้อมูลพรอมต์ผู้ใช้",
+   "summary_th": "MiniMax ชี้แจงกรณีพรอมต์ของผู้ใช้ถูกอ่าน โดยระบุว่าเป็นส่วนหนึ่งของระบบตรวจสอบความปลอดภัยภายในที่ตรวจสอบข้อมูลแม้จะใช้งานผ่าน API ของผู้ให้บริการรายอื่น",
+   "category": "นโยบาย/กฎหมาย",
+   "companies": [
+    "MiniMax",
+    "Novita"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "e19e59a759d9",
@@ -1462,6 +1818,21 @@
    "companies": [
     "Anthropic"
    ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "505100e6e0df",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XSUh4cDFtN0ZabEE5RlNYdFhnVkJjWmZ5RXpsSHNZYVY5OGNsNFl1Z0dCeEZhR3pZN3lRalRmYV9JQ2NVenhkSkRvTXJfRGhXQ0l6d2Z0UUo1QnRrQkNwTk9aUmxFVDBDOWRqYWJB?oc=5",
+   "source": "Head Topics",
+   "published": "2026-11-26T15:13:00+00:00",
+   "title": "หอการค้าไทยเปิด 2 สถาบันใหม่ AI และ Smart Farming ดันผลิตภาพ SMEs และเกษตรมูลค่าสูง",
+   "text": "",
+   "title_th": "หอการค้าไทยเปิดสถาบัน AI และ Smart Farming หนุน SMEs",
+   "summary_th": "หอการค้าไทยจัดตั้งสถาบันใหม่เพื่อส่งเสริมการใช้ AI และเทคโนโลยีเกษตรอัจฉริยะ เพื่อยกระดับผลิตภาพของ SMEs และภาคการเกษตรไทย",
+   "category": "อื่นๆ",
+   "companies": [],
    "importance": 2,
    "ai": true,
    "dedup": true
@@ -18661,446 +19032,6 @@
     "Anthropic"
    ],
    "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2bc265d529c4",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YWTVIaHFBZGp2SnNxSDM2TEU1YUdzZGZ1Zk5DUUtWTVJPTDFmZno5b0hKX0ZKZkJ3SU5EV212c0RXV0V6U3k1endpYUR3ZWJwR1ZDNDJILXJ2em1MWjdFQXdDaDdEenFj?oc=5",
-   "source": "The New Stack",
-   "published": "2026-11-13T21:34:24+00:00",
-   "title": "Anthropic now lets you self-host Claude Managed Agents. The catch? 8 hours to act if it flags a safety risk",
-   "text": "",
-   "title_th": "Anthropic เปิดให้ใช้งาน Claude Managed Agents แบบ Self-host",
-   "summary_th": "Anthropic เปิดตัวฟีเจอร์ให้ผู้ใช้สามารถโฮสต์ Claude Managed Agents ได้เอง แต่มีเงื่อนไขด้านความปลอดภัยที่ต้องดำเนินการภายในเวลาที่กำหนดหากระบบตรวจพบความเสี่ยง",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "278b3958a503",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2dobnU4dWpPTF9Ud25NR0ZFa1JfeUQ4bU94MUFjdVJmeXE3TUExd3NVYUFNWHpnNkNkeW1qNXE4S3FSWmNUUElPNFRPSUJSNFYxczFRcW5sbzUyOWZ3cUYyOU5tS0ZqQnhySDU5OE5ZM3BwLVBNVzlPT0hUM3dXU1BMWUR5VDl3Z1ZlV1pjbEV1TjRaZEM2WkwzZGVocE9KZjQ3b2tnQksxTVYzMHdwLWpB?oc=5",
-   "source": "Animation Magazine",
-   "published": "2026-11-13T20:25:38+00:00",
-   "title": "เทศกาลแอนิเมชั่นแมนเชสเตอร์ประกาศรายชื่อผู้ชนะประจำปี 2026 และนโยบายด้านปัญญาประดิษฐ์ (AI) ใหม่",
-   "text": "",
-   "title_th": "เทศกาลแอนิเมชั่นแมนเชสเตอร์ประกาศนโยบายการใช้ AI ใหม่",
-   "summary_th": "เทศกาลแอนิเมชั่นแมนเชสเตอร์ได้ประกาศนโยบายใหม่ที่เกี่ยวข้องกับการใช้ปัญญาประดิษฐ์ในการประกวดแอนิเมชั่นประจำปี 2026 เพื่อกำหนดแนวทางและมาตรฐานในการส่งผลงานเข้าแข่งขัน",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "9a54c0f466e5",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UcXpxbkFEU2NnQk84UW1ZT2JVUkdQVlBQakNGWXRaVHpsalNnaGRpSGVSV21aMkdId3RpVHJHT21ldDdKM0xSMlFXRGxWdE9ld3RQMzM4NEltbjlkUWJJY08teGRUajk2OXZnVXlVdDdaa3BJcmlYRl9TaHh1RFk?oc=5",
-   "source": "Barron's",
-   "published": "2026-11-13T19:53:00+00:00",
-   "title": "Anthropic Is the AI Leader But It Faces Many Challengers",
-   "text": "",
-   "title_th": "Anthropic ในฐานะผู้นำด้าน AI ท่ามกลางการแข่งขันที่ดุเดือด",
-   "summary_th": "บทวิเคราะห์สถานะของ Anthropic ในตลาด AI ที่กำลังเผชิญกับการแข่งขันที่เข้มข้นจากคู่แข่งรายอื่นๆ ในอุตสาหกรรม",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "bab1fcc2784e",
-   "url": "https://www.slopmanifesto.com/",
-   "source": "Hacker News",
-   "published": "2026-11-13T19:51:56+00:00",
-   "title": "No AI Slop: A Manifesto",
-   "text": "219 points, 131 comments on Hacker News (https://news.ycombinator.com/item?id=50488769)",
-   "title_th": "No AI Slop: แถลงการณ์ต่อต้านเนื้อหาที่สร้างจาก AI ไร้คุณภาพ",
-   "summary_th": "การเผยแพร่แถลงการณ์ No AI Slop ซึ่งเป็นการแสดงจุดยืนต่อต้านการผลิตเนื้อหาจำนวนมากที่สร้างจาก AI โดยขาดคุณภาพและคุณค่าทางความคิด",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "38741df50e34",
-   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-13T19:37:57+00:00",
-   "title": "AI agent startup LangChain hits $3B valuation",
-   "text": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-   "title_th": "LangChain สตาร์ทอัพด้าน AI Agent ระดมทุนจนมีมูลค่าบริษัทแตะ 3 พันล้านดอลลาร์",
-   "summary_th": "LangChain ประสบความสำเร็จในการระดมทุนจนมีมูลค่าบริษัทสูงถึง 3 พันล้านดอลลาร์ โดยปัจจุบันมีลูกค้าใช้งาน LangSmith มากถึง 7,000 ราย",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "LangChain"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "18188c8ad3a8",
-   "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-   "source": "Hacker News",
-   "published": "2026-11-13T19:24:47+00:00",
-   "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-   "text": "146 points, 26 comments on Hacker News (https://news.ycombinator.com/item?id=50488464)",
-   "title_th": "Perplexity Decider v1.3: การฝึกฝน การประเมิน และกรณีการใช้งาน",
-   "summary_th": "มีการเผยแพร่ข้อมูลเกี่ยวกับ Perplexity Decider v1.3 ซึ่งครอบคลุมรายละเอียดด้านการฝึกฝนโมเดล การประเมินผล และแนวทางการนำไปใช้งาน",
-   "category": "งานวิจัย",
-   "companies": [
-    "Perplexity"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "7a978e8677d3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-13T19:23:54+00:00",
-   "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
-   "text": "hey llamas, its Alish from nace.ai (open source ai lab behind #1 decision model on latest Artificial Analysis decision index v2.1) & Kapitsa (optimized inference for apple silicon). As promised in the last post , we are releasing the GGUF weights based on the Nace quantization of Qwen 9B, 27B, 35B and Flash-Next. I will describe our process on how we came up with these quants right below, so skip to the end to see the benchmarks and download the weights if it gets too dull. The process I started with 9B quants. I understood that setting up a good & fair benching is critical to succeed with the",
-   "title_th": "เทคนิค Weight Space Programming ช่วยเพิ่มประสิทธิภาพการ Quantization โมเดล Qwen",
-   "summary_th": "มีการเผยแพร่เทคนิคการทำ Quantization รูปแบบใหม่ที่ช่วยลดค่า KL divergence ได้ดีขึ้นถึง 2 เท่า สำหรับโมเดลตระกูล Qwen และ Flash Next ในรูปแบบ GGUF",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "f17748102e2c",
-   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-13T18:40:30+00:00",
-   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-   "text": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-   "title_th": "วิจัยเผยโมเดล AI ชั้นนำของจีนใช้ชิป Nvidia ที่ถูกแบน",
-   "summary_th": "งานวิจัยใหม่ระบุว่าโมเดล AI ขั้นสูงของจีนถูกฝึกฝนโดยใช้ชิป Nvidia ที่อยู่ในรายการห้ามส่งออกของสหรัฐฯ",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Nvidia"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "d6cecee14f8b",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
-   "source": "Anthropic",
-   "published": "2026-11-13T18:06:18+00:00",
-   "title": "Building strong safety evaluations",
-   "text": "",
-   "title_th": "Anthropic เผยแนวทางการสร้างระบบประเมินความปลอดภัยที่แข็งแกร่ง",
-   "summary_th": "Anthropic นำเสนอแนวทางและหลักการในการพัฒนาการประเมินความปลอดภัยสำหรับโมเดล AI เพื่อให้มั่นใจว่าระบบมีความน่าเชื่อถือและลดความเสี่ยงจากการใช้งานในรูปแบบต่างๆ",
-   "category": "งานวิจัย",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "2427bacb74a9",
-   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-   "source": "Hugging Face",
-   "published": "2026-11-13T18:00:39+00:00",
-   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-   "text": "",
-   "title_th": "สร้างแบบจำลองหุ่นยนต์หยิบจับสิ่งของด้วย SimReady Assets",
-   "summary_th": "Hugging Face นำเสนอแนวทางการสร้างแบบจำลองการทำงานของหุ่นยนต์ในสภาพแวดล้อมจำลองโดยใช้ SimReady Assets",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Hugging Face"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "febb0600aeb4",
-   "url": "https://openrouter.ai/inclusionai/ling-3.2-flash",
-   "source": "OpenRouter (โมเดลใหม่)",
-   "published": "2026-11-13T17:45:58+00:00",
-   "title": "New model on OpenRouter: inclusionAI: Ling 3.2 Flash",
-   "text": "Ling 3.2 Flash is a hybrid reasoning model from inclusionAI that accepts text and image input, with a 1M-token context window and up to 200 images per request. Thinking can... (context 1,048,576 tokens)",
-   "title_th": "เปิดตัวโมเดลใหม่บน OpenRouter: inclusionAI Ling 3.2 Flash",
-   "summary_th": "Ling 3.2 Flash เป็นโมเดลประเภท Hybrid Reasoning จาก inclusionAI ที่รองรับทั้งข้อความและรูปภาพ พร้อม Context Window ขนาดใหญ่",
-   "category": "โมเดลใหม่",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e940fd987572",
-   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-   "source": "Hacker News",
-   "published": "2026-11-13T17:30:10+00:00",
-   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-   "text": "259 points, 76 comments on Hacker News (https://news.ycombinator.com/item?id=50486748)",
-   "title_th": "AI ช่วยถอดรหัสสมุดบันทึกของ Gödel พบทฤษฎีบทที่พิสูจน์แล้วหลายร้อยรายการ",
-   "summary_th": "มีการนำ AI มาใช้ในการวิเคราะห์และถอดรหัสสมุดบันทึกของ Gödel ซึ่งพบว่ามีทฤษฎีบททางคณิตศาสตร์ที่ได้รับการพิสูจน์แล้วจำนวนมากซ่อนอยู่",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "8400bdfe1e2a",
-   "url": "https://huggingface.co/blog/allenai/xybench",
-   "source": "Hugging Face",
-   "published": "2026-11-13T17:02:35+00:00",
-   "title": "XYBench: Helping with the problem behind the question",
-   "text": "",
-   "title_th": "XYBench เครื่องมือช่วยวิเคราะห์ปัญหาเบื้องหลังคำถาม",
-   "summary_th": "Hugging Face แนะนำ XYBench ซึ่งเป็นเครื่องมือที่ออกแบบมาเพื่อช่วยทำความเข้าใจและแก้ไขปัญหาที่ซ่อนอยู่ภายใต้คำถามของผู้ใช้งาน",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Hugging Face"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "21dcb86b730a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-13T16:31:47+00:00",
-   "title": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
-   "text": "Hi, I've just updated the SWE-sweep leaderboard with more open-weight models! DeepSeek v4.1 flash (max) is the first open-weight model we evaluated that gets >1%. This benchmark is extremely challenging: Models get a snapshot of a (potentially very large) repo containing hundreds of bugs. They don't receive any hint about what these bugs are and need to fix them all. This makes for a very reasoning-heavy, long-horizon task. To isolate just the model capabilities we also evaluate all models in the same harness (but we did do some comparisons with Claude Code and Codex harnesses and neither seem",
-   "title_th": "DeepSeek Flash Max เป็นโมเดล Open-weight รุ่นแรกที่ทำคะแนนเกิน 1% ใน SWE-sweep",
-   "summary_th": "DeepSeek v4.1 Flash (max) สร้างสถิติเป็นโมเดล Open-weight ตัวแรกที่ทำคะแนนได้มากกว่า 1% ในการทดสอบแก้บั๊กซอฟต์แวร์ที่ซับซ้อนและต้องใช้การใช้เหตุผลสูง",
-   "category": "งานวิจัย",
-   "companies": [
-    "DeepSeek"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "71ca71a0ccf4",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
-   "source": "The New York Times",
-   "published": "2026-11-13T16:11:41+00:00",
-   "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
-   "text": "",
-   "title_th": "เหตุผลที่ Dario Amodei แห่ง Anthropic สร้างความไม่พอใจให้ OpenAI และคู่แข่ง",
-   "summary_th": "รายงานเกี่ยวกับความขัดแย้งและมุมมองที่แตกต่างระหว่างผู้นำของ Anthropic กับบริษัท AI ชั้นนำอื่นๆ ในอุตสาหกรรม",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Anthropic",
-    "OpenAI"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "a65a3bfb3b5b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-13T16:00:36+00:00",
-   "title": "Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding",
-   "text": "I made this, so a quick note: it’s my open-source project. Qwen3.5-9B runs on a stock PS4 at 31–39 tok/s. The MTP head that ships with Qwen3.5 made the biggest difference: it drafts up to two tokens and the full model checks them in one pass, which took it from 22 to 31–39 tok/s on this old GPU. Weights are re-packed into custom 4- and 3-bit formats to fit about 4.5 GiB. Your old PS4 can now run a 9B AI, offline, on its own GPU. It talks, listens, and writes code. No cloud, no subscription, no Linux. Free and open source. Code: https://github.com/leonardo-alegria/garlic-llm Direct download lin",
-   "title_th": "นักพัฒนาพอร์ต Qwen3.5-9B ให้รันบน GPU ของ PS4 ได้สำเร็จ",
-   "summary_th": "มีการพัฒนาโปรเจกต์โอเพนซอร์สที่ทำให้สามารถรันโมเดล Qwen3.5-9B บนเครื่องเกมคอนโซล PS4 แบบออฟไลน์ได้ โดยใช้เทคนิคการบีบอัดข้อมูลและ MTP head ช่วยเพิ่มความเร็วในการประมวลผล",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "56623f1d9c94",
-   "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-13T15:58:00+00:00",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "text": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "title_th": "Jensen Huang ลาออกจาก Nvidia ท่ามกลางข่าวอื้อฉาว",
-   "summary_th": "Jensen Huang ได้ลาออกจากตำแหน่งที่ Nvidia หลังจากมีข่าวเรื่องความสัมพันธ์ส่วนตัว ซึ่งอาจส่งผลกระทบต่อความมั่นคงของชาติและการแข่งขันด้านโครงสร้างพื้นฐาน AI ระหว่างสหรัฐฯ และจีน",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "Nvidia"
-   ],
-   "importance": 5,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "The Verge AI",
-     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
-    },
-    {
-     "source": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-    },
-    {
-     "source": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
-    },
-    {
-     "source": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-    },
-    {
-     "source": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
-    }
-   ]
-  },
-  {
-   "id": "ace7cac706df",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-13T15:56:37+00:00",
-   "title": "e-means: 10x faster k-means at equal loss",
-   "text": "submitted by /u/techmago [link] [comments]",
-   "title_th": "e-means อัลกอริทึมใหม่ช่วยเร่งความเร็ว k-means ได้ 10 เท่า",
-   "summary_th": "มีการนำเสนออัลกอริทึม e-means ซึ่งสามารถประมวลผล k-means ได้เร็วขึ้นถึง 10 เท่าโดยที่ยังคงระดับความแม่นยำหรือค่า Loss เท่าเดิม",
-   "category": "งานวิจัย",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "eb9a0c4d6ca2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-13T15:49:27+00:00",
-   "title": "Look what my son gave me!",
-   "text": "I told my son I was playing around with local AI on a 3090. He told me he used to mine Ethereum and had a shed full of 3090's. He asked me if I wanted a couple. Ummm... let me think about it... OH YES I DO! Now a few new fans and a bit of a clean-up... grab a couple risers and a power supply... pop in a bit more RAM.. wow. https://preview.redd.it/6jtwj6ufhe1i1.png?width=1075&format=png&auto=webp&s=86500ed00010400ebad0529f653612c3ecc62729 Edit: There is some completely understandable skepticism about this story... ya I wouldn't believe it either. But how about a couple more pics and a solid dos",
-   "title_th": "ประสบการณ์การอัปเกรดคอมพิวเตอร์เพื่อรัน Local AI ด้วยการ์ดจอ 3090",
-   "summary_th": "ผู้ใช้งานแบ่งปันประสบการณ์การได้รับบริจาคการ์ดจอ 3090 จำนวนมากเพื่อนำมาใช้ในการพัฒนาและรันโมเดล AI ภายในเครื่องส่วนตัว",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 1,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "5f1afeeb96c0",
-   "url": "https://text.npr.org/nx-s1-6029408",
-   "source": "Hacker News",
-   "published": "2026-11-13T15:29:10+00:00",
-   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-   "text": "196 points, 196 comments on Hacker News (https://news.ycombinator.com/item?id=50484960)",
-   "title_th": "ทำไม Google ถึงตัดการเข้าถึง Search ในโรงเรียนที่ไม่มี AI?",
-   "summary_th": "เกิดข้อถกเถียงบน Hacker News เกี่ยวกับเหตุผลที่ Google จำกัดการเข้าถึงบริการ Search ในโรงเรียนที่ประกาศตัวว่าไม่ใช้ AI โดยมีการวิเคราะห์ถึงทฤษฎีต่างๆ ที่เป็นไปได้",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Google"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "6c0afd0ee319",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-13T15:21:10+00:00",
-   "title": "CXMT almost tripling RAM production from 2025 to 2028",
-   "text": "According to post CXMT projected expansion plans grow from 405 kwpm in 2025 to 1,125 kwpm by 2028 in 8-inch equivalents. https://preview.redd.it/4zifixg4de1i1.png?width=1055&format=png&auto=webp&s=ef4cea6e31aeb4c907101d751cf936021a30d0fd https://x.com/OptionKing666/status/2121227756185010181 With this and new nVidia chief being conservative on circular financing we might get some DRAM relief. submitted by /u/Terminator857 [link] [comments]",
-   "title_th": "CXMT เตรียมขยายกำลังการผลิต RAM เพิ่มขึ้นสามเท่าในช่วงปี 2025-2028",
-   "summary_th": "แผนการขยายฐานการผลิตของ CXMT คาดว่าจะช่วยบรรเทาปัญหาการขาดแคลน DRAM ในตลาดได้ในอนาคต",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "CXMT"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "4f5b4ce8cb48",
-   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-   "source": "Hacker News",
-   "published": "2026-11-13T15:08:44+00:00",
-   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-   "text": "389 points, 546 comments on Hacker News (https://news.ycombinator.com/item?id=50484658)",
-   "title_th": "Jonathan Blow ตั้งคำถามถึงผลกระทบของ AI ต่อการพัฒนาซอฟต์แวร์",
-   "summary_th": "Jonathan Blow นำเสนอประเด็นวิพากษ์วิจารณ์ว่าหาก AI สามารถเขียนโค้ดได้จริง เหตุใดซอฟต์แวร์ในปัจจุบันจึงยังไม่มีการเปลี่ยนแปลงเชิงโครงสร้างที่ชัดเจน",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "5bf4951adbe9",
-   "url": "https://openai.com/index/introducing-chatgpt-wallet",
-   "source": "OpenAI",
-   "published": "2026-11-13T15:00:00+00:00",
-   "title": "Introducing ChatGPT Wallet",
-   "text": ", a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-   "title_th": "OpenAI เปิดตัว ChatGPT Wallet สำหรับการทำธุรกรรมที่ปลอดภัย",
-   "summary_th": "OpenAI แนะนำ ChatGPT Wallet เพื่อเป็นช่องทางให้ AI Agent ในระบบ ChatGPT Work และ Codex สามารถทำรายการซื้อสินค้าได้อย่างปลอดภัยภายใต้การอนุมัติของผู้ใช้",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "OpenAI"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
-    },
-    {
-     "source": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
-    }
-   ]
-  },
-  {
-   "id": "025a6c711bf8",
-   "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-13T14:44:48+00:00",
-   "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-   "text": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-   "title_th": "ElevenLabs เปิดตัวแอปใหม่ช่วยจดบันทึกการประชุมและถอดความสำหรับทีม",
-   "summary_th": "ElevenLabs เปิดตัวแอปพลิเคชันใหม่ที่เน้นการจดบันทึกการประชุมและฟีเจอร์การถอดความเสียงสำหรับกลุ่มผู้ใช้งานระดับทีมและองค์กร เพื่อช่วยเพิ่มประสิทธิภาพในการทำงานร่วมกัน",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "ElevenLabs"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "40e78db6601d",
-   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-   "source": "Hugging Face",
-   "published": "2026-11-13T14:05:22+00:00",
-   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-   "text": "",
-   "title_th": "llama.cpp v1.0.0: รากฐานที่แข็งแกร่งสำหรับระบบนิเวศ Local AI",
-   "summary_th": "การเปิดตัว llama.cpp เวอร์ชัน 1.0.0 ถือเป็นก้าวสำคัญในการพัฒนาเครื่องมือสำหรับรันโมเดล AI บนอุปกรณ์ส่วนตัวให้มีความเสถียรและรองรับการใช้งานที่หลากหลายมากขึ้น",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Hugging Face"
-   ],
-   "importance": 4,
    "ai": true,
    "dedup": true
   }

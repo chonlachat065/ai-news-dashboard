@@ -1,48 +1,54 @@
 {
  "version": 3,
- "updated_at": "2026-11-26T21:28:49+00:00",
+ "updated_at": "2026-11-27T04:14:20+00:00",
  "model": "gemini-3.1-flash-lite",
  "digest": {
-  "generated_at": "2026-11-26T21:28:49+00:00",
-  "headline": "ความเคลื่อนไหวสำคัญในวงการ AI วันนี้ครอบคลุมตั้งแต่มาตรการควบคุมการส่งออกชิปของ Nvidia ไปจนถึงการอัปเดตฟีเจอร์ใหม่ของ Claude และความก้าวหน้าด้านงานวิจัย AI",
+  "generated_at": "2026-11-27T04:14:20+00:00",
+  "headline": "ความเคลื่อนไหวสำคัญในวงการ AI วันนี้ครอบคลุมตั้งแต่มาตรการควบคุมการส่งออกชิปของสหรัฐฯ ที่กระทบไทยและอาเซียน ไปจนถึงนวัตกรรมโมเดล AI ใหม่ๆ และการพัฒนาประสิทธิภาพโครงสร้างพื้นฐาน",
   "points": [
    {
-    "text": "Nvidia สั่งระงับการจัดส่งชิป AI ไปยังไทยและกลุ่มประเทศอาเซียนตามมาตรการควบคุมการส่งออกของสหรัฐฯ เพื่อป้องกันการนำไปใช้ในศูนย์ข้อมูลของจีน ขณะที่ S&P พิจารณาปรับลดอันดับเครดิต Nvidia จากความเสี่ยงด้านธรรมาภิบาล",
+    "text": "Nvidia สั่งระงับการจัดส่งชิป AI ไปยังไทยและกลุ่มประเทศอาเซียนตามมาตรการควบคุมการส่งออกของสหรัฐฯ เพื่อป้องกันการนำไปใช้ในศูนย์ข้อมูลที่สนับสนุนบริษัท AI ของจีน",
     "ids": [
      "c881f1e71110",
      "190a2510e71e",
-     "f27e0de9d097"
+     "67bf3b762a23"
     ]
    },
    {
-    "text": "Anthropic เดินหน้าอัปเดตระบบนิเวศ Claude อย่างต่อเนื่อง ทั้งการเปิดตัว Plugin Store, การเพิ่มความสามารถด้าน Coding Agent บน GitHub, การย้าย API ไปใช้ภาษา Rust เพื่อลดการใช้ CPU และการขยายการทดสอบ Claude Duet ในญี่ปุ่น",
+    "text": "Anthropic มีความเคลื่อนไหวหลายด้าน ทั้งการอัปเดตความสามารถของ Claude ในการเขียนและรีวิวโค้ดผ่าน GitHub และ MCP Servers, การย้าย API ไปใช้ภาษา Rust ที่ช่วยลดการใช้ CPU ได้ถึง 70%, รวมถึงการขยายการทดสอบ Claude Duet ในญี่ปุ่น",
     "ids": [
-     "a090a4e34591",
      "837236537e00",
      "c0eecc2954d7",
      "795a299e76fc",
+     "b85c8e69d140",
      "f6b0ae0a8ebb",
      "4b4df4f6c13c",
-     "294c95346632",
-     "b85c8e69d140"
+     "294c95346632"
     ]
    },
    {
-    "text": "OpenAI ค้นพบวิธีคูณเมตริกซ์ที่มีประสิทธิภาพสูงขึ้นซึ่งอาจช่วยลดเวลาประมวลผล Deep Learning ขณะที่ธุรกิจไทยยังมีการนำ AI มาใช้เพิ่มผลิตภาพในระดับต่ำเพียง 12% เท่านั้น",
+    "text": "มีการเปิดตัวโมเดล AI เฉพาะทางและโมเดลใหม่ๆ อย่างต่อเนื่อง เช่น LingSante 3.1 Air VL สำหรับงานการแพทย์, หุ่นยนต์ขุดดิน AI จาก Zoomlion, โมเดลภาษา Chariot-1 ของอินเดีย และ WorldGPT จาก XPENG",
+    "ids": [
+     "a5b0655a8277",
+     "4491635bc1f3",
+     "9c8cd0b24b1f",
+     "1a6f33ce6a70",
+     "3ead94264616",
+     "b7e5279a292b",
+     "5f54e740c548"
+    ]
+   },
+   {
+    "text": "OpenAI ค้นพบวิธีคูณเมตริกซ์ที่มีประสิทธิภาพสูงขึ้นซึ่งอาจช่วยลดเวลาประมวลผล Deep Learning ขณะที่ประเด็นด้านจริยธรรมและกฎหมายยังคงเข้มข้น โดยอัยการสหรัฐฯ คัดค้านการขายข้อมูลแชทของ Character.AI",
     "ids": [
      "de6127479f99",
-     "aaed76bb41dd"
+     "c0f2de19f056"
     ]
    },
    {
-    "text": "ประเด็นด้านจริยธรรมและกฎหมาย AI ยังคงเข้มข้น โดยอัยการ 42 รัฐในสหรัฐฯ คัดค้านการขายข้อมูลแชทของ Character.AI ในขณะที่บริษัทเทคโนโลยีทั่วโลกยังคงเปิดตัวโมเดลเฉพาะทางและหุ่นยนต์ AI อย่างต่อเนื่อง",
+    "text": "ภาคธุรกิจไทยถูกกระตุ้นให้เร่งปรับตัวและอัปสกิลพนักงานเพื่อเพิ่มผลิตภาพด้วย AI หลังพบว่าปัจจุบันมีการนำมาใช้จริงเพียง 12%",
     "ids": [
-     "c0f2de19f056",
-     "a5b0655a8277",
-     "9c8cd0b24b1f",
-     "5f54e740c548",
-     "1a6f33ce6a70",
-     "3ead94264616"
+     "aaed76bb41dd"
     ]
    }
   ]
@@ -159,7 +165,7 @@
   {
    "name": "ข่าว AI ไทย (Google News)",
    "ok": true,
-   "count": 4,
+   "count": 6,
    "error": null
   }
  ],
@@ -756,9 +762,116 @@
   "2f36443e3eb4",
   "45dff6158003",
   "39126f8faf41",
-  "acb3eb6fa5dc"
+  "acb3eb6fa5dc",
+  "45a0437a726c",
+  "50c84b63699a",
+  "f796c1a833f1",
+  "42d75ad7e741",
+  "27478554d0ee",
+  "8caa2e2eed74"
  ],
  "items": [
+  {
+   "id": "b7e5279a292b",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1S21iMkpzalBmX3Y4NDZTdWE4YnpPeU1COXJsZW54V0VHT18xVE5KWTJzamVxWHZTZi1XaW80eUlHbFF3N3dCcTdn?oc=5",
+   "source": "YugaTech",
+   "published": "2026-11-27T01:51:19+00:00",
+   "title": "XPENG unveils WorldGPT, an AI model that powers cars, robots and drones",
+   "text": "",
+   "title_th": "XPENG เปิดตัว WorldGPT โมเดล AI สำหรับขับเคลื่อนรถยนต์ หุ่นยนต์ และโดรน",
+   "summary_th": "XPENG เผยโฉม WorldGPT ซึ่งเป็นโมเดล AI ที่ออกแบบมาเพื่อใช้งานในระบบขับเคลื่อนอัตโนมัติสำหรับรถยนต์ หุ่นยนต์ และโดรน เพื่อยกระดับความสามารถในการประมวลผล",
+   "category": "ผลิตภัณฑ์/ฟีเจอร์",
+   "companies": [
+    "XPENG"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "618f4506cf34",
+   "url": "https://www.blognone.com/node/152266",
+   "source": "Blognone",
+   "published": "2026-11-27T01:43:50+00:00",
+   "title": "Shinji Mikami ผู้สร้าง Resident Evil บอกบางครั้งก็อยากให้ AI หายไปจากโลก",
+   "text": "Body Shinji Mikami บิดาผู้ให้กำเนิดซีรีส์ Resident Evil (ลาออกจาก Capcom ปี 2006, ปัจจุบัน เปิดสตูดิโอ Unbound ซึ่งถูกซื้อโดย Shift Up ) ไปขึ้นเวทีของ Shift Up ในเกาหลีใต้ และแสดงความเห็นในประเด็นร้อนคือ AI กับการพัฒนาเกม Mikami ยอมรับว่า บางครั้ง เขาอยากให้ AI หายไปหมดจากโลกนี้เลย แต่ในอีกด้าน เขาก็เข้าใจว่าการใช้ AI ช่วยให้เกมมีคุณภาพสูงขึ้นโดยใช้งบประมาณเท่าเดิม และตอนนี้เขากำลังทดลองการใช้ AI รูปแบบต่างๆ Mikami ย้ำเกมเมอร์ไม่ได้ตัดสินใจเลือกเล่นเกมไหน จากปัจจัยว่าเกมนั้นมี \"ประสิทธิภาพ\" (efficiency) และ \"ผลิตภาพ\" (pro",
+   "title_th": "Shinji Mikami ผู้สร้าง Resident Evil เผยความรู้สึกต่อบทบาทของ AI ในอุตสาหกรรมเกม",
+   "summary_th": "Shinji Mikami แสดงความเห็นว่าบางครั้งเขาก็อยากให้ AI หายไปจากโลก แต่ในขณะเดียวกันก็ยอมรับว่า AI ช่วยเพิ่มประสิทธิภาพในการพัฒนาเกมได้ โดยเขากำลังทดลองใช้ AI ในรูปแบบต่างๆ อยู่",
+   "category": "อื่นๆ",
+   "companies": [
+    "Capcom",
+    "Shift Up"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e19e59a759d9",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2NRcm8xS3Nud2xXOVV1SWljMlJOT2VoY2JoU25TM0I4Q3l1TEpvQ2hjWmE1YmktQ0FGemg2X3VEalVDLWxOcS1FU2pCMmlaZlA5eTFXbmc4QU9ZekZNSGdSY0h1TEdlLUhEWnNMRDBYbzJSMVdaYzl4Wm5Jak4tUXZGMEs3b196V1FYdHdPZkt5MmMwajFXRzdtLWVpUUNEUFhWLU5aNEJIb25oWldWeGtJeGlNQms?oc=5",
+   "source": "TechGig",
+   "published": "2026-11-26T23:53:47+00:00",
+   "title": "Chariot AI unveils 11 bn parameter LLM, speech models under IndiaAI Mission",
+   "text": "",
+   "title_th": "Chariot AI เปิดตัว LLM ขนาด 11 พันล้านพารามิเตอร์ภายใต้โครงการ IndiaAI Mission",
+   "summary_th": "Chariot AI ได้เปิดตัวโมเดลภาษาขนาดใหญ่ (LLM) และโมเดลด้านเสียงภายใต้การสนับสนุนของโครงการ IndiaAI Mission เพื่อพัฒนาขีดความสามารถด้าน AI ของประเทศ",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Chariot AI"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "64c0f06140d9",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUDFPbWRIYVkyc2tWOEFpbW9tTTNOME9JLU5nRnBibVF4Yko3QXRuYVU2OHZzN1UzdDljSk9jMkNhaU1GQ1RhMXBPSVRodHlQWVRyWlJuMFBSLXg5T0Z4dnVCQTJYbXF1Z3F0amhhcFlQYUFibnRONG5Va0l5RG5uVDRQLXduWmRZV1ZaU1JPVWJVeEViOGFQNDJodDY?oc=5",
+   "source": "Breakingviews",
+   "published": "2026-11-26T22:00:23+00:00",
+   "title": "The curious case of the AI dog that hasn’t barked",
+   "text": "",
+   "title_th": "บทวิเคราะห์กรณีศึกษาของ AI ที่ยังไม่สร้างผลกระทบอย่างที่คาดหวัง",
+   "summary_th": "บทวิเคราะห์เกี่ยวกับสถานการณ์ของ AI ในปัจจุบันที่ยังไม่ได้สร้างการเปลี่ยนแปลงหรือผลลัพธ์ที่ชัดเจนตามที่หลายฝ่ายคาดการณ์ไว้",
+   "category": "อื่นๆ",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "7b56024d6fee",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0FKWlltSXhpMTdpTnRja2JXb3VyWlBnVG9ITFA3YnRiN0lYMzYwNE1vMmF0WEZzLTJyM09jMnVoZks4alExa09oUTA5ZnZLYzl4UllpZjBiWHFuazQ4WkFhUGw1SC1nRGNRQUpoZ25sUFMzQ25EckVCSWZCdWJMVmhfR0s0dlBxSUZwYjdyVUUzN1ppbzBDLWw2eEszQUE0NWNKZ0hicF9oVzlmaXFVXzNtR1FVdlBmalNIOU4xZDRLUXp5bFQ0MnZYdWFwR3lRWWF1LUhDTQ?oc=5",
+   "source": "Nikkei Asia",
+   "published": "2026-11-26T21:51:00+00:00",
+   "title": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
+   "text": "",
+   "title_th": "JERA ของญี่ปุ่นเตรียมสร้างดาต้าเซ็นเตอร์สำหรับ Anthropic และ Meta ใกล้โรงไฟฟ้า",
+   "summary_th": "บริษัท JERA ในญี่ปุ่นมีแผนสร้างดาต้าเซ็นเตอร์เพื่อรองรับการใช้งานของ Anthropic และ Meta โดยตั้งอยู่ใกล้กับโรงไฟฟ้าเพื่อจัดการด้านพลังงาน",
+   "category": "ธุรกิจ/การลงทุน",
+   "companies": [
+    "JERA",
+    "Anthropic",
+    "Meta"
+   ],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "19dd4641586d",
+   "url": "https://janlukas.blog/posts/ai-self-hosting",
+   "source": "Hacker News",
+   "published": "2026-11-26T21:47:45+00:00",
+   "title": "AI made self-hosting fun again",
+   "text": "420 points, 227 comments on Hacker News (https://news.ycombinator.com/item?id=50660180)",
+   "title_th": "กระแสการนำ AI มาช่วยให้การทำ Self-hosting กลับมาน่าสนใจอีกครั้ง",
+   "summary_th": "มีการพูดถึงในชุมชนนักพัฒนาว่า AI ช่วยให้การจัดการระบบ Self-hosting กลายเป็นเรื่องที่สนุกและง่ายขึ้นกว่าเดิม",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
   {
    "id": "837236537e00",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemtuRGp4cDNhNVQxdnlfbjlNajlKb2NnZnpiSmF6Z2hCX1E1YnJvZlRLUnVWNzIwakpKVUMwVlJBSmgwZDRJZTgyM0dUNVBIdjYxNnR2UWhlb0laVkJtODB1cjVEQ3NZaGxZbFB3bFpoNTFGUTQ4Y3c0blVpMDdqYW5QVHVDclh5ZmVfVkZBbEFMMXg4UlozNw?oc=5",
@@ -907,6 +1020,21 @@
    "title_th": "ติดตามความคืบหน้าการรักษาโรคด้วย AI",
    "summary_th": "มีการรวบรวมข้อมูลและติดตามผลลัพธ์การนำเทคโนโลยี AI มาใช้ในการรักษาโรคต่างๆ ซึ่งเป็นประเด็นที่ได้รับความสนใจในชุมชนเทคโนโลยี",
    "category": "งานวิจัย",
+   "companies": [],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "e88183f14038",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQUFLZF9VVm9ucjJtVXBmaWgydFZHTFUtN3BBSi1ETDFVa0tCdnM4TWpGa3ZKblp5c0ZxT3JiT3FNZjhwZTZEdEpVMEFiX20yRDVQQzAxT1NmUlByNVR1MVphZ1U1cEdVU3lYWUZWWWcwcVBMdTZEaW9QSXBZVzJmSFZ2WnpWZlE?oc=5",
+   "source": "shattered.io",
+   "published": "2026-11-26T16:34:59+00:00",
+   "title": "Claude Code vs Codex: $8/$40 vs $2/$10 per Million Tokens",
+   "text": "",
+   "title_th": "เปรียบเทียบราคา Claude Code และ Codex ต่อล้านโทเค็น",
+   "summary_th": "การเปรียบเทียบต้นทุนการใช้งานระหว่าง Claude Code และ Codex โดยแสดงราคาต่อล้านโทเค็นเพื่อให้เห็นความแตกต่างของค่าใช้จ่าย",
+   "category": "เครื่องมือ/โอเพนซอร์ส",
    "companies": [],
    "importance": 2,
    "ai": true,
@@ -1263,11 +1391,22 @@
    "companies": [
     "NVIDIA",
     "Dell",
-    "Supermicro"
+    "Supermicro",
+    "Nvidia"
    ],
    "importance": 5,
    "ai": true,
-   "dedup": true
+   "dedup": true,
+   "also": [
+    {
+     "source": "LINE TODAY",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55WFhhd2ctVkloalBwX2s5TmtOR2J2NUdPaFNYSUltTVY1UWtFX1FxLTYxM1VHRkM1MUVtTzlXb0Rxb2xjN2RXOUZ1SFdHVjhTb2pzMVVR?oc=5"
+    },
+    {
+     "source": "LINE TODAY",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jX05zeXhZQ0xmUlJFa3dsZWd4NzVYZzRwRUhNVWs1VVR4Uy1UdzBET0YzRmV1Q1VUaW1HT1JTU2Faem1BYkJnZ1BIelNZVGJjVVFxM2dR?oc=5"
+    }
+   ]
   },
   {
    "id": "67bf3b762a23",
@@ -1334,6 +1473,10 @@
     {
      "source": "The Times of India",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY2wwZ0U1LUJQaFJ0ZHl0V2Jnd3JoTFk5WTA0ZkRkRl95Zjc2YlNTZmU4WFVJQ2RrakRjTl91dXlDMFF1NHBMQkRqSk5pTnZvM2VqN0xDXzBvZ2dDbndrOFpwel9LZm1aR1huT2pvSjhLNDlDOWJncFExelIydXM0b1MwVng1R1A3bk1GQjBSbDVMQkZyRk00TnU5dXo1UGp3MXdCbHlZekxEWVo5QzBYMG12WnVWQ2xaczZsc2hXMVBJM0ZhYWxINWh2Wm92TnAyaHh4azJkRmtUdzhoNXBuTlZWN2xfcnFxMEhqRNIB8gFBVV95cUxQWkxoaXBsWHJXQ1ROMEY2cGtyZE5SbGgzcUVpZm9kbHZZZU5ZYmUtV1dEWHc0Y3hlcnhtS3BRNUFEV2lFT1ZkQ0o5QXZsVnlWdU9kaWxHaHhRWTBSN3NyVVZtMkREUE1KdDNkSmR6WklpeWhBWVJvMGdqd0xnR2w3TUNETTFXZjdQN0ZsMDhfR0wwQTNNTnowbmVHNHpOVEhMVkVhRS1ObERfamdPYUpGWWlSOTFBY1dvdndfQWxLT3oxYkI2OURsOFRha2ZTTC1CUmFUV2Z6YXNKdDAtajYwTTM2NGxSa296SnQ1WG5uWHZzUQ?oc=5"
+    },
+    {
+     "source": "News Karnataka",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2FDTHRaZmhPTEgxUlkzMUs1dTdyLUtqcVo3OWlEN1kzbFJSN2hRNGxGT2s3RUpDRDY0X25fTWw4Vkw5UkphN0ZqWE1NUnJBS0JVMmppN2F4RW16VGJCRzcxZlJVN2RGOVY5ZUI3OEg0NVpHM3RUZm9OaUpsMFZNdGlyRkY5ZThobXUxSW0zSUEwOFQ5c015RGFn?oc=5"
     }
    ]
   },
@@ -1610,12 +1753,15 @@
    "published": "2026-11-26T01:25:36+00:00",
    "title": "Soma AI model: Amini opens free 2bn-parameter document AI",
    "text": "",
-   "title_th": "Soma AI model: Amini opens free 2bn-parameter document AI",
-   "summary_th": "",
-   "category": "อื่นๆ",
-   "companies": [],
-   "importance": 0,
-   "ai": false
+   "title_th": "Amini เปิดตัว Soma AI โมเดลประมวลผลเอกสารขนาด 2 พันล้านพารามิเตอร์ให้ใช้งานฟรี",
+   "summary_th": "Amini ได้เปิดตัว Soma AI ซึ่งเป็นโมเดลขนาด 2 พันล้านพารามิเตอร์ที่เน้นการประมวลผลเอกสาร โดยเปิดให้ใช้งานได้ฟรี",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Amini"
+   ],
+   "importance": 2,
+   "ai": true,
+   "dedup": true
   },
   {
    "id": "7e08f76a47bc",
@@ -2080,6 +2226,23 @@
    "dedup": true
   },
   {
+   "id": "d2712156750a",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZlNkMWNvLVAzZW81Um1Gd0I5clAyOW5kb2t3SWVDekxlcTZpSlQ0Si1ZVVgxWHUxdldyTmVET203WUoxMVFRRUJuUjZJMVpRSkUtTTlxWlRoWHdIRVFoZ01Sb0tVNWpYaGdOYkljekltZW5mUFo1UHJOd2d6UHhTbDk2MG55TGZNeGZ2Y25aZ0hZZw?oc=5",
+   "source": "DD News",
+   "published": "2026-11-25T19:09:47+00:00",
+   "title": "Meta unveils first AI model from costly superintelligence team",
+   "text": "",
+   "title_th": "Meta เปิดตัวโมเดล AI ตัวแรกจากทีมพัฒนา Superintelligence",
+   "summary_th": "Meta ได้เปิดตัวโมเดล AI รุ่นใหม่ที่เป็นผลงานจากทีมพัฒนาด้าน Superintelligence ที่บริษัทลงทุนไปอย่างมหาศาล",
+   "category": "โมเดลใหม่",
+   "companies": [
+    "Meta"
+   ],
+   "importance": 4,
+   "ai": true,
+   "dedup": true
+  },
+  {
    "id": "37b5c9ba9326",
    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
    "source": "Hugging Face",
@@ -2510,23 +2673,6 @@
    "dedup": true
   },
   {
-   "id": "42d75ad7e741",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vT3Jjd1VFYnhxOFlPNU1hLWpwRDVTNFdic0tFU2lPLUxCT3pIYWM5QVhmQXBxQk5zMUpRUzQxMnpOY3lLS0xDSXVfYm12R1pDQk5JX0JWcElTbzFi?oc=5",
-   "source": "게임메카",
-   "published": "2026-11-25T06:31:23+00:00",
-   "title": "Krafton officially unveils in-house LLM Raon-1 mini",
-   "text": "",
-   "title_th": "Krafton เปิดตัว Raon-1 mini โมเดลภาษาขนาดเล็กที่พัฒนาเอง",
-   "summary_th": "Krafton บริษัทเกมยักษ์ใหญ่เปิดตัว Raon-1 mini ซึ่งเป็นโมเดลภาษาขนาดใหญ่ (LLM) ที่พัฒนาขึ้นภายในองค์กร เพื่อนำมาประยุกต์ใช้ในงานด้านต่างๆ ของบริษัท",
-   "category": "โมเดลใหม่",
-   "companies": [
-    "Krafton"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
    "id": "b7ea9705339e",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGJfOHp0Tzh4MHZtMktVV1pKZ3FxLWdHdFl4VXk4dXZ5RWJUNHpjbXA4WWF0MGx4SnpneWlCVWFHYWVuZmo1UkVTLWczTFpsMmRNcDdkMTZ5aHdMZlZKSi1Fd055dTJPNWRwRXdMdFc2bkpwdWM3WnFoWUs0RENGZGxvdHpZdzlYSFhoR01DRmF5SHRwWXk1cUFxVnNWdTJNWm4teDIzQzJIbjZTbFdBSlcya0QxY1Zocktfcm5B?oc=5",
    "source": "디지털투데이",
@@ -2603,6 +2749,14 @@
     {
      "source": "BigGo Finance",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Db1NCUTIzZXVNU3BqOEpOdzNiRWRyV2lWVy1DUFpwRjBFYlAyNjk2a1MzYUE5RWp2cXVNa0RDS2VVRGY2NmRMNHRHZGpfdzVfZ3dSNGV3dDNyQ3MzLU9nWkRpRE9QbHlyRmxKU1dtaU9TTFQ5OFE?oc=5"
+    },
+    {
+     "source": "게임메카",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vT3Jjd1VFYnhxOFlPNU1hLWpwRDVTNFdic0tFU2lPLUxCT3pIYWM5QVhmQXBxQk5zMUpRUzQxMnpOY3lLS0xDSXVfYm12R1pDQk5JX0JWcElTbzFi?oc=5"
+    },
+    {
+     "source": "THE ELEC, Korea Electronics Industry Media",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aQXM3ZjBabE9DaV9nTFFjeVNma2hac3BrTmJCZVU0XzFMOHVWelR1bzc3bEpuRGZXb0I1RzN6UnltVTFXemhrWlBaWmZIOU5WUXlmY21HWU9Wa0h5NXdLOUtvWWVFSTQ?oc=5"
     }
    ],
    "dedup": true
@@ -3242,6 +3396,81 @@
    "text": "A growing body of recent work addresses the retargeting of human hand-object demonstrations to robotic hands. To train whole-robot policies, however, the retargeted motions must be kinematically feasible and physically executable, and be produced efficiently at scale. We present DexEngine, a simulation pipeline that turns human manipulation data into train-ready, physically executable arm-hand trajectories. DexEngine first places each clip's hand-object motion where the arms can reach it, finds an arm motion that follows the human hands, and then corrects the motion in physics simulation with ",
    "title_th": "DexEngine ระบบแปลงข้อมูลการเคลื่อนไหวของมนุษย์สู่หุ่นยนต์",
    "summary_th": "DexEngine เป็นระบบจำลองที่เปลี่ยนข้อมูลการเคลื่อนไหวของมือมนุษย์ให้กลายเป็นวิถีการเคลื่อนที่ของแขนและมือหุ่นยนต์ที่สามารถนำไปใช้งานจริงได้ ช่วยให้การฝึกหุ่นยนต์ทำได้รวดเร็วขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ec4696bbb02f",
+   "url": "https://huggingface.co/papers/2611.34051",
+   "source": "HF Daily Papers",
+   "published": "2026-11-24T19:00:00+00:00",
+   "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+   "text": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffers from training failures during long-context training. We trace these failures to the asymmetry between reading and modification directions during erasure, which yields non-normal erase operators whose directional gains accumulate across tokens, triggering exponential state growth even without new w",
+   "title_th": "Stable Gated DeltaNet-2: การแก้ไขปัญหาความไม่เสถียรของสถานะในโมเดล",
+   "summary_th": "งานวิจัยนำเสนอ Gated DeltaNet-2 เพื่อปรับปรุงการควบคุมสถานะในโมเดลภาษา แต่พบปัญหาความไม่เสถียรระหว่างการฝึกฝนในบริบทที่ยาว ซึ่งงานวิจัยนี้มุ่งเน้นการวิเคราะห์และแก้ไขปัญหาดังกล่าว",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "4342d45f5c91",
+   "url": "https://huggingface.co/papers/2611.34457",
+   "source": "HF Daily Papers",
+   "published": "2026-11-24T19:00:00+00:00",
+   "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
+   "text": "Recent video generators produce realistic videos, yet controlling how scenes unfold remains challenging. Structural proxies, such as animated 3D blockouts, guide generation by specifying scene layout, motion, camera behavior, and event order. However, these coarse inputs leave details unspecified and may contain artifacts that should not be reproduced. Successful proxy-guided generation must therefore Preserve intended structure, Complete missing content and correct proxy artifacts, and Bind text, image, and audio conditions to the right entities and events. We introduce ProxyGenBench to study",
+   "title_th": "ProxyGenBench: เกณฑ์มาตรฐานใหม่สำหรับการสร้างวิดีโอด้วย Proxy-Guided",
+   "summary_th": "งานวิจัยนำเสนอ ProxyGenBench เพื่อประเมินการสร้างวิดีโอที่ใช้โครงสร้าง 3D เป็นตัวนำทาง โดยเน้นการรักษาโครงสร้างที่ต้องการพร้อมกับการเติมเต็มรายละเอียดที่ขาดหายไปและแก้ไขข้อผิดพลาดจากตัว Proxy เอง",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "ea247b47b521",
+   "url": "https://huggingface.co/papers/2611.34232",
+   "source": "HF Daily Papers",
+   "published": "2026-11-24T19:00:00+00:00",
+   "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+   "text": "Computer-using agents are increasingly expected to complete realistic user goals rather than isolated GUI actions. However, existing benchmarks typically isolate web, mobile, or desktop environments, leaving it unclear whether a single generalist agent can execute long-horizon workflows that span multiple operating systems and persistent application states. We introduce OS-Omni, a live cross-platform benchmark and execution environment for evaluating computer-using agents across Windows, Ubuntu, macOS, iOS, Android, and Web environments. OS-Omni is released in versioned waves of 300 tasks each",
+   "title_th": "OS-Omni: เกณฑ์มาตรฐานสำหรับ AI Agent ที่ทำงานข้ามแพลตฟอร์ม",
+   "summary_th": "OS-Omni เป็นสภาพแวดล้อมและเกณฑ์มาตรฐานใหม่ที่ออกแบบมาเพื่อทดสอบความสามารถของ AI Agent ในการทำงานที่ซับซ้อนและต่อเนื่องข้ามระบบปฏิบัติการ Windows และ Ubuntu เพื่อประเมินความเป็น Generalist Agent อย่างแท้จริง",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "2a158353075b",
+   "url": "https://huggingface.co/papers/2611.28732",
+   "source": "HF Daily Papers",
+   "published": "2026-11-24T19:00:00+00:00",
+   "title": "Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts",
+   "text": "In-context learning (ICL) enables foundation models to perform unseen tasks from context without parameter updates. In robotic manipulation, a human video provides the context that specifies how a task should be performed. However, scaling human-video ICL on world-action models (WAMs) faces two challenges: task-level human-robot pairs are not temporally aligned with robot actions, and standard action losses allow policies to rely on initial-scene or task-identity shortcuts rather than tracking the context. We present Entangle, an in-context world-action model that maps a single human video and",
+   "title_th": "Entangle: การขยายขีดความสามารถโมเดลหุ่นยนต์ด้วย In-Context Learning จากวิดีโอ",
+   "summary_th": "งานวิจัยนำเสนอ Entangle เพื่อแก้ปัญหาการเรียนรู้ของโมเดลหุ่นยนต์ผ่านวิดีโอของมนุษย์ โดยมุ่งเน้นการจัดการกับความไม่สอดคล้องกันของเวลาและการลดการพึ่งพาทางลัดในการตัดสินใจ เพื่อให้หุ่นยนต์ทำงานที่ไม่เคยเห็นมาก่อนได้ดีขึ้น",
+   "category": "งานวิจัย",
+   "companies": [],
+   "importance": 3,
+   "ai": true,
+   "dedup": true
+  },
+  {
+   "id": "f7df6e6b8267",
+   "url": "https://huggingface.co/papers/2611.34852",
+   "source": "HF Daily Papers",
+   "published": "2026-11-24T19:00:00+00:00",
+   "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+   "text": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how deeply it explores them. We introduce DRBench Pro, a benchmark that makes structured knowledge coverage the primary evaluation target. Our automated pipeline builds local knowledge trees from Wikipedia and uses sampled subgraphs to generate research queries and evidence-grounded rubrics. Each rubric c",
+   "title_th": "DRBench Pro: เกณฑ์มาตรฐานใหม่สำหรับ Deep Research Agents",
+   "summary_th": "DRBench Pro ถูกพัฒนาขึ้นเพื่อประเมินความสามารถของ AI ในการทำวิจัยเชิงลึก โดยเน้นไปที่การวัดความครอบคลุมและความลึกขององค์ความรู้ในรายงานที่ AI สร้างขึ้นจากแหล่งข้อมูลที่หลากหลาย",
    "category": "งานวิจัย",
    "companies": [],
    "importance": 3,
@@ -18661,165 +18890,6 @@
     "OpenAI"
    ],
    "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "12a0960c94bd",
-   "url": "https://www.blognone.com/node/152161",
-   "source": "Blognone",
-   "published": "2026-11-13T04:00:56+00:00",
-   "title": "จากเขียนโค้ดด้วย AI สู่การสร้าง Agent-Native Architecture เจาะลึกเนื้อหา Deep Tech จากงาน LINE THAILAND DEVELOPER CONFERENCE 2026",
-   "text": "Body งาน LINE THAILAND DEVELOPER CONFERENCE 2026 ภายใต้ธีม Build the Next Frontier จัดขึ้นเมื่อวันเสาร์ที่ 17 ตุลาคม 2026 ที่ไบเทค บางนา มีการเล่าเรื่องถึงการนำ Agentic AI มาเติมความรู้ให้นักพัฒนา และผู้สนใจในเรื่องดังกล่าวจนสามารถนำไปต่อยอดในอาชีพ และสร้างโอกาสธุรกิจใหม่ได้อย่างมีประสิทธิภาพ แต่ที่มากกว่าแค่ข้อมูลภาพรวม Agentic AI และการประยุกต์ใช้ ภายในงานยังมีแทร็ก Deep Tech ที่เจาะลึกเนื้อหาการนำ Agentic AI ไปใช้อย่างเข้มข้น ผ่านผู้เชี่ยวชาญ และกรณีศึกษาที่ใช้กั",
-   "title_th": "เจาะลึก Agentic AI และสถาปัตยกรรมยุคใหม่ในงาน LINE Thailand Developer Conference 2026",
-   "summary_th": "งานประชุมนักพัฒนาของ LINE เน้นย้ำเรื่องการนำ Agentic AI มาประยุกต์ใช้เพื่อสร้างโอกาสทางธุรกิจและพัฒนาทักษะนักพัฒนาผ่านเนื้อหาเชิงลึกด้าน Deep Tech",
-   "category": "อื่นๆ",
-   "companies": [
-    "LINE"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "65824ac1d66f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxbeb/a100_prices_down_2030_since_my_post_about_them/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-13T03:31:32+00:00",
-   "title": "A100 prices down 20-30% since my post about them collapsing",
-   "text": "I guess a lot of sellers are realizing that its better to price competitively and get rid of their supply rather than wait to slowly sell and potentially get caught in a collapse. Rubin and blackwell are already 3-4x more efficient per watt with way more financing available. The A100s cant be used for inference Besides enthusiasts, small time gpu renters I really dont see who will be picking up these cards. And these 2 buyers are extremely price sensitive and will be comparing the cards to other options like R9700 and Cresent Island from Intel with 160-480gb vram. Rtx 6000 is also now down to ",
-   "title_th": "ราคา GPU รุ่น A100 ปรับตัวลดลง 20-30%",
-   "summary_th": "ราคาของ GPU รุ่น A100 ในตลาดมือสองปรับตัวลดลงอย่างต่อเนื่อง เนื่องจากประสิทธิภาพต่อวัตต์ที่ต่ำกว่าชิปรุ่นใหม่ และความต้องการที่เปลี่ยนไปสู่เทคโนโลยีที่ทันสมัยกว่า",
-   "category": "ธุรกิจ/การลงทุน",
-   "companies": [
-    "NVIDIA"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "1309e3f1c689",
-   "url": "https://www.blognone.com/node/152166",
-   "source": "Blognone",
-   "published": "2026-11-13T02:26:29+00:00",
-   "title": "ซัมซุงเปิดตัวแว่นตาติดกล้อง Intelligent Eyewear ใช้ Android XR เริ่ม 395 ดอลลาร์",
-   "text": "Body ซัมซุงประกาศวางขายแว่นตา Android XR ที่ร่วมพัฒนากับกูเกิล และแบรนด์แว่นตา Gentle Monster และ Warby Parker ในวันที่ 10 ธันวาคม 2026 เริ่มจากสหรัฐอเมริกาและเกาหลีใต้ แว่นตาเซ็ตนี้มีชื่อเรียกว่า Intelligent Eyewear เป็นแว่นกระจกใส-แว่นกันแดดที่ไม่มีหน้าจอ ตัวแว่นมีกล้อง 12MP ลำโพง และไมโครโฟน ให้เราสั่งงานด้วยเสียงผ่าน Gemini, ใช้ชิป Snapdragon AR1 Gen 1, แว่นหนักประมาณ 41 กรัม, แบตเตอรี่ใช้งานได้สูงสุด 9 ชั่วโมง มีเคสสำหรับชาร์จแว่นมาให้ รวมกันได้ 72 ชั่วโมง ที่ต้องเรียกว่า \"เซ็ต\" เพราะแว่นไม่ได้มีรุ่นเดียว แต่",
-   "title_th": "ซัมซุงเปิดตัวแว่นตาอัจฉริยะ Intelligent Eyewear รองรับ Gemini",
-   "summary_th": "ซัมซุงเปิดตัวแว่นตา Android XR ที่พัฒนาร่วมกับกูเกิล โดยเน้นการสั่งงานด้วยเสียงผ่าน Gemini และใช้ชิปประมวลผลสำหรับ AR โดยเฉพาะ",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Samsung",
-    "Google"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "cd9d1a105b69",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-   "source": "The Verge AI",
-   "published": "2026-11-13T00:23:32+00:00",
-   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-   "text": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
-   "title_th": "Claude Duet: AI Agent สำหรับผู้บริโภคที่น่าสนใจและใช้งานได้จริง",
-   "summary_th": "Anthropic เปิดตัว Claude Duet ซึ่งเป็น AI agent สำหรับผู้ใช้งานทั่วไปที่ออกแบบมาเพื่อช่วยจัดการงานต่างๆ โดยเน้นความสามารถในการช่วยเหลือผู้ใช้ที่ไม่ใช่โปรแกรมเมอร์",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Anthropic"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "f980cc1f1e21",
-   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-   "source": "Hacker News",
-   "published": "2026-11-12T23:06:17+00:00",
-   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-   "text": "276 points, 79 comments on Hacker News (https://news.ycombinator.com/item?id=50475713)",
-   "title_th": "Edge0-145B โมเดล AI ประสิทธิภาพสูงที่รันบนคอมพิวเตอร์ส่วนตัวได้",
-   "summary_th": "มีการเปิดตัวโมเดล Edge0-145B ซึ่งเป็นโมเดล AI ขนาดใหญ่ที่มีความสามารถระดับแนวหน้า โดยถูกออกแบบมาให้สามารถใช้งานได้บนเครื่องคอมพิวเตอร์ส่วนบุคคล",
-   "category": "โมเดลใหม่",
-   "companies": [],
-   "importance": 4,
-   "ai": true,
-   "dedup": true,
-   "also": [
-    {
-     "source": "Hugging Face (โมเดลมาแรง)",
-     "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4"
-    }
-   ]
-  },
-  {
-   "id": "9f0b516152c1",
-   "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-   "source": "Simon Willison",
-   "published": "2026-11-12T22:55:19+00:00",
-   "title": "llm-gemini 0.37",
-   "text": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Argon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Hydrogen $1.50 $0.075 $7.50 Carbon and Argon are the same price , and both are schedule",
-   "title_th": "อัปเดต llm-gemini 0.37 พร้อมข้อมูลราคา Gemini 4",
-   "summary_th": "มีการปล่อยอัปเดต llm-gemini 0.37 พร้อมข้อมูลโครงสร้างราคาของโมเดลตระกูล Gemini 4 ซึ่งรวมถึงรุ่นใหม่อย่าง Hydrogen, Carbon และ Argon",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "Google"
-   ],
-   "importance": 3,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "e2170665df25",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xur9ud/used_datacenterworkstation_gpu_prices_on_ebay/",
-   "source": "r/LocalLLaMA",
-   "published": "2026-11-12T22:49:43+00:00",
-   "title": "Used datacenter/workstation GPU prices on eBay this week, ranked by $/GB of VRAM",
-   "text": "edit: I am a moron with reddit formatting hang tight I've been tracking ebay listings that ship to the US for the GPUs people here actually buy, ranked by $/GB of VRAM. here's today's snapshot: Card Low end US-only low end Low-end $/GB Bandwidth $ per GB/s Tesla P100 16GB $174 $159 $10.88 732 GB/s $0.24 Tesla P40 24GB $280 - (7 US) $11.67 346 GB/s $0.81 Tesla V100 16GB (mostly SXM2) $220 $238 $13.75 900 GB/s $0.24 Instinct MI50 16GB $268 - (3 US) $16.75 1,024 GB/s $0.26 Instinct MI50 32GB $702 - (2 US) $21.93 1,024 GB/s $0.69 Tesla V100 32GB $949 $807 $29.66 900 GB/s $1.05 Quadro RTX 8000 48GB",
-   "title_th": "สรุปราคา GPU มือสองสำหรับงาน Data Center บน eBay",
-   "summary_th": "ข้อมูลการเปรียบเทียบราคา GPU มือสองที่นิยมใช้ในงาน AI โดยจัดอันดับตามความคุ้มค่าของราคาต่อหน่วยความจำ VRAM เพื่อเป็นแนวทางสำหรับผู้ที่สนใจสร้างระบบ AI ภายในเครื่อง",
-   "category": "เครื่องมือ/โอเพนซอร์ส",
-   "companies": [
-    "NVIDIA",
-    "AMD"
-   ],
-   "importance": 2,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "4e2810e47ea3",
-   "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-12T22:42:51+00:00",
-   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-   "text": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-   "title_th": "สภาสหรัฐฯ เริ่มสอบสวน Nvidia ปมความสัมพันธ์กับ Trump",
-   "summary_th": "สภาคองเกรสเปิดการสอบสวน Nvidia รอบใหม่เกี่ยวกับยอดขายในจีนและข้อตกลงกับ Trump ท่ามกลางประเด็นข่าวอื้อฉาวที่เกิดขึ้น",
-   "category": "นโยบาย/กฎหมาย",
-   "companies": [
-    "Nvidia"
-   ],
-   "importance": 4,
-   "ai": true,
-   "dedup": true
-  },
-  {
-   "id": "82d9be95873a",
-   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-   "source": "TechCrunch AI",
-   "published": "2026-11-12T22:22:28+00:00",
-   "title": "Muse can now place calls to US businesses — if you pay",
-   "text": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-   "title_th": "Muse เพิ่มฟีเจอร์ AI โทรหาธุรกิจในสหรัฐฯ แบบมีค่าใช้จ่าย",
-   "summary_th": "Muse อัปเดตฟีเจอร์ให้ AI สามารถโทรออกไปยังธุรกิจต่างๆ ในสหรัฐอเมริกาได้ โดยเป็นบริการที่ผู้ใช้งานต้องเสียค่าใช้จ่ายเพิ่มเติม",
-   "category": "ผลิตภัณฑ์/ฟีเจอร์",
-   "companies": [
-    "Muse"
-   ],
-   "importance": 2,
    "ai": true,
    "dedup": true
   }
